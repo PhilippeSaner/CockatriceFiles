@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>ARD</name>
+<longname></longname>
+<settype></settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Gate Sentinel</name>
+ <set rarity="common">ARD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Vampire Knight </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>As long as its not your turn, Gate Sentinel has lifelink.</text>
+</card>
+<card>
+ <name>Eternal Lover</name>
+ <set rarity="common">ARD</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Noble </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>As an additional cost to cast Eternal Lover reveal a Vampire card from your hand or pay 3.
+When Eternal Lover enters the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Sire</name>
+ <set rarity="common">ARD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create a 1/1 white Vampire creature token with lifelink.
+Until end of turn if you would gain life, gain that much life plus 1 instead.</text>
+</card>
+<card>
+ <name>Warden of Sacred Shores</name>
+ <set rarity="common">ARD</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Warden of Sacred Shores enters the battlefield, if it was cast, counter target spell.</text>
+</card>
+<card>
+ <name>Mental Invasion</name>
+ <set rarity="common">ARD</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at each players hand.
+Draw a card.</text>
+</card>
+<card>
+ <name>Competitive Advances</name>
+ <set rarity="common">ARD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card.
+At the beginning of the next upkeep if you have more cards in your hand than the player whose turn it is, draw 2 cards.</text>
+</card>
+<card>
+ <name>Drinker of Miseries</name>
+ <set rarity="common">ARD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Vampire Minion </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever Drinker of Miseries becomes tapped, each opponent loses 1 life and you gain that much life.</text>
+</card>
+<card>
+ <name>Vampiric Brood</name>
+ <set rarity="common">ARD</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Vampire Citizen </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast if you control a Vampire.</text>
+</card>
+<card>
+ <name>Moment of Craving</name>
+ <set rarity="common">ARD</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -2/-2 until end of turn. You gain 2 life.</text>
+</card>
+<card>
+ <name>Blood Brother</name>
+ <set rarity="common">ARD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Vampire Berserker </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Cannibalize — Whenever one or more creatures you control die for the first time each turn, target opponent loses 1 life and you gain 1 life.</text>
+</card>
+<card>
+ <name>Child of Bloodlust</name>
+ <set rarity="common">ARD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Berserker </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Cannibalize — Whenever one or more creatures you control die for the first time each turn, put a +1/+1 counter on Child of Bloodlust.</text>
+</card>
+<card>
+ <name>Horde Warfare</name>
+ <set rarity="common">ARD</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Horde Warfare deals 2 damage to two target creatures an opponent controls and one target creature you control.</text>
+</card>
+<card>
+ <name>Bloodlust</name>
+ <set rarity="common">ARD</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Bloodlust deals 1 damage to target creature. That creature attacks or blocks this turn if able.</text>
+</card>
+<card>
+ <name>Rise and Fall</name>
+ <set rarity="common">ARD</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create three 1/1 red Vampire Berserker tokens with haste. Sacrifice them at the beginning of your next end step.</text>
+</card>
+<card>
+ <name>Sole Survivor</name>
+ <set rarity="common">ARD</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Vampire Survivor </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch, Trample</text>
+</card>
+<card>
+ <name>Cojocar Huntress</name>
+ <set rarity="common">ARD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Survivor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Cojocar Huntress deals combat damage, add one mana of any color. You don’t lose this mana as steps and phases end.</text>
+</card>
+<card>
+ <name>Sluggish Consumer</name>
+ <set rarity="common">ARD</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Slug </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Hunt — Whenever a creature dealt damage by this creature this turn dies, you may destroy target enchantment or artifact. If you don’t, gain 2 life.</text>
+</card>
+<card>
+ <name>Rabid Bite</name>
+ <set rarity="common">ARD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control deals damage equal to its power to target creature you don’t control.</text>
+</card>
+<card>
+ <name>Sewer Monster</name>
+ <set rarity="uncommon">ARD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Tentacle Horror </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you draw your second card each turn, create a 1/1 blue Human Tentacle creature token.</text>
+</card>
+<card>
+ <name>Gamekeeper Vampire</name>
+ <set rarity="uncommon">ARD</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Scout </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>As long as its your turn, Vampires you control have lifelink.</text>
+</card>
+<card>
+ <name>Horde Captain</name>
+ <set rarity="uncommon">ARD</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Berserker </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Cannibalize — Whenever one or more creatures you control die for the first time each turn, draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>Artist of Blood</name>
+ <set rarity="uncommon">ARD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Noble </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Artist of Blood or another creature dies, Artist of Blood deals 1 damage to target player.</text>
+</card>
+<card>
+ <name>horrific experiment name</name>
+ <set rarity="uncommon">ARD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Horror </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you draw your second card each turn put two +1/+1 counters on horrific experiment name.</text>
+</card>
+<card>
+ <name>snake name</name>
+ <set rarity="uncommon">ARD</set>
+ <color>G</color>
+ <manacost>GG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Snake </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Hunt — Whenever a creature dealt damage by snake name this turn dies, put X +1/+1 counters on snake name where X is the creatures power.</text>
+</card>
+<card>
+ <name>Silas defense name</name>
+ <set rarity="uncommon">ARD</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Horror </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you draw your second card each turn, Silas defense name gets +4/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Hunters to Hunted</name>
+ <set rarity="uncommon">ARD</set>
+ <color>UB</color>
+ <manacost>UB</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature has base toughness 0 until end of turn.</text>
+</card>
+<card>
+ <name>Legion Lieutenant</name>
+ <set rarity="uncommon">ARD</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Other Vampires you control get +1/+1.</text>
+</card>
+<card>
+ <name>Broodmother Bear</name>
+ <set rarity="uncommon">ARD</set>
+ <color>RG</color>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Bear </type>
+ <pt>5/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Hunt — Whenever a creature dealt damage by this creature this turn dies, create a 2/2 red and green Vampire Bear token.</text>
+</card>
+<card>
+ <name>Preemptive Dismissal</name>
+ <set rarity="uncommon">ARD</set>
+ <color>WU</color>
+ <manacost>WU</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>The next time one or more creatures would enter the battlefield, exile them instead.</text>
+</card>
+<card>
+ <name>flash cleric name</name>
+ <set rarity="uncommon">ARD</set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Vampire Cleric </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When flash cleric name enters the battlefield, exile target spell or creature.
+When flash cleric name leaves the battlefield, return the exiled card to its owner’s hand.</text>
+</card>
+<card>
+ <name>Silas' Command</name>
+ <set rarity="uncommon">ARD</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose two — 
+• Draw a card.
+• Put a +1/+1 counter on target creature.
+• Counter target activated or triggered ability.</text>
+</card>
+<card>
+ <name>Tome of The Old Ways</name>
+ <set rarity="uncommon">ARD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T: Draw a card.</text>
+</card>
+<card>
+ <name>Unlucky Number</name>
+ <set rarity="rare">ARD</set>
+ <color>W</color>
+ <manacost>XW</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Unlucky Number enters the battlefield with X charge counters on it.
+Opponents can’t cast spells with a mana value equal to the number of counters on Unlucky Number.</text>
+</card>
+<card>
+ <name>Quick Appetizer</name>
+ <set rarity="rare">ARD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Serf </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Vampire you control attacks, you may pay 1 life, if you do it gets +1/+0 until end of turn.
+When Quick Appetizer dies, gain life equal to the number of Vampires you control.</text>
+</card>
+<card>
+ <name>Wurm of Endless Night</name>
+ <set rarity="rare">ARD</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Vampire Wurm </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Wurm of Endless Night enters the battlefield or attacks, choose two  nonenchantment permanents an opponent controls and put raze counters on them.
+Hunt — Whenever a creature dealt damage by this creature this turn dies, destroy target permanent with a raze counter on at random.</text>
+</card>
+<card>
+ <name>Shifting Radge</name>
+ <set rarity="rare">ARD</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Beast </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Shifting Radge can’t block.
+Hunt — Whenever a creature dealt damage by Shifting Radge this turn dies, Shifting Radge fights target creature an opponent controls.</text>
+</card>
+<card>
+ <name>crab thing</name>
+ <set rarity="rare">ARD</set>
+ <color>UG</color>
+ <manacost>G/U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Crab Horror </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+crab thing can’t attack or block unless you’ve draw two or more cards this turn.</text>
+</card>
+<card>
+ <name>Battles of Ardelean</name>
+ <set rarity="rare">ARD</set>
+ <color>WB</color>
+ <manacost>3W/BW/B</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one -
+Destroy all Vampire creatures.
+Destroy all non-Vampire creatures.</text>
+</card>
+<card>
+ <name>Endless Ranks</name>
+ <set rarity="rare">ARD</set>
+ <color>BR</color>
+ <manacost>B/R</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your end step, sacrifice a token you control. Then create a tapped 1/1 red Vampire Berserker token with haste.</text>
+</card>
+<card>
+ <name>Isolation</name>
+ <set rarity="rare">ARD</set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Isolation enters the battlefield, exile target nonland permanent or card in a graveyard.
+Whenever a permanent with the exiled name would enter the battlefield or be put into a graveyard from anywhere, exile it instead.</text>
+</card>
+<card>
+ <name>Keikos, Cannibal Queen</name>
+ <set rarity="rare">ARD</set>
+ <color>BR</color>
+ <manacost>2BR</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Vampire Berserker </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you sacrifice another permanent, Keikos deals 1 damage to each player.
+Sacrifice another creature: Exile the top card of your library, you may cast that card. If you don’t, put it into your graveyard.</text>
+</card>
+<card>
+ <name>Felicia Von Evil</name>
+ <set rarity="rare">ARD</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Vampire Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever you cast a spell, lose 1 life and create a 1/1 white and black Vampire Knight creature token.</text>
+</card>
+<card>
+ <name>Silas, Bloodlord of Progress</name>
+ <set rarity="rare">ARD</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Vampire Artificer </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of each players upkeep, they draw a card.
+Whenever a player drawing a card triggers an ability of a permanent, copy that ability, you may choose new targets for it.</text>
+</card>
+<card>
+ <name>Dark Towers</name>
+ <set rarity="rare">ARD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Dark Towers enters the battlefield tapped.
+T: Add W or B, If you’ve gained 3 or more life this turn, add WB instead.</text>
+</card>
+<card>
+ <name>Dimlit Backstreets</name>
+ <set rarity="rare">ARD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Dimlit Backstreets enters the battlefield tapped.
+T: Add U or B. If an opponent has discarded a card this turn or has no cards in their hand, add UB instead.</text>
+</card>
+<card>
+ <name>Fortress of Sanctuary</name>
+ <set rarity="rare">ARD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Fortress of Sanctuary enters the battlefield tapped.
+T: Add W or U, if you’ve cast exactly one spell spell this turn, add WU instead.</text>
+</card>
+<card>
+ <name>Grotesque Laboratory</name>
+ <set rarity="rare">ARD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Grotesque Laboratory enters the battlefield tapped.
+T: Add G or U, If you’ve drawn two or more cards this turn, add GU instead.</text>
+</card>
+<card>
+ <name>Hostile Wildlands</name>
+ <set rarity="rare">ARD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Hostile Wildlands enters the battlefield tapped.
+T: Add R or G. If you’ve attacked with a creature with power 4 or greater this turn, add RG instead.</text>
+</card>
+<card>
+ <name>Sorin, Liberator of Ardyal</name>
+ <set rarity="mythic">ARD</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Sorin </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>As long as it’s your turn, Sorin, Liberator of Ardyal is a 3/3 Vampire Noble creature with lifelink and menace.
+[+1]: Sorin, Liberator of Ardyal deals 2 damage to target player.
+[-3]: Exile target nonland permanent, you lose 3 life.</text>
+</card>
+<card>
+ <name>Malorum, Banefather</name>
+ <set rarity="mythic">ARD</set>
+ <color>UB</color>
+ <manacost>2UB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Malorum </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>You may look at the top card of each library at any time.
+[+1]: Exile the top card of target players library.
+[0]: Choose a card exiled by a Malorum planeswalker, you may cast it and you may spend mana as though it were mana of any color to cast that spell.
+[-3]: Choose a nonland card name. Search each opponent’s graveyard, hand, and library for any number of cards with that name and exile them. They shuffle.</text>
+</card>
+<card>
+ <name>Obilic the Devastator</name>
+ <set rarity="mythic">ARD</set>
+ <color>RG</color>
+ <manacost>4RG</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Creature - Vampire Dragon Warrior </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Haste, Trample
+Obilic has abilities of cards exiled by it.
+Hunt — Whenever a creature dealt damage by Obilic the Devastator this turn dies, exile it and put a +1/+1 counter on Obilic.</text>
+</card>
+<card>
+ <name>The Binding of Cassien</name>
+ <set rarity="mythic" splitterPath="/The Binding of Cassien.full.jpg" >ARD</set>
+ <color></color>
+ <related attach="attach">Cassien the Liberated</related>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, gain 4 life, then if you have 10 or more life than your starting life total, transform The Binding of Cassien.
+---
+(Back): Cassien the Liberated</text>
+</card>
+<card>
+ <name>Cassien the Liberated</name>
+ <set rarity="mythic" splitterPath="/Cassien the Liberated.full.jpg" >ARD</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Angel God </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Lifelink, Indestructible
+Prevent all damage that would be dealt to creatures you control.
+---
+(Front): The Binding of Cassien</text>
+</card>
+<card>
+ <name>Father of the Future</name>
+ <set rarity="mythic" splitterPath="/Father of the Future.full.jpg" >ARD</set>
+ <color>UG</color>
+ <related attach="attach">Regeneration Chamber</related>
+ <manacost>3GU</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Horror </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you’ve drawn two or more cards this turn Father of the Future can’t be blocked.
+When Father of the Future dies, return it to the battlefield transformed under its owner’s control.
+---
+(Back): Regeneration Chamber</text>
+</card>
+<card>
+ <name>Regeneration Chamber</name>
+ <set rarity="mythic" splitterPath="/Regeneration Chamber.full.jpg" >ARD</set>
+ <color>UG</color>
+ <manacost></manacost>
+ <cmc>5</cmc>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>If you would draw a card, draw two cards instead then put a reassembly counter on Regeneration Chamber. Then if there are three or more reassembly counters on it, remove those counters and transform it.
+---
+(Front): Father of the Future</text>
+</card>
+<card>
+ <name>Thoughts to Plowshares</name>
+ <set rarity="mythic">ARD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player reveals their hand. You choose a card from it. That player discards that card. Then they search their library for a basic land, reveal it and put it into their hand.</text>
+</card>
+<card>
+ <name>Met at the Crossroads</name>
+ <set rarity="mythic">ARD</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each players combat choose a creature that player owns. It gains haste until end of turn.</text>
+</card>
+
+<!-->Tokens</-->
+
+
+</cards>
+</cockatrice_carddatabase>

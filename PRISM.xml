@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>PRISM</name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Alabaster Witch</name>
+ <set picURL="/Alabaster Witch.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Alabaster Witch enters the battlefield, you gain X life, where X is the number of creatures in your squad. (Your sentai consists of up to one creature of each color.)</text>
+</card>
+<card>
+ <name>Bureaucrat</name>
+ <set picURL="/Bureaucrat.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Defender
+When Bureaucrat enters the battlefield, return target spell to its owner’s hand.</text>
+</card>
+<card>
+ <name>Cooks</name>
+ <set picURL="/Cooks.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Citizen Cook </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Cooks enters or leaves the battlefield, you gain 3 life.</text>
+</card>
+<card>
+ <name>Cop</name>
+ <set picURL="/Cop.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Citizen Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Cop enters the battlefield, exile target creature or planeswalker an opponent controls until Cop leaves the battlefield.</text>
+</card>
+<card>
+ <name>Garden Witch</name>
+ <set picURL="/Garden Witch.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Garden Witch enters the battlefield, create a 0/1 green Plant creature token.</text>
+</card>
+<card>
+ <name>Inconvenient Bystander</name>
+ <set picURL="/Inconvenient Bystander.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+W, T: Tap target creature.</text>
+</card>
+<card>
+ <name>Networking Witch</name>
+ <set picURL="/Networking Witch.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt></pt>
+ <tablerow>2</tablerow>
+ <text>When Networking Witch enters the battlefield, search your library for a Wizard card, reveal it, then shuffle and put that card on top.</text>
+</card>
+<card>
+ <name>Obvious Tessa Knockoff</name>
+ <set picURL="/Obvious Tessa Knockoff.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, vigilance, lifelink
+4W, T: Return target creature card from your graveyard to the battlefield. Hush Obvious Tessa Knockoff.</text>
+</card>
+<card>
+ <name>The Prime Minister</name>
+ <set picURL="/The Prime Minister.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Other creatures you control get +1/+1.</text>
+</card>
+<card>
+ <name>Protector of the Weak</name>
+ <set picURL="/Protector of the Weak.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Protector of the Weak enters the battlefield, you may return another target creature you control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Safe Zone</name>
+ <set picURL="/Safe Zone.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Flash
+When Safe Zone enters the battlefield, exile any number of target creatures you control until Safe Zone leaves the battlefield.
+Sacrifice Safe Zone: You gain 3 life.</text>
+</card>
+<card>
+ <name>Taki Ryoka Househusband</name>
+ <set picURL="/Taki Ryoka Househusband.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Legendary Creature - Human Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Whenever Taki Ryoka, Househusband or another creature with defender enters the battlefield under your control, you gain 3 life.</text>
+</card>
+<card>
+ <name>Unlikely Hero</name>
+ <set picURL="/Unlikely Hero.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Defender
+When Unlikely Hero enters the battlefield, target creature gains hexproof and indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Absolute Terror Field</name>
+ <set picURL="/Absolute Terror Field.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature or Vehicle
+When Absolute Terror Field enters the battlefield, enchanted permanent gains hexproof until end of turn.
+Enchanted permanent gets +1/+3.</text>
+</card>
+<card>
+ <name>Ancient Serpent Sage</name>
+ <set picURL="/Ancient Serpent Sage.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>5U</manacost>
+ <type>Creature - Naga Wizard </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Ancient Serpent Sage enters the battlefield, draw X cards, where X is the number of creatures in your squad. (Your squad consists of up to one creature of each color.)</text>
+</card>
+<card>
+ <name>Cerulean Witch</name>
+ <set picURL="/Cerulean Witch.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Cerulean Witch enters the battlefield, scry X, where X is the number of creatures in your squad. (Your squad consists of up to one creature of each color.)</text>
+</card>
+<card>
+ <name>Cyberknight Frame</name>
+ <set picURL="/Cyberknight Frame.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Hexproof
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Mecha Design Program</name>
+ <set picURL="/Mecha Design Program.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Reveal the top four cards of your library. Put any number of Pilot, Artificer, Vehicle, and/or Aura cards from among them into your hand. Put the rest on the bottom of your library in a random order.</text>
+</card>
+<card>
+ <name>Mecha Mimic</name>
+ <set picURL="/Mecha Mimic.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>You may have Mecha Mimic enter the battlefield as a copy of any creature or Vehicle on the battlefield, except it’s a 7/7 Vehicle artifact with crew 2.
+Crew 2</text>
+</card>
+<card>
+ <name>Moon Rising Hero of Justice!</name>
+ <set picURL="/Moon Rising Hero of Justice!.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Legendary Creature - Human Pilot </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Moon Rising, Hero of Justice! enters the battlefield, create Lunar Rabbit, a legendary 3/3 blue Vehicle artifact token with flying and crew 2.</text>
+</card>
+<card>
+ <name>Protect the Team</name>
+ <set picURL="/Protect the Team.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>If you have a full squad, you may cast this spell without paying its mana cost. (Your squad consists of up to one creature of each color.)
+Counter target spell unless its controller pays 1 for each creature in your squad.</text>
+</card>
+<card>
+ <name>Scientists</name>
+ <set picURL="/Scientists.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Human Citizen Artificer </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Scientists enters or leaves the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Send Away</name>
+ <set picURL="/Send Away.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put target artifact or creature into its owner’s library X cards from the top, where X is the number of creatures in your squad. (Your squad consists of up to one creature of each color.)</text>
+</card>
+<card>
+ <name>Wandworker</name>
+ <set picURL="/Wandworker.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ward X, where X is the number of creatures in your squad (Your squad consists of up to one creature of each color.)</text>
+</card>
+<card>
+ <name>Ami Ryoka Executive</name>
+ <set picURL="/Ami Ryoka Executive.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Legendary Creature - Human Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Whenever Ami Ryoka, Executive or another creature with defender enters the battlefield under your control, create a Treasure token.</text>
+</card>
+<card>
+ <name>Gaze Into Nightmare</name>
+ <set picURL="/Gaze Into Nightmare.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw three cards. You lose X life, where X is 5 minus the number of creatures in your squad. (Your squad consists of up to one creature of each color.)</text>
+</card>
+<card>
+ <name>Man-Eating Kaiju</name>
+ <set picURL="/Man-Eating Kaiju.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Nightmare Beast </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>As an additional cost to cast this spell, pay 2 or sacrifice a creature.
+Menace</text>
+</card>
+<card>
+ <name>Quisling</name>
+ <set picURL="/Quisling.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Human Citizen Coward </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Quisling enters the battlefield, each player sacrifices a creature.</text>
+</card>
+<card>
+ <name>Team Attack</name>
+ <set picURL="/Team Attack.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>B</color>
+ <manacost>5B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 1 less to cast for each creature in your squad. (Your squad consists of up to one creature of each color.)
+Exile target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Tenebrous Witch</name>
+ <set picURL="/Tenebrous Witch.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Tenebrous Witch enters the battlefield, each opponent loses X life, where X is the number of creatures in your squad. (Your squad consists of up to one creature of each color.)</text>
+</card>
+<card>
+ <name>Thieves</name>
+ <set picURL="/Thieves.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Azra Citizen Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Thieves enters or leaves the battlefield, each opponent discards a card.</text>
+</card>
+<card>
+ <name>Berserker Mode</name>
+ <set picURL="/Berserker Mode.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature or Vehicle
+Enchanted permanent gets +2/+0 and has first strike and trample.
+At the beginning of your end step, sacrifice Berserker Mode unless enchanted permanent attacked this turn.</text>
+</card>
+<card>
+ <name>Cheering Fan</name>
+ <set picURL="/Cheering Fan.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Defender
+When Cheering Fan enters the battlefield, target creature gets +2/+0 and gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>Eccentric Tinkerer</name>
+ <set picURL="/Eccentric Tinkerer.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Eccentric Tinkerer enters the battlefield, put a +1/+1 counter on each Vehicle you control.</text>
+</card>
+<card>
+ <name>Gunman</name>
+ <set picURL="/Gunman.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Defender, reach
+When Gunman enters the battlefield, it deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>Laserknuckle</name>
+ <set picURL="/Laserknuckle.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Double strike
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Lynch Mob</name>
+ <set picURL="/Lynch Mob.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Lynch Mob enters the battlefield, it fights up to one target creature.</text>
+</card>
+<card>
+ <name>Monster Victim</name>
+ <set picURL="/Monster Victim.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Creatures your opponents control attack you each combat if able.
+Monster Victim blocks each combat if able.</text>
+</card>
+<card>
+ <name>Musicians</name>
+ <set picURL="/Musicians.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Citizen Bard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Musicians enters or leaves the battlefield, create a tapped 1/1 white Human creature token.</text>
+</card>
+<card>
+ <name>Reckless Pilot</name>
+ <set picURL="/Reckless Pilot.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Pilot </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Reckless Pilot crews a Vehicle, you may have that Vehicle gain flying, double strike, and trample until end of turn. If you do, sacrifice it at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Sun Rising Hero of Justice!</name>
+ <set picURL="/Sun Rising Hero of Justice!.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Legendary Creature - Human Pilot </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Sun Rising, Hero of Justice! enters the battlefield, create Solar Lion, a legendary 4/4 red Vehicle artifact token with haste and crew 2.</text>
+</card>
+<card>
+ <name>Taxi Driver</name>
+ <set picURL="/Taxi Driver.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Human Citizen Pilot </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Whenever Taxi Driver crews a Vehicle, that Vehicle gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Torches and Pitchforks</name>
+ <set picURL="/Torches and Pitchforks.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +2/+0 until end of turn. Creatures you control with defender can attack this turn as though they didn’t have defender.</text>
+</card>
+<card>
+ <name>Explorers</name>
+ <set picURL="/Explorers.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Human Citizen Scout </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Explorers enters or leaves the battlefield, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Super Robot Galaxy Rise</name>
+ <set picURL="/Super Robot Galaxy Rise.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>M</color>
+ <manacost>3UR</manacost>
+ <type>Legendary Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Signature — Sun Rising, Hero of Justice! and Moon Rising, Hero of Justice! (You may put your signature into your hand from outside the game when you control the named creatures.)
+Flying, hexproof, haste
+Sacrifice a Vehicle: Put two +1/+1 counters on Super Robot Galaxy Rise.
+Crew 4</text>
+</card>
+<card>
+ <name>Suzuna Ryoka Kid Hero</name>
+ <set picURL="/Suzuna Ryoka Kid Hero.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>M</color>
+ <manacost>2WB</manacost>
+ <type>Legendary Creature - Human Wizard </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Signature — Ami Ryoka, Executive and Taki Ryoka, Househusband (You may put your signature into your hand from outside the game when you control the named creatures.)
+If a creature with defender you own would die, instead exile it. Return it to your hand at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Dragonfriend</name>
+ <set picURL="/Dragonfriend.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>M</color>
+ <manacost>3W/UW/U</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Dragonfriend enters the battlefield, create a 4/4 red Dragon creature token with flying.</text>
+</card>
+<card>
+ <name>Little Fire Witch</name>
+ <set picURL="/Little Fire Witch.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>M</color>
+ <manacost>1U/R</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant, sorcery, or Wizard spell, create a 1/1 red Elemental creature token.</text>
+</card>
+<card>
+ <name>Monster Attack</name>
+ <set picURL="/Monster Attack.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>M</color>
+ <manacost>2B/R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>For each creature you control, you may create a 4/4 red and black Nightmare Beast creature token. If you do, that token fights that creature.</text>
+</card>
+<card>
+ <name>Rainbow Summons</name>
+ <set picURL="/Rainbow Summons.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color>M</color>
+ <manacost>W/BB/GG/UU/RR/W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Signature — Cerulean Witch, Alabaster Witch, and Tenebrous Witch (You may put your signature into your hand from outside the game when you control the named creatures.)
+Create two 4/4 Spirit creature tokens that are all colors.</text>
+</card>
+<card>
+ <name>AI-Driven Mech</name>
+ <set picURL="/AI-Driven Mech.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>As long as AI-Driven Mech is enchanted, it’s an artifact creature.
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Mecha Sword</name>
+ <set picURL="/Mecha Sword.full.jpg" picURLHq="" picURLSt="">PRISM</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +3/+0 and has trample.
+Whenever a Vehicle you control becomes an artifact creature, you may attach Mecha Sword to it.
+Equip 3</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

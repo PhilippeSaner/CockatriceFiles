@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<cards>
+
+<card>
+ <name>Treasure AVA</name>
+ <set>AVA</set>
+ <color></color>
+ <type>Token Artifact - Treasure </type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice this artifact: Add one mana of any color.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Dragon AVA</name>
+ <set>AVA</set>
+ <color>R</color>
+ <type>Token Creature - Dragon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Faerie Wizard AVA</name>
+ <set>AVA</set>
+ <color>U</color>
+ <type>Token Creature - Faerie Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Human AVA</name>
+ <set>AVA</set>
+ <color>W</color>
+ <type>Token Creature - Human </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Insect AVA</name>
+ <set>AVA</set>
+ <color>B</color>
+ <type>Token Creature - Insect </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Mercenary AVA</name>
+ <set>AVA</set>
+ <color>B</color>
+ <type>Token Creature - Mercenary </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Ouphe Hippo AVA</name>
+ <set>AVA</set>
+ <color>G</color>
+ <type>Token Creature - Ouphe Hippo </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Ouphe Spider AVA</name>
+ <set>AVA</set>
+ <color>G</color>
+ <type>Token Creature - Ouphe Spider </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Reach</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Wizard Illusion AVA</name>
+ <set>AVA</set>
+ <color>U</color>
+ <type>Token Creature - Wizard Illusion </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature becomes the target of a spell, sacrifice it.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Zombie AVA</name>
+ <set>AVA</set>
+ <color>B</color>
+ <type>Token Creature - Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Demon AVA</name>
+ <set>AVA</set>
+ <color>B</color>
+ <type>Token Creature - Demon </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Peasant AVA</name>
+ <set>AVA</set>
+ <color>R</color>
+ <type>Token Creature - Peasant </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste 
+This creature attacks each combat if able.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Ouphe Bird AVA</name>
+ <set>AVA</set>
+ <color>W</color>
+ <type>Token Creature - Ouphe Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, lifelink</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Human Wizard Noble AVA</name>
+ <set>AVA</set>
+ <color>U</color>
+ <type>Token Creature - Human Wizard Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Pacifism AVA</name>
+ <set>AVA</set>
+ <color>W</color>
+ <type>Token Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature 
+Enchanted creature can’t attack or block.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Pious Farmer (Token) AVA</name>
+ <set>AVA</set>
+ <color>WG</color>
+ <type>Token Creature - Ouphe Mouse Peasant </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, if you gained life this turn, scry 1. Then if you gained 3 or more life, draw a card. Then if you gained 7 or more life, create a token that’s a copy of Pious Farmer.</text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,3210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>BGD</name>
+<longname>Bogander, Deal with the Devil</longname>
+<settype>Expansion</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Thalisse, Speaker for the Souls</name>
+ <set rarity="uncommon">BGD</set>
+ <color>WB</color>
+ <manacost>2W/BW/B</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, scry X, where X is the greatest power among enchanted creatures you control.
+Aura spells you cast cost 1 less to cast.</text>
+</card>
+<card>
+ <name>Burning Sunrise Radicalist</name>
+ <set rarity="uncommon">BGD</set>
+ <color>WR</color>
+ <manacost>R/W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more cards are put into exile, Burning Sunrise Radicalist gets +2/+0 until end of turn</text>
+</card>
+<card>
+ <name>Boglin Squirrel Wrassler</name>
+ <set rarity="uncommon">BGD</set>
+ <color>RG</color>
+ <manacost>R/GR/G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Frog Goblin Berserker </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Hellbent — Whenever Boglin Squirrel Wrassler attacks, create a 1/1 green Squirrel creature token that’s tapped and attacking. If you have no cards in hand, create three of those tokens instead.</text>
+</card>
+<card>
+ <name>Gumbo Artisan</name>
+ <set rarity="uncommon">BGD</set>
+ <color>UG</color>
+ <manacost>1G/U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Gumbo Artisan enters the battlefield, each player may create either a Food token, a 1/1 white Cleric creature token, or a Soul token. (A Soul is an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)
+4G/U: Until end of turn, another target creature gets +1/+1 for each token you control.</text>
+</card>
+<card>
+ <name>Eternal Dealer</name>
+ <set rarity="uncommon">BGD</set>
+ <color>UB</color>
+ <manacost>3U/BU/B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Devil </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Curse you control enters the battlefield, draw a card.
+2U/B, Discard a card: Create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)</text>
+</card>
+<card>
+ <name>Soul City Ripper</name>
+ <set rarity="uncommon">BGD</set>
+ <color>BG</color>
+ <manacost>2B/G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 2B/GB/G (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature you control
+Enchanted creature gets +3/+2 and can’t block.
+You may cast Soul City Ripper from your graveyard if you control a creature with power 4 or greater.
+</text>
+</card>
+<card>
+ <name>Anne Killsgrove, Hunter of Fame</name>
+ <set rarity="uncommon">BGD</set>
+ <color>BR</color>
+ <manacost>2B/RB/R</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Viashino Berserker </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever you target a player, create a Treasure token. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>Crisis of Faith</name>
+ <set rarity="uncommon">BGD</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile all the cards in your hand, then draw that many cards plus two.</text>
+</card>
+<card>
+ <name>Hodanyee Preacher</name>
+ <set rarity="uncommon">BGD</set>
+ <color>WU</color>
+ <manacost>1W/UW/U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Viashino Cleric </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When you cast Hodanyee Preacher, another spell with flash, or an instant, create a Soul token. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Hodanyee Elder</name>
+ <set rarity="uncommon">BGD</set>
+ <color>WG</color>
+ <manacost>2G/WG/W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Spirit Artificer </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more Auras enter the battlefield attached to a creature you control, draw a card and gain 1 life. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>Thundering Preacher</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more cards are put into exile, tap target creature.
+W, T: Exile target card from a graveyard.</text>
+</card>
+<card>
+ <name>Family Reunion</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>For each creature you control, create a Soul token attached to it. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Attic Finch</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Attic Finch has lifelink and vigilance as long as it is enchanted.</text>
+</card>
+<card>
+ <name>Devil's Peaks Griffin</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Griffin </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying</text>
+</card>
+<card>
+ <name>Cemetary Greeters</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 3W (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Flash
+Enchant creature
+Enchanted creature gets +2/+0 and has “When this creature dies, create two 1/1 colorless Spirit creature tokens.”
+</text>
+</card>
+<card>
+ <name>Church Grounds Mentor</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Viashino Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+1, Sacrifice Church Grounds Mentor: Target creature you control phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+</card>
+<card>
+ <name>Adamant Soul Seeker</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Adamant Soul Seeker enters the battlefield, search your library and/or graveyard for an Aura card and put it into your hand. If you search your library this way, shuffle.</text>
+</card>
+<card>
+ <name>Fallen Birdwatcher</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 1W (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature gets +0/+1 and has flying.
+</text>
+</card>
+<card>
+ <name>Distant Relatives</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>WW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Distant Relatives enters the battlefield, create a Soul token. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Soul City Exorcist</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Giant Cleric </type>
+ <pt>4/6</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When Soul City Exorcist enters the battlefield exile up to one target enchantment, then draw a card.</text>
+</card>
+<card>
+ <name>Summon the Witchdoctors</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 white Cleric creature tokens, then create two Soul tokens. (They are Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Soul Song Banjoneer</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Bard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more Auras enter the battlefield under your control, put a +1/+1 counter on Soul Song Banjoneer.</text>
+</card>
+<card>
+ <name>Firearm Fetcher</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dog </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Firearm Fetcher enters the battlefield, pray for a noncreature, nonland card. (Reveal the top four cards of your library, then put a noncreature, nonland card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Barhin, Prophet of Violence</name>
+ <set rarity="uncommon">BGD</set>
+ <color>UR</color>
+ <manacost>3U/RU/R</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Giant Wizard </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, Barhin gets +X/+X until end of turn, where X is that spells mana value, then up to one target creature can’t block Barhin this turn. </text>
+</card>
+<card>
+ <name>Bayou Hospitality</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Each player draws two cards and gains 2 life.
+• Bayou Hospitality deals 4 damage to target tapped creature.</text>
+</card>
+<card>
+ <name>Gather for Communion</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You and target opponent each pray for a card. (To pray for a card, Reveal the top four cards of your library, then put a card from among them into your hand. You may exile the rest or put them back in any order.)
+Draw a card.</text>
+</card>
+<card>
+ <name>Stubborn Pride</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has defender and loses all other abilities.</text>
+</card>
+<card>
+ <name>Railroad Guidance</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains your choice of either hexproof or indestructible until end of turn. If it’s enchanted, it gains both.</text>
+</card>
+<card>
+ <name>Hallelujah</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever one or more cards are put into exile, scry 1.
+3, Exile target card from a graveyard: Put a card you own in exile onto the bottom of your library.</text>
+</card>
+<card>
+ <name>Selbethan Baptism</name>
+ <set rarity="common">BGD</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target nonland permanent. Unless it’s an enchantment, return it to the battlefield under its owner’s control at the beginning of that player’s next upkeep.</text>
+</card>
+<card>
+ <name>Town-wide Preacher</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Giant Cleric </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Town-wide Preacher attacks, each player prays for a card. (To pray for a card, Reveal the top four cards of your library, then put a card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Cass, Seeker of Souls</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Creature - Human Shaman </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Cass, Seeker of Souls becomes enchanted, scry 1. Then if there are three or more Auras attached to Cass, draw a card.
+2W, T: Create a Soul token. Activate only as a sorcery. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Souls of the Collective</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 1W (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature has vigilance and gets +1/+1 for each Aura attached to it.
+</text>
+</card>
+<card>
+ <name>Holy River Missonary</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>You may reveal an additional card whenever you pray.
+Holy River Missonary gets +3/+3 if a card was put into exile this turn.</text>
+</card>
+<card>
+ <name>Container of Cruelties</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever you cast Container of Cruelties, another spell with flash, or an instant, target nonland permanent phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+</card>
+<card>
+ <name>Jessible, Soulmate to Bontei</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 3W (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Flash
+Enchant creature
+Enchanted creature gets +2/+2 and has lifelink and vigilance.
+</text>
+</card>
+<card>
+ <name>Ashen Sect's Wake</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>XWW</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put up to X exiled cards onto the bottom of their owner’s libraries in any order, then create a 1/1 white Cleric creature token for each card put into your library this way.</text>
+</card>
+<card>
+ <name>Pulkast Mob</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Pulkast Mob enters the battlefield, you may exile target creature.
+Pulkast Mob gets +1/+1 for each creature card in exile.</text>
+</card>
+<card>
+ <name>Path to Salvation</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature or enchantment. Its controller prays for a card. (They reveal the top four cards of their library, then they put a card from among them into their hand. They may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Pastor's Charm</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Target creature phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+• You gain hexproof until end of turn.
+• Pray for an enchantment or legendary permanent card.</text>
+</card>
+<card>
+ <name>Bartalou's Guardian</name>
+ <set rarity="uncommon">BGD</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Whenever equipped creature blocks, Bartalou’s Guardian deals 3 damage to target attacking creature.
+Equip 2</text>
+</card>
+<card>
+ <name>Deal with the Devil</name>
+ <set rarity="uncommon">BGD</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature or an enchantment.
+Choose one —
+• Exile target creature and/or target enchantment.
+• Return target creature and/or target enchantment card from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Flag of Cruelty</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T: Add UBR.</text>
+</card>
+<card>
+ <name>Flag of Faith</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T: Add WUR.</text>
+</card>
+<card>
+ <name>Flag of Hostility</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T: Add BRG.</text>
+</card>
+<card>
+ <name>Flag of Liberty</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T: Add WBG.</text>
+</card>
+<card>
+ <name>Flag of Prosperity</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T: Add WUG.</text>
+</card>
+<card>
+ <name>Soul Song Saxaphonist</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Bard </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Soul Song Saxaphonist enters the battlefield, create a Soul token. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Contract Bound Devil</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Devil </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Contract Bound Devil can’t be blocked if it’s controlled by or attacking an enchanted player.
+U, Discard Contract Bound Devil: Create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)</text>
+</card>
+<card>
+ <name>Lesser Curse Binder</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Devil </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add U. Spend this mana only to cast instant, sorcery, or Curse spells.</text>
+</card>
+<card>
+ <name>Scholar of the Forbeyed</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Scholar of the Forbeyed enters the battlefield, return target instant, sorcery, or enchantment card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Church Tower Flock</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Bird </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Church Tower Flock enters the battlefield, you may put three cards you own in exile onto the bottom of your library. When you do, create a 1/1 blue Bird creature token with flying.</text>
+</card>
+<card>
+ <name>White Scaled Boat Tipper</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Merfolk </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When White Scaled Boat Tipper enters the battlefield, tap target artifact or creature.</text>
+</card>
+<card>
+ <name>Blackwater Crawfishers</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more tokens enter the battlefield under your control, tap target creature an opponent controls.</text>
+</card>
+<card>
+ <name>Selbethan Choir</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Human Bard </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Selbethan Choir enters the battlefield, pray for a noncreature card. (Reveal the top four cards of your library, then put a noncreature card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Holy River Fisherman</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Viashino Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Holy River Fisherman enters the battlefield, create two soul tokens. (They are Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Blistering Humidity</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Wall </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+2U: Target creature doesn’t untap during its controllers next untap step.</text>
+</card>
+<card>
+ <name>Deem Sinful</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell, then pray for a noncreature card. (Reveal the top four cards of your library, then put a noncreature card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Negate</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target noncreature spell.</text>
+</card>
+<card>
+ <name>The Devil's Clutches</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+2U: Tap or untap target nonland permanent enchanted player controls. Activate this ability only once each turn.</text>
+</card>
+<card>
+ <name>Speak of the Devil</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create a contract token attached to target player, then scry X, where X is the number of Curses you control. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)
+Target player draws two cards.</text>
+</card>
+<card>
+ <name>Appeal to Selbeth</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Pray for a card. (Reveal the top four cards of your library, then put a card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Cattywampus</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target nonland permanent you don’t control and each permanent attached to it to their owner’s hands.
+Draw a card.</text>
+</card>
+<card>
+ <name>Unsummon</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature to its owner’s hand.</text>
+</card>
+<card>
+ <name>Trendelton Drowning</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap a creature. It doesn’t untap during its controller’s next untap step.
+Create a soul token. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Curse of the Bloody Tome</name>
+ <set rarity="common">BGD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+At the beginning of enchanted player’s upkeep, that player mills two cards.</text>
+</card>
+<card>
+ <name>Prophet of Ashen Destinies</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Prophet of Ashen Destinies enters the battlefield, pray for a noncreature card. (Reveal the top four cards of your library, then put a noncreature card from among them into your hand. You may exile the rest or put them back in any order.)
+Whenever you cast a noncreature spell, put a +1/+1 counter on Prophet of Ashen Destinies, then scry 1.</text>
+</card>
+<card>
+ <name>Curse Grip Baptizer</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Viashino Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Curse Grip Baptizer enters the battlefield, exile another target nonland permanent. Return that card to the battlefield under its owner’s control at the beginning of the next end step. If an Aura is put onto the battlefield this way, attach it to target permanent it could enchant.</text>
+</card>
+<card>
+ <name>Rustic Student</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Advisor </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an opponent casts a spell, you may pay 1. If you do, draw a card, then that player may pay 1. If they do, discard a card.</text>
+</card>
+<card>
+ <name>Soul of the River</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize U (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature can’t be blocked.
+</text>
+</card>
+<card>
+ <name>Bloodthirsty Jack</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Viashino Vampire </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Bloodthirsty Jack attacks and isn’t blocked, create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)
+Whenever Bloodthirsty Jack is blocked by a creature, gain control of all Auras attached to that creature and attach them to Bloodthirsty Jack.</text>
+</card>
+<card>
+ <name>Listen to Your Soul</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a soul token. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)
+Scry X, where X is the number of Auras you control, then draw a card.</text>
+</card>
+<card>
+ <name>Merchant's Charm</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Return target creature to its owners hand.
+• Counter target triggered ability.
+• Pray for an instant or sorcery card. (Reveal the top four cards of your library, then put an instant or sorcery card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Branded by Crowlomet</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+Whenever a spell or ability targets enchanted player, that spell or abilities controller draws a card.
+2U: Create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)</text>
+</card>
+<card>
+ <name>Come Home to Roost</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>UU</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+Enchanted creature is a 1/1 Bird creature with flying and loses all other types and abilities.</text>
+</card>
+<card>
+ <name>Robby's Side Arm</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has “1, T: Tap or untap another target creature.”
+Equip 1</text>
+</card>
+<card>
+ <name>Friends on the Other Side</name>
+ <set rarity="uncommon">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two Soul tokens. (They are Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Crowlemet's Butchers</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you target a player, Crowlemet’s Butchers deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Nameless Soul</name>
+ <set rarity="uncommon">BGD</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 3 (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant permanent or player
+You may have Nameless Soul enter the battlefield as a copy of any Aura on the battlefield.
+</text>
+</card>
+<card>
+ <name>Steamboat Ruins</name>
+ <set rarity="uncommon">BGD</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>When Steamboat Ruins enters the battlefield, create two 1/1 red Frog Goblin creature tokens.
+Goblins you control have “T, Discard a card: Put two +1/+1 counters on target artifact.” 
+Hellbent — Crew 2. Activate this ability only if you have no cards in hand. (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Haunted Pistol</name>
+ <set rarity="uncommon">BGD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you may discard a card. If you do, create a colorless 1/1 Spirit creature token, and attach Haunted Pistol to it.
+Whenever equipped creature attacks, Haunted Pistol deals 1 damage to any target.
+Equip 2</text>
+</card>
+<card>
+ <name>Curse Vessel</name>
+ <set rarity="uncommon">BGD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Auras may enchant Curse Vessel as though it were a creature or player.
+When Curse Vessel enters the battlefield, attach target Aura to it.
+5, T, Sacrifice Curse Vessel: Draw a card for each Aura that was attached to it.</text>
+</card>
+<card>
+ <name>Selbethan Scriptures</name>
+ <set rarity="uncommon">BGD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>5, T: Pray for a card. (Reveal the top four cards of your library, then put a card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Soulfull Quarter</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Forest Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G or W.)
+Soulfull Quarter enters the battlefield tapped.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>War-Torn River</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Island Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add U or R.)
+War-Torn River enters the battlefield tapped.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Peaceful Church</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Plains Island </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or U.)
+Peaceful Church enters the battlefield tapped.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Grave Bayou</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Swamp Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or G.)
+Grave Bayou enters the battlefield tapped.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Hellfire Swamp</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or R.)
+Hellfire Swamp enters the battlefield tapped.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Forest</name>
+ <set rarity="">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Island</name>
+ <set rarity="">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set rarity="">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Plains</name>
+ <set rarity="">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set rarity="">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Tormented Soul</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Tormented Soul can’t block and can’t be blocked.</text>
+</card>
+<card>
+ <name>Tempting Devil</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Devil </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Tempting Devil enters the battlefield, create a contract token attached to target player.  (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)
+Whenever you target a player, you gain 1 life.</text>
+</card>
+<card>
+ <name>Devil Chained Revenant</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 1B (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature gets +2/+2.
+Enchanted creature has “At the beginning of your upkeep, you lose 2 life.”
+</text>
+</card>
+<card>
+ <name>Putrid Skunk Ape</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Yeti </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>1B, Discard a card: Creatures you control with power 4 or greater gain menace until end of turn.</text>
+</card>
+<card>
+ <name>Curse-Risen Gator</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Zombie Crocodile </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Curse-Risen Gator enters the battlefield, each player discards two cards and loses 2 life.</text>
+</card>
+<card>
+ <name>Traitors of the Faith</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Traitors of the Faith enters the battlefield, pray for a Aura, Devil, or Warlock card. (Reveal the top four cards of your library, then put a Aura, Devil, or Warlock card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Hellhound On Your Trail</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+When Hellhound On Your Trail enters the battlefield, create two 2/1 black Dog Horror creature tokens with “This creature can only attack Cursed players.”
+At the beginning of enchanted player’s upkeep, that player gains 1 life.</text>
+</card>
+<card>
+ <name>Beleton Horror</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Rabbit Dog Horror </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When Beleton Horror enters the battlefield, return target Aura card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Skeeter Swarm</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Insect </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Skeeter Swarm enters the battlefield, you may discard a card. If you do, target opponent discards a card.</text>
+</card>
+<card>
+ <name>Cruel Poltergeist</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 3B (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature you control
+Enchanted creature gets +3/+0 and has “When this creature dies, draw a card and lose 1 life.”
+</text>
+</card>
+<card>
+ <name>Dead Weight</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets -2/-2.</text>
+</card>
+<card>
+ <name>Bayou Resilience</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature or Aura card from your graveyard to your hand.
+Hellbent — If you have no cards in hand, instead return up to two creature and/or Aura cards from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Hellfire Hankering</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell cost 1 less to cast for each Curse you control.
+Target player draws three cards and loses 3 life.</text>
+</card>
+<card>
+ <name>Down the Barrel</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature.
+Hellbent — Then you may draw a card and lose 2 life if you have no cards in hand.</text>
+</card>
+<card>
+ <name>Dance with the Devil</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Destroy target creature that’s not enchanted.
+• Each opponent sacrifices an Aura.</text>
+</card>
+<card>
+ <name>Revenge of the Souls</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -X/-X until end of turn, where X is two plus the number of Auras you control. You gain X life.</text>
+</card>
+<card>
+ <name>Off Kilter</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each player reveals their hand and discards a nonland card of your choice.
+Hellbent — Then if you have no cards in hand, each opponent lose 2 life.</text>
+</card>
+<card>
+ <name>Unfinished Business</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains indestructible until end of turn. If that creature has power 4 or greater, it also gains lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Stephar's Misfortune</name>
+ <set rarity="common">BGD</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+Spells players cast that target enchanted player cost 2 less to cast.</text>
+</card>
+<card>
+ <name>Blood Grove Rougarou</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Wolf Horror </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever Blood Grove Rougarou attacks, you may discard a card. If you do, put two +1/+1 counters on it.</text>
+</card>
+<card>
+ <name>Leeron, Devil's Advocate</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Warlock </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Spells that target you cost 1 less to cast.
+Whenever a Curse enters the battlefield attached to you, draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>Soul of the Tourtured</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 1BB (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchant creature gets -2/-2.
+When enchanted creature dies, target player discards two cards.
+</text>
+</card>
+<card>
+ <name>Hunter of the Helpless</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Horror </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Hunter of the Helpless enters the battlefield, each player may discard a card. Each player who doesn’t sacrifices a creature with the lowest toughness among creatures they control. </text>
+</card>
+<card>
+ <name>Cultists of Crowlemet</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, create a contract token attached to target player and lose 1 life. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)
+1BB, Sacrifice Cultists of Crowlemet: Search your library for a card and put it into your hand. Activate this ability only if you control three or more Curses.</text>
+</card>
+<card>
+ <name>Possesive Spirit</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>5BB</manacost>
+ <cmc>7</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize B (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+You control enchanted creature
+Enchanted creature has lifelink and menace.
+</text>
+</card>
+<card>
+ <name>Kisses, the Throat Eater</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Dog Horror </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink, menace
+Kisses, the Throat Eater can’t block.
+Whenever Kisses attacks a cursed player, it gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Evil on Your Mind</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+At the beginning of enchanted player’s upkeep, choose one —
+• Enchanted player draws a card and loses 3 life.
+• Enchanted player gains 3 life and discards a card.</text>
+</card>
+<card>
+ <name>Hellvoka's Oppression</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+When Hellvoka’s Oppression enters the battlefield, enchanted player searches their library for a card and puts it into their hand. They shuffle afterwards.
+At the beginning of your end step, enchanted player discards a card at random.</text>
+</card>
+<card>
+ <name>Colton's Finisher</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Colton’s Finisher and equipped creature both have lifelink.
+Hellbent —Whenever equipped creature becomes blocked, Colton’s Finisher deals 2 damage to target player. Colton’s Finisher deals 2 damage to any target instead if you have no cards in hand.
+Equip 1</text>
+</card>
+<card>
+ <name>Devil's Charm</name>
+ <set rarity="uncommon">BGD</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)
+• Each player reveals their hand and discards a nonland card of your choice.
+• Target creature gets -2/-2 until end of turn.</text>
+</card>
+<card>
+ <name>Hellvokan Hornet</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Insect </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Haste
+Hellvokan Hornet attacks each turn if able.</text>
+</card>
+<card>
+ <name>Rummaging Raccoon</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Raccoon </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T, Discard a card: Choose one —
+• Draw a card.
+• Rummaging Raccoon deals 2 damage to target player or planeswalker.</text>
+</card>
+<card>
+ <name>Hateful Preacher</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more cards you own are put into exile, Hateful Preacher deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Pulkast Devil Worshiper</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Giant Warlock </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Pulkast Devil Worshiper attacks, create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)</text>
+</card>
+<card>
+ <name>Blood Grove Hunter</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Hellbent — As long as you have no cards in hand, Blood Grove Hunter has first strike.
+2R, Discard a card or sacrifice a nonland permanent: Blood Grove Hunter gets +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Church Fire Devil</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Devil </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Church Fire Devil enters the battlefield, create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)
+Whenever you cast a noncreature spell, Church Fire Devil deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Radical Missionaries</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever one or more cards are put into exile, put a +1/+1 counter on Radical Missionaries.</text>
+</card>
+<card>
+ <name>Boglin Bumpkins</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Frog Goblin </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Boglin Bumpkins enters the battlefield, you may discard a card or sacrifice a nonland permanent. If you do, it deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>Vicious Prophet</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Viashino Wizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+T, Discard a card: Exile the top card of your library. You may play that card until end of turn.</text>
+</card>
+<card>
+ <name>Burning Prophet</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end of turn, then scry 1.</text>
+</card>
+<card>
+ <name>Crowlemet's Brutality</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player or planeswalker
+At the beginning of your end step, Crowlemet’s Brutality deals 2 damage to enchanted player or planeswalker.</text>
+</card>
+<card>
+ <name>Gunblast</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Discard a card, then Gunblast deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>Threaten with Damnation</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. If that creature would die this turn, exile it instead.</text>
+</card>
+<card>
+ <name>Into the Maw of Hell</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target land. Into the Maw of Hell deals 13 damage to target creature.</text>
+</card>
+<card>
+ <name>Heart in the Cards</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Discard two cards, then draw two cards.
+Create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)</text>
+</card>
+<card>
+ <name>Revel in Sin</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+At the beginning of enchanted player’s precombat main phase, that player adds R. Then Revel in Sin deals 1 damage to that player.</text>
+</card>
+<card>
+ <name>Skedaddle</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+0 and gains haste until end of turn.
+Hellbent — If you have no cards in hand, up to one creature of your choice can’t block this turn.</text>
+</card>
+<card>
+ <name>Fires of Faith</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Exile the top two cards of your library. You may play those cards until end of your next turn.
+• Fires of Faith deals 4 damage to target creature. If a creature dealt damage this way would die this turn, exile it instead.</text>
+</card>
+<card>
+ <name>Rising Flames</name>
+ <set rarity="common">BGD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Rising Flames deals X damage to each creature, where X is one plus the number of cards you own in exile named Rising Flames. If a creature dealt damage this way would die this turn, exile it instead.
+Exile Rising Flames.</text>
+</card>
+<card>
+ <name>Grecilla, Kathran's Smiter</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more cards are put into exile, Grecilla, Kathran’s Smiter deals that much damage to any target.
+1R: Exile the top card of your library. You may play that card until the end of your next turn.</text>
+</card>
+<card>
+ <name>Horizon Thunderbird</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Phoenix </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, trample
+Hellbent — 2R: Return Horizon Thunderbird from your graveyard to your hand. Activate this ability only if you have no cards in hand.</text>
+</card>
+<card>
+ <name>Soul of the Blazes</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize RR (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature gets +1/+0 and has haste and trample.
+</text>
+</card>
+<card>
+ <name>Stake Fire Elemental</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elemental </type>
+ <pt>4/1</pt>
+ <tablerow>2</tablerow>
+ <text>When you exile this card from your library, you may put it into your hand.
+Trample, haste
+If a creature dealt damage by Stake Fire Elemental would die this turn, exile it instead.</text>
+</card>
+<card>
+ <name>Fiery Judgment</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top card of your library. You may have Fiery Judgment deal 1 damage to any target. If you don’t, you may play that card until the end of your next turn. Repeat this process three more times</text>
+</card>
+<card>
+ <name>Raise Hell</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Raise Hell deals damage to target player and each creature they control equal to one plus the number of Curses you control.</text>
+</card>
+<card>
+ <name>Drunkard's Charm</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Discard your hand, then draw two cards.
+• Each player sacrifices a nonland permanent.
+• Target creature gets +3/+0 until end of turn and must attack this turn if able.</text>
+</card>
+<card>
+ <name>Deryl's Shotgun</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Hellbent — Whenever equipped creature attacks, it gets +1/+0 and gains first strike until end of turn. Then if you have no cards in hand, Deryl’s Shotgun deals 1 damage to defending player and each creature they control
+Equip 1</text>
+</card>
+<card>
+ <name>Numbskulled Aggression</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+At the beginning of enchanted player’s upkeep, choose a creature they control. That creature gets +2/+0 until end of turn and must attack this turn if able.</text>
+</card>
+<card>
+ <name>Baptize in Hellfire</name>
+ <set rarity="uncommon">BGD</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+If enchanted player would draw a card, that player exiles the top two cards of their library instead. They may play those cards until end of turn.</text>
+</card>
+<card>
+ <name>Slippery Boglin</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Frog Goblin Rogue </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Hellbent — Slippery Boglin has hexproof if you have no cards in hand.</text>
+</card>
+<card>
+ <name>Playful Retriever</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dog </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Playful Retriever enters the battlefield, you may discard a card. If you do, return target permanent card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Wheat Field Revenant</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 1G (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature has “T: Add one mana of any color.”
+</text>
+</card>
+<card>
+ <name>Boglin Banjoist</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Frog Goblin Bard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>G, T, Discard a card: Create a tapped 1/1 red Frog Goblin creature token.</text>
+</card>
+<card>
+ <name>County Festival Cooks</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When County Festival Cooks enters the battlefield, choose one —
+• Create a Soul token. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)
+• You gain 1 life for each Aura you control.</text>
+</card>
+<card>
+ <name>Farmgrounds Buck</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elk </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Farmgrounds Buck dies or is discarded, you gain 4 life.</text>
+</card>
+<card>
+ <name>Wandering Grove Beast</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Yeti </type>
+ <pt>7/4</pt>
+ <tablerow>2</tablerow>
+ <text>Wandering Grove Beast gets -1/-0 for each card in your hand.</text>
+</card>
+<card>
+ <name>Festive Crowd</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Bard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever one or more Auras enter the battlefield under your control, put a +1/+1 counter on Festive Crowd.</text>
+</card>
+<card>
+ <name>Soul-Guided Farmhand</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Viashino Druid </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a token enters the battlefield under your control, you gain 1 life.
+2, T: Create a Soul token. Activate only as a sorcery. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Soul Song Giant</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Giant Bard </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+At the beginning of your upkeep, create a Soul token. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Soul Savior</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Viashino Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Soul Savior enters the battlefield, you may attach target Aura attached to a creature you control to Soul Savior.</text>
+</card>
+<card>
+ <name>Like a Rented Mule</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control fights target creature an opponent controls.
+Hellbent — Prevent all damage that would be dealt to the creature you control this turn if you have no cards in hand.</text>
+</card>
+<card>
+ <name>Strength from the Souls</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains hexproof until end of turn and gets +X/+X until end of turn, where X is the number of Auras attached to it.</text>
+</card>
+<card>
+ <name>Soulful Intervention</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create a Soul token.  (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)
+Prevent all damage that would be dealt to enchanted creatures this turn.</text>
+</card>
+<card>
+ <name>Soul Whisper</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Reveal the top six cards of your library. You may put a land card and a creature or enchantment card from among them into your hand and the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Farmhand's Grit</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +3/+3.
+1G: Return Farmhand’s Grit from your graveyard yo your hand.</text>
+</card>
+<card>
+ <name>Gone Hunting</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gains deathtouch and reach until end of turn.
+Hellbent — If you have no cards in hand, that creature also gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Bountiful Peach Tree</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Plant </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+T: Add one mana of any color. If Bountiful Peach Tree is enchanted, add two mana of any one color instead.</text>
+</card>
+<card>
+ <name>Free the Soul</name>
+ <set rarity="common">BGD</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or enchantment. Create two Soul tokens. (They are Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Buckadee, Boglin Cook</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Creature - Frog Goblin Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1G, T, Discard a card: Target creature an opponent controls can block any number of creatures this turn and must block each creature you control this turn if able.
+Whenever a creature an opponent controls dies, create a Food token.</text>
+</card>
+<card>
+ <name>Creekside Gathering</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever another creature enters the battlefield under your control, create a Soul token attached to that creature. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Bullet Proof Gator</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Crocodile </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Protection from noncreature permanents. (This creature can’t be targeted, dealt damage, enchanted, or equipped by noncreature permanents.)</text>
+</card>
+<card>
+ <name>Spirit of the Blood Grove</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 5GG (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature gets +6/+6 and has trample.
+</text>
+</card>
+<card>
+ <name>Soul Guide Fisher</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an Aura enters the battlefield under your control, scry 1 and gain 1 life.
+G, T: Create a Soul token. Activate only as a sorcery. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Soul of the Hunt</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 2GG (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+When Soul of the Hunt enters the battlefield, you may have enchanted creature fight target creature an opponent controls.
+Enchanted creature gets +2/+2.
+</text>
+</card>
+<card>
+ <name>On the Road Again</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Pray for a land card, then you may put a land card from your hand onto the battlefield tapped. (Reveal the top four cards of your library, then put a land card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Spiritualist's Charm</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Return an Aura or land card from your graveyard to your hand.
+• Target creature you control fights target creature an opponent controls.
+• Target creature gets +2/+2 and gains hexproof until the beginning of your next turn.</text>
+</card>
+<card>
+ <name>Soul Song Jamboree</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>For each creature you control, create a soul token attached to it. Creatures you control get +1/+1 until end of turn. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Beware the Blood Groves</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for up to two basic land cards and put them onto the battlefield.
+Hellbent — If you have no cards in hand, you may also search your library for a creature card, reveal it, and put it into your hand.
+Shuffle.</text>
+</card>
+<card>
+ <name>Jessandra's Rifle</name>
+ <set rarity="uncommon">BGD</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +3/+3 and has trample.
+Equip 0. This ability cost G more to activate for each card in your hand.</text>
+</card>
+<card>
+ <name>Freedom's Ring</name>
+ <set rarity="uncommon">BGD</set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target spell or nonland permanent to its owner’s hand, then create two Soul tokens. (They are Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Zealous Lightning</name>
+ <set rarity="uncommon">BGD</set>
+ <color>WR</color>
+ <manacost>3RW</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Zealous Lightning cost 1 less to cast for each card you own in exile that was put there this turn.
+Zealous Lightning deals 4 damage to any target and you gain 4 life.</text>
+</card>
+<card>
+ <name>Marila's Flower Tender</name>
+ <set rarity="uncommon">BGD</set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 1GW (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature or land
+Enchanted permanent has “T: Add GW.”
+</text>
+</card>
+<card>
+ <name>Devil in the Details</name>
+ <set rarity="uncommon">BGD</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+When Devil in the Details or another Curse enters the battlefield attached to enchanted player, target player reveals their hand. You choose and exile a nonland card revealed this way. That player draws a card.
+5UB, Sacrifice Devil in the Details: Search your library for a Curse card and put it onto the battlefield attached to enchanted player. Then Shuffle.</text>
+</card>
+<card>
+ <name>Hodanyee Corn Planter</name>
+ <set rarity="uncommon">BGD</set>
+ <color>UG</color>
+ <manacost>3GU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Giant Druid </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more tokens enter the battlefield under your control, reveal the top card of your library. If it’s a land card, put it onto the battlefield tapped. Otherwise, draw a card.
+1GU, T: Create a Food or a Soul token.</text>
+</card>
+<card>
+ <name>Bloodgrove Death Roller</name>
+ <set rarity="uncommon">BGD</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Crocodile </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Bloodgrove Death Roller enters the battlefield, you may have it fight target creature an opponent controls.
+Hellbent — Bloodgrove Death Roller gets +3/+2 and has deathtouch as long as you have no cards in hand.</text>
+</card>
+<card>
+ <name>Boglin Hootenanny</name>
+ <set rarity="uncommon">BGD</set>
+ <color>RG</color>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Boglin Hootenanny enters the battlefield, discard up to three cards, then create twice that many 1/1 red Frog Goblin creature tokens.
+Hellbent — Whenever a creature you control attacks, if you have no cards in hand, exile the top card of your library. You may play that card until end of turn.</text>
+</card>
+<card>
+ <name>Give to the Devil</name>
+ <set rarity="uncommon">BGD</set>
+ <color>BR</color>
+ <manacost>BR</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one or more —
+• Target opponent sacrifices a creature.
+• Each player sacrifices an enchantment.
+• Create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)</text>
+</card>
+<card>
+ <name>Abandoned Field</name>
+ <set rarity="common">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2, T, Sacrifice Abandoned Field: Search your library for a land card and put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>The Town of Hodanyee</name>
+ <set rarity="rare">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>The Town of Hodanyee enters the battlefield tapped.
+T: Add W, U, or G.
+You may enchant The Town of Hodanyee as though it were a creature.
+1G/WG/UW/U: Until end of turn, The Town of Hodanyee becomes a 3/3 Citizen creature with vigilance. It’s still a land.</text>
+</card>
+<card>
+ <name>The Lair of Jixabora</name>
+ <set rarity="rare">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>The Lair of Jixabora enters the battlefield tapped.
+T: Add B, R, or G.
+You may enchant The Lair of Jixabora as though it were a creature.
+3B/RB/GR/G: Until end of turn, The Lair of Jixabora becomes a 5/5 Crocodile creature with trample. It’s still a land.</text>
+</card>
+<card>
+ <name>The House of Sunrise</name>
+ <set rarity="rare">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>The House of Sunrise enters the battlefield tapped.
+T: Add W, U, or R.
+You may enchant The House of Sunrise as though it were a creature.
+2W/UR/WU/R: Until end of turn, The House of Sunrise becomes a 4/4 Cleric creature with indestructible. It’s still a land.</text>
+</card>
+<card>
+ <name>Haunted Mansion</name>
+ <set rarity="rare">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+3, T: Create a Soul token. Activate only as a sorcery. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>The Gates of Hellvoka</name>
+ <set rarity="rare">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>The Gates of Hellvoka enters the battlefield tapped.
+T: Add U, B, or R.
+You may enchant The Gates of Hellvoka as though it were a creature.
+2U/BU/RB/R: Until end of turn, The Gates of Hellvoka becomes a 4/4 Devil creature with menace. It’s still a land.</text>
+</card>
+<card>
+ <name>Crowlemet's Crossroads</name>
+ <set rarity="rare">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Crowlemet’s Crossroads enters the battlefield tapped.
+T: Add B.
+2, T: Draw a card. Activate this ability only if you are Cursed.
+3, T: Create a contract token attached to target player. (It’s an Aura Curse enchantment with Enchant player and “Whenever you target enchanted player, scry 1.”)</text>
+</card>
+<card>
+ <name>The City of Souls</name>
+ <set rarity="rare">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>The City of Souls enters the battlefield tapped.
+You may enchant The City of Souls as though it were a creature.
+T: Add W, B, or G.
+B/GW/BG/W: Until end of turn, The City of Souls becomes a 2/2 Spirit creature with hexproof. It’s still a land.</text>
+</card>
+<card>
+ <name>The Gilded Fiddle</name>
+ <set rarity="mythic">BGD</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your end step, each player may secretly choose a number, then those numbers are revealed. The player with the largest number gains control of The Gilded Fiddle, puts two skill counters on it, and loses life equal to their chosen number.
+T: Add one mana of any color for each skill counter on The Gilded Fiddle.</text>
+</card>
+<card>
+ <name>Speaker of the Passed</name>
+ <set rarity="rare">BGD</set>
+ <color>WBG</color>
+ <manacost>3B/GW/BG/W</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Aura cards in your hand and graveyard that could enchant creatures have materialize. Their materialize costs are equal to their mana costs.
+You may cast up to two Non-Curse Aura cards from your graveyard per turn.</text>
+</card>
+<card>
+ <name>Selbeth's Influence</name>
+ <set rarity="rare">BGD</set>
+ <color>WUR</color>
+ <manacost>3W/UR/WU/R</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Selbeth’s Influence enters the battlefield, pray for a card.
+Whenever you exile one or more cards from your library, you may play one of those cards without paying it’s mana cost.</text>
+</card>
+<card>
+ <name>Gator Wrassler</name>
+ <set rarity="rare">BGD</set>
+ <color>BRG</color>
+ <manacost>B/RB/GR/G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Berserker </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>First strike, deathtouch
+At the beginning of combat on your turn, discard your hand.
+When Gator Wrassler dies, you may pay 2. When you do, return up to three other creature cards from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>A Crossroads Deal</name>
+ <set rarity="rare">BGD</set>
+ <color>UBR</color>
+ <manacost>1U/BU/RB/R</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+Whenever enchanted player casts a spell, that player draws a card.
+Whenever enchanted player draws a card other than the first card they draw during their turn, that player loses 3 life unless they sacrifice a nonland permanent or discard a card at random.</text>
+</card>
+<card>
+ <name>The County Festival</name>
+ <set rarity="rare">BGD</set>
+ <color>WUG</color>
+ <manacost>3G/WG/UW/U</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of combat on your turn, for each creature you control, create a Soul token attached to it. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)
+At the beginning of your end step, if you control twenty or more Auras, you win the game.</text>
+</card>
+<card>
+ <name>Colton, Master Gator Hunter</name>
+ <set rarity="rare">BGD</set>
+ <color>BG</color>
+ <manacost>1B/GB/G</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Warrior </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>During your turn, Colton and permanents attached to it have deathtouch.
+Hellbent — 2: Target creature must block Colton this turn if able. Activate this ability only if you have no cards in hand.</text>
+</card>
+<card>
+ <name>Hateful Reflections</name>
+ <set rarity="rare">BGD</set>
+ <color>UR</color>
+ <manacost>2U/RU/R</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+Whenever enchanted player casts a spell, you may cast a copy of that spell and spend mana as though it were mana of any color to cast that copy. The copy costs 1 more to cast. (You still pay its costs.)</text>
+</card>
+<card>
+ <name>Robby's Gambit</name>
+ <set rarity="rare">BGD</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+Whenever a source deals damage to enchanted player, create a contract token attached to target player, then that player loses 2 life and draws a card.
+5UR: For each Curse you control, create a 2/1 black Dog Horror creature token with “This creature can only attack Cursed players.”</text>
+</card>
+<card>
+ <name>Nautjia, Hodanyee Healer</name>
+ <set rarity="rare">BGD</set>
+ <color>WG</color>
+ <manacost>1G/WG/W</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Shaman </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Nautjia enters the battlefield, destroy target artifact or enchantment.
+You may cast non-Curse enchantment cards from graveyards if you pay 3 as an additional cost. Spend mana as though it were mana of any color to cast those spells.</text>
+</card>
+<card>
+ <name>Faith Breaker Devil</name>
+ <set rarity="rare">BGD</set>
+ <color>BR</color>
+ <manacost>2B/RB/RB/R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Devil </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Players can’t pray.
+Whenever Faith Breaker Devil attacks, create a contract token attached to target player.
+1R, Sacrifice a permanent: Faith Breaker Devil gets +2/+2 and gains trample and flying until end of turn.</text>
+</card>
+<card>
+ <name>Jebohdaya, Church Exile</name>
+ <set rarity="rare">BGD</set>
+ <color>WU</color>
+ <manacost>2W/UW/U</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Advisor </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Jebohdaya enters the battlefield, exile target spell unless its controller pays 2.
+Whenever one or more cards would be put into exile, you may pay 1. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Soul Lifting Musician</name>
+ <set rarity="mythic">BGD</set>
+ <color>WUG</color>
+ <manacost>2GWU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Bard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Soul Lifting Musician enters the battlefield, create two Soul tokens, then draw a card for each Aura you control. (They are Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>Marila, Queen of Souls</name>
+ <set rarity="mythic">BGD</set>
+ <color>WBG</color>
+ <manacost>1WBG</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 1WBG (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature has lifelink and gets +2/+2 for each Aura attached to it.
+Whenever enchanted creature would die, instead remove all damage from it and sacrifice an Aura attached to it.
+</text>
+</card>
+<card>
+ <name>Jixabora, the Man Eater</name>
+ <set rarity="mythic">BGD</set>
+ <color>BRG</color>
+ <manacost>3BRG</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Creature - Giant Crocodile </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible, trample
+3: Jixabora’s controller draws two cards and gains 2 life. Any player may activate this ability.
+Hellbent — Jixabora, the Man Eater can’t attack or block unless you have no cards in hand.</text>
+</card>
+<card>
+ <name>In Selbeth's Name</name>
+ <set rarity="mythic">BGD</set>
+ <color>WUR</color>
+ <manacost>3URW</manacost>
+ <cmc>6</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Pray for any number of cards. When you do, In Selbeth’s Name deals X damage to any target, where X is two plus the number of cards revealed this way that were not put into your hand. You gain X life. (Reveal the top four cards of your library, then put any number of cards from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Crowlemet, Master of Deals</name>
+ <set rarity="mythic">BGD</set>
+ <color>UBR</color>
+ <manacost>3UBR</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Creature - Devil Noble </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a triggered ability of a Curse you control would trigger, you may copy it. If you don’t, counter it.
+At the beginning of your end step, create a contract token attached to target player, then you may sacrifice ten Curses. If you do, gain control of target player during their next turn.</text>
+</card>
+<card>
+ <name>Bubs, Bayou Culinarian</name>
+ <set rarity="rare">BGD</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Artificer </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, sacrifice a Food. If you do, create a Soul token and draw a card. If you can’t, create a Food token. (A Soul is an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)
+1G/U, T: Create a token that is a copy of a token permanent you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Kathran, Pastor of Flames</name>
+ <set rarity="rare">BGD</set>
+ <color>WR</color>
+ <manacost>2RRW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Wizard </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more cards are put into exile from anywhere, Kathran deals 3 damage divided as you choose among up to three different targets.
+1WR, Discard a card: Pray for an instant or sorcery card. (Reveal the top four cards of your library, then put an instant or sorcery card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>Bontei, Blackwater Guardian</name>
+ <set rarity="rare">BGD</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Shaman </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Bontei has hexproof for as long as it is enchanted.
+When Bontei enters the battlefield, you may search your library for an Aura card that could enchant Bontei, reveal it, and put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>The Beleton Family Haunter</name>
+ <set rarity="rare">BGD</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 2WB (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Whenever enchanted creature dies, each opponent loses 2 life. You gain 2 life and return The Beleton Family Haunter from your graveyard to your hand.
+</text>
+</card>
+<card>
+ <name>Unite the People</name>
+ <set rarity="rare">BGD</set>
+ <color>WG</color>
+ <manacost>XGW</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose X. You may choose the same option more than once.
+• Create a Soul token.
+• Destroy target artifact or enchantment.
+• You gain 2 life.</text>
+</card>
+<card>
+ <name>Deryl Flints, the Devil Slayer</name>
+ <set rarity="mythic">BGD</set>
+ <color>RG</color>
+ <manacost>3RG</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Viashino Berserker </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures you control get +1/+0 for each card you discarded this turn.
+Hellbent — At the end of your first combat during your turn, if you have no cards in hand, untap all creatures you control. After this phase, there is an additional combat phase.</text>
+</card>
+<card>
+ <name>Death Roll</name>
+ <set rarity="rare">BGD</set>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Hellbent — If you have no cards in hand, create a 3/3 green Crocodile creature token with trample.
+Tap an untapped creature you control. It deals damage equal to its power to any target.</text>
+</card>
+<card>
+ <name>Tibalt, Flayer of Odds</name>
+ <set rarity="mythic">BGD</set>
+ <color>BR</color>
+ <manacost>3BR</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Planeswalker - Tibalt </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>Your opponents play with their hands revealed.
+Hellbent — For spells and other abilities you control, replace each instance of “a random” with “any” and “at random” with “of your choice” if you have no cards in hand.
+[+2]: Each player chooses a card from their hand and discards one of the rest at random. Tibalt deals 3 damage to any target.
+</text>
+</card>
+<card>
+ <name>Robby John, Soulless Hermit</name>
+ <set rarity="rare">BGD</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Bard Horror </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Protection from enchantments
+At the beginning of your upkeep, pay 3 life unless you sacrifice a nonland permanent or discard a card.
+Robby John, Soulless Hermit gets +X/+X, where X is the total number of times you either lost life, sacrificed a permanent, or discarded a card this turn.</text>
+</card>
+<card>
+ <name>Down the River of Sorrows</name>
+ <set rarity="rare">BGD</set>
+ <color>UB</color>
+ <manacost>2UB</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+Whenever a creature enchanted player controls attacks, that player chooses one —
+• Destroy that creature. Enchanted player draws two cards.
+• Return that creature to its owner’s hand. Enchanted player draws a card.
+• Enchanted player discards a card. If they don’t, they lose 3 life.</text>
+</card>
+<card>
+ <name>Samuel Flints, the Faith Tested</name>
+ <set rarity="mythic">BGD</set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Samuel </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+2]: Pray for a card, then put up to two cards you own in exile onto the bottom of your library in any order.
+[-2]: Exile target permanent. For as long as it remains exiled, its controller may play it from exile unless it’s an enchantment.
+[-9]: You get an emblem with “You may play cards you own in exile.”
+[e]: [e]: </text>
+</card>
+<card>
+ <name>Anthem of Souls</name>
+ <set rarity="rare">BGD</set>
+ <color>WU</color>
+ <manacost>WWU</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Creatures you control get +1/+1.
+Whenever a creature you control becomes tapped, you may pay 1. If you do, create a Soul token attached to it. (It’s an Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)</text>
+</card>
+<card>
+ <name>McDeeren, Farmland Perfectionist</name>
+ <set rarity="rare">BGD</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Viashino Druid </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>When McDeeren enters the battlefield, target land you control becomes a 1/1 Elemental creature in addition to its other types, then create a Soul token attached to it.
+Whenever an enchanted permanent you control would produce mana, it produces twice that much mana of any one color instead.</text>
+</card>
+<card>
+ <name>Jonas, the Unbeaten Soul</name>
+ <set rarity="rare">BGD</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 4G (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature gets +4/+4 and has trample, haste and “When this creature attacks, you may destroy target noncreature, nonland permanent.”
+</text>
+</card>
+<card>
+ <name>Gigsdidee, the Craw Father</name>
+ <set rarity="mythic">BGD</set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <cmc>7</cmc>
+ <type>Legendary Creature - Crawfish Levithan </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof, vigilance, trample
+Whenever a creature attacks you, Gigsdidee fights that creature.
+When Gigsdidee dies, target opponent creates ten Food tokens.</text>
+</card>
+<card>
+ <name>Doubling Season</name>
+ <set rarity="rare">BGD</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.</text>
+</card>
+<card>
+ <name>A Deal of Hunting</name>
+ <set rarity="rare">BGD</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+When A Deal of Hunting enters the battlefield, enchanted player reveals the top ten cards of their library, puts up to three creature cards from among them into their hand, and puts the rest on the bottom of their library in any order.
+Whenever enchanted player casts a spell, each other player creates a 3/3 green Yeti creature token.</text>
+</card>
+<card>
+ <name>Advanced Agriculture</name>
+ <set rarity="rare">BGD</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Lands you control have “T: Create a Food token.” (It is a colorless artifact with “2, T, Sacrifice this artifact: You gain 3 life.”)
+Sacrifice a Food: Add C.</text>
+</card>
+<card>
+ <name>Violent Preachings</name>
+ <set rarity="rare">BGD</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top two cards of your library, then Violent Preachings deals damage to any target equal to the number of cards in exile that were put there this turn.
+Until the end of your next turn, you may cast up to two spells from exile that were put there since you cast this spell.</text>
+</card>
+<card>
+ <name>Slappy, the Wild Soul</name>
+ <set rarity="rare">BGD</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 1RR (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+Enchanted creature gets +1/+0 and has double strike and trample.
+</text>
+</card>
+<card>
+ <name>Hornswagglin' Boglins</name>
+ <set rarity="rare">BGD</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Frog Goblin Berserker </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste, first strike
+Hornswagglin’ Boglins must attack each combat if able.
+Hellbent — At the beginning of combat on your turn, if you have no cards in hand, gain control of target artifact or creature until end of turn, then untap it.</text>
+</card>
+<card>
+ <name>A Deal of Punishment</name>
+ <set rarity="rare">BGD</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+When A Deal of Punishment enters the battlefield, enchanted player has it deal 4 damage to a target of their choice.
+Whenever enchanted player casts a spell, A Deal of Punishment deals 1 damage to them.</text>
+</card>
+<card>
+ <name>Boglin Gun Nut</name>
+ <set rarity="rare">BGD</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Frog Goblin Berserker </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+At the beginning of combat, tap Boglin Gun Nut unless you discard a card.
+Hellbent — If Boglin Gun Nut or a noncreature artifact you control would deal damage while you have no cards in hand, it deals twice that much damage instead.</text>
+</card>
+<card>
+ <name>Acolyte of the Burining Sunrise</name>
+ <set rarity="mythic">BGD</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Giant Wizard </type>
+ <pt>2/6</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste
+Whenever Acolyte of the Burining Sunrise attacks, defending player prays for a card. If no cards are put into exile this way, Acolyte of the Burining Sunrise deals 3 damage to target creature or planeswalker.
+Acolyte of the Burining Sunrise gets +1/+0 for each card in exile that was put there this turn.</text>
+</card>
+<card>
+ <name>Stephar, the Unluckiest</name>
+ <set rarity="mythic">BGD</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Stephar </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, put a loyalty counter on Stephar for each curse attached to you.
+[-2]: Search your library for a Curse card and put it onto the battlefield attached to you, then shuffle.
+[-7]: You get an emblem with “Whenever a triggered ability of a permanent you control triggers, you may counter it.”
+</text>
+</card>
+<card>
+ <name>Pulkast Haunting</name>
+ <set rarity="rare">BGD</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This spell can’t be countered.
+Each player discards a card at random, then each opponent repeats this process until the number of cards in their hand is less than or equal to the number of cards in your hand.</text>
+</card>
+<card>
+ <name>Lanora, the Bloodthirsty Soul</name>
+ <set rarity="rare">BGD</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize 2BB (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature you control
+Sacrifice enchanted creature: Search your library for a card, put it into your hand, then shuffle.
+</text>
+</card>
+<card>
+ <name>Hunted Swamp Monster</name>
+ <set rarity="rare">BGD</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk Horror </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+When Hunted Swamp Monster enters the battlefield, target opponent creates two 1/1 black Warrior creature tokens with first strike and deathtouch.
+2BB, T, Discard a card: Destroy target creature with power 2 or less.</text>
+</card>
+<card>
+ <name>The Devil's Due</name>
+ <set rarity="rare">BGD</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+Whenever you cast a Curse spell, copy it. (You choose the same targets for the copy.)
+At the beginning of your upkeep, create a 2/1 black Dog Horror creature token with “This creature can only attack Cursed players.”</text>
+</card>
+<card>
+ <name>A Deal of Loss</name>
+ <set rarity="rare">BGD</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+When A Deal of Loss enters the battlefield, enchanted player creates three 2/2 black Zombie creature tokens with menace.
+Whenever enchanted player casts a spell, that player sacrifices a creature.</text>
+</card>
+<card>
+ <name>Crowlemet's Game</name>
+ <set rarity="mythic">BGD</set>
+ <color>B</color>
+ <manacost>XBB</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, discard X cards.
+Search your library for up to twice X Curse cards, reveal them, and put them into your hand. Put those cards onto the battlefield instead if cards with mana values equal to 2, 3, 4, 5, and 6 were discarded to cast this spell.
+Shuffle.</text>
+</card>
+<card>
+ <name>Soul City Symphony</name>
+ <set rarity="rare">BGD</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Soul City Symphony enters the battlefield, create two Soul tokens. (They are Aura enchantment with Enchant creature you control and “Enchanted creature gets +1/+1 and has ward 1.”)
+Whenever an enchanted creature deals combat damage to a player, draw a card.</text>
+</card>
+<card>
+ <name>Soul Chainer Devil</name>
+ <set rarity="rare">BGD</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Devil </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Soul Chainer Devil enters the battlefield, gain control of target Aura, then attach it to either target player or Soul Chainer Devil.
+X, T, Sacrifice an Aura: Search your library for an Aura card with mana value X or less and cast it without paying its mana cost. Shuffle afterwards.</text>
+</card>
+<card>
+ <name>Robby John, the Rhythmic Soul</name>
+ <set rarity="rare">BGD</set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize XUU (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Enchant creature
+When Robby John, the Rhythmic Soul enters the battlefield, create X soul tokens.
+Enchanted creature gets +1/+0 and has flying
+</text>
+</card>
+<card>
+ <name>Forcer of Confessions</name>
+ <set rarity="rare">BGD</set>
+ <color>U</color>
+ <manacost>UU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Forcer of Confessions deals combat damage to a player, pray for a nonland, noncreature card (Reveal the top four cards of your library, then put a nonland, noncreature card from among them into your hand. You may exile the rest or put them back in any order.)</text>
+</card>
+<card>
+ <name>A Deal of Ancestry</name>
+ <set rarity="rare">BGD</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+When A Deal of Ancestry enters the battlefield, enchanted player draws three cards.
+Whenever enchanted player casts a spell, that player puts a card from their hand onto the top or bottom of their library.</text>
+</card>
+<card>
+ <name>The Breyzzerdrix</name>
+ <set rarity="mythic">BGD</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Rabbit Beast </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever The Breyzzerdrix attacks, you may return another target nonland permanent to its owner’s hand, if you don’t, draw a card.
+Whenever The Breyzzerdrix becomes the target of a spell or ability, exile it.
+4UU, Discard two card: Return The Breyzzerdrix from exile to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Lukas, the Holy Soul</name>
+ <set rarity="rare">BGD</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Materialize W (You may cast this spell without a target for its materialize cost. As it resolves, create a 1/1 Spirit creature token and attach this card to it.)
+Flash
+Enchant creature
+Enchanted creature gets -1/-0 and has indestructible and defender.
+</text>
+</card>
+<card>
+ <name>Live Off the Land</name>
+ <set rarity="mythic">BGD</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>1W: Create a Food token.
+W, Sacrifice a Food: Create a tapped 0/3 white Ox creature token.
+W, Exile an Ox you control: Search your library for a plains card, reveal it, and put it into your hand. Then shuffle.</text>
+</card>
+<card>
+ <name>Eagle Eyed Dealer</name>
+ <set rarity="rare">BGD</set>
+ <color>W</color>
+ <manacost>2WWW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Players can’t search libraries.
+Players can’t draw more than one card per turn.
+Players can’t cast more than one spell per turn.
+“Let’s all have a nice, fair game.”</text>
+</card>
+<card>
+ <name>A Deal of Debt</name>
+ <set rarity="rare">BGD</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+When A Deal of Debt enters the battlefield, enchanted player creates three Treasure tokens.
+Spells enchanted player cast cost 1 more to cast.</text>
+</card>
+<card>
+ <name>Cotton Eyed Scarecrow</name>
+ <set rarity="rare">BGD</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Scarecrow </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>You may cast Cotton Eyed Scarecrow from exile.
+T, Exile Cotton Eyed Scarecrow: Exile target creature an opponent controls until Cotton Eyed Scarecrow leaves exile. Activate this ability only during your turn.</text>
+</card>
+<card>
+ <name>Come Judgment Day</name>
+ <set rarity="rare">BGD</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Up to X target creatures gains indestructible until end of turn, where X is the number of times you prayed this turn.
+Destroy all creatures, then exile all cards from all graveyards.</text>
+</card>
+<card>
+ <name>Old Goatskull Bridge</name>
+ <set rarity="rare">BGD</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Discard a card: Add one mana of any color.
+3, T, Sacrifice Old Goatskull Bridge: Create a tapped X/X red Devil creature token, where X is seven minus the number of cards in your hand.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Soul</name>
+ <set>BGD</set>
+ <color></color>
+ <type>Token Enchantment - Aura Soul </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +1/+1 and has ward 1. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Zombie</name>
+ <set>BGD</set>
+ <color>B</color>
+ <type>Token Creature - Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Yeti</name>
+ <set>BGD</set>
+ <color>G</color>
+ <type>Token Creature - Yeti </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Warrior</name>
+ <set>BGD</set>
+ <color>B</color>
+ <type>Token Creature - Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike, deathtouch</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Squirrel</name>
+ <set>BGD</set>
+ <color>G</color>
+ <type>Token Creature - Squirrel </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Spirit</name>
+ <set>BGD</set>
+ <color></color>
+ <type>Token Creature - Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Ox</name>
+ <set>BGD</set>
+ <color>W</color>
+ <type>Token Creature - Ox </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Frog Goblin</name>
+ <set>BGD</set>
+ <color>R</color>
+ <type>Token Creature - Frog Goblin </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Dog Horror</name>
+ <set>BGD</set>
+ <color>B</color>
+ <type>Token Creature - Dog Horror </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>This creature can only attack Cursed players.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Crocodile</name>
+ <set>BGD</set>
+ <color>G</color>
+ <type>Token Creature - Crocodile </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Cleric</name>
+ <set>BGD</set>
+ <color>W</color>
+ <type>Token Creature - Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Bird</name>
+ <set>BGD</set>
+ <color>U</color>
+ <type>Token Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Treasure</name>
+ <set>BGD</set>
+ <color></color>
+ <type>Token Artifact - Treasure </type>
+ <tablerow>1</tablerow>
+ <text>Sacrifice this artifact: Add one mana of any color.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Food</name>
+ <set>BGD</set>
+ <color></color>
+ <type>Token Artifact - Food </type>
+ <tablerow>1</tablerow>
+ <text>2, T, Sacrifice this artifact: You gain 3 life.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Contract</name>
+ <set>BGD</set>
+ <color></color>
+ <type>Token Enchantment - Aura Contract </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+Whenever you target enchanted player, scry 1.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Devil</name>
+ <set>BGD</set>
+ <color>R</color>
+ <type>Token Creature - Devil </type>
+ <pt>X/X</pt>
+ <tablerow>2</tablerow>
+ <text>Menace</text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

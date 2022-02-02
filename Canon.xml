@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>CANON</name>
+<longname></longname>
+<settype></settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Trinisphere</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost 1B to cast costs 2B to cast instead.)</text>
+</card>
+<card>
+ <name>Daze</name>
+ <set rarity="uncommon">CANON</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You may return an Island you control to its owner’s hand rather than pay this spell’s mana cost.
+Counter target spell unless its controller pays 1.</text>
+</card>
+<card>
+ <name>Mana Vault</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Mana Vault doesn’t untap during your untap step.
+At the beginning of your upkeep, you may pay 4. If you do, untap Mana Vault.
+At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.
+T: Add CCC.</text>
+</card>
+
+<!-->Tokens</-->
+
+
+</cards>
+</cockatrice_carddatabase>

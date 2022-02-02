@@ -1,0 +1,3420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>CYB</name>
+<longname>Cybaros</longname>
+<settype></settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Lithe Stalker</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Cat Construct </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Lithe Stalker or another artifact enters the battlefield under your control, artifact creatures you control gain vigilance until end of turn.</text>
+</card>
+<card>
+ <name>Techfist Magus</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, Techfist Magus gets +1/+1 until end of turn. Untap it.</text>
+</card>
+<card>
+ <name>Aqueous Drake</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Drake </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Aqueous Drake deals combat damage to a player, scry 1.</text>
+</card>
+<card>
+ <name>Nyamphibian</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Frog </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+B: Nyamphibian gets +1/-1 until end of turn.</text>
+</card>
+<card>
+ <name>Listful Delegate</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Advisor </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Advisors you control have ward 1.</text>
+</card>
+<card>
+ <name>Retrofit Paladin</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Retrofit Paladin enters the battlefield, tap up to two target creatures with power 3 or less.</text>
+</card>
+<card>
+ <name>Priestess of Chains</name>
+ <set rarity="common" splitterPath="/Priestess of Chains.full.jpg" >CYB</set>
+ <color>W</color>
+ <related attach="attach">Winged Subjugator</related>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 3W (3W: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+Vigilance
+W, T: Tap target creature with power 2 or less.
+---
+(Back): Winged Subjugator</text>
+</card>
+<card>
+ <name>Winged Subjugator</name>
+ <set rarity="common" splitterPath="/Winged Subjugator.full.jpg" >CYB</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Cyborg Angel </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, vigilance
+W, T: Tap target creature.
+---
+(Front): Priestess of Chains</text>
+</card>
+<card>
+ <name>Mananet Reverend</name>
+ <set rarity="common" splitterPath="/Mananet Reverend.full.jpg" >CYB</set>
+ <color>W</color>
+ <related attach="attach">Reborn Follower</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 4W (4W: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+When Mananet Reverend enters the battlefield, put a +1/+1 counter on target creature.
+---
+(Back): Reborn Follower</text>
+</card>
+<card>
+ <name>Reborn Follower</name>
+ <set rarity="common" splitterPath="/Reborn Follower.full.jpg" >CYB</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Cyborg Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever this creature transforms into Reborn Follower, put a +1/+1 counter on target creature.
+---
+(Front): Mananet Reverend</text>
+</card>
+<card>
+ <name>Sworn Loyalist</name>
+ <set rarity="common" splitterPath="/Sworn Loyalist.full.jpg" >CYB</set>
+ <color>W</color>
+ <related attach="attach">Silver Swiftspear</related>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 4W (4W: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+First strike
+---
+(Back): Silver Swiftspear</text>
+</card>
+<card>
+ <name>Silver Swiftspear</name>
+ <set rarity="common" splitterPath="/Silver Swiftspear.full.jpg" >CYB</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Cyborg Knight </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+---
+(Front): Sworn Loyalist</text>
+</card>
+<card>
+ <name>Whipwing Dragonfly</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Insect </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Whipwing Dragonfly enters the battlefield, you gain 2 life.</text>
+</card>
+<card>
+ <name>Dated Mechanoid</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Construct Knight </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Dated Mechanoid becomes tapped, another target creature you control gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Escorted Captain</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Escorted Captain enters the battlefield or dies, create a 1/1 colorless Cyborg artifact creature token.</text>
+</card>
+<card>
+ <name>Conserve Ideals</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy up to one target artifact or enchantment. Prevent all combat damage that would be dealt this turn.</text>
+</card>
+<card>
+ <name>Assembled Assault</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on each artifact creature you control.
+Creatures you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Galvanize</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on target creature, then it gets your choice of +1/+1 or lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Cut Aside</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target attacking or blocking creature with power 3 or less.</text>
+</card>
+<card>
+ <name>Holding Cell</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+Enchanted creature can’t attack or block.</text>
+</card>
+<card>
+ <name>Deeptreader Arcanist</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>2U: Deeptreader Arcanist gets +1/+0 and can’t be blocked until end of turn.</text>
+</card>
+<card>
+ <name>Industrialize</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may cast this spell from your graveyard. If you do, exile it as it resolves.
+Scry 1, draw a card, then discard a card.</text>
+</card>
+<card>
+ <name>Neotech Wingsuit</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Neotech Wingsuit gets +1/+1 as long as you control a permanent you don’t own.</text>
+</card>
+<card>
+ <name>Emulation Expert</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>1U, T, Sacrifice Emulation Expert: Gain control of target creature you don’t control with mana value 3 or less. Its owner creates a token copy of it. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Contain for Study</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Contain for Study enters the battlefield, tap enchanted creature.
+You control enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step.</text>
+</card>
+<card>
+ <name>Mage Hand</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap target creature. You may have its base power and toughness become 3/3 until end of turn.</text>
+</card>
+<card>
+ <name>Siphon Energy</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 3. Untap target permanent.</text>
+</card>
+<card>
+ <name>Forced Ejection</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature to its owner’s hand. If you’ve cast another instant or sorcery spell this turn, draw a card.</text>
+</card>
+<card>
+ <name>Battery Drain</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap up to two target creatures. Artifact creatures tapped this way don’t untap during their controller’s next untap step.</text>
+</card>
+<card>
+ <name>Recharge</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Draw two cards.
+• Put a +1/+1 counter on target creature, scry 1, then draw a card.</text>
+</card>
+<card>
+ <name>Withered Survivor</name>
+ <set rarity="common" splitterPath="/Withered Survivor.full.jpg" >CYB</set>
+ <color>B</color>
+ <related attach="attach">Silvereye Scout</related>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 4B (4B: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+Menace
+---
+(Back): Silvereye Scout</text>
+</card>
+<card>
+ <name>Silvereye Scout</name>
+ <set rarity="common" splitterPath="/Silvereye Scout.full.jpg" >CYB</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Cyborg Scout </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Silvereye Scout can’t be blocked except by three or more creatures.
+---
+(Front): Withered Survivor</text>
+</card>
+<card>
+ <name>Survey the Area</name>
+ <set rarity="common">CYB</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Scry 3.
+Create a 1/1 colorless Thopter artifact creature token with flying.</text>
+</card>
+<card>
+ <name>Dissolve into Data</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Integrate target creature. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)</text>
+</card>
+<card>
+ <name>Data Wipe</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Target player discards two cards.
+• Target player exiles their graveyard, then loses 1 life for each noncreature card exiled this way.</text>
+</card>
+<card>
+ <name>Corpse Experiment</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Return target creature card from a graveyard to its owner’s hand.
+• Exile target creature card in any graveyard, then draw a card.</text>
+</card>
+<card>
+ <name>Iris Agent</name>
+ <set rarity="common" splitterPath="/Iris Agent.full.jpg" >CYB</set>
+ <color>B</color>
+ <related attach="attach">Iris Flayer</related>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 4B (4B: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+Deathtouch
+---
+(Back): Iris Flayer</text>
+</card>
+<card>
+ <name>Iris Flayer</name>
+ <set rarity="common" splitterPath="/Iris Flayer.full.jpg" >CYB</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Cyborg Rogue </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+When this creature transforms into Iris Flayer, target player draws a card and loses 1 life.
+---
+(Front): Iris Agent</text>
+</card>
+<card>
+ <name>Cybat</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Bat Construct </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Cybat becomes tapped, you gain 1 life.</text>
+</card>
+<card>
+ <name>Mananet Cultist</name>
+ <set rarity="common" splitterPath="/Mananet Cultist.full.jpg" >CYB</set>
+ <color>B</color>
+ <related attach="attach">Reborn Subjugator</related>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 4B (4B: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+When Mananet Cultist enters the battlefield, you lose 1 life.
+---
+(Back): Reborn Subjugator</text>
+</card>
+<card>
+ <name>Reborn Subjugator</name>
+ <set rarity="common" splitterPath="/Reborn Subjugator.full.jpg" >CYB</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Cyborg Cleric </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Reborn Subjugator attacks, each player loses 1 life.
+---
+(Front): Mananet Cultist</text>
+</card>
+<card>
+ <name>Steelhorn Crusher</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Minotaur Construct </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Steelhorn Crusher or another artifact enters the battlefield under your control, artifact creatures you control gain menace until end of turn.</text>
+</card>
+<card>
+ <name>Artificial Unlife</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -2/-2 until end of turn. When that creature dies this turn, create a 1/1 colorless Cyborg artifact creature token.</text>
+</card>
+<card>
+ <name>Scrapweight</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets -1/-1.
+Sacrifice an artifact: Destroy enchanted creature.</text>
+</card>
+<card>
+ <name>High Voltage</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 2 less to cast as long as you’ve cast another instant or sorcery spell this turn.
+High Voltage deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>Vagrant Sorceress</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Vagrant Sorceress attacks, it gets +1/+1 until end of turn for each permanent you control but don’t own.</text>
+</card>
+<card>
+ <name>Revved Robo</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Revved Robo enters the battlefield, you may put a +1/+1 counter on it. If you don’t, it gets +2/+0 and gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Drone Swarm</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 colorless Thopter artifact creature tokens with flying, then each Thopter you control deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Machinations</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards, then lose 3 life unless you control an artifact creature.</text>
+</card>
+<card>
+ <name>Iron Steambreaker</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever Iron Steambreaker attacks, put a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Breaching Landwurm</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Wurm </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+3R: Breaching Landwurm gets +2/+0 and gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Static Augment</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a haste counter on up to one target creature.
+Draw a card.</text>
+</card>
+<card>
+ <name>Minoan Engineer</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Minotaur Artificer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Solidarity (When you attack with five or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0.” if you haven’t this turn.)
+Minoan Engineer has menace as long as you have solidarity.</text>
+</card>
+<card>
+ <name>Resist in the Ranks</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If you control another permanent you don’t own, it gets +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Pull the Wires</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact. Pull the Wires deals 2 damage to that artifact’s controller.</text>
+</card>
+<card>
+ <name>Vanguard Recruit</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Goblin Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Solidarity (When you attack with five or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0.” if you haven’t this turn.)
+Haste</text>
+</card>
+<card>
+ <name>Muse</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, discard a card.
+Draw two cards.</text>
+</card>
+<card>
+ <name>Explosive Redemption</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Explosive Redemption deals 4 damage to target creature. When that creature dies this turn, return it to the battlefield under your control. It gains haste. Sacrifice it at end of turn.</text>
+</card>
+<card>
+ <name>Joint Strike</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +2/+0 until end of turn. If there are five or more different creature types among creatures you control, they also gain trample until end of turn.</text>
+</card>
+<card>
+ <name>Recon</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Scry 1.</text>
+</card>
+<card>
+ <name>Orbinoid</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast your first instant or sorcery spell each turn, untap Orbinoid.
+T: Add one mana of any type. (Types of mana include W, U, B, R, G, and C.)</text>
+</card>
+<card>
+ <name>Endangered Scinok</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Rhino Beast </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>2G: Endangered Scinok gets +1/+1 until end of turn. This ability costs 1 less to activate until end of turn.</text>
+</card>
+<card>
+ <name>Massive Predation</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gets +2/+0 until end of turn. It fights target creature you don’t control.</text>
+</card>
+<card>
+ <name>Workshop Helper</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>4G: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Simpler Times</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or enchantment. You gain life equal to its mana value.</text>
+</card>
+<card>
+ <name>Maximum Power</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put two +1/+1 counters on target creature. Whenever it becomes blocked this turn, double its power until end of turn.</text>
+</card>
+<card>
+ <name>Londel Skywatch</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Solidarity (When you attack with five or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0.” if you haven’t this turn.)
+As long as you have solidarity, Londel Skywatch gets +0/+1 and has vigilance and reach.</text>
+</card>
+<card>
+ <name>Ozanwood Murk</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fish Beast </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Ozanwood Murk dies, draw a card.</text>
+</card>
+<card>
+ <name>Counterstrike Captain</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Lizard Soldier </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Solidarity (When you attack with five or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0.” if you haven’t this turn.)
+Counterstrike Captain has trample as long as you have solidarity.</text>
+</card>
+<card>
+ <name>Impregnability</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+2 until end of turn. If you’ve cast another instant or sorcery spell this turn, it gets +4/+4 until end of turn instead.</text>
+</card>
+<card>
+ <name>Skysnipe</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Skysnipe deals 5 damage to target creature with flying.
+• Target creature you control gets +3/+3 until end of turn.</text>
+</card>
+<card>
+ <name>Stand Strong</name>
+ <set rarity="common">CYB</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 green Elf creature tokens. Then if there are five or more different creature types among creatures you control, put a +1/+1 counter on them both.
+Draw a card.</text>
+</card>
+<card>
+ <name>Atomize</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>2CC</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target nonland permanent.</text>
+</card>
+<card>
+ <name>Inessence</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>2C</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Integrate target permanent spell. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)</text>
+</card>
+<card>
+ <name>Descend from the Stars</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>C</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 1/1 colorless Cyborg artifact creature token, then draw a card unless an opponent discards a card.</text>
+</card>
+<card>
+ <name>Warp Figure</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>1C</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +4/-2 until end of turn.</text>
+</card>
+<card>
+ <name>Savage Weldbeast</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>4C</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Vukoroq Beast </type>
+ <pt>6/4</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof from permanents</text>
+</card>
+<card>
+ <name>Vision Herald</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>2C</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vukoroq Advisor </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Vision Herald enters the battlefield, the first spell target opponent casts next turn costs an additional 1 and 1 life to cast.</text>
+</card>
+<card>
+ <name>Masked Envoy</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>1C</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vukoroq Advisor </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat on your turn, you may have target Advisor you control get +2/-1 until end of turn.</text>
+</card>
+<card>
+ <name>Enraged Breaker</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>1C</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vukoroq Berserker </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Enraged Breaker gets +1/+2 as long as you control another creature named Enraged Breaker.</text>
+</card>
+<card>
+ <name>Cast Reflection</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>3C</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a token copy of target creature, except it’s a 3/3.</text>
+</card>
+<card>
+ <name>Omnoid Destroyer</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>3C</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Vukoroq Construct </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Omnoid Destroyer or another artifact enters the battlefield under your control, artifact creatures you control gain deathtouch until end of turn.</text>
+</card>
+<card>
+ <name>Instill Void</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>C</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Whenever enchanted creature deals or is dealt damage, exile it.</text>
+</card>
+<card>
+ <name>Seeker Orbs</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>1C</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Seeker Orbs becomes tapped, scry 1.</text>
+</card>
+<card>
+ <name>Plasma Blade</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1.
+Whenever equipped creature attacks, it gains deathtouch until end of turn.
+Equip 1</text>
+</card>
+<card>
+ <name>Reactor Sphere</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any type. (Types of mana include W, U, B, R, G, and C.)
+T, Sacrifice two permanents named Reactor Sphere: Draw three cards.</text>
+</card>
+<card>
+ <name>Auto Scanner</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>1, Sacrifice Auto Scanner: Search your library for a land card, reveal it, then put it into your hand. Shuffle.</text>
+</card>
+<card>
+ <name>Supercharger</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Supercharger enters the battlefield with two charge counters on it.
+2, T, Remove a charge counter from Supercharger: Target creature gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Holo-Map</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Holo-Map enters the battlefield with two charge counters on it.
+1, T, Remove a charge counter from Holo-Map: Target creature can’t be blocked until end of turn.</text>
+</card>
+<card>
+ <name>Field Laboratory</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Field Laboratory enters the battlefield tapped.
+T: Add G or U.
+1, Discard Field Laboratory: Scry 2.</text>
+</card>
+<card>
+ <name>Valley Village</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Valley Village enters the battlefield tapped.
+T: Add R or G.
+1, Discard Valley Village: Scry 2.</text>
+</card>
+<card>
+ <name>Steam Colony</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Steam Colony enters the battlefield tapped.
+T: Add U or R.
+1, Discard Steam Colony: Scry 2.</text>
+</card>
+<card>
+ <name>Nebulous Ring</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Nebulous Ring enters the battlefield tapped.
+T: Add C or W.
+1, Discard Nebulous Ring: Scry 2.</text>
+</card>
+<card>
+ <name>Dark Horizon</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Dark Horizon enters the battlefield tapped.
+T: Add C or B.
+1, Discard Dark Horizon: Scry 2.</text>
+</card>
+<card>
+ <name>Lunar Plateau</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Lunar Plateau enters the battlefield tapped.
+T: Add W or B.
+1, Discard Lunar Plateau: Scry 2.</text>
+</card>
+<card>
+ <name>Capital Zenith</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Capital Zenith enters the battlefield tapped.
+When Capital Zenith enters the battlefield, sacrifice it unless you pay 1.
+T: Add one mana of any type. (Types of mana include W, U, B, R, G, and C.)</text>
+</card>
+<card>
+ <name>Warpway Rings</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Warpway Rings: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Silverbone Chromate</name>
+ <set rarity="uncommon">CYB</set>
+ <color>B</color>
+ <manacost>3CB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Vukoroq Skeleton </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>3: Integrate the top two cards of target player’s library. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+As long as six or more cards are integrated onto permanents you control, Silverbone Chromate gets +2/+3 and has menace.</text>
+</card>
+<card>
+ <name>Radiant Chromate</name>
+ <set rarity="uncommon">CYB</set>
+ <color>W</color>
+ <manacost>1CW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vukoroq Advisor </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures can’t block Radiant Chromate or other Advisors you control unless their controller pays 1 for each of those creatures.</text>
+</card>
+<card>
+ <name>Wayward Drek</name>
+ <set rarity="uncommon" splitterPath="/Wayward Drek.full.jpg" >CYB</set>
+ <color>WB</color>
+ <related attach="attach">Reborn Herald</related>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 3W/B (3W/B: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+When Wayward Drek enters the battlefield, create a 1/1 colorless Cyborg artifact creature token.
+---
+(Back): Reborn Herald</text>
+</card>
+<card>
+ <name>Reborn Herald</name>
+ <set rarity="uncommon" splitterPath="/Reborn Herald.full.jpg" >CYB</set>
+ <color>WB</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Cyborg Rogue </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When this creatures transforms into Reborn Herald, or whenever another permanent you control transforms, create a 1/1 colorless Cyborg artifact creature token.
+Reborn Herald gets +1/+1 for each tapped artifact you control.
+---
+(Front): Wayward Drek</text>
+</card>
+<card>
+ <name>Inspired Denizen</name>
+ <set rarity="uncommon">CYB</set>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Azra Citizen </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Solidarity (When you attack with five or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0.” if you haven’t this turn.)
+Whenever Inspired Denizen attacks, create a 1/1 red Citizen creature token tapped and attacking.</text>
+</card>
+<card>
+ <name>Novice Technician</name>
+ <set rarity="common">CYB</set>
+ <color>WB</color>
+ <manacost>1W/B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an artifact you control becomes tapped, you gain 1 life. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>Dark Ambassador</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>3C/W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Vukoroq Advisor </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Dark Ambassador attacks, exile up to one target creature, then return it to the battlefield tapped under its owner’s control.</text>
+</card>
+<card>
+ <name>Mesmage</name>
+ <set rarity="common">CYB</set>
+ <color>UR</color>
+ <manacost>1U/R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>1U/R, T: Tap target creature, then gain control of it until end of turn. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Brass Laborer</name>
+ <set rarity="common">CYB</set>
+ <color>M</color>
+ <manacost>1G/U // G/U</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Assembly-Worker  // Sorcery - Discharge </type>
+ <pt>1/3</pt>
+ <tablerow>3</tablerow>
+ <text>Reach
+Brass Laborer enters the battlefield with a charge counter on it.
+--- 
+Put a charge counter on target non-assembly-worker artifact. Untap it. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Armored Repton</name>
+ <set rarity="common">CYB</set>
+ <color>RG</color>
+ <manacost>3R/G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Lizard Beast </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Armored Repton gets +1/+0 for each other attacking creature you control.</text>
+</card>
+<card>
+ <name>Extracted Intel</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>C</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose a card name. Target creature gains protection from the chosen card name until end of turn. Scry 2.</text>
+</card>
+<card>
+ <name>Usher of Progress</name>
+ <set rarity="common">CYB</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Advisor </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Usher of Progress enters the battlefield, put a +1/+1 counter on up to one other target creature.</text>
+</card>
+<card>
+ <name>Ironcliff Blaster</name>
+ <set rarity="common">CYB</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Dwarf Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, Ironcliff Blaster gets +1/+0 and gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>Weldskin Forger</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>4C</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Vukoroq Artificer </type>
+ <pt>3/6</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Weldskin Forger gets +1/+0 for each artifact you control.
+2: Target permanent becomes an artifact in addition to its other types until end of turn.</text>
+</card>
+<card>
+ <name>Beguiling Stewards</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>3C</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Vukoroq Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Beguiling Stewards enters the battlefield, if it’s not a token, create a token copy of it.
+Beguiling Stewards has deathtouch as long as you control another creature named Beguiling Stewards.</text>
+</card>
+<card>
+ <name>Cosmic Colossus</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>4CC</manacost>
+ <cmc>6</cmc>
+ <type>Artifact Creature - Vukoroq Construct </type>
+ <pt>4/7</pt>
+ <tablerow>2</tablerow>
+ <text>When Cosmic Colossus enters the battlefield, cast a copy of target card in exile without paying its mana cost unless an opponent exiles two nonland permanents they control.</text>
+</card>
+<card>
+ <name>Offerings to Sky Gods</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>1C</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, integrate the top card of target player’s library. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+Whenever a creature card is integrated onto Offerings to Sky Gods, create a 1/1 colorless Cyborg artifact creature token.</text>
+</card>
+<card>
+ <name>Interception</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>2C</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each player reveals their hand, then you choose a nonland card type. Each player discards all cards of the chosen type, then draws that many cards. You draw an additional card.</text>
+</card>
+<card>
+ <name>Reintegration Beam</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>3CC</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Integrate any number of target creatures with total toughness 5 or less. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)</text>
+</card>
+<card>
+ <name>Spatial Rift</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>1C</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target activated or triggered ability. If a creature’s ability is countered this way, exile that creature.</text>
+</card>
+<card>
+ <name>Fluid Form</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>XC</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control becomes a copy of another target creature until end of turn, except it has base power and toughness X+1/X+1.</text>
+</card>
+<card>
+ <name>Assimilate</name>
+ <set rarity="uncommon">CYB</set>
+ <color>W</color>
+ <manacost>1C/W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose a creature type. Put a +1/+1 counter on each creature you control of the chosen type.
+If you control two or more creatures with the same name, draw a card.</text>
+</card>
+<card>
+ <name>Return from the Void</name>
+ <set rarity="uncommon">CYB</set>
+ <color>B</color>
+ <manacost>1C/B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, when target creature leaves the battlefield, return it to the battlefield under your control.</text>
+</card>
+<card>
+ <name>War Council</name>
+ <set rarity="uncommon">CYB</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Play with the top card of your library revealed.
+As long as the top card of your library is a creature card, creatures you control get +1/+1.
+As long as the top card of your library is a noncreature card, noncreature spells your opponents cast cost 1 more to cast.</text>
+</card>
+<card>
+ <name>Overt Banishment</name>
+ <set rarity="uncommon">CYB</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. If its power was 3 or less, tap up to two other target creatures.</text>
+</card>
+<card>
+ <name>Royal Templar</name>
+ <set rarity="uncommon" splitterPath="/Royal Templar.full.jpg" >CYB</set>
+ <color>W</color>
+ <related attach="attach">Crown Betrayer</related>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 3W (3W: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+Vigilance
+When Royal Templar enters the battlefield, target creature gets +1/+0 and gains indestructible until end of turn.
+---
+(Back): Crown Betrayer</text>
+</card>
+<card>
+ <name>Crown Betrayer</name>
+ <set rarity="uncommon" splitterPath="/Crown Betrayer.full.jpg" >CYB</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Cyborg Knight </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When this creature transforms into Crown Betrayer, or whenever another permanent you control transforms, Crown Betrayer gets +1/+0 and gains indestructible until end of turn.
+---
+(Front): Royal Templar</text>
+</card>
+<card>
+ <name>Ascended Seer</name>
+ <set rarity="uncommon">CYB</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an opponent draws a card, you gain 1 life.
+2, T: Each player draws a card.</text>
+</card>
+<card>
+ <name>Warcast Seraph</name>
+ <set rarity="uncommon">CYB</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Angel Soldier </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Warcast Seraph enters the battlefield, put a +1/+1 counter on each artifact creature you control.</text>
+</card>
+<card>
+ <name>Twilight Vagabond</name>
+ <set rarity="uncommon" splitterPath="/Twilight Vagabond.full.jpg" >CYB</set>
+ <color>W</color>
+ <related attach="attach">Traveler of Dawn</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Peasant </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 2W (2W: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+Whenever Twilight Vagabond attacks, put a +1/+1 counter on it.
+---
+(Back): Traveler of Dawn</text>
+</card>
+<card>
+ <name>Traveler of Dawn</name>
+ <set rarity="uncommon" splitterPath="/Traveler of Dawn.full.jpg" >CYB</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Cyborg Peasant </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>1, Remove a +1/+1 counter from Traveler of Dawn: Exile target creature. Return it to the battlefield under its owner’s control at the beginning of the next end step.
+---
+(Front): Twilight Vagabond</text>
+</card>
+<card>
+ <name>Sudden Ambush</name>
+ <set rarity="uncommon">CYB</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create three 1/1 colorless Cyborg artifact creature tokens. Sacrifice them at the beginning of your next end step.</text>
+</card>
+<card>
+ <name>Reupload</name>
+ <set rarity="uncommon">CYB</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return up to two artifact cards with total mana value 6 or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Unshackle</name>
+ <set rarity="uncommon">CYB</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap any number of target creatures. They gain flying and protection from noncreatures until end of turn.</text>
+</card>
+<card>
+ <name>Welding Rig</name>
+ <set rarity="uncommon">CYB</set>
+ <color>WB</color>
+ <manacost>W/B</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Welding Rig enters the battlefield, create a 1/1 colorless Cyborg artifact creature token.
+1, Sacrifice Welding Rig: Another target artifact gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Repulsion Field</name>
+ <set rarity="uncommon">CYB</set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell with mana value X. If you would counter a spell that targets you or a creature you control, you may gain control of that spell instead, then choose new targets for it.</text>
+</card>
+<card>
+ <name>Stolen Secrets</name>
+ <set rarity="uncommon">CYB</set>
+ <color>UR</color>
+ <manacost>1U/R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top two cards of target opponent’s library. Until the end of your next turn, you may play cards exiled this way, and you may spend mana as though it were mana of any type to cast them.</text>
+</card>
+<card>
+ <name>Syndicate Overseer</name>
+ <set rarity="uncommon">CYB</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you’ve cast an instant spell this turn, Syndicate Overseer gets +1/+1 and has hexproof.
+As long as you’ve cast a sorcery spell this turn, Syndicate Overseer gets +1/+1 and has flying.</text>
+</card>
+<card>
+ <name>Devish Infiltrator</name>
+ <set rarity="uncommon">CYB</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Cat Rogue </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Devish Infiltrator deals combat damage to a player, put a +1/+1 counter on it if it has none.
+Devish Infiltrator can’t be blocked as long as it has a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Dynamo Glyphs</name>
+ <set rarity="uncommon">CYB</set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Dynamo Glyphs enters the battlefield with 6 minus X charge counters.
+Whenever a creature you control attacks, remove a charge counter from Dynamo Glyphs. Then if it has none, sacrifice it and draw three cards.</text>
+</card>
+<card>
+ <name>Neotech Savant</name>
+ <set rarity="uncommon">CYB</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Creatures you control but don’t own get +1/+1.
+Whenever a creature you control deals combat damage to a player, you may return it to its owner’s hand.</text>
+</card>
+<card>
+ <name>Consult Archives</name>
+ <set rarity="uncommon">CYB</set>
+ <color>UG</color>
+ <manacost>2G/U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Tap any number of untapped creatures you control. For each creature tapped this way, put a +1/+1 counter on it, then draw a card.</text>
+</card>
+<card>
+ <name>No Time to Waste</name>
+ <set rarity="uncommon">CYB</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 2 less to cast if it targets a noncreature permanent.
+Gain control of target nonland permanent until the end of your next turn.</text>
+</card>
+<card>
+ <name>Rebuke the Mighty</name>
+ <set rarity="uncommon">CYB</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one or both—
+• Return target creature to its owner’s hand.
+• Return the creature with the greatest power on the battlefield to its owner’s hand.</text>
+</card>
+<card>
+ <name>Bloodfont</name>
+ <set rarity="uncommon">CYB</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you may pay 1 life. If you do, integrate the top card of target player’s library, then draw a card if there are three or more different card types among cards integrated onto Bloodfont. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)</text>
+</card>
+<card>
+ <name>Cull Populace</name>
+ <set rarity="uncommon">CYB</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Integrate all creatures with power 2 or less. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)</text>
+</card>
+<card>
+ <name>Rooftop Slink</name>
+ <set rarity="uncommon" splitterPath="/Rooftop Slink.full.jpg" >CYB</set>
+ <color>B</color>
+ <related attach="attach">Synthetic Specter</related>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 2B (2B: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+Whenever Rooftop Slink deals combat damage to a player, you may have each player discard a card.
+---
+(Back): Synthetic Specter</text>
+</card>
+<card>
+ <name>Synthetic Specter</name>
+ <set rarity="uncommon" splitterPath="/Synthetic Specter.full.jpg" >CYB</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Cyborg Specter </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Synthetic Specter deals combat damage to a player, that player discards a card. Then if they have no cards in hand, put a +1/+1 counter on Synthetic Specter.
+---
+(Front): Rooftop Slink</text>
+</card>
+<card>
+ <name>Celise's Embezzlement</name>
+ <set rarity="uncommon">CYB</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent loses 3 life unless they discard a nonland card, then loses 3 life unless they sacrifice a nonland permanent. You gain life equal to the life lost this way.</text>
+</card>
+<card>
+ <name>Oilblood Pariah</name>
+ <set rarity="uncommon">CYB</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Demon Cleric </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever one or more artifact creatures you control deals combat damage to an opponent, you draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>Blackout Grifter</name>
+ <set rarity="uncommon" splitterPath="/Blackout Grifter.full.jpg" >CYB</set>
+ <color>B</color>
+ <related attach="attach">Lone Switchblade</related>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elf Pirate </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 2B (2B: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+When Blackout Grifter enters the battlefield, each opponent loses 1 life and you gain 1 life.
+---
+(Back): Lone Switchblade</text>
+</card>
+<card>
+ <name>Lone Switchblade</name>
+ <set rarity="uncommon" splitterPath="/Lone Switchblade.full.jpg" >CYB</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Cyborg Pirate </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature transforms into Lone Switchblade, or whenever another permanent you control transforms, each opponent loses 1 life and you gain 1 life.
+---
+(Front): Blackout Grifter</text>
+</card>
+<card>
+ <name>Scan Footage</name>
+ <set rarity="uncommon">CYB</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent reveals their hand. You choose a nonland card from it and integrate it. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)</text>
+</card>
+<card>
+ <name>Feed on the Meek</name>
+ <set rarity="uncommon">CYB</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Feed on the Meek deals 4 damage to target creature, then put X +1/+1 counters on up to one target creature, where X is the excess damage dealt.</text>
+</card>
+<card>
+ <name>Face Terror</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature you control becomes blocked by a creature with greater power, it gets +2/+0 and gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Conscript</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target tapped creature until end of turn. Untap it. It gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Field Opportunist</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever you gain control of a permanent you don’t own, or whenever a permanent you don’t own enters the battlefield under your control, both it and Field Opportunist get +2/+0 and gain haste until end of turn.</text>
+</card>
+<card>
+ <name>Wyrmshot</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Wyrmshot deals 3 damage divided as you choose among one, two, or three targets.
+• Wyrmshot deals 6 damage to target creature.</text>
+</card>
+<card>
+ <name>Pyrewing Penancer</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Angel Warrior </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Solidarity (When you attack with five or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0.” if you haven’t this turn.)
+Flying
+Whenever Pyrewing Penancer attacks, it deals damage to each opponent equal to its power.</text>
+</card>
+<card>
+ <name>Hyperspeed</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +3/+0 and gains haste and menace until end of turn. If there are five or more different creature types among creatures you control, up to two target creatures can’t block this turn.</text>
+</card>
+<card>
+ <name>Plasmana Hellkite</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Dragon Construct </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Plasmana Hellkite attacks, you may pay 1R. If you do, gain control of target creature you don’t control with mana value 3 or less until end of turn. It’s tapped and attacking.</text>
+</card>
+<card>
+ <name>Brasscaster Magus</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Shaman </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant spell, Brasscaster Magus gets +2/+0 until end of turn.
+Whenever you cast a sorcery spell, Brasscaster Magus deals damage to any target equal to its power.</text>
+</card>
+<card>
+ <name>Inseparable Bond</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile two target creatures you control, then return them to the battlefield under your control. They gain haste. Sacrifice them at the beginning of your next end step.</text>
+</card>
+<card>
+ <name>Feat of Bravery</name>
+ <set rarity="uncommon">CYB</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 2 less to cast if there are five or more different creature types among creatures you control.
+Target creature you control gains indestructible until end of turn. All creatures able to block it this turn do so.</text>
+</card>
+<card>
+ <name>Battlehymn Howler</name>
+ <set rarity="uncommon">CYB</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Wolf Warrior </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Solidarity (When you attack with five or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0.” if you haven’t this turn.)
+Whenever Battlehymn Howler attacks, another target attacking creature’s base power and toughness becomes X/X until end of turn, where X is equal to Battlehymn Howler’s power.</text>
+</card>
+<card>
+ <name>Sustained Fire</name>
+ <set rarity="uncommon">CYB</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control deals damage equal to its power to another target creature. Excess damage is dealt to one other target instead.</text>
+</card>
+<card>
+ <name>Leystone's Vigor</name>
+ <set rarity="uncommon">CYB</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast an instant spell, up to one target creature gets +2/+2 until end of turn.
+Whenever you cast a sorcery spell, reveal the top card of your library. If its mana value is less than the greatest power among creatures you control, put it into your hand.</text>
+</card>
+<card>
+ <name>Ancient Cloudgrazer</name>
+ <set rarity="uncommon">CYB</set>
+ <color>G</color>
+ <manacost>XXG</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Beast </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance, reach, trample
+Ancient Cloudgrazer enters the battlefield with X +1/+1 counters on it.</text>
+</card>
+<card>
+ <name>Hostile Evolution</name>
+ <set rarity="uncommon">CYB</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap target creature, then put a +1/+1 counter on it. It gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Cyboreal Vengeance</name>
+ <set rarity="uncommon">CYB</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Untap each land you control. Until end of turn, they become 1/1 Elemental artifact creatures and gain indestructible, vigilance, and haste. They’re still lands.</text>
+</card>
+<card>
+ <name>Gravity Gauntlets</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of combat during your turn, put a +1/+1 counter on equipped creature.
+Equipped creature has flying as long as it has a +1/+1 counter on it.
+Equipped creature has double strike as long as it has four or more +1/+1 counters on it.
+Equip 2</text>
+</card>
+<card>
+ <name>Leyshard</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>1, T: Add one mana of any type.
+T, Sacrifice Leyshard: Add one mana of any type. Draw a card.</text>
+</card>
+<card>
+ <name>Polarity Glyphs</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Polarity Glyphs enters the battlefield, or whenever you cast an instant or sorcery spell, put a charge counter on it.
+1, T, Remove a charge counter from Polarity Glyphs: Creatures you control get +1/+1 and gain you choice of haste or vigilance until end of turn.</text>
+</card>
+<card>
+ <name>Altar of Chrome</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As an additional cost to cast this spell, tap any number of untapped artifacts you control. This costs 1 less to cast for each artifact tapped this way.
+T: Each opponent loses 1 life and you gain 1 life, then you may sacrifice Altar of Chrome. If you do, each opponent sacrifices a creature.</text>
+</card>
+<card>
+ <name>Plains</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Island</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Forest</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Wastes</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land</type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Resistance Garrison</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Resistance Garrison enters the battlefield tapped.
+T: Add G, R, or U.
+GUR, T, Sacrifice Resistance Garrison: Return target instant or sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Invader Lattice</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Invader Lattice enters the battlefield tapped.
+T: Add C, W, or B.
+CWB, T, Sacrifice Invader Lattice: Return target artifact card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Neo Stehlia</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Neo Stehlia enters the battlefield tapped.
+T: Add W.
+2W, T: Choose a creature type. Creatures you control of the chosen type get +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>High Teqien</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>High Teqien enters the battlefield tapped.
+T: Add U.
+2U, T, Sacrifice High Teqien: Gain control of target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.</text>
+</card>
+<card>
+ <name>Ritual Chamber</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Ritual Chamber enters the battlefield tapped.
+T: Add B.
+T, Pay 1 life: Add BB. Spend this mana only to activate abilities of creatures.</text>
+</card>
+<card>
+ <name>Edgeland Market</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Edgeland Market enters the battlefield tapped.
+T: Add R.
+2R, T: Create a 0/1 white Goat creature token.</text>
+</card>
+<card>
+ <name>Secluded Hangar</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Secluded Hangar enters the battlefield tapped.
+T: Add G.
+1, T: Put a +1/+1 counter on target creature that entered the battlefield this turn.</text>
+</card>
+<card>
+ <name>Mirrormeld Spire</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Mirrormeld Spire enters the battlefield tapped.
+T: Add C. If a land card is integrated onto Mirrormeld Spire, add CC instead.
+1C, T: Integrate the top card of target opponent’s library. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)</text>
+</card>
+<card>
+ <name>Neotech Exploiter</name>
+ <set rarity="uncommon">CYB</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Neotech Exploiter gets +2/+0 for each permanent you control but don’t own.</text>
+</card>
+<card>
+ <name>Ragtag Squad</name>
+ <set rarity="uncommon">CYB</set>
+ <color>RG</color>
+ <manacost>1R/G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose two creature types. Create a 1/1 red creature token with one of the chosen types, and a 1/1 green creature token with the other chosen type.
+Creature tokens you control gain haste until end of turn.</text>
+</card>
+<card>
+ <name>Fireheart Elite</name>
+ <set rarity="uncommon">CYB</set>
+ <color>R</color>
+ <manacost>2C/R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vukoroq Soldier </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Fireheart Elite dies, it deals 2 damage to target creature you don’t control unless that creature’s controller discards a card.</text>
+</card>
+<card>
+ <name>Stehlian Outcast</name>
+ <set rarity="uncommon">CYB</set>
+ <color>WR</color>
+ <manacost>1R/W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>1R/W: Creatures you control get +1/+0 until end of turn. Activate only once each turn.</text>
+</card>
+<card>
+ <name>Heavy Skybuster</name>
+ <set rarity="uncommon">CYB</set>
+ <color>BR</color>
+ <manacost>2B/R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Orc Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+B/R, Discard a card: Heavy Skybuster gets +1/+1 and gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Knowledge Seeker</name>
+ <set rarity="uncommon">CYB</set>
+ <color>U</color>
+ <manacost>1C/U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vukoroq Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Knowledge Seeker enters the battlefield, reveal the top three cards of your library. Exile one, then an opponent chooses another. Put the chosen card into your hand and the other into your graveyard.</text>
+</card>
+<card>
+ <name>Feral Packhunter</name>
+ <set rarity="uncommon">CYB</set>
+ <color>G</color>
+ <manacost>2C/G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vukoroq Beast </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Feral Packhunter gets +3/+1 as long as you control seven or more lands.</text>
+</card>
+<card>
+ <name>Machine's Apostle</name>
+ <set rarity="uncommon">CYB</set>
+ <color>WU</color>
+ <manacost>2W/U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Machine’s Apostle enters the battlefield, you may exile up to one target creature. For as long as that creature remains exiled, its owner may cast it. It costs 1 more to cast.</text>
+</card>
+<card>
+ <name>Highseas Renegade</name>
+ <set rarity="uncommon">CYB</set>
+ <color>UB</color>
+ <manacost>4U/B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Rogue Pirate </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever a creature dealt damage by Highseas Renegade this turn dies, exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast it.</text>
+</card>
+<card>
+ <name>Scrapyard Animator</name>
+ <set rarity="uncommon">CYB</set>
+ <color>BG</color>
+ <manacost>3B/G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Scrapyard Animator enters the battlefield, mill three cards.
+2, T, Exile two artifact and/or creature cards from your graveyard: Create a 2/2 black Zombie artifact creature token.</text>
+</card>
+<card>
+ <name>Swiftscale Rider</name>
+ <set rarity="uncommon">CYB</set>
+ <color>WG</color>
+ <manacost>1G/W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Swiftscale Rider becomes untapped, put a +1/+1 counter on it.
+As long as Swiftscale Rider has two or more +1/+1 counters on it, it has vigilance.</text>
+</card>
+<card>
+ <name>Archaic Obelisk</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Archaic Obelisk enters the battlefield with two charge counters on it.
+T, Remove a charge counter from Archaic Obelisk: Choose one—
+• Scry 2, then gain 2 life.
+• Draw two cards, then discard two cards.</text>
+</card>
+<card>
+ <name>Duplicity</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>CCC</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast a colorless spell, you may pay C. If you do, copy it. You may choose new targets for the copy.
+Whenever a creature you control attacks, put a +1/+1 counter on it for each other creature you control with the same name as that creature.</text>
+</card>
+<card>
+ <name>Malicious Skycleaver</name>
+ <set rarity="rare" splitterPath="/Malicious Skycleaver.full.jpg" >CYB</set>
+ <color>B</color>
+ <related attach="attach">Silverscale Despot</related>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Dragon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 6B (6B: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+Flying, trample
+Creatures with flying you don’t control get -1/-1.
+---
+(Back): Silverscale Despot</text>
+</card>
+<card>
+ <name>Silverscale Despot</name>
+ <set rarity="rare" splitterPath="/Silverscale Despot.full.jpg" >CYB</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Cyborg Dragon </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, trample
+Silverscale Despot has “Ward—Discard your hand.” as long as it transformed this turn.
+Creatures with flying you don’t control get -2/-2.
+---
+(Front): Malicious Skycleaver</text>
+</card>
+<card>
+ <name>Data Weaver</name>
+ <set rarity="rare">CYB</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Azra Warlock </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Data Weaver enters the battlefield, integrate the top three cards of target opponent’s library. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+You may play cards integrated onto permanents you control, and you may spend mana as though it were mana of any type to cast them.</text>
+</card>
+<card>
+ <name>Eleanor, Royal Captain</name>
+ <set rarity="rare" splitterPath="/Eleanor, Royal Captain.full.jpg" >CYB</set>
+ <color>W</color>
+ <related attach="attach">Eleanor, Kingslayer</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 4W (4W: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+First strike, lifelink
+When Eleanor, Royal Captain enters the battlefield, exile target creature. Return it to the battlefield under its owner’s control at the beginning of the next end step.
+---
+(Back): Eleanor, Kingslayer</text>
+</card>
+<card>
+ <name>Eleanor, Kingslayer</name>
+ <set rarity="rare" splitterPath="/Eleanor, Kingslayer.full.jpg" >CYB</set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Legendary Artifact Creature - Cyborg Knight </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>First strike, lifelink
+When this creature transforms into Eleanor, Kingslayer, exile up to one target creature. If that creature was legendary, put two +1/+1 counters on Eleanor.
+---
+(Front): Eleanor, Royal Captain</text>
+</card>
+<card>
+ <name>General Diadem, Usurper</name>
+ <set rarity="rare">CYB</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Noble </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When General Diadem enters the battlefield, create a 3/3 black Cyborg Knight artifact creature token.
+Whenever one or more Knights you control attack, create a token copy of target attacking Knight. It enters the battlefield tapped and attacking, and gains lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Runway Mech</name>
+ <set rarity="common">CYB</set>
+ <color>M</color>
+ <manacost>4U // 2U</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Construct  // Sorcery - Discharge </type>
+ <pt>3/3</pt>
+ <tablerow>3</tablerow>
+ <text>Runway Mech enters the battlefield with a +1/+1 counter on it.
+--- 
+Target creature gains flying until end of turn. Draw a card. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Scuttle Tank</name>
+ <set rarity="uncommon">CYB</set>
+ <color>M</color>
+ <manacost>1U // U</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Crab Construct  // Instant - Discharge </type>
+ <pt>1/2</pt>
+ <tablerow>3</tablerow>
+ <text>Whenever Scuttle Tank deals combat damage to a player, put a +1/+1 counter on it, draw a card, then discard a card.
+--- 
+Target creature can’t be blocked by creatures with greater power until end of turn. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Steamveil Model</name>
+ <set rarity="common">CYB</set>
+ <color>M</color>
+ <manacost>2U // 2U</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct  // Sorcery - Discharge </type>
+ <pt>2/1</pt>
+ <tablerow>3</tablerow>
+ <text>Steamveil Model enters the battlefield with a +1/+1 counter on it.
+--- 
+Return target creature to its owner’s hand. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Tidewake Walker</name>
+ <set rarity="uncommon">CYB</set>
+ <color>M</color>
+ <manacost>3U // 2U</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Construct  // Sorcery - Discharge </type>
+ <pt>3/4</pt>
+ <tablerow>3</tablerow>
+ <text>Tidewake Walker enters the battlefield with a hexproof counter on it.
+--- 
+Tap target creature. It doesn’t untap as long as you control the creature that this spell was copied from. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Aethersteel Pouncer</name>
+ <set rarity="uncommon">CYB</set>
+ <color>M</color>
+ <manacost>G // 2G</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Cat Construct  // Instant - Discharge </type>
+ <pt>1/1</pt>
+ <tablerow>3</tablerow>
+ <text>Aethersteel Pouncer enters the battlefield with a haste counter on it.
+--- 
+Add four mana of any one type. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Aggressor Model</name>
+ <set rarity="common">CYB</set>
+ <color>M</color>
+ <manacost>3G // 2G</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Construct  // Sorcery - Discharge </type>
+ <pt>3/2</pt>
+ <tablerow>3</tablerow>
+ <text>Aggressor Model enters the battlefield with a +1/+1 counter on it.
+--- 
+Until end of turn, target creature gets +2/+0 and must be blocked if able. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Runerock Automaton</name>
+ <set rarity="uncommon">CYB</set>
+ <color>M</color>
+ <manacost>3GG // 2G</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Construct  // Sorcery - Discharge </type>
+ <pt>5/5</pt>
+ <tablerow>3</tablerow>
+ <text>Reach
+1, Sacrifice a land: Put a +1/+1 counter on Runerock Automaton.
+--- 
+Destroy target artifact creature or creature with flying. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Teslahammer Giant</name>
+ <set rarity="common">CYB</set>
+ <color>M</color>
+ <manacost>4GG // G</manacost>
+ <cmc>6</cmc>
+ <type>Artifact Creature - Giant Construct  // Sorcery - Discharge </type>
+ <pt>5/5</pt>
+ <tablerow>3</tablerow>
+ <text>Teslahammer Giant enters the battlefield with a +1/+1 counter on it.
+--- 
+Target creature gets +2/+2 and gains trample until end of turn. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Skylance Escort</name>
+ <set rarity="uncommon">CYB</set>
+ <color>M</color>
+ <manacost>2GU // GU</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Construct  // Instant - Discharge </type>
+ <pt>2/3</pt>
+ <tablerow>3</tablerow>
+ <text>Flying
+When Skylance Escort enters the battlefield, put a +1/+1 counter on each of up to three target creatures.
+--- 
+You gain 3 life, Scry 2, then draw a card. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Qimis, Grand Architect</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>2C</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Artifact Creature - Vukoroq Construct </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control three or more creatures with the same name, those creatures each get +2/+1.
+3C, T: Create a token copy of target creature you control.</text>
+</card>
+<card>
+ <name>Leystone of Growth</name>
+ <set rarity="rare">CYB</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment Artifact</type>
+ <tablerow>1</tablerow>
+ <text>If this spell is the first spell you’ve cast this game, this costs 1G less to cast.
+Whenever you cast a spell, put a +1/+1 counter on target land, then you may have it become a 0/0 Elemental land creature. If that spell is named Leystone of Growth, put four +1/+1 counters on it instead.</text>
+</card>
+<card>
+ <name>Leystone of Depths</name>
+ <set rarity="rare">CYB</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment Artifact</type>
+ <tablerow>1</tablerow>
+ <text>If this spell is the first spell you’ve cast this game, this costs 1U less to cast.
+Whenever you cast a spell, you draw a card, then discard a card. If it’s named Leystone of Depths, draw three cards instead.</text>
+</card>
+<card>
+ <name>Leystone of Ruin</name>
+ <set rarity="rare">CYB</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment Artifact</type>
+ <tablerow>1</tablerow>
+ <text>If this spell is the first spell you’ve cast this game, this costs 1B less to cast.
+Whenever you cast a spell, target player mills a number of cards equal to its mana value. If it’s named Leystone of Ruin, they mill twelve cards instead.</text>
+</card>
+<card>
+ <name>Senedal, Cult Eclipse</name>
+ <set rarity="rare">CYB</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Rogue </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Ward—Discard a card.
+Whenever one or more Rogues you control deal combat damage to a player, that player discards a card. If they can’t, they lose 3 life.</text>
+</card>
+<card>
+ <name>Callisto, The Teqiarch</name>
+ <set rarity="rare">CYB</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Once during each of your turns, you may cast an instant or sorcery spell from your graveyard with mana value X or less without paying its mana cost, where X is the number of Wizards you control. If a spell cast this way would be put into a graveyard this turn, exile it instead.</text>
+</card>
+<card>
+ <name>Leystone of Being</name>
+ <set rarity="rare">CYB</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment Artifact</type>
+ <tablerow>1</tablerow>
+ <text>If this spell is the first spell you’ve cast this game, this costs 1W less to cast.
+Whenever you cast a spell, you gain 1 life. Then if it’s named Leystone of Being, create a white X/X Avatar creature token, where X is the difference between your starting and current life total.</text>
+</card>
+<card>
+ <name>Cherished Reinforcement</name>
+ <set rarity="rare">CYB</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top six cards of your library. Put up to two creature or land cards with total mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Ardor, Forefront of Freedom</name>
+ <set rarity="rare">CYB</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat on your turn, create a 1/1 red Soldier creature token, then Soldiers you control gain your choice of haste, trample, or +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Lagoroth, Century's Apex</name>
+ <set rarity="rare">CYB</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Elemental Beast </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance, trample
+When Lagoroth, Century’s Apex enters the battlefield, you gain 3 life.
+When Lagoroth dies, you may sacrifice a Beast. If you do, return Lagoroth to the battlefield.</text>
+</card>
+<card>
+ <name>Savvy Smith</name>
+ <set rarity="rare">CYB</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Goblin Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Savvy Smith enters the battlefield, create a 1/1 colorless Construct artifact creature token.
+T: Target opponent gains control of target artifact you control. If they do, you add R, then draw a card. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Gi-Gecha, Tide of Victory</name>
+ <set rarity="rare">CYB</set>
+ <color>URG</color>
+ <manacost>GUR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, put a counter on Gi-Gecha that it doesn’t have from among flying, vigilance, trample, and +1/+1.
+As long as Gi-Gecha has four or more counters on it, it has hexproof and is an artifact creature.
+Crew 3</text>
+</card>
+<card>
+ <name>Taste for Malice</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>1C</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Integrate target creature or creature spell with mana value 3 or less. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)</text>
+</card>
+<card>
+ <name>Decavolt Reactor</name>
+ <set rarity="rare">CYB</set>
+ <color>M</color>
+ <manacost>1G/UG/U // 2G/U</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Assembly-Worker  // Sorcery - Discharge </type>
+ <pt>2/3</pt>
+ <tablerow>3</tablerow>
+ <text>Ward 2
+At the beginning of your upkeep, put a +1/+1 counter on Decavolt Reactor.
+--- 
+Create a 1/1 colorless Construct artifact creature token, then put a +1/+1 counter on each Construct you control. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Jetstream Cruiser</name>
+ <set rarity="rare">CYB</set>
+ <color>M</color>
+ <manacost>4UU // U</manacost>
+ <cmc>6</cmc>
+ <type>Artifact Creature - Bird Construct  // Instant - Discharge </type>
+ <pt>4/4</pt>
+ <tablerow>3</tablerow>
+ <text>Flying
+Discard a card: Put a +1/+1 counter on Jetstream Cruiser. Activate no more than once each turn.
+--- 
+Exile up to two target creatures you control, then return them to the battlefield under your control. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Skittertiller</name>
+ <set rarity="rare">CYB</set>
+ <color>M</color>
+ <manacost>1G // 2G</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Insect Construct  // Instant - Discharge </type>
+ <pt>2/2</pt>
+ <tablerow>3</tablerow>
+ <text>Trample
+Whenever Skittertiller attacks, put a +1/+1 counter on it.
+--- 
+Search your library for a land card, put it onto the battlefield tapped, then shuffle. (Remove a counter from this to cast a copy.)</text>
+</card>
+<card>
+ <name>Leystone of Storms</name>
+ <set rarity="rare">CYB</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment Artifact</type>
+ <tablerow>1</tablerow>
+ <text>If this spell is the first spell you’ve cast this game, this costs 1R less to cast.
+Whenever you cast a spell, Leystone of Storms deals 1 damage to each opponent. If it’s named Leystone of Storms, this deals 4 damage to each opponent instead.</text>
+</card>
+<card>
+ <name>Proto-Class Behemoth</name>
+ <set rarity="rare">CYB</set>
+ <color>G</color>
+ <manacost>5C/GC/G</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Vukoroq Dinosaur </type>
+ <pt>5/10</pt>
+ <tablerow>2</tablerow>
+ <text>This spell can’t be countered.
+Trample, hexproof from mana value 3 or less.
+Whenever Proto-Class Behemoth attacks, you may give it +10/-5 until end of turn.</text>
+</card>
+<card>
+ <name>Prized Possession</name>
+ <set rarity="rare">CYB</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may pay 1U and have an opponent gain control of target permanent you control but don’t own rather than pay this spell’s mana cost.
+Gain control of target artifact or creature.</text>
+</card>
+<card>
+ <name>Legacy Flare</name>
+ <set rarity="rare">CYB</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Legacy Flare deals 2 damage to any target.
+2RR, Sacrifice a creature, Exile Legacy Flare from your graveyard: Cast two copies of Legacy Flare without paying their mana costs.</text>
+</card>
+<card>
+ <name>Azantium, Perfect Creation</name>
+ <set rarity="rare">CYB</set>
+ <color>WB</color>
+ <manacost>1CWB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Artifact Creature - Construct </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Azantium, Perfect Creation attacks, defending player exiles a permanent they control, loses 2 life, then you gain 2 life.
+Sacrifice a colorless artifact, a white artifact, and a black artifact: Return Azantium from your graveyard to the battlefield. It gains haste and indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Farlands Envoy</name>
+ <set rarity="rare">CYB</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Creatures can’t attack you or a planeswalker you control unless their controller pays 1 for each of those creatures beyond the first.</text>
+</card>
+<card>
+ <name>Corpsepyre Fiend</name>
+ <set rarity="rare">CYB</set>
+ <color>B</color>
+ <manacost>C/BC/B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vukoroq Demon </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>1C/B: Integrate target creature card in any graveyard. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+As long as a creature card with flying is integrated onto Corpsepyre Fiend, it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance.</text>
+</card>
+<card>
+ <name>Secrets of Production</name>
+ <set rarity="rare">CYB</set>
+ <color>UR</color>
+ <manacost>U/RU/R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you gain control of a permanent you don’t own, or whenever a permanent you don’t own enters the battlefield under your control, create a token copy of it. Sacrifice the token at the end of your next turn.</text>
+</card>
+<card>
+ <name>Ozanwood Huntsman</name>
+ <set rarity="rare">CYB</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Ranger </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Solidarity (When you attack with five or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0.” if you haven’t this turn.)
+Trample
+Whenever a creature you control deals combat damage to an opponent, if you have solidarity, you draw a card.</text>
+</card>
+<card>
+ <name>Ragecloak Shifter</name>
+ <set rarity="rare">CYB</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Shapeshifter Shaman </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Solidarity (When you attack with five or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0.” if you haven’t this turn.)
+1R: Ragecloak Shifter gets +2/+0 and becomes the creature type of your choice in addition to its other types until end of turn.</text>
+</card>
+<card>
+ <name>Id Entity</name>
+ <set rarity="rare">CYB</set>
+ <color>U</color>
+ <manacost>3C/UC/U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Vukoroq Leviathan </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever Id Entity enters the battlefield or attacks, choose a card name. Id Entity’s name becomes that name.
+Id Entity has protection from cards with the same name as it.</text>
+</card>
+<card>
+ <name>Unmolded One</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>C</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Vukoroq Shapeshifter </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature dies, you may integrate it. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+Whenever a creature card is integrated onto Unmolded One, you may have it become a copy of that creature. If you do, it gains this card’s abilities.</text>
+</card>
+<card>
+ <name>Prime Consuls</name>
+ <set rarity="rare">CYB</set>
+ <color>W</color>
+ <manacost>1C/WC/W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Vukoroq Advisor </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an opponent spends mana, if it wasn’t spent to cast a spell from their hand, you draw a card. This ability triggers only once each turn.
+Prime Consuls has indestructible as long as you control two or more other Advisors.</text>
+</card>
+<card>
+ <name>Silver Ruination</name>
+ <set rarity="rare">CYB</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Destroy all artifact creatures.
+• Destroy all nonartifact creatures.</text>
+</card>
+<card>
+ <name>Pact of Power</name>
+ <set rarity="rare">CYB</set>
+ <color>RG</color>
+ <manacost>2R/GR/G</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one plus an additional one for every two creature types among creatures you control—
+• Target creature gets +4/+4 until end of turn.
+• Target creature you control fights another target creature.
+• Add three mana of any one type.
+• Draw a card.</text>
+</card>
+<card>
+ <name>Sword of Centuries</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Indestructible
+Whenever equipped creature attacks, it gets +X/+0 until end of turn, where X is the number of lands you control. If X is 6 or more, it gains trample until end of turn.
+Equip 2</text>
+</card>
+<card>
+ <name>Replicrawler</name>
+ <set rarity="rare">CYB</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Spider Contruct </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace, reach
+Replicrawler gets +1/+0 for each other creature you control named Replicrawler.
+1B, T: Create a token copy of Replicrawler, except it loses this ability.</text>
+</card>
+<card>
+ <name>Nova Dragon</name>
+ <set rarity="rare">CYB</set>
+ <color>WR</color>
+ <manacost>2R/WR/W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elemental Dragon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Nova Dragon is dealt combat damage, it deals that much damage to each attacking creature, blocking creature, and opponent.</text>
+</card>
+<card>
+ <name>Manaclysm</name>
+ <set rarity="rare">CYB</set>
+ <color>BR</color>
+ <manacost>XB/RB/R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, you may sacrifice up to X lands.
+Manaclysm deals X damage to each creature and each player. You draw a card for each land sacrificed this way.</text>
+</card>
+<card>
+ <name>Gentle Grasp</name>
+ <set rarity="rare">CYB</set>
+ <color>WU</color>
+ <manacost>W/UW/U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target spell. Its owner may cast it at the beginning of their next upkeep. When they do, you draw a card.</text>
+</card>
+<card>
+ <name>Planet's Reclaim</name>
+ <set rarity="rare">CYB</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Mill three cards, then return a card from your graveyard to your hand.
+You may cast Planet’s Reclaim from your hand or graveyard by paying G and exiling any number of creature cards in your graveyard with total power 6 or greater. If you cast it from your graveyard this way, exile it.</text>
+</card>
+<card>
+ <name>Bow to the Council</name>
+ <set rarity="rare">CYB</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Tap target creature. It doesn’t untap during its controller’s next untap step.
+Exile Bow to the Council. You may cast it at the beginning of your next upkeep. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Sudden Revolt</name>
+ <set rarity="rare">CYB</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent separates their creatures into two piles. Gain control of each creature from the pile of your choice until end of turn. Untap them. They get +1/+0 and gain trample and haste until end of turn.</text>
+</card>
+<card>
+ <name>Gilded Font</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you play a card with mana value equal to the number of charge counters on Gilded Font, put a charge counter on it.
+2, Sacrifice Gilded Font: You draw X cards and gain twice X life, where X is the number of charge counters on Gilded Font.</text>
+</card>
+<card>
+ <name>Malfunctioning Portal</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T: Exile target creature you control, then reveal the top card of your library. If the revealed card is a creature card, put it onto the battlefield. Otherwise, return the exiled creature to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Pursuer of Divinity</name>
+ <set rarity="rare" splitterPath="/Pursuer of Divinity.full.jpg" >CYB</set>
+ <color>WB</color>
+ <related attach="attach">Abandoner of Flesh</related>
+ <manacost>2W/BW/B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Cybersoul 4W/B (4W/B: Transform. Each artifact you tap while activating this ability pays for 1. Activate only as a sorcery.)
+When Pursuer of Divinity enters the battlefield, if it was cast, return target creature card from your graveyard to the battlefield. It has base power and toughness 1/1 until it transforms.
+---
+(Back): Abandoner of Flesh</text>
+</card>
+<card>
+ <name>Abandoner of Flesh</name>
+ <set rarity="rare" splitterPath="/Abandoner of Flesh.full.jpg" >CYB</set>
+ <color>WB</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature  - Cyborg Demigod </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Protection from tokens
+At the beginning of your end step, if you control three or more tapped artifacts, return target creature card from your graveyard to the battlefield. It has base power and toughness 1/1 until it transforms.
+---
+(Front): Pursuer of Divinity</text>
+</card>
+<card>
+ <name>Void Bonder</name>
+ <set rarity="rare">CYB</set>
+ <color>R</color>
+ <manacost>3C/RC/R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Vukoroq Shaman </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Void Bonder attacks, choose a creature card you own from outside the game with mana value 5 or less, reveal that card, then put it onto the battlefield tapped and attacking. Sacrifice it at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Imperfect Fugisaur</name>
+ <set rarity="rare">CYB</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Dinosaur </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Imperfect Fugisaur enters the battlefield, you may sacrifice an artifact. If you do, it gains haste until end of turn.
+Whenever Imperfect Fugisaur deals combat damage to a player, that player sacrifices an artifact. If they can’t, you draw a card.</text>
+</card>
+<card>
+ <name>Looming Cyhawk</name>
+ <set rarity="rare">CYB</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Bird Construct </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+When Looming Cyhawk enters the battlefield, your opponents can’t cast creature spells or create tokens until end of turn.</text>
+</card>
+<card>
+ <name>Hex Precipator</name>
+ <set rarity="rare">CYB</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard Warrior </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 2
+U: Spells you cast this turn can be cast as though they had flash.</text>
+</card>
+<card>
+ <name>Wildfang Cavalier</name>
+ <set rarity="rare">CYB</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Wildfang Cavalier dies, create a 3/1 red Dinosaur creature token with haste. If it’s your combat phase, there is an additional combat phase after it.</text>
+</card>
+<card>
+ <name>Eradicator Unit</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>2CC</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Wurm Construct </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Eradicator Unit has hexproof as long as no cards are exiled with it.
+Whenever a creature blocks or becomes blocked by Eradicator Unit, exile that creature unless its owner exiles a card from their hand.</text>
+</card>
+<card>
+ <name>Revoker of Dissidence</name>
+ <set rarity="rare">CYB</set>
+ <color>UB</color>
+ <manacost>1U/BU/B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Mercenary </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever a player casts a spell, if it’s not their turn, you create a colorless 1/1 Cyborg artifact creature token.</text>
+</card>
+<card>
+ <name>Echoing Vicarion</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>4C</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Vukoroq Advisor </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a spell or ability targets you or a creature you control, if it wasn’t a copy, you may copy it unless an opponent pays 3 and 3 life. You may choose new targets for the copy.</text>
+</card>
+<card>
+ <name>The Shattered Throne</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of combat during your turn, tap up to one target creature, then each opponent loses 1 life. Then if an opponent has less life than you, repeat once.</text>
+</card>
+<card>
+ <name>Extraction Ritual</name>
+ <set rarity="rare">CYB</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, you may sacrifice a creature, sacrifice an artifact, and/or discard a card.
+Scry 3. Then for each additional cost paid to cast this spell, you gain 1 life, draw a card, and create a 1/1 colorless Cyborg artifact creature token.</text>
+</card>
+<card>
+ <name>Bitter Victory</name>
+ <set rarity="rare">CYB</set>
+ <color>BG</color>
+ <manacost>B/GB/G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you may mill two cards.
+Whenever a creature card is put into your graveyard from anywhere, you may pay X, where X is its mana value. If you do, create a token copy of it.</text>
+</card>
+<card>
+ <name>Shining Hope</name>
+ <set rarity="rare">CYB</set>
+ <color>WG</color>
+ <manacost>G/WG/W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on each creature you control with base power 2 or less. They gain indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Second Crown's Fall</name>
+ <set rarity="rare">CYB</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile all creatures you don’t control. Return them to the battlefield tapped under their owner’s control unless you’ve cast another spell named Second Crown’s Fall this game.
+Exile Second Crown’s Fall.</text>
+</card>
+<card>
+ <name>Augmented Ruffians</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Augmented Ruffians attacks, integrate the top card of defending player’s library. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+Augmented Ruffians gets +1/+1 for each card integrated onto it.</text>
+</card>
+<card>
+ <name>Beckoner of Ends</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>2C</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vukoroq Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Beckoner of Ends enters the battlefield, target opponent chooses a card in their hand. You integrate that card. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+Beckoner of Ends has deathtouch as long as a land card is integrated onto it.</text>
+</card>
+<card>
+ <name>Dregstreet Inquisitor</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue Cleric </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>T: Integrate the top card of target player’s library. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+B, Sacrifice Dregstreet Inquisitor: Target player loses life equal to the number of cards integrated onto Dregstreet Inquisitor.</text>
+</card>
+<card>
+ <name>Fleshbearer</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>4C/B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Vukoroq Zombie </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature dealt damage by Fleshbearer this turn dies, integrate that creature. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+Fleshbearer gets +2/+0 and has menace as long as a creature card is integrated onto it.</text>
+</card>
+<card>
+ <name>Leyline Leecher</name>
+ <set rarity="common">CYB</set>
+ <color></color>
+ <manacost>C</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Vukoroq Bat </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Leyline Leecher attacks, you may pay 1. If you do, integrate target card in any graveyard. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+Leyline Leecher gets +1/+0 and has flying as long as an instant or sorcery card is integrated onto it.</text>
+</card>
+<card>
+ <name>Capital Skyraiders</name>
+ <set rarity="uncommon">CYB</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Aven Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Capital Skyraiders deals combat damage to a player, integrate the top card of that player’s library. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+Capital Skyraiders gets +3/+3 and has trample as long as four or more cards are integrated onto it.</text>
+</card>
+<card>
+ <name>Stratos Sentry</name>
+ <set rarity="uncommon">CYB</set>
+ <color></color>
+ <manacost>3C</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Vukoroq Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Stratos Sentry enters the battlefield, target opponent chooses a nontoken creature they control. You integrate that creature. (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+As long as a creature with power 3 or less is integrated onto Stratos Sentry, it gets +1/+0 and has flying.</text>
+</card>
+<card>
+ <name>Redrind Ripper</name>
+ <set rarity="common">CYB</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Redrind Ripper enters the battlefield or dies, target player mills two cards, then you gain 1 life.</text>
+</card>
+<card>
+ <name>The Demon Within</name>
+ <set rarity="rare">CYB</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, you may integrate a card in any graveyard.  (To integrate a card, exile it, then choose a permanent it’s integrated onto.)
+Target permanent you control becomes a copy of a creature card integrated onto it until end of turn.</text>
+</card>
+<card>
+ <name>Covetous Frostwyrm</name>
+ <set rarity="rare">CYB</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Dragon </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you draw a card, Covetous Frostwyrm gets +1/+1 and gains your choice of flying, vigilance, or hexproof until end of turn.
+1U: Draw a card. Activate only if a player has more cards in hand than you.</text>
+</card>
+<card>
+ <name>Embrace the Unnatural</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>3C</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top four cards of your library. You may play them until you play a card not exiled this way.</text>
+</card>
+<card>
+ <name>Puzzling Orb</name>
+ <set rarity="rare">CYB</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast your second spell each turn, if it didn’t share a card type with the first spell you cast this turn, untap each nonland permanent you control.
+T: Look at the top card of your library. You may put it into your graveyard.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Cyborg</name>
+ <set>CYB</set>
+ <color></color>
+ <type>Artifact Creature - Cyborg </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Solidarity</name>
+ <set>CYB</set>
+ <color></color>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Attacking creatures you control get +1/+0.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Goat</name>
+ <set>CYB</set>
+ <color>W</color>
+ <type>Creature - Goat </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Thopter</name>
+ <set>CYB</set>
+ <color></color>
+ <type>Artifact Creature - Thopter </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Ragtag</name>
+ <set>CYB</set>
+ <color>R</color>
+ <type>Creature</type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Zombie</name>
+ <set>CYB</set>
+ <color>B</color>
+ <type>Artifact Creature - Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Elf</name>
+ <set>CYB</set>
+ <color>G</color>
+ <type>Creature - Elf </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Citizen</name>
+ <set>CYB</set>
+ <color>R</color>
+ <type>Creature - Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Soldier</name>
+ <set>CYB</set>
+ <color>R</color>
+ <type>Creature - Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Cyborg Knight</name>
+ <set>CYB</set>
+ <color>B</color>
+ <type>Artifact Creature - Cyborg Knight </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Avatar</name>
+ <set>CYB</set>
+ <color>W</color>
+ <type>Creature - Avatar </type>
+ <pt>X/X</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Construct</name>
+ <set>CYB</set>
+ <color></color>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Dinosaur</name>
+ <set>CYB</set>
+ <color>R</color>
+ <type>Creature - Dinosaur </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste</text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

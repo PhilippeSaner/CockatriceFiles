@@ -1,0 +1,4513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name></name>
+<longname></longname>
+<settype></settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Lorre Intrusion</name>
+ <set rarity="rare" splitterPath="/Lorre Intrusion.full.jpg" ></set>
+ <color>WB</color>
+ <related attach="attach">Successful Operation</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Successful Operation</text>
+</card>
+<card>
+ <name>Successful Operation</name>
+ <set rarity="rare" splitterPath="/Successful Operation.full.jpg" ></set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Successful Operation enters the battlefield, create three 1/1 black Warrior creature tokens.
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+---
+(Front): Lorre Intrusion</text>
+</card>
+<card>
+ <name>Night on the Town</name>
+ <set rarity="uncommon" splitterPath="/Night on the Town.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Midstreet Shootout</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Midstreet Shootout</text>
+</card>
+<card>
+ <name>Midstreet Shootout</name>
+ <set rarity="uncommon" splitterPath="/Midstreet Shootout.full.jpg" ></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>The first spell or ability you cast or activate that targets a permanent you control each turn cost 3 less to cast or activate.
+Whenever a creature you control becomes the target of a spell or ability you control, creatures you control get +1/+1 until end of turn.
+---
+(Front): Night on the Town</text>
+</card>
+<card>
+ <name>Unknowable Eggs</name>
+ <set rarity="uncommon" splitterPath="/Unknowable Eggs.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Invasion of the Thought-Snatchers</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Invasion of the Thought-Snatchers</text>
+</card>
+<card>
+ <name>Invasion of the Thought-Snatchers</name>
+ <set rarity="uncommon" splitterPath="/Invasion of the Thought-Snatchers.full.jpg" ></set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Invasion of the Thought-Snatchers enters the battlefield, draw two cards, then create a 1/1 blue Insect Horror creature token with flying.
+Insects you control get +1/+1 for each card in your hand.
+---
+(Front): Unknowable Eggs</text>
+</card>
+<card>
+ <name>Invitation to the Strange Cult</name>
+ <set rarity="uncommon" splitterPath="/Invitation to the Strange Cult.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Complete Subjugation</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Complete Subjugation</text>
+</card>
+<card>
+ <name>Complete Subjugation</name>
+ <set rarity="uncommon" splitterPath="/Complete Subjugation.full.jpg" ></set>
+ <color>B</color>
+ <manacost>BBBB</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Black creatures you control get +1/+1.
+Whenever you tap a Swamp for mana, add an additional B.
+---
+(Front): Invitation to the Strange Cult</text>
+</card>
+<card>
+ <name>A New Preacher Comes to Town</name>
+ <set rarity="rare" splitterPath="/A New Preacher Comes to Town.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Abbatar's Gift</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Abbatar's Gift</text>
+</card>
+<card>
+ <name>Abbatar's Gift</name>
+ <set rarity="rare" splitterPath="/Abbatar's Gift.full.jpg" ></set>
+ <color>W</color>
+ <manacost>5WW</manacost>
+ <cmc>0</cmc>
+ <type>Legendary Creature - Angel Horror </type>
+ <pt>*/*</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, lifelink
+Abbatar’s Gift’s power and toughness are each equal to your life total.
+---
+(Front): A New Preacher Comes to Town</text>
+</card>
+<card>
+ <name>The Unknown Singer</name>
+ <set rarity="rare" splitterPath="/The Unknown Singer.full.jpg" ></set>
+ <color>WU</color>
+ <related attach="attach">Commander of the Flock</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Commander of the Flock</text>
+</card>
+<card>
+ <name>Commander of the Flock</name>
+ <set rarity="rare" splitterPath="/Commander of the Flock.full.jpg" ></set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Creatures you control with flying get +2/+2.
+---
+(Front): The Unknown Singer</text>
+</card>
+<card>
+ <name>Start the Schematics</name>
+ <set rarity="rare" splitterPath="/Start the Schematics.full.jpg" ></set>
+ <color>UR</color>
+ <related attach="attach">Start the Grand Creation</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Start the Grand Creation</text>
+</card>
+<card>
+ <name>Start the Grand Creation</name>
+ <set rarity="rare" splitterPath="/Start the Grand Creation.full.jpg" ></set>
+ <color>UR</color>
+ <manacost>4UR</manacost>
+ <cmc>0</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 5/5 colorless Construct artifact creature token with trample and indestructible. It attacks each combat if able.
+---
+(Front): Start the Schematics</text>
+</card>
+<card>
+ <name>Opulences Curse</name>
+ <set rarity="rare" splitterPath="/Opulences Curse.full.jpg" ></set>
+ <color>UG</color>
+ <related attach="attach">Society of Appeasement</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Society of Appeasement</text>
+</card>
+<card>
+ <name>Society of Appeasement</name>
+ <set rarity="rare" splitterPath="/Society of Appeasement.full.jpg" ></set>
+ <color>UG</color>
+ <manacost>4GU</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Society of Appeasement enters the battlefield, you may search your library and/or graveyard for up to two cards with X in their mana cost and put them into your hand. If you search your library this way, shuffle.
+At the beginning of your precombat main phase, add six C. Spend this mana only on costs that contain X.
+---
+(Front): Opulences Curse</text>
+</card>
+<card>
+ <name>Open the Mind</name>
+ <set rarity="rare" splitterPath="/Open the Mind.full.jpg" ></set>
+ <color>UB</color>
+ <related attach="attach">Bask in the Greatness</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Bask in the Greatness</text>
+</card>
+<card>
+ <name>Bask in the Greatness</name>
+ <set rarity="rare" splitterPath="/Bask in the Greatness.full.jpg" ></set>
+ <color>UB</color>
+ <manacost>4UB</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Bask in the Greatness enters the battlefield, exile all but the bottom X cards of each opponent’s library, where X is the number of cards in your library.
+Whenever a card is put into your graveyard from anywhere, each opponent mills a card.
+---
+(Front): Open the Mind</text>
+</card>
+<card>
+ <name>Innocent Meeting</name>
+ <set rarity="rare" splitterPath="/Innocent Meeting.full.jpg" ></set>
+ <color>BR</color>
+ <related attach="attach">Senseless Thrall</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Senseless Thrall</text>
+</card>
+<card>
+ <name>Senseless Thrall</name>
+ <set rarity="rare" splitterPath="/Senseless Thrall.full.jpg" ></set>
+ <color>BR</color>
+ <manacost>3BR</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Senseless Thrall enters the battlefield, halve each opponent’s life total.
+At the beginning of your upkeep, Senseless Thrall deals 1 damage to each opponent.
+---
+(Front): Innocent Meeting</text>
+</card>
+<card>
+ <name>Esoteric Rituals</name>
+ <set rarity="rare" splitterPath="/Esoteric Rituals.full.jpg" ></set>
+ <color>BG</color>
+ <related attach="attach">Rise of the Primordials</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Rise of the Primordials</text>
+</card>
+<card>
+ <name>Rise of the Primordials</name>
+ <set rarity="rare" splitterPath="/Rise of the Primordials.full.jpg" ></set>
+ <color>BG</color>
+ <manacost>2BG</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Enchantment spells cost you 1 less to cast.
+Whenever you cast an enchantment spell, each opponent loses 1 life, you gain 1 life, and you draw a card. 
+---
+(Front): Esoteric Rituals</text>
+</card>
+<card>
+ <name>Unignorable Crimes</name>
+ <set rarity="rare" splitterPath="/Unignorable Crimes.full.jpg" ></set>
+ <color>WR</color>
+ <related attach="attach">Send in the Forces</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Send in the Forces</text>
+</card>
+<card>
+ <name>Send in the Forces</name>
+ <set rarity="rare" splitterPath="/Send in the Forces.full.jpg" ></set>
+ <color>WR</color>
+ <manacost>4RW</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, create three 2/2 white Soldier creature tokens. They gain haste.
+---
+(Front): Unignorable Crimes</text>
+</card>
+<card>
+ <name>Shady Dealings</name>
+ <set rarity="rare" splitterPath="/Shady Dealings.full.jpg" ></set>
+ <color>RG</color>
+ <related attach="attach">Delivered Contraband</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Delivered Contraband</text>
+</card>
+<card>
+ <name>Delivered Contraband</name>
+ <set rarity="rare" splitterPath="/Delivered Contraband.full.jpg" ></set>
+ <color>RG</color>
+ <manacost>2RG</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever an Aura is put into your graveyard from the battlefield, return it to your hand at the beginning of the next end step.
+Whenever a nontoken equipped creature you control dies, create a 1/1 red Rogue creature token.
+---
+(Front): Shady Dealings</text>
+</card>
+<card>
+ <name>Strange Disappearances</name>
+ <set rarity="uncommon" splitterPath="/Strange Disappearances.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Haunting of the Drowned</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Haunting of the Drowned</text>
+</card>
+<card>
+ <name>Haunting of the Drowned</name>
+ <set rarity="uncommon" splitterPath="/Haunting of the Drowned.full.jpg" ></set>
+ <color>U</color>
+ <manacost>5UU</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Instant and sorcery spells you cast cost 2 less to cast.
+When Haunting of the Drowned enters the battlefield, you may return up to two target instant or sorcery spells from your graveyard to your hand.
+---
+(Front): Strange Disappearances</text>
+</card>
+<card>
+ <name>Deathly Invitation</name>
+ <set rarity="uncommon" splitterPath="/Deathly Invitation.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Descend into Infinity</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Descend into Infinity</text>
+</card>
+<card>
+ <name>Descend into Infinity</name>
+ <set rarity="uncommon" splitterPath="/Descend into Infinity.full.jpg" ></set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Return up to two target creature cards from your graveyard to the battlefield.
+---
+(Front): Deathly Invitation</text>
+</card>
+<card>
+ <name>Arms Deal</name>
+ <set rarity="uncommon" splitterPath="/Arms Deal.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">A Very Big Gun</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): A Very Big Gun</text>
+</card>
+<card>
+ <name>A Very Big Gun</name>
+ <set rarity="uncommon" splitterPath="/A Very Big Gun.full.jpg" ></set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>0</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has trample and gets +1/+1 for each artifact you control.
+Equipment you control have equip 0.
+---
+(Front): Arms Deal</text>
+</card>
+<card>
+ <name>Missing Recruits</name>
+ <set rarity="uncommon" splitterPath="/Missing Recruits.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Bloody Feast</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Bloody Feast</text>
+</card>
+<card>
+ <name>Bloody Feast</name>
+ <set rarity="uncommon" splitterPath="/Bloody Feast.full.jpg" ></set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Attacking creatures you control get +2/+0.
+---
+(Front): Missing Recruits</text>
+</card>
+<card>
+ <name>Mirror of Reflected Realities</name>
+ <set rarity="uncommon" splitterPath="/Mirror of Reflected Realities.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Abscond into the Mirror</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Abscond into the Mirror</text>
+</card>
+<card>
+ <name>Abscond into the Mirror</name>
+ <set rarity="uncommon" splitterPath="/Abscond into the Mirror.full.jpg" ></set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>0</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>For each Aura you control, create a token that’s a copy of it.
+---
+(Front): Mirror of Reflected Realities</text>
+</card>
+<card>
+ <name>Following the Slimy Trail</name>
+ <set rarity="uncommon" splitterPath="/Following the Slimy Trail.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">More Questions than Answers</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): More Questions than Answers</text>
+</card>
+<card>
+ <name>More Questions than Answers</name>
+ <set rarity="uncommon" splitterPath="/More Questions than Answers.full.jpg" ></set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>0</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 0/0 green Wurm Horror creature token with “This creature gets +2/+2 for each card in your hand.”
+Investigate twice. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+---
+(Front): Following the Slimy Trail</text>
+</card>
+<card>
+ <name>Beginning of a Mystical Adventure</name>
+ <set rarity="rare" splitterPath="/Beginning of a Mystical Adventure.full.jpg" ></set>
+ <color>WG</color>
+ <related attach="attach">Found Felines</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Found Felines</text>
+</card>
+<card>
+ <name>Found Felines</name>
+ <set rarity="rare" splitterPath="/Found Felines.full.jpg" ></set>
+ <color>WG</color>
+ <manacost>5GW</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Found Felines enters the battlefield, distribute four +1/+1 counters among creatures you control.
+Whenever one or more creatures you control attack, creatures you control gain trample and get +X/+X until end of turn, where X is the greatest power among creatures you control.
+---
+(Front): Beginning of a Mystical Adventure</text>
+</card>
+<card>
+ <name>Betting it All</name>
+ <set rarity="rare" splitterPath="/Betting it All.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">The Very Finest</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): The Very Finest</text>
+</card>
+<card>
+ <name>The Very Finest</name>
+ <set rarity="rare" splitterPath="/The Very Finest.full.jpg" ></set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast a spell, add R then exile the top card of your library. You may play it this turn.
+---
+(Front): Betting it All</text>
+</card>
+<card>
+ <name>Celebratory Wedding</name>
+ <set rarity="rare" splitterPath="/Celebratory Wedding.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Death of the Groom</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Death of the Groom</text>
+</card>
+<card>
+ <name>Death of the Groom</name>
+ <set rarity="rare" splitterPath="/Death of the Groom.full.jpg" ></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever an opponent discards a card, you may draw a card.
+If an opponent would discard a card with no cards in hand, that player loses 3 life instead.
+---
+(Front): Celebratory Wedding</text>
+</card>
+<card>
+ <name>Missing Cadet</name>
+ <set rarity="uncommon" splitterPath="/Missing Cadet.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Office Reunion</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Office Reunion</text>
+</card>
+<card>
+ <name>Office Reunion</name>
+ <set rarity="uncommon" splitterPath="/Office Reunion.full.jpg" ></set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Office Reunion enters the battlefield, create two 2/2 white Soldier creature tokens.
+Soldiers you control get +1/+1 and have vigilance.
+---
+(Front): Missing Cadet</text>
+</card>
+<card>
+ <name>Calling of the Black Goat</name>
+ <set rarity="uncommon" splitterPath="/Calling of the Black Goat.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Descent of the Ever-Crushing</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Descent of the Ever-Crushing</text>
+</card>
+<card>
+ <name>Descent of the Ever-Crushing</name>
+ <set rarity="uncommon" splitterPath="/Descent of the Ever-Crushing.full.jpg" ></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of combat on your turn, you may pay X. When you do, put X +1/+1 counters on target creature you control. It gains trample until end of turn.
+---
+(Front): Calling of the Black Goat</text>
+</card>
+<card>
+ <name>Abnormal Quiet</name>
+ <set rarity="uncommon" splitterPath="/Abnormal Quiet.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Million Eyes</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Million Eyes</text>
+</card>
+<card>
+ <name>Million Eyes</name>
+ <set rarity="uncommon" splitterPath="/Million Eyes.full.jpg" ></set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>If an effect would create one or more tokens under your control, it creates three times that many of those tokens instead.
+---
+(Front): Abnormal Quiet</text>
+</card>
+<card>
+ <name>Advice of the Strangers</name>
+ <set rarity="uncommon" splitterPath="/Advice of the Strangers.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Erudite Masterplan</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Erudite Masterplan</text>
+</card>
+<card>
+ <name>Erudite Masterplan</name>
+ <set rarity="uncommon" splitterPath="/Erudite Masterplan.full.jpg" ></set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Erudite Masterplan enters the battlefield, tap all permanents you don’t control.
+Nonland permanents you don’t control don’t untap during their controller’s untap steps unless their controller pays 1.
+---
+(Front): Advice of the Strangers</text>
+</card>
+<card>
+ <name>Ritual to Those Unknown</name>
+ <set rarity="uncommon" splitterPath="/Ritual to Those Unknown.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Creeping Terrors</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Creeping Terrors</text>
+</card>
+<card>
+ <name>Creeping Terrors</name>
+ <set rarity="uncommon" splitterPath="/Creeping Terrors.full.jpg" ></set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>0</cmc>
+ <type>Creature - Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+At the beginning of each end step, if three or more cards were put into an opponent’s graveyard from anywhere, you may pay 3 life. If you do, create a 0/0 black Horror creature token with “This creature’s power and toughness are each equal to the number of cards in your opponents’ graveyards..” 
+---
+(Front): Ritual to Those Unknown</text>
+</card>
+<card>
+ <name>A Grand Heist</name>
+ <set rarity="uncommon" splitterPath="/A Grand Heist.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">The Final Heist</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): The Final Heist</text>
+</card>
+<card>
+ <name>The Final Heist</name>
+ <set rarity="uncommon" splitterPath="/The Final Heist.full.jpg" ></set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>0</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control with power 2 or less can’t be blocked this turn.
+At the beginning of your post-combat main phase, untap each creature you control. After this main phase, there is an additional combat phase followed by an additional main phase.
+---
+(Front): A Grand Heist</text>
+</card>
+<card>
+ <name>Search Across Detrosse</name>
+ <set rarity="rare" splitterPath="/Search Across Detrosse.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Worldly Collections</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Worldly Collections</text>
+</card>
+<card>
+ <name>Worldly Collections</name>
+ <set rarity="rare" splitterPath="/Worldly Collections.full.jpg" ></set>
+ <color>G</color>
+ <manacost>6G</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Spells you cast cost WUBRG less to cast. This effect reduces only the amount of colored mana you pay.
+Creatures you control get +1/+1 for each color among permanents you control.
+---
+(Front): Search Across Detrosse</text>
+</card>
+<card>
+ <name>Perfectionists Planning</name>
+ <set rarity="rare" splitterPath="/Perfectionists Planning.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">All According to Plan</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): All According to Plan</text>
+</card>
+<card>
+ <name>All According to Plan</name>
+ <set rarity="rare" splitterPath="/All According to Plan.full.jpg" ></set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When you complete All According to Plan, return up to two target nonland permanents to their owner’s hands.
+Whenever a creature you control attacks and isn’t blocked, draw a card.
+---
+(Front): Perfectionists Planning</text>
+</card>
+<card>
+ <name>Connecting the Red Threads</name>
+ <set rarity="mythic" splitterPath="/Connecting the Red Threads.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">The World Torn Asunder</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): The World Torn Asunder</text>
+</card>
+<card>
+ <name>The World Torn Asunder</name>
+ <set rarity="mythic" splitterPath="/The World Torn Asunder.full.jpg" ></set>
+ <color>R</color>
+ <manacost>6R</manacost>
+ <cmc>0</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may cast The World Torn Asunder without paying its mana cost if you completed its mystery this turn.
+The World Torn Asunder deals 10 damage to any number of targets.
+---
+(Front): Connecting the Red Threads</text>
+</card>
+<card>
+ <name>Call to the Empty Skies</name>
+ <set rarity="mythic" splitterPath="/Call to the Empty Skies.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Welcome to the Empty World</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Welcome to the Empty World</text>
+</card>
+<card>
+ <name>Welcome to the Empty World</name>
+ <set rarity="mythic" splitterPath="/Welcome to the Empty World.full.jpg" ></set>
+ <color>U</color>
+ <manacost>8UU</manacost>
+ <cmc>0</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may cast Welcome to the Empty World without paying its mana cost if you completed its mystery this turn.
+Take two extra turns after this one.
+---
+(Front): Call to the Empty Skies</text>
+</card>
+<card>
+ <name>Colors from Beyond Time</name>
+ <set rarity="mythic" splitterPath="/Colors from Beyond Time.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Pigments of the Multiverse</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Pigments of the Multiverse</text>
+</card>
+<card>
+ <name>Pigments of the Multiverse</name>
+ <set rarity="mythic" splitterPath="/Pigments of the Multiverse.full.jpg" ></set>
+ <color>G</color>
+ <manacost>7GG</manacost>
+ <cmc>0</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may cast Pigments of the Multiverse without paying its mana cost if you completed its mystery this turn.
+For each color, create a 5/5 Horror creature with trample of that color.
+---
+(Front): Colors from Beyond Time</text>
+</card>
+<card>
+ <name>Messa di Requiem per Ctonia</name>
+ <set rarity="mythic" splitterPath="/Messa di Requiem per Ctonia.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Awakening of the Chthonic</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): Awakening of the Chthonic</text>
+</card>
+<card>
+ <name>Awakening of the Chthonic</name>
+ <set rarity="mythic" splitterPath="/Awakening of the Chthonic.full.jpg" ></set>
+ <color>B</color>
+ <manacost>9BB</manacost>
+ <cmc>0</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may cast Awakening of the Chthonic without paying its mana cost if you completed its mystery this turn.
+Until end of turn, you may play lands and cast spells from graveyards without paying their mana costs.
+If a card would be put into a graveyard from anywhere this turn, exile that card instead.
+---
+(Front): Messa di Requiem per Ctonia</text>
+</card>
+<card>
+ <name>Ritual of True Enlightenment</name>
+ <set rarity="mythic" splitterPath="/Ritual of True Enlightenment.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">All Into One</related>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Conspiracy - Mystery </type>
+ <tablerow>1</tablerow>
+ <text>
+---
+(Back): All Into One</text>
+</card>
+<card>
+ <name>All Into One</name>
+ <set rarity="mythic" splitterPath="/All Into One.full.jpg" ></set>
+ <color>W</color>
+ <manacost>7WWW</manacost>
+ <cmc>0</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may cast All Into One without paying its mana cost if you completed its mystery this turn.
+Exile each nonland permanent you don’t control and each card in an opponent’s hand and graveyard.
+---
+(Front): Ritual of True Enlightenment</text>
+</card>
+<card>
+ <name>Leonin Copper</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Cat Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever you gain life, put a +1/+1 counter on Leonin Copper.</text>
+</card>
+<card>
+ <name>New Melview Sleuth</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When New Melview Sleuth enters the battlefield, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Hopeful of the Way</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Hopeful of the Way dies, put a +1/+1 counter on target creature you control, then you gain 2 life.</text>
+</card>
+<card>
+ <name>Elvish Cadet</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elf Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Elvish Cadet has first strike as long as it’s attacking.</text>
+</card>
+<card>
+ <name>Abbatars Chosen</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+</card>
+<card>
+ <name>That Which Unifies Passion</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Angel Horror </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying</text>
+</card>
+<card>
+ <name>The Man with Connections</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When The Man with Connections enters the battlefield, create a 2/2 white Soldier creature token.</text>
+</card>
+<card>
+ <name>Detrossian Griffin</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Griffin </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Detrossian Griffin attacks, target creature gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Hero of the Force</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Angel Soldier </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever you cast a spell that targets Hero of the Force, creatures you control get +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Striped Informant</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Cat Advisor </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Striped Informant enters the battlefield, distribute two +1/+1 counters among one or two other target creatures.</text>
+</card>
+<card>
+ <name>New Melview Recruits</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When New Melview Recruits enters the battlefield, create a 2/2 white Soldier creature token, then investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Where Consciousness Melds</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Where Consciousness Melds attacks, scry 1.</text>
+</card>
+<card>
+ <name>Imanis Manuever</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Target creature gets +2/+0 until end of turn. Untap it.
+• 2 loyalty Imani’s Manuever deals 3 damage to target attacking or blocking creature.
+Revision 2W — 1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Topple the Strong</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature if it’s tapped or its power is 4 or greater.</text>
+</card>
+<card>
+ <name>Expose Evil</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap up to two target creatures.
+Investigate (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Hiding Place</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature you control, then return that card to the battlefield under your control.</text>
+</card>
+<card>
+ <name>Sweep the Streets</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or enchantment. You gain life equal to its mana value.</text>
+</card>
+<card>
+ <name>Improbable Hope</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +2/+1 until end of turn.
+Devise 2W (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Ransomed Hostage</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature can’t attack or block and has “2, Sacrifice this creature: Each player draws a card.”</text>
+</card>
+<card>
+ <name>Sinister Thought-Snatcher</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Insect Horror </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Sinister Thought-Snatcher enters the battlefield, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Inventive Detective</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, Inventive Detective gets +1/+0 and gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Zhang Fence</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Advisor Rogue </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>U, T: Tap target creature. Activate this ability only if you control three or more Advisors.
+U, T: Untap target creature. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Erudite Magician</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Advisor Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Erudite Magician enters the battlefield, tap target creature. It doesn’t untap during its controller’s next untap step.</text>
+</card>
+<card>
+ <name>Sleezy Copper</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Sleezy Copper deals combat damage to a player, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Caller of Opulence</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>If you would draw a card while your library has no cards in it, instead put three +1/+1 counters on Caller of Opulence.
+Caller of Opulence gains flying and is a Octopus in addition to its other types as long as it has three or more +1/+1 counters on it.</text>
+</card>
+<card>
+ <name>Stalking Primordial</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Horror </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Devise 1U (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Exasperating Professor</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Advisor </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Exasperating Professor enters the battlefield, mill three cards. When you do, you may return target instant or sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Unquenchable Knowledge</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>5U</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Horror </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.) (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Whenever you cast an instant or sorcery spell, scry 2.</text>
+</card>
+<card>
+ <name>Screeching Amalgam</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Crab Horror </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever one or more creatures you control deal combat damage to an opponent, scry 1.</text>
+</card>
+<card>
+ <name>Proboscidian Transmutation</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. That creature’s controller creates two 1/1 Insect Horror creature tokens with flying.</text>
+</card>
+<card>
+ <name>Endless Investigation</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Endless Investigation enters the battlefield, tap enchanted creature, then investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+As long as you control an artifact, enchanted creature doesn’t untap during its controller’s untap step.</text>
+</card>
+<card>
+ <name>Psionic Deluge</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Put target creature on top of its owner’s library.
+• 2 loyalty Return target nonland permanent to its owner’s hand. Scry 2.
+Revision 4UU — 1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Expose</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card.
+Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Night Fright</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -3/-0 until end of turn. Mill three cards.</text>
+</card>
+<card>
+ <name>Negate</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target noncreature spell.</text>
+</card>
+<card>
+ <name>Scavenge the Sewers</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature can’t be blocked this turn. If this spell wasn’t cast from your hand, that creature gets +2/+0 until end of turn.
+Devise U (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Beckon to the Depths</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards, then mill two cards.</text>
+</card>
+<card>
+ <name>Whisk Reality Away</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell.
+Devise UU (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Lorre Muscle</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Vampire Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+When Lorre Muscle enters the battlefield, mill three cards.</text>
+</card>
+<card>
+ <name>Arrogant Moroii</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Advisor Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Arrogant Moroii dies, return it to the battlefield face-down. (It is a 2/2 creature.)</text>
+</card>
+<card>
+ <name>Lorre Blackmailer</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Azra Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Lorre Blackmailer enters the battlefield, target opponent discards a card.</text>
+</card>
+<card>
+ <name>Inner Fears Manifest</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Shade </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever a Swamp enters the battlefield under your control, Inner Fears Manifest deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Vampiric Officer</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Vampiric Officer enters the battlefield, another target creature you control gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Stalking Neonate</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Assassin </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Stalking Neonate enters the battlefield, you lose 2 life if you cast it from your hand.
+Devise 1B (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Gluttonys Reward</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Horror </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Sacrifice a creature: Gluttony’s Reward gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Vocarious Mothman</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Insect Horror </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Vocarious Mothman gets +2/+0 as long as you control an enchantment.</text>
+</card>
+<card>
+ <name>Investigator of the Infinite</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Horror Scout Warlock </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Investigator of the Infinite enters the battlefield, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Feaster of Accursed Thoughts</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>5BB</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Horror </type>
+ <pt>8/6</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+1B, Discard Feaster of Accursed Thoughts: Target creature gets +1/+0 and gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Street Vermin</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Rat Horror </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Street Vermin gets +2/+2 as long as an opponent has no cards in hand.</text>
+</card>
+<card>
+ <name>Shadows Strangulation</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature with mana value 2 or less. If this spell wasn’t cast from your hand, instead destroy target creature.
+Devise B (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Silence of the Phantoms</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Return target creature card from your graveyard to your hand.
+• 2 loyalty Draw a card.
+Revision 4B — 1 loyalty1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Blood Dinner</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your end step, Blood Dinner deals 1 damage to each opponent and you gain 1 life.
+Devise B (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Coat with Venom</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gets +1/+2 and gains deathtouch until end of turn.</text>
+</card>
+<card>
+ <name>Call of the Void</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets -3/-1.
+At the beginning of the upkeep of enchanted creature’s controller, that player loses 2 life.</text>
+</card>
+<card>
+ <name>Chthonics Blessing</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+Enchanted creature gets +3/+1 and has lifelink.</text>
+</card>
+<card>
+ <name>Case the Joint</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
+</card>
+<card>
+ <name>Looming Visage</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player discards a card.
+Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Squeak-ret Sleuth</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Rat Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Squeak-ret Sleuth deals 1 damage to target player.
+Whenever an artifact enters the battlefield under your control, untap Squeak-ret Sleuth.</text>
+</card>
+<card>
+ <name>Bloodsucking Dame</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Bloodsucking Dame enters the battlefield, it deals 2 damage to target player or planeswalker.</text>
+</card>
+<card>
+ <name>Polished Policeman</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Orc Soldier </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Polished Policeman gets +1/+0 for each spell you’ve cast this turn.</text>
+</card>
+<card>
+ <name>Effigies of the Lost</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>T, Sacrifice Effigies of the Lost: Add CC. If that mana is spent on a creature spell, it gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Active Investor</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Wolf Advisor </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Active Investor attacks, another target attacking creature gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Backalley Brawler</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Minotaur Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Backalley Brawler attacks, target creature can’t block this turn.</text>
+</card>
+<card>
+ <name>Fantastic Performer</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Actor Rogue </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Fantastic Performer enters the battlefield, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Smooth Criminal</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Rogue </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Smooth Criminal enters the battlefield, create a 1/1 red Rogue creature token.
+Whenever Smooth Criminal attacks, it gets +1/+0 until end of turn for each other creature you control.</text>
+</card>
+<card>
+ <name>Early Responders</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 2/2 white Soldier creature tokens.</text>
+</card>
+<card>
+ <name>Dead-Eyed Fatale</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Spirit </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Devise 1RR (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Skeleton in the Closet</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Skeleton Horror </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>T, Sacrifice an artifact: Skeleton in the Closet deals 2 damage to each opponent.</text>
+</card>
+<card>
+ <name>Clandestine Meeting</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top three cards of your library. Until end of turn, you may play those cards.
+Devise R (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Waltz into Crime</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Create two 1/1 red Rogue creature tokens.
+• 2 loyalty Creatures you control get +1/+0 and gain haste until end of turn.
+Revision 4R — 1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Blood Fugue</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains first strike until end of turn.
+Draw a card.</text>
+</card>
+<card>
+ <name>Thread of Misfortune</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Thread of Misfortune deals 2 damage to any target. If a permanent is dealt excess damage this way, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Master Plan</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target land.
+Devise RR (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Reason for Living</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature you control
+Enchanted creature gets +1/+0.
+Whenever enchanted creature attacks, you may discard a card. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Smoking Revolver</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+When Smoking Revolver enters the battlefield, you may attach it to target creature you control.
+Equipped creature gets +2/+2 and can’t block.
+Equip 4</text>
+</card>
+<card>
+ <name>Incriminating Knife</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Incriminating Knife enters the battlefield, target creature can’t block this turn.
+Equipped creature gets +2/+0.
+Equip 3</text>
+</card>
+<card>
+ <name>Fox Agency Explorer</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Satyr Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: You may put a land card from your hand onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Satyr Drifter</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Satyr Bard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever you cast an Enchantment spell, put a +1/+1 counter on Satyr Drifter.</text>
+</card>
+<card>
+ <name>Fox Agency Detective</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Scout Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Fox Agency Detective enters the battlefield, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Retired Barrister</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Azra Advisor </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Retired Barrister enters the battlefield, put a +1/+1 counter on up to three target creatures.</text>
+</card>
+<card>
+ <name>Lorre Patsy</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Azra Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+When Lorre Patsy dies, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Researcher of the Occult</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Rhino Scout </type>
+ <pt>2/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When Researcher of the Occult enters the battlefield, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Minister of the Aberrant</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Azra Cleric </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Devise GG (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Squamous Salamander</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Salamander </type>
+ <pt>5/2</pt>
+ <tablerow>2</tablerow>
+ <text>2: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Interrogation Squad</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When Interrogation Squad enters the battlefield, create two 1/1 green Scout creature tokens.</text>
+</card>
+<card>
+ <name>Innocent Stray</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Cat Horror </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Innocent Stray enters the battlefield, you gain 3 life.</text>
+</card>
+<card>
+ <name>Revolting Mass</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>6GG</manacost>
+ <cmc>8</cmc>
+ <type>Creature - Snake </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste</text>
+</card>
+<card>
+ <name>Detrossian Hydra</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>XG</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Hydra </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Detrossian Hydra enters the battlefield with X +1/+1 counters on it.</text>
+</card>
+<card>
+ <name>Blaring Revelation</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Destroy target artifact.
+• 2 loyalty Destroy target enchantment.
+Revision 4G — 1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Aerial Tether</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+When Aerial Tether enters the battlefield, untap enchanted creature.
+Enchanted creature gets +0/+2 and has reach.</text>
+</card>
+<card>
+ <name>Awakening Subservience</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+Enchanted creature gets +2/+2 and loses all abilities.</text>
+</card>
+<card>
+ <name>Recalling Normalcy</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on up to three target creatures.
+Devise G (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Underground Shootout</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gets +2/+2 if Underground Shootout wasn’t cast from your hand. Then it fights target creature you don’t control.
+Devise G (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Occult Portal</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+Enchanted land has “T: Add one mana of any color.”
+6, Sacrifice Occult Portal: Create a tapped 5/5 green Horror creature token with trample.</text>
+</card>
+<card>
+ <name>Aberrant Mask</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+0 and has trample.
+Equip G</text>
+</card>
+<card>
+ <name>Agent Pearl</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Creature - Azra Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>If a creature an opponent controls would die, instead exile that card and you gain 1 life.
+Whenever you gain life, you may pay 2. If you do, put a +1/+1 counter on Agent Pearl.</text>
+</card>
+<card>
+ <name>Orcish Bartender</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Orc Advisor </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+1, Tap two untapped creatures you control: Tap target creature.</text>
+</card>
+<card>
+ <name>Wings of Justice</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Angel Soldier </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Other Soldiers you control get +1/+1 and have vigilance.</text>
+</card>
+<card>
+ <name>Boisterous Bodyguard</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>1W, Sacrifice Boisterous Bodyguard: Target creature you control gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Revered Sculptor</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Artist </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Revered Sculptor enters the battlefield, choose one —
+• Destroy target enchantment.
+• You gain 4 life.</text>
+</card>
+<card>
+ <name>Owl-Knowing Attorney</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Advisor </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+At the beginning of combat on your turn, another target creature you control gets +1/+0 and gains vigilance until end of turn.</text>
+</card>
+<card>
+ <name>Scaled Officer</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Viashino Soldier </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Prevent all damage that would be dealt to Scaled Officer by creatures blocking it.</text>
+</card>
+<card>
+ <name>Long Ride to Nowhere</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Long Ride to Nowhere enters the battlefield, investigate, then exile target creature you don’t control until Long Ride to Nowhere leaves the battlefield. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Rally of Wings</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap all creatures you control. Creatures you control with flying get +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Shelter of the Blessed</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +1/+1 and gains double strike and lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Unusual Critters</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Create two 1/1 black Cat creature tokens.
+• 2 loyalty Create a 2/2 white Dog creature token with lifelink.
+• 3 loyalty Put a +1/+1 counter on each creature you control.
+Revision 6WW — 1 loyalty2 loyalty3 loyalty3 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Agent Sapphire</name>
+ <set rarity="rare"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Azra Rogue </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever a nonmana ability of another permanent is activated or triggered, put a null counter on that permanent. It loses all abilities.</text>
+</card>
+<card>
+ <name>New Melview Detective</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Artificer Scout </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add 2. Spend this mana only to activate the abilities of artifacts.</text>
+</card>
+<card>
+ <name>Snazzy Dealer</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Cat Advisor </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever a creature enters the battlefield under your control, you may pay 1. If you do, tap target creature an opponent controls.</text>
+</card>
+<card>
+ <name>Conjuring Occultist</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Conjuring Occultist enters the battlefield, target artifact you control becomes an artifact creature with base power and toughness 4/4 and for as long as Conjuring Occultist remains on the battlefield.
+When Conjuring Occultist dies, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Career Criminal</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Career Criminal deals combat damage to a player, draw a card.
+Discard a card: Career Criminal can’t be blocked this turn.</text>
+</card>
+<card>
+ <name>Primordial of Empty Skies</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>You may sacrifice two Clues rather than pay Primordial of Empty Skies’s mana cost.
+Flying</text>
+</card>
+<card>
+ <name>Breath of the Deep</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Mill five cards. Then you may shuffle any number of cards from your graveyard into your library.</text>
+</card>
+<card>
+ <name>Psychometric Detective</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Scout Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, Psychometric Detective gets +1/+1 until end of turn.
+Whenever Psychometric Detective deals combat damage to a player, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Blessing of the Opulent</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw four cards, then discard a card.
+Devise 2UU (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Threaded Raven</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Horror </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Creature spells you cast with flying cost 1 less to cast.
+Threaded Raven gets +1/+1 if a creature with flying entered the battlefield under your control this turn.</text>
+</card>
+<card>
+ <name>Lost in Nightmares</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Tap target creature. It doesn’t untap during its controller’s next untap step.
+• 2 loyalty Draw a card.
+Revision 4U — 1 loyalty1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Agent Jet</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Rogue </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Cards in graveyards lose all card types and abilities.
+Whenever a card is returned to a player’s hand, that player discards a card.</text>
+</card>
+<card>
+ <name>Lilianas Protege</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Zombie Warlock </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Liliana’s Protege enters the battlefield, return target non-Warlock creature card from your graveyard to the battlefield. You lose 3 life.
+5B, Exile Liliana’s Protege from your graveyard: Return target non-Warlock creature card from your graveyard to the battlefield. You lose 3 life. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Alleyway Nightmare</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>BBB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Nightmare Horse </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Alleyway Nightmare gets +1/+1 for each Swamp you control.</text>
+</card>
+<card>
+ <name>Abstracted Kidnapper</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Horror </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, trample
+At the beginning of combat on your turn, any opponent may discard a card. If a player does, tap Abstracted Kidnapper.</text>
+</card>
+<card>
+ <name>Dealer of the Raven</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Skeleton Advisor </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Dealer of the Raven enters the battlefield, remove up to two counters from target permanent.</text>
+</card>
+<card>
+ <name>Frolicking Moocher</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Satyr Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+At the beginning of your upkeep, if an opponent has no cards in hand, you draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>All-Out Shootout</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>All-Out Shootout deals 2 damage to each creature. Whenever a creature dies this turn, you gain 1 life.</text>
+</card>
+<card>
+ <name>Mindwrack</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>X2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent discards X cards.
+Devise XB (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Horde of Moroii</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Vampire Horror </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever one or more Horrors you control attack, target creature you don’t control gets -X/-X until end of turn, where X is the number of attacking Horrors you control.</text>
+</card>
+<card>
+ <name>Wealthy Caporegime</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Wealthy Caporegime or another creature you control dies, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Deathcult Ritual</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Create two 1/1 red Rogue creature tokens.
+• 2 loyalty Each player sacrifices a creature.
+Revision 1BB — 1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Agent Ruby</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Rogue </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Agent Ruby enters the battlefield, each player chooses four lands they control, then sacrifices the rest.</text>
+</card>
+<card>
+ <name>Self Check-out</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>When you cast this spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.
+Self Check-out deals 1 damage to any target.</text>
+</card>
+<card>
+ <name>New Melview Vigilante</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Scout Wizard </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When UR05 enters the battlefield, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+Whenever you sacrifice an artifact, New Melview Vigilante gets +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Dame of the Ball</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Azra Bard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+When Dame of the Ball enters the battlefield, return target instant or sorcery card from your graveyard to your hand. Dame of the Ball deals 2 damage to you.</text>
+</card>
+<card>
+ <name>Aspiring Pugilist</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Werewolf Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever one or more creatures you control deal combat damage to an opponent or you cast a spell during an opponent’s turn, you may discard a card. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Card-shark</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Shark Rogue Warrior </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever Card-shark attacks, other creatures you control get +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>New Home, New Opportunities</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put any number of cards from your hand on the bottom of your library, then draw that many cards plus one.</text>
+</card>
+<card>
+ <name>Mercenarys Blade</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +3/+0 and has menace.
+Equip 3</text>
+</card>
+<card>
+ <name>Rampaging Primordial</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>6R</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less for each artifact you control.
+When Rampaging Primordial enters the battlefield, gain control of target artifact or creature until end of turn. Untap that permanent. It gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Holder of Contraband</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Holder of Contraband enters the battlefield, it deals damage to any target equal to the number of artifacts you control.</text>
+</card>
+<card>
+ <name>Piquant Flames</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Piquant Flames deals 2 damage to any target.
+• 2 loyalty Piquant Flames deals 1 damage to each creature.
+Revision 2R — 2 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Agent Emerald</name>
+ <set rarity="rare"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Elf Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>If an opponent would put one or more more counters on a permanent or player, put that many +1/+1 counters on Agent Emerald instead.
+Opponents can’t remove counters from permanents they control.</text>
+</card>
+<card>
+ <name>Gnarled Primordial</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Horror </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>When Gnarled Primordial enters the battlefield, creatures you control get +2/+2 until end of turn. If you didn’t cast Gnarled Primordial from your hand, it gains haste until end of turn.
+Devise 6GG (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Hideous Spider</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Spider Horror </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Reach, ward 2 (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)</text>
+</card>
+<card>
+ <name>Enticing Woodghast</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Dryad </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Enticing Woodghast enters the battlefield, search your library for a land card, reveal it, put it into your hand, then shuffle your library.
+WUBRG: Put X +1/+1 counters on Enticing Woodghast, where X is its power.</text>
+</card>
+<card>
+ <name>Feline Pair</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Scout </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Scout you control attacks, you may reveal the top card of your library. If it is a land card, put it onto the battlefield tapped. Otherwise you may put it on the bottom of your library.</text>
+</card>
+<card>
+ <name>Outlands Hermit</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Mutant Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add one mana of any color.
+2G: Put a +1/+1 counter on Outlands Hermit.</text>
+</card>
+<card>
+ <name>That Which Stalks the Edge</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+That Which Stalks the Edge gets +1/+1 for each enchantment you control.</text>
+</card>
+<card>
+ <name>Unending Curosity</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enhantment - Aura</type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +1/+1.
+Whenever enchanted creature deals damage to an opponent, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Crack in the Case</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>XG</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create X 1/1 green Scout creature tokens.</text>
+</card>
+<card>
+ <name>Child of Hunger</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Horror </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Child of Hunger enters the battlefield, if you didn’t cast it from your hand, create a 5/5 green Horror creature token with trample.
+Devise 7GG (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Dust Overload</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Put two +1/+1 counters on target creature.
+• 2 loyalty Target creature you control deals damage equal to its power to target creature you don’t control.
+Revision 4GG — 1 loyalty1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Hope of Nights Shepherd</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Angel Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Hope of Night’s Shepherd enters the battlefield, create two 1/1 green Scout creature tokens.
+Whenever a token creature you control deals combat damage to a player, put a +1/+1 counter on Hope of Night’s Shepherd.</text>
+</card>
+<card>
+ <name>Coalescing Souls</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>XXW</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create X */* white Angel Horror creature tokens with flying and “This creature’s power and toughness are each equal to the number of creatures you control.”</text>
+</card>
+<card>
+ <name>Drift of Griffins</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Grifffin </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, lifelink
+Noncreature spells cost 1 more to cast. If you’ve gained life this turn, noncreature spells cost 2 more to cast instead.</text>
+</card>
+<card>
+ <name>To Whom Unity Confers</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Angel Horror </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+T: Another target creature you control gains hexproof from the color of your choice until end of turn.</text>
+</card>
+<card>
+ <name>Take a Break</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target spell. For as long as that card remains exiled, its owner may play it. A spell cast this way costs 2 more to cast.</text>
+</card>
+<card>
+ <name>Mourning</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You gain 4 life.
+Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+3W, Exile Mourning from your graveyard: You gain 4 life. Investigate.</text>
+</card>
+<card>
+ <name>World at Peace</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Destroy all creatures.
+• 2 loyalty Destroy all artifacts and enchantments.
+• 3 loyalty Destroy all planeswalkers.
+Revision 3WWW — 1 loyalty2 loyalty3 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Ichthyic Dreams</name>
+ <set rarity="rare"></set>
+ <color>U</color>
+ <manacost>9UU</manacost>
+ <cmc>11</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 1 less for each instant and sorcery card in your graveyard.
+Draw three cards.</text>
+</card>
+<card>
+ <name>Erudite Bureaucrat</name>
+ <set rarity="rare"></set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Advisor </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Ward 2 (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+When Erudite Bureaucrat enters the battlefield, choose one —
+• Counter target spell unless its controller pays 1.
+• Tap up to three target creatures.</text>
+</card>
+<card>
+ <name>Gripping Thought-Snatcher</name>
+ <set rarity="rare"></set>
+ <color>U</color>
+ <manacost>UU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Insect Horror </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+Whenever a creature with flying enters the battlefield under your control, tap target nonland permanent you don’t control. It loses all abilities until end of turn.</text>
+</card>
+<card>
+ <name>Suspicious Stairwell</name>
+ <set rarity="rare"></set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Spirit </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Each noncreature artifact you control is a 2/2 artifact creature.
+1U: Until end of turn, target artifact creature isn’t a creature.</text>
+</card>
+<card>
+ <name>Grand Sleuth</name>
+ <set rarity="rare"></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you sacrifice a Clue, target player mills three cards.
+Whenever two or more creatures you control attack, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Reduce to Pigment</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature or artifact
+Enchanted permanent is an artifact and loses all other card types and abilities.</text>
+</card>
+<card>
+ <name>Unravel the World</name>
+ <set rarity="rare"></set>
+ <color>U</color>
+ <manacost>XUU</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Return each creature with mana value less than X to their owner’s hand.
+• 2 loyalty Target player draws X cards.
+• 3 loyalty You may cast a noncreature spell with a mana value X or less without payings its mana cost.
+Revision XUUU — 1 loyalty2 loyalty3 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>18th Street Snipper</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Spirit </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever a player casts a spell, that player loses X life, where X is 3 minus that spell’s mana value.</text>
+</card>
+<card>
+ <name>Jaspers Hitman</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Demon Assassin </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+1, Sacrifice a creature: Choose one —
+•  Jasper’s Hitman gains lifelink, haste, and indestructible until end of turn.
+• You draw a card and lose 1 life.
+• Add BB.</text>
+</card>
+<card>
+ <name>Embodiment of Dread</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Horror Rogue </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you attack a player with one or more Horrors, that player discards a card, then you choose one —
+• That player loses life equal to that card’s mana value.
+• Draw a card.</text>
+</card>
+<card>
+ <name>Lorre Diplomacy</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Lorre Diplomacy enters the battlefield, target player discards a card.
+At the beginning of each opponent’s upkeep, if that player has one or fewer cards in their hand, create a 1/1 black Warrior creature token and that player loses 1 life.</text>
+</card>
+<card>
+ <name>Cut Down</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature or planeswalker. Mill cards equal to that permanent’s mana value.</text>
+</card>
+<card>
+ <name>The Vipers Threat</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each opponent reveals their hand, then chooses a nonland card. You choose a different nonland card from it. That player discards that card.</text>
+</card>
+<card>
+ <name>Deal with a Demon</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>2BBB</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Deal with a Demon deals damage to each opponent equal to half their life total, rounded up.
+• 2 loyalty Create an X/X black Demon creature token with flying, where X is the amount of life players have lost this turn.
+Revision BBBBB — 1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Bartender at Vedas</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Azra Rogue </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell, exile the top card of your library. You may play that card this turn.
+At the beginning of your end step, Bartender at Veda’s deals damage to you equal to the number of cards you own in exile that were exiled by Bartender at Veda’s this turn.</text>
+</card>
+<card>
+ <name>Mabuse Heavy Arms</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Mabuse Heavy Arms enters the battlefield, create three Weapon tokens and attach them to Mabuse Heavy Arms. (They’re Equipment artifacts with equip 2 and “Equipped creature gets +1/+1.”)</text>
+</card>
+<card>
+ <name>Mabuse Trio</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Bird Snake Crocodile </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Equipped creatures you control get +1/+0 and have haste.
+Enchanted creatures you control get +1/+0 and have trample.</text>
+</card>
+<card>
+ <name>Echo of the Parallel</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, whenever a creature you control attacks, create a token that’s a copy of that creature that’s tapped and attacking. Exile that token at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Reconciling Insignificance</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>XRR</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, you may sacrifice any number of artifacts. This spell costs 1 less to cast for each artifact sacrificed this way.
+Reconciling Insignificance deals X damage to any target.</text>
+</card>
+<card>
+ <name>Out for Blood</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Out for Blood deals 5 damage to any target.
+Devise 1R (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Splendor of Ancients</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty Add R for each tapped land you don’t control.
+• 2 loyalty Exile the top five cards of your library. You may play cards exiled this way until the end of your next turn.
+Revision 3RR — 1 loyalty1 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Collector of Cardinals</name>
+ <set rarity="rare"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dryad </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add two mana of different colors.
+2WUBRG, T: For each color, choose a creature you control of that color. Put a +1/+1 counter on each creature chosen this way. They gain flying, lifelink, and trample until end of turn.</text>
+</card>
+<card>
+ <name>Looming Ooze</name>
+ <set rarity="rare"></set>
+ <color>G</color>
+ <manacost>5GGG</manacost>
+ <cmc>8</cmc>
+ <type>Creature - Ooze Horror </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>When Looming Ooze leaves the battlefield, create two 4/4 green Ooze Horror creature tokens with “When this creature leaves the battlefield, create two 2/2 green Ooze Horror creature tokens.”</text>
+</card>
+<card>
+ <name>Fox Agency Elite</name>
+ <set rarity="rare"></set>
+ <color>G</color>
+ <manacost>GG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elf Scout </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Fox Agency Elite enters the battlefield, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+Whenever you sacrifice a Clue, target Scout gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Apex of the Apocalypse</name>
+ <set rarity="rare"></set>
+ <color>G</color>
+ <manacost>XGG</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for up to X green creature cards with total mana value X or less and put them onto the battlefield, then shuffle your library.</text>
+</card>
+<card>
+ <name>Infusion of Dust</name>
+ <set rarity="rare"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +X/+X, where X is the amount of mana you’ve spent this turn.
+2G: Put a +1/+1 counter on enchanted creature. It gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Walters Deduction</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+2 for each enchantment you control.</text>
+</card>
+<card>
+ <name>Birth of the Cosmos</name>
+ <set rarity="rare"></set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• 1 loyalty You gain life equal to the number of cards in your graveyard. Shuffle those cards into your library.
+• 2 loyalty Reveal the top card of your library until you reveal a creature card and put it onto the battlefield, then shuffle.
+Revision 5GG — 1 loyalty2 loyalty2 loyalty (If you cast this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>Abbatar, the Whole of Unity</name>
+ <set rarity="mythic"></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Elder Horror </type>
+ <pt>5/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever an opponent casts a spell, draw a card unless that player pays 2.
+You may cast Abbatar, the Whole of Unity from your graveyard by discarding two cards as an additional cost to cast it.</text>
+</card>
+<card>
+ <name>Imani, Purpose Lost</name>
+ <set rarity="mythic"></set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Planeswalker - Imani </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Up to one target creature gets +1/+0 and gains first strike until end of turn.
+[+1]: Up to one target creature gets +0/+2 and gains vigilance until end of turn.
+[-6]: Create Loyalty, a legendary Equipment artifact token with “Equipped creature gets +3/+0 and has protection from your opponents,” and equip 0.
+</text>
+</card>
+<card>
+ <name>Worlds Collide</name>
+ <set rarity="mythic"></set>
+ <color>U</color>
+ <manacost>3UUU</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each player exchanges their hand and sideboard.</text>
+</card>
+<card>
+ <name>As the Cosmos Aligns</name>
+ <set rarity="mythic"></set>
+ <color>U</color>
+ <manacost>XUU</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Reveal the top X cards of your library. An opponent separates those cards into two piles. Put one pile into your graveyard. Exile each card in the other pile. For each card exiled this way, create a 2/2 blue Polyp creature token. When that token leaves the battlefield, put the exiled card into your hand.</text>
+</card>
+<card>
+ <name>Total Eradication</name>
+ <set rarity="mythic"></set>
+ <color>B</color>
+ <manacost>BBBBBB</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each player reveals their hand and sideboard. Exile each creature, then exile each creature card in a graveyard, hand, or sideboard.</text>
+</card>
+<card>
+ <name>Phobian Mass</name>
+ <set rarity="mythic"></set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Polyp </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, menace, ward — Discard a card
+Whenever Phobian Mass deals combat damage to a player, exile up to that many cards from that player’s graveyard. You gain life equal to the number of cards exiled this way.</text>
+</card>
+<card>
+ <name>Zim-Shiggur, Threads of Life</name>
+ <set rarity="mythic"></set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Elder Horror </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Zim-Shiggur, Threads of Life attacks, discard your hand, then draw that many cards plus one.
+You may cast Zim-Shiggur from your graveyard by discarding two cards as an additional cost to cast it.</text>
+</card>
+<card>
+ <name>Cosmic Piper</name>
+ <set rarity="mythic"></set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Bard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>1R: Choose one. Activate this ability only once each turn and only if Cosmic Piper is attacking but before blockers are declared.
+• 1 loyalty You may discard any number of cards, then draw that many cards.
+• 2 loyalty You may put a creature card from your hand onto the battlefield tapped and attacking. Exile it at the beginning of your next end step.
+Revision 3R — 1 loyalty2 loyalty (If you activated this for its revision cost, instead do these effects in this order.)</text>
+</card>
+<card>
+ <name>It Came From Beyond</name>
+ <set rarity="mythic"></set>
+ <color>G</color>
+ <manacost>XGG</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Reveal a creature card you own from outside the game with mana value X or less. Create a token that’s a copy of that card.</text>
+</card>
+<card>
+ <name>Unending Search</name>
+ <set rarity="mythic"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You gain 2 life. Draw a card.
+Whenever a creature enters the battlefield, you may exile Unending Search from your graveyard with a Clue counter on it.
+Whenever a creature enters the battlefield under your control, you may return Unending Search from exile to your hand if it has a Clue counter on it.</text>
+</card>
+<card>
+ <name>Leon, Shepherd</name>
+ <set rarity="uncommon"></set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Angel </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Other creatures you control with flying get +1/+1.
+Whenever a creature with flying enters the battlefield under your control, scry 1, then you gain 1 life.</text>
+</card>
+<card>
+ <name>Stella, Dame of the Depths</name>
+ <set rarity="uncommon"></set>
+ <color>UB</color>
+ <manacost>UB</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Merfolk Rogue </type>
+ <pt>*/4</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Stella, Dame of the Depths’s power is equal to 25 minus the number of cards in your library.</text>
+</card>
+<card>
+ <name>Deb, Rogue Agent</name>
+ <set rarity="uncommon"></set>
+ <color>BR</color>
+ <manacost>BR</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Assassin </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of each end step, if an opponent lost life outside of combat this turn, you draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>Walter, Cryptic Detective</name>
+ <set rarity="uncommon"></set>
+ <color>RG</color>
+ <manacost>2RG</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Scout </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Walter, Cryptic Detective enters the battlefield, look at the top seven cards of your library. You may reveal an Aura card or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Creatures you control that are equipped or enchanted get +1/+1 and have trample.</text>
+</card>
+<card>
+ <name>Anna Fox, Master Sleuth</name>
+ <set rarity="uncommon"></set>
+ <color>WG</color>
+ <manacost>1GW</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Each other creature you control enters the battlefield with an additional +1/+1 counter on it.
+Whenever you attack, you gain life equal to the number of counters on attacking creatures you control.</text>
+</card>
+<card>
+ <name>Frankie Lorre, Underboss</name>
+ <set rarity="uncommon"></set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Frankie Lorre, Underboss enters the battlefield, create Frankie’s Pet, a legendary 4/4 black Spider creature token with deathtouch.
+Whenever a creature you control dies, put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+ <name>Clarence, Grand Tinkerer</name>
+ <set rarity="uncommon"></set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Artificer </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Clarence, Grand Tinkerer enters the battlefield or deals combat damage to a player, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+Whenever you sacrifice an artifact, Clarence, Grand Tinkerer gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Vivian, Grasping at the Void</name>
+ <set rarity="uncommon"></set>
+ <color>BG</color>
+ <manacost>3BG</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Elf Warlock </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+When Vivian, Grasping at the Void enters the battlefield, return target enchantment card from your graveyard to the battlefield. You gain life equal to its mana value.</text>
+</card>
+<card>
+ <name>Dave Wilson, Lead Officer</name>
+ <set rarity="uncommon"></set>
+ <color>WR</color>
+ <manacost>3RW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Dave Wilson, Lead Officer enters the battlefield, create two 2/2 white Soldier creature tokens.
+Whenever Dave Wilson, Lead Officer attacks, other creatures you control get +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Em, Primordial Summoner</name>
+ <set rarity="uncommon"></set>
+ <color>UG</color>
+ <manacost>XGU</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Orc Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Em, Primordial Summoner enters the battlefield with X +1/+1 counters on it.
+Vigilance
+T: Add X mana in any combination of colors, where X is the number of counters on Em, Primordial Summoner.</text>
+</card>
+<card>
+ <name>Angelic Sleuth</name>
+ <set rarity="rare"></set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Angel Scout </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+When Angelic Sleuth enters the battlefield, exile target spell or nonland permanent.
+When Angelic Sleuth leaves the battlefield, the exiled card’s owner may cast that card without paying its mana cost.</text>
+</card>
+<card>
+ <name>One of the Stolen Face</name>
+ <set rarity="rare"></set>
+ <color>UB</color>
+ <manacost>2UB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Shapeshifter </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>As One of the Stolen Face enters the battlefield, you may exile a creature card from a graveyard with a mask counter on it. If you do, One of the Stolen Face becomes a copy of that creature for as long as it remains in exile, except it has “1: Put a card exiled with a mask counter on it on the bottom of its owner’s library. If you do, One of the Stolen Face gains hexproof and indestructible until end of turn.”</text>
+</card>
+<card>
+ <name>World on Fire</name>
+ <set rarity="rare"></set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, pay X life.
+World on Fire deals X damage to each creature and planeswalker.</text>
+</card>
+<card>
+ <name>Hyperphantasiac Youth</name>
+ <set rarity="rare"></set>
+ <color>RG</color>
+ <manacost>3RG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Permanents you control that are attached to other permanents are indestructible.
+2R, Sacrifice an Aura or Equipment: Create two copies of the sacrificed permanent attached to a permanent you control. Exile those copies at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Effulgent Archangel</name>
+ <set rarity="rare"></set>
+ <color>WG</color>
+ <manacost>5GW</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Angel Cleric </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+When Effulgent Archangel enters the battlefield, creatures you control get +1/+1 and gain double strike until end of turn.</text>
+</card>
+<card>
+ <name>Frank the Viper Lorre</name>
+ <set rarity="rare"></set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+1, Sacrifice another creature: Frank “the Viper” Lorre gains protection from the color of your choice until end of turn.</text>
+</card>
+<card>
+ <name>Inventive Gumshoe</name>
+ <set rarity="rare"></set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Artificer Scout </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a nontoken artifact enters the battlefield under your control, choose one —
+• Create a 1/1 colorless Construct artifact creature token.
+• Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Kasper Cross, Moroii Cabalist</name>
+ <set rarity="rare"></set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Vampire Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Each nonland card in your hand without devise has devise. Its devise cost is equal to its mana cost reduced by 3. (You may cast it face down as an enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its devise cost for as long as it has no time counters on it.)
+Enchantments you control have ward—Pay 3 life.</text>
+</card>
+<card>
+ <name>Paula and Josephine</name>
+ <set rarity="rare"></set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Citizen </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever you attack, you may discard any number of cards. Paula and Josephine deals damage equal to the number of cards discarded this way to up to one target creature or planeswalker, then you draw that many cards.</text>
+</card>
+<card>
+ <name>Rex and Iva, Perfect Pair</name>
+ <set rarity="rare"></set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Scout Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 4 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4.) (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4.)
+Whenever you cast a spell with a mana cost that contains X, put X +1/+1 counters on Rex and Iva, Perfect Pair and you gain X life.</text>
+</card>
+<card>
+ <name>Outlands Sifter</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct Clue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Outlands Sifter enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+2, Sacrifice Outlands Sifter: Draw a card.</text>
+</card>
+<card>
+ <name>Learned Rabota</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Construct Citizen </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Learned Rabota attacks, scry 1.</text>
+</card>
+<card>
+ <name>Pilfered Jewels</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>1, T: Add one mana of any color.
+2, Sacrifice Pilfered Jewels: Draw a card</text>
+</card>
+<card>
+ <name>Pendant of the Erudite Society</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gains flying and ward 1. (Whenever equipped permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)
+Equip 1</text>
+</card>
+<card>
+ <name>Evolving Cityscape</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Evolving Cityscape: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</text>
+</card>
+<card>
+ <name>Mysterious Altar</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>Each player can’t draw more than one card each turn. Any player may pay 2 for that player to ignore this effect until end of turn.
+2, Sacrifice Mysterious Altar: Draw a card.</text>
+</card>
+<card>
+ <name>Chapel Guardian</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Gargoyle Clue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Each player can’t mark leads of conspiracies. Any player may pay 2 for that player to ignore this effect until end of turn.
+2, Sacrifice Chapel Guardian: Draw a card.</text>
+</card>
+<card>
+ <name>Bleeding Tome</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Enchanted creature gets +1/+0 and has haste.
+Whenever equipped creature dies, draw a card.
+Equip 2</text>
+</card>
+<card>
+ <name>Strange Phone Booth</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>When Strange Phone Booth enters the battlefield, put three time counters on any number of target enchantments.
+2, Sacrifice Strange Phone Booth: Draw a card.</text>
+</card>
+<card>
+ <name>Empty Vaults</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>When Empty Vaults enters the battlefield, exile target card from a graveyard. Scry 1.
+2, Sacrifice Empty Vaults: Exile each opponent’s graveyard. Draw a card.</text>
+</card>
+<card>
+ <name>Grandstanding Skyscrapers</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Grandstanding Skyscrapers enters the battlefield tapped if you control another nonbasic land.
+T: Add W or U.</text>
+</card>
+<card>
+ <name>Moroii Sanctuary</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Moroii Sanctuary enters the battlefield tapped if you control another nonbasic land.
+T: Add W or B.</text>
+</card>
+<card>
+ <name>Police Headquarters</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Police Headquarters enters the battlefield tapped if you control another nonbasic land.
+T: Add R or W.</text>
+</card>
+<card>
+ <name>Secret Meeting Place</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Secret Meeting Place enters the battlefield tapped if you control another nonbasic land.
+T: Add G or W.</text>
+</card>
+<card>
+ <name>Ominous Basement</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Ominous Basement enters the battlefield tapped if you control another nonbasic land.
+T: Add U or B.</text>
+</card>
+<card>
+ <name>Energetic Streets</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Energetic Streets enters the battlefield tapped if you control another nonbasic land.
+T: Add U or R.</text>
+</card>
+<card>
+ <name>Detectives Office</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Detective’s Office enters the battlefield tapped if you control another nonbasic land.
+T: Add G or U.</text>
+</card>
+<card>
+ <name>Grand Circus</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Grand Circus enters the battlefield tapped if you control another nonbasic land.
+T: Add B or R.</text>
+</card>
+<card>
+ <name>Spooky Farmland</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Spooky Farmland enters the battlefield tapped if you control another nonbasic land.
+T: Add B or G.</text>
+</card>
+<card>
+ <name>Overgrown Laboratory</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Overgrown Laboratory enters the battlefield tapped if you control another nonbasic land.
+T: Add R or G.</text>
+</card>
+<card>
+ <name>Priceless Trinket</name>
+ <set rarity="rare"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1 for each permanent attached to them.
+Whenever Priceless Trinket becomes equipped to a creature, you may attach any number of Equipment you control to equipped creature.
+Equip 3</text>
+</card>
+<card>
+ <name>Haunted Barnyard</name>
+ <set rarity="rare"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C. Put a charge counter on Haunted Barnyard.
+3, T, Remove three charge counters from Haunted Barnyard: Add WUBRG.</text>
+</card>
+<card>
+ <name>Jarred Brain</name>
+ <set rarity="rare"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +2/+1 and has hexproof.
+Other Equipment you control have “Equipped creature gets +1/+1 and has haste.”
+Equip 2</text>
+</card>
+<card>
+ <name>Travel into the Eternities</name>
+ <set rarity="mythic"></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile any number of creatures you control. At the beginning of the next end step, create a number of 3/3 white Dinosaur Horror creature tokens with flying equal to the number of creatures exiled this way.</text>
+</card>
+<card>
+ <name>Angelic Grace</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+4.
+Devise W (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Missing Piece of Reality</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays X.
+Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Murder</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature.</text>
+</card>
+<card>
+ <name>Bottled Soulsparks</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>When Bottled Soulsparks enters the battlefield, it deals 3 damage to any target.
+2, Sacrifice Bottled Soulsparks: Draw a card.</text>
+</card>
+<card>
+ <name>Following the Matchbooks</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle.
+Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Mabuse Recruiter</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Dog Warrior </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Mabuse Recruiter enters the battlefield, create a 1/1 black Warrior creature token for each creature you control.
+Devise 3WW (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>The Covens Grasp</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>XUUU</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature with power X or less.
+Devise XU (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Moroii Feast</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Moroii Feast deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.</text>
+</card>
+<card>
+ <name>Red Herring</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>RR</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You may choose new targets for target spell or ability.</text>
+</card>
+<card>
+ <name>Beholding the Unknown</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast a creature spell, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+Whenever you sacrifice a Clue, you gain 3 life.</text>
+</card>
+<card>
+ <name>Intangible Virtue</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Creature tokens you control get +1/+1 and have vigilance.</text>
+</card>
+<card>
+ <name>Misleading Evidence</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>XUU</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put target spell into its owner’s library just beneath the top X cards of that library.</text>
+</card>
+<card>
+ <name>Silent Collusion</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a card, put that card into your hand, then shuffle your library. If this spell wasn’t cast from your hand, add BBB.
+Devise 2BB (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Devise a Plan</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Add RRRR. If you didn’t cast Devise a Plan from your hand, exile the top three cards of your library. You may play them this turn.
+Devise 2R (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Benefits of the Bizarre</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>XG</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on each of up to X target creatures.
+You gain X life.</text>
+</card>
+<card>
+ <name>Endless Cases</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Endless Cases enters the battlefield, create a 2/2 white Soldier creature token.
+Whenever you attack with three or more Soldiers, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Replace with Phantasm</name>
+ <set rarity="rare"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature you don’t control. That creature’s controller may search their library for a creature card with equal or less mana value and put it onto the battlefield. Then shuffles.
+Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Hallway Haunting</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Horror </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Enchantment spells you cast cost 1 less to cast.
+When Hallway Haunting enters the battlefield or you cast a face-down spell, Hallway Haunting deals 2 damage to any target. You gain 2 life.</text>
+</card>
+<card>
+ <name>Blood Merchant</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Rogue </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature you control with power 2 or less attacks, it can’t be blocked this turn. If it was a Rogue, it gets +1/+0 until end of turn.
+3R: Create two tapped 1/1 red Rogue creature tokens.</text>
+</card>
+<card>
+ <name>Faceless Hound</name>
+ <set rarity="rare"></set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dog Horror </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste
+Ward—Sacrifice a noncreature permanent (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a noncreature permanent.)</text>
+</card>
+<card>
+ <name>Neutralization Engine</name>
+ <set rarity="rare"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>Tokens can’t be created.
+2, Sacrifice Neutralization Engine: Draw a card.</text>
+</card>
+<card>
+ <name>Forest</name>
+ <set rarity=""></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set rarity=""></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set rarity=""></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Island</name>
+ <set rarity=""></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Plains</name>
+ <set rarity=""></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Reflector of the Ideal</name>
+ <set rarity="rare"></set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>You don’t lose the game for having 0 or less life.
+Whenever you are dealt damage, exile that many cards from the top of your library.
+3, Mill three cards: Return target card from your graveyard to your hand. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Hayat, Tamaaks Devourer</name>
+ <set rarity="mythic"></set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Hayat </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>If one or more counters would be put on another permanent you control, put that many loyalty counters on Hayat, Tamaak’s Devourer instead.
+[+1]: Create a 1/1 green Insect creature token.
+[-2]: Each player sacrifices a permanent.
+[-8]: You get an emblem with “Whenever a card is put into your graveyard from anywhere, create two 1/1 green Insect creature tokens.”
+</text>
+</card>
+<card>
+ <name>Aryeh, Urban Druid</name>
+ <set rarity="mythic"></set>
+ <color>WG</color>
+ <manacost>4GW</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Planeswalker - Aryeh </type>
+ <loyalty>6</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+3]: Mill three cards. Return each creature card milled this way from your graveyard to your hand.
+[-3]: Create three 1/1 black Cat creature tokens. You gain 3 life.
+[-12]: You get an emblem with “If one or more tokens would be created under your control, create thirty-three of those tokens instead.”
+</text>
+</card>
+<card>
+ <name>Waldemar Terrel</name>
+ <set rarity="mythic"></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Waldemar </type>
+ <loyalty>2</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Create a 1/1 black Minion creature token with “When this creature dies, each player loses 1 life.”
+[0]: Put two loyalty counters on Waldemar unless an opponent sacrifices a creature or discards a card.
+[-X]: Repeat the following process X times. Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
+</text>
+</card>
+<card>
+ <name>Tyrant of the Skyscrapers</name>
+ <set rarity="mythic"></set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Dragon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Each other creature you control assigns combat damage equal to Tyrant of the Skyscrapers’s power rather than its power.
+1R: Tyrant of the Skyscrapers gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Tobias, Flutist</name>
+ <set rarity="mythic"></set>
+ <color>URG</color>
+ <manacost>GUR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Tobias </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>Spells you cast cost 1 less to cast.
+[+1]: Draw a card.
+[0]: During target opponent’s next turn, creatures that player controls attack if able and don’t attack Tobias if able.
+[-8]: Gain control of all creatures.
+</text>
+</card>
+<card>
+ <name>Precinct Director</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another Soldier enters the battlefield under your control, choose one—
+• Put a +1/+1 counter on Precinct Director.
+• Precinct Director gains lifelink and vigilance until end of turn.</text>
+</card>
+<card>
+ <name>Tethaleegs Mindknife</name>
+ <set rarity="rare"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Horror Assassin </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Tethaleeg’s Mindknife enters the battlefield, counter target spell unless its controller pays 1. If Tethaleeg’s Mindknife wasn’t cast from your hand, counter that spell instead. 
+Devise UU (You may cast this as a face down enchantment with three time counters on it for 1. Remove one at the beginning of your upkeep. You may cast it for its Devise cost for as long as it has no time counters on it.)</text>
+</card>
+<card>
+ <name>Nroms Herald</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Angel Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Nrom’s Herald enters the battlefield or attacks, defending player discards a card. Put a number of +1/+1 counters on Nrom’s Herald equal to three minus the discarded card’s mana value </text>
+</card>
+<card>
+ <name>Empty the Vaults</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top three cards of an opponent’s library. When you do, choose one —
+• You may play cards exiled this way until the end of your next turn. You may spend mana as though it was mana of any color to cast spells this way.
+• Create a number of tapped Treasure tokens equal to double the total mana value of cards exiled this way.</text>
+</card>
+<card>
+ <name>Seeker of Every Pigment</name>
+ <set rarity="rare"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Horror Scout </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>T, Sacrifice four Clues: Choose one —
+• Mark any number of leads on a Mystery you own.
+• Add six mana in any combination of colors.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Wurm Horror</name>
+ <set></set>
+ <color>G</color>
+ <type>Token Creature - Wurm Horror </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>This creature gets +2/+2 for each card in your hand.</text>
+ <token>1</token>
+<reverse-related>Following the Slimy Trail</reverse-related>
+<reverse-related>More Questions than Answers</reverse-related>
+
+</card>
+<card>
+ <name>Insect Horror</name>
+ <set></set>
+ <color>U</color>
+ <type>Token Creature - Insect Horror </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+<reverse-related>Proboscidian Transmutation</reverse-related>
+<reverse-related count="2">Unknowable Eggs</reverse-related>
+<reverse-related count="2">Invasion of the Thought-Snatchers</reverse-related>
+
+</card>
+<card>
+ <name>Frankies Pet</name>
+ <set></set>
+ <color>B</color>
+ <type>Token Creature - Spider </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch</text>
+ <token>1</token>
+<reverse-related>Frankie Lorre, Underboss</reverse-related>
+
+</card>
+<card>
+ <name>Demon</name>
+ <set></set>
+ <color>B</color>
+ <type>Token Creature - Demon </type>
+ <pt>X/X</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+<reverse-related>Contact the Worldsoul</reverse-related>
+
+</card>
+<card>
+ <name>Insect</name>
+ <set></set>
+ <color>G</color>
+ <type>Token Creature</type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Hayat, Tamaaks Devourer</reverse-related>
+<reverse-related>Hayat, Tamaak's Devourer</reverse-related>
+
+</card>
+<card>
+ <name>Grand Creation</name>
+ <set></set>
+ <color></color>
+ <type>Token Artifact Creature - Construct </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, indestructible</text>
+ <token>1</token>
+<reverse-related>Start the Schematics</reverse-related>
+<reverse-related>Start the Grand Creation</reverse-related>
+
+</card>
+<card>
+ <name>Clue1</name>
+ <set></set>
+ <color></color>
+ <type>Token Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>2, Sacrifice this artifact: Draw a card.</text>
+ <token>1</token>
+<reverse-related>Endless Cases</reverse-related>
+<reverse-related>Expose Evil</reverse-related>
+<reverse-related>Long Ride to Nowhere</reverse-related>
+<reverse-related>Mourning</reverse-related>
+<reverse-related>New Melview Recruits</reverse-related>
+<reverse-related>New Melview Sleuth</reverse-related>
+
+</card>
+<card>
+ <name>Angel Horror</name>
+ <set></set>
+ <color>W</color>
+ <type>Token Creature - Angel Horror </type>
+ <pt>*/*</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+This creature’s power and toughness are equal to the number of creatures you control.</text>
+ <token>1</token>
+<reverse-related>Coalescing Souls</reverse-related>
+
+</card>
+<card>
+ <name>Construct</name>
+ <set></set>
+ <color></color>
+ <type>Token Artifact Creature - Construct </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Inventive Gumshoe</reverse-related>
+
+</card>
+<card>
+ <name>GreenHorror</name>
+ <set></set>
+ <color>G</color>
+ <type>Token Creature - Horror </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample</text>
+ <token>1</token>
+<reverse-related>Child of Hunger</reverse-related>
+<reverse-related count="5">Colors from Beyond Time</reverse-related>
+<reverse-related count="5">Pigments of the Multiverse</reverse-related>
+<reverse-related>Occult Portal</reverse-related>
+
+</card>
+<card>
+ <name>Scout</name>
+ <set></set>
+ <color>G</color>
+ <type>Token Creature - Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related count="2">Hope of Nights Shepherd</reverse-related>
+<reverse-related count="2">Hope of Night's Shepherd</reverse-related>
+<reverse-related count="x">Crack in the Case</reverse-related>
+<reverse-related count="2">Interrogation Squad</reverse-related>
+
+</card>
+<card>
+ <name>Ooze Horror2</name>
+ <set></set>
+ <color>G</color>
+ <type>Token Creature - Ooze Horror </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related count="2">Ooze Horror2</reverse-related>
+<reverse-related count="4">Looming Ooze</reverse-related>
+
+</card>
+<card>
+ <name>Ooze Horror</name>
+ <set></set>
+ <color>G</color>
+ <type>Token Creature - Ooze Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature leaves the battlefield, create two 2/2 green Horror creature tokens.</text>
+ <token>1</token>
+<reverse-related count="2">Looming Ooze</reverse-related>
+
+</card>
+<card>
+ <name>Horror</name>
+ <set></set>
+ <color>B</color>
+ <type>Token Creature - Horror </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>This creature’s power and toughness are each equal to the number of cards in your opponents’ graveyards.</text>
+ <token>1</token>
+<reverse-related>Ritual to Those Unknown</reverse-related>
+<reverse-related>Creeping Terrors</reverse-related>
+
+</card>
+<card>
+ <name>Dog</name>
+ <set></set>
+ <color>W</color>
+ <type>Token Creature - Dog </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Unusual Critters</reverse-related>
+
+</card>
+<card>
+ <name>Cat</name>
+ <set></set>
+ <color>B</color>
+ <type>Token Creature - Cat </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related count="2">Unusual Critters</reverse-related>
+<reverse-related count="3">Aryeh, Urban Druid</reverse-related>
+
+</card>
+<card>
+ <name>Warrior</name>
+ <set></set>
+ <color>B</color>
+ <type>Token Creature - Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Mabuse Recruiter</reverse-related>
+<reverse-related>Lorre Diplomacy</reverse-related>
+<reverse-related count="4">Lorre Intrusion</reverse-related>
+<reverse-related count="4">Successful Operation</reverse-related>
+
+</card>
+<card>
+ <name>Soldier</name>
+ <set></set>
+ <color>W</color>
+ <type>Token Creature - Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>The Man with Connections</reverse-related>
+<reverse-related count="2">Office Reunion</reverse-related>
+<reverse-related count="2">Missing Cadet</reverse-related>
+<reverse-related>New Melview Recruits</reverse-related>
+<reverse-related count="2">Early Responder</reverse-related>
+<reverse-related count="2">Dave Wilson, Lead Officer</reverse-related>
+<reverse-related count="3">Unignorable Crimes</reverse-related>
+<reverse-related count="3">Send in the Forces</reverse-related>
+
+</card>
+<card>
+ <name>Rogue</name>
+ <set></set>
+ <color>R</color>
+ <type>Token Creature - Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related count="2">Deathcult Ritual</reverse-related>
+<reverse-related>Blood Merchant</reverse-related>
+<reverse-related>Smooth Criminal</reverse-related>
+<reverse-related count="2">Waltz into Crime</reverse-related>
+<reverse-related>Shady Dealings</reverse-related>
+<reverse-related>Delivered Contraband</reverse-related>
+
+</card>
+<card>
+ <name>Clue2</name>
+ <set></set>
+ <color></color>
+ <type>Token Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>2, Sacrifice this artifact: Draw a card.</text>
+ <token>1</token>
+<reverse-related>Conjuring Occultist</reverse-related>
+<reverse-related>Endless Investigation</reverse-related>
+<reverse-related>Expose</reverse-related>
+<reverse-related>Grand Sleuth</reverse-related>
+<reverse-related>Missing Piece of Reality</reverse-related>
+<reverse-related>Psychometric Detective</reverse-related>
+<reverse-related>Replace with Phantasm</reverse-related>
+<reverse-related>Sinister Thought-Snatcher</reverse-related>
+<reverse-related>Sleezy Copper</reverse-related>
+<reverse-related>Start the Schematics</reverse-related>
+<reverse-related>Start the Grand Creation</reverse-related>
+
+</card>
+<card>
+ <name>Clue3</name>
+ <set></set>
+ <color></color>
+ <type>Token Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>2, Sacrifice this artifact: Draw a card.</text>
+ <token>1</token>
+<reverse-related>Detective Duo</reverse-related>
+<reverse-related>Fantastic Performer</reverse-related>
+<reverse-related>Thread of Misfortune</reverse-related>
+<reverse-related>Fox Agency Detective</reverse-related>
+<reverse-related>Fox Agency Elite</reverse-related>
+<reverse-related>Clarence, Grand Tinkerer</reverse-related>
+<reverse-related>Inventive Gumshoe</reverse-related>
+
+</card>
+<card>
+ <name>Clue4</name>
+ <set></set>
+ <color></color>
+ <type>Token Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>2, Sacrifice this artifact: Draw a card.</text>
+ <token>1</token>
+<reverse-related>Beholding the Unknown</reverse-related>
+<reverse-related>Following the Matchbooks</reverse-related>
+<reverse-related>Following the Slimy Trail</reverse-related>
+<reverse-related>More Questions than Answers</reverse-related>
+<reverse-related>Lorre Patsy</reverse-related>
+<reverse-related>Researcher of the Occult</reverse-related>
+<reverse-related>Unending Curosity</reverse-related>
+
+</card>
+<card>
+ <name>Clue5</name>
+ <set></set>
+ <color></color>
+ <type>Token Artifact - Clue </type>
+ <tablerow>1</tablerow>
+ <text>2, Sacrifice this artifact: Draw a card.</text>
+ <token>1</token>
+<reverse-related>Investigator of the Infinite</reverse-related>
+<reverse-related>Looming Visage</reverse-related>
+<reverse-related>Wealthy Caporegime</reverse-related>
+
+</card>
+<card>
+ <name>Loyalty</name>
+ <set></set>
+ <color></color>
+ <type>Token Legendary Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +3/+0 and has protection from your opponents. (This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything controlled by those players.)
+Equip 0</text>
+ <token>1</token>
+
+</card>
+<card>
+ <name>Dinosaur Horror</name>
+ <set></set>
+ <color>W</color>
+ <type>Token Creature - Dinosaur Horror </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+
+</card>
+<card>
+ <name>Polyp</name>
+ <set></set>
+ <color>U</color>
+ <type>Token Creature - Polyp </type>
+ <pt></pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>As the Cosmos Aligns</reverse-related>
+
+</card>
+<card>
+ <name>Minion</name>
+ <set></set>
+ <color>B</color>
+ <type>Token Creature - Minion </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature dies, each player loses 1 life.</text>
+ <token>1</token>
+
+</card>
+<card>
+ <name>Weapon</name>
+ <set></set>
+ <color></color>
+ <type>Token Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1.
+Equip 2</text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

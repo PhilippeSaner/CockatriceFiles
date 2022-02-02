@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>CSB_DDK</name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>CW01 Bloodshed Medic</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW01 Bloodshed Medic.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Deplete (When this permanent enters the battlefield, you may sacrifice a permanent.)
+When CW01 Bloodshed Medic depletes a permanent, target creature gains hexproof until end of turn. (This creature can’t be the target of spells or abilities your opponents control.)</text>
+</card>
+<card>
+ <name>CW02 Southern Rallier</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW02 Southern Rallier.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1W, T, Discard a card: Create a 1/1 white Citizen creature token.</text>
+</card>
+<card>
+ <name>CW03 Secluded Firstborn</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW03 Secluded Firstborn.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <related>La Creatura</related>
+ <manacost>1W</manacost>
+ <type>Creature - Human Noble </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Collapse (When you play this card, create The Collapse emblem if it doesn’t exist yet.)
+When CW03 Secluded Firstborn enters the battlefield, you gain 4 life.
+After The Collapse, transform CW03 Secluded Firstborn.
+---
+(Back): La Creatura</text>
+</card>
+<card>
+ <name>La Creatura</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW03 Secluded Firstborn.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Creature - Human Horror </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, you lose one life.
+---
+(Front): CW03 Secluded Firstborn</text>
+</card>
+<card>
+ <name>CW04 Spirit of Retribution</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW04 Spirit of Retribution.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Spirit Hound </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+When CW04 Spirit of Retribution enters the battlefield, exile up to two target cards from graveyards.</text>
+</card>
+<card>
+ <name>CW05 Escaped Soldier</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW05 Escaped Soldier.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Artifact Creature - Human Construct </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Detach 1 (When this permanent enters the battlefield, you may put 1 -1/-1 counters on it and create a 1/1 colorless Spirit Construct artifact creature token.)</text>
+</card>
+<card>
+ <name>CW07 Veteran of War</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW07 Veteran of War.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <related>That MF Thang</related>
+ <manacost>1WW</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Collapse (When you play this card, create The Collapse emblem if it doesn’t exist yet.)
+When CW07 Veteran of War enters the battlefield, create a 1/1 white Citizen creature token.
+When CW07 Veteran of War dies after The Collapse, return it to the battlefield transformed.
+---
+(Back): That MF Thang</text>
+</card>
+<card>
+ <name>That MF Thang</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW07 Veteran of War.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1 and is a Soldier in addition to its other types.
+Equip 2
+---
+(Front): CW07 Veteran of War</text>
+</card>
+<card>
+ <name>CW08 Divine Vindication</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW08 Divine Vindication.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>CW08 Divine Vindication deals 3 damage to target attacking creature. You gain 3 life.</text>
+</card>
+<card>
+ <name>CW10 Chained Whelp</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW10 Chained Whelp.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Dragon </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Collapse (When you play this card, create The Collapse emblem if it doesn’t exist yet.)
+4W: Creatures you control gets +1/+1 until end of turn. Activate only after The Collapse.</text>
+</card>
+<card>
+ <name>CW11 Returning Force</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW11 Returning Force.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Spirit </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+4WW, Exile CW11 Returning Force from your graveyard: Create two 1/1 colorless Spirit Construct artifact creature tokens.</text>
+</card>
+<card>
+ <name>CW12 Soul Purge</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW12 Soul Purge.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast CW12 Soul Purge, discard a card or sacrifice a permanent.
+Exile target artifact, enchantment, or creature.</text>
+</card>
+<card>
+ <name>CW13 Ring Outrider</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW13 Ring Outrider.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Collapse (When you play this card, create The Collapse emblem if it doesn’t exist yet.)
+This spell costs 1 less to cast for each creature you attacked with this turn.
+When CW13 Ring Outrider enters the battlefield after The Collapse, draw a card.</text>
+</card>
+<card>
+ <name>CW14 Overwhelming Push</name>
+ <set picURL="C:\Users\user\Desktop\Images/CW14 Overwhelming Push.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Collapse (When you play this card, create The Collapse emblem if it doesn’t exist yet.)
+Choose one. You may instead choose both after The Collapse:
+• Create two 2/2 white Knight creature tokens with vigilance.
+• Creatures you control get +2/+1 until end of turn.</text>
+</card>
+<card>
+ <name>UW01 Compeller of the Ring</name>
+ <set picURL="C:\Users\user\Desktop\Images/UW01 Compeller of the Ring.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever you attack with three or more creatures, return target creature card with mana value 3 or less from the graveyard to the battlefield tapped and attacking.</text>
+</card>
+<card>
+ <name>CU01 Skirmisher Drone</name>
+ <set picURL="C:\Users\user\Desktop\Images/CU01 Skirmisher Drone.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever CU01 Skirmisher Drone attacks, mill a card.
+When CU01 Skirmisher Drone dies, draw a card, then discard a card.</text>
+</card>
+<card>
+ <name>CU07 Tagal’s Apprentice</name>
+ <set picURL="C:\Users\user\Desktop\Images/CU07 Tagal’s Apprentice.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deplete (When this permanent enters the battlefield, you may sacrifice a permanent.)
+Whenever CU07 Tagal’s Apprentice depletes a permanent, create a 1/1 colorless Construct creature token. Create two if that permanent was an artifact or land.</text>
+</card>
+<card>
+ <name>CU10 A Wall</name>
+ <set picURL="C:\Users\user\Desktop\Images/CU10 A Wall.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Artifact Creature - Wall </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When CU10 A Wall enters the battlefield, scry 1.</text>
+</card>
+<card>
+ <name>CB01 Night Watch</name>
+ <set picURL="C:\Users\user\Desktop\Images/CB01 Night Watch.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Collapse (When you play this card, create The Collapse emblem if it doesn’t exist yet.)
+1B, Discard a card: Search your library for a card named CB01 Night Watch and put it onto the battlefield tapped. Then shuffle your library.
+After The Collapse, CB01 Night Watch gets +1/+0.</text>
+</card>
+<card>
+ <name>CB02 Sniper Drone</name>
+ <set picURL="C:\Users\user\Desktop\Images/CB02 Sniper Drone.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When CB02 Sniper Drone enters the battlefield, mill three cards, then target creature gets -1/-1 until end of turn.</text>
+</card>
+<card>
+ <name>CB03 Ruthless Apprentice</name>
+ <set picURL="C:\Users\user\Desktop\Images/CB03 Ruthless Apprentice.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+B, Sacrifice a permanent: CB03 Ruthless Apprentice Gets +1/+1 until end of turn. It gains flying if that permanent was an artifact.</text>
+</card>
+<card>
+ <name>CB05 Tax Base</name>
+ <set picURL="C:\Users\user\Desktop\Images/CB05 Tax Base.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When CB05 Tax Base dies, create two Treasure tokens (They’re artifacts with “T, Sacrifice this artifact: Add one mana of any color.”)</text>
+</card>
+<card>
+ <name>CB06 Artillery Drone</name>
+ <set picURL="C:\Users\user\Desktop\Images/CB06 Artillery Drone.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Detach 1 (When this permanent enters the battlefield, you may put 1 -1/-1 counters on it and create a 1/1 colorless Spirit Construct artifact creature token.)
+When CB06 Artillery Drone enters the battlefield, each opponent loses 1 life and you gain 1 life.</text>
+</card>
+<card>
+ <name>CB08 Unyielding Man</name>
+ <set picURL="C:\Users\user\Desktop\Images/CB08 Unyielding Man.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Human Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever CB08 Unyielding Man attacks, you may sacrifice a permanent. If you do, CB08 Unyielding Man gets +2/+2 until end of turn. If it was an artifact, you gain 3 life.</text>
+</card>
+<card>
+ <name>CB12 Die Forgotten</name>
+ <set picURL="C:\Users\user\Desktop\Images/CB12 Die Forgotten.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Mill three cards.</text>
+</card>
+<card>
+ <name>CB14 Suburban Rites</name>
+ <set picURL="C:\Users\user\Desktop\Images/CB14 Suburban Rites.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast CB14 Suburban Rites, sacrifice a creature or an artifact.
+You draw two cards and gain 2 life.</text>
+</card>
+<card>
+ <name>CB15 Dread-Source Fires</name>
+ <set picURL="C:\Users\user\Desktop\Images/CB15 Dread-Source Fires.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one:
+• Exile up to two target creature cards from a graveyard.
+• Exile up to two target creature tokens.</text>
+</card>
+<card>
+ <name>UB01 Cast Into Darkness</name>
+ <set picURL="C:\Users\user\Desktop\Images/UB01 Cast Into Darkness.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Distribute five -1/-1 counters among creatures your opponents control.</text>
+</card>
+<card>
+ <name>Tagal’s Prefect</name>
+ <set picURL="C:\Users\user\Desktop\Images/Tagal’s Prefect.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>M</color>
+ <manacost>U/BU/BU/B</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, if you sacrificed a permanent this turn, draw a card. Draw two if that permanent was an artifact.
+UB, Sacrifice a permanent: Scry 2.</text>
+</card>
+<card>
+ <name>Mistvault Bridge</name>
+ <set picURL="C:\Users\user\Desktop\Images/Mistvault Bridge.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Artifact Land</type>
+ <tablerow>0</tablerow>
+ <text>Mistvault Bridge enters the battlefield tapped.
+Indestructible
+T: Add U or B.</text>
+</card>
+<card>
+ <name>Tainted Isle</name>
+ <set picURL="C:\Users\user\Desktop\Images/Tainted Isle.full.jpg" picURLHq="" picURLSt="">CSB_DDK</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add U or B. Activate this ability only if you control a Swamp.</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

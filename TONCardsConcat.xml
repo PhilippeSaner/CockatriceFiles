@@ -1,0 +1,2864 @@
+<cockatrice_carddatabase version="3">
+  <cards>
+    <card>
+      <name>01 Archaeopteryx</name>
+      <set rarity="Token" picURL=""></set>
+      <color>W</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Bird</type>
+      <pt>1/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>Flying, first strike, lifelink</text>
+    </card>
+    <card>
+      <name>02 Lagoros</name>
+      <set rarity="Token" picURL=""></set>
+      <color>W</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Rabbit</type>
+      <pt>1/2
+</pt>
+      <tablerow>2</tablerow>
+      <text>When Lagoros enters the battlefield, if it's not a token, create a tapped token that's a copy of it.</text>
+    </card>
+    <card>
+      <name>03 Monokeros</name>
+      <set rarity="Token" picURL=""></set>
+      <color>W</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Unicorn Beast</type>
+      <pt>1/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>When Monokeros enters the battlefield, create an Amber token.</text>
+    </card>
+    <card>
+      <name>04 Neanderthal</name>
+      <set rarity="Token" picURL=""></set>
+      <color>W</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Human</type>
+      <pt>1/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}: Tap target creature.</text>
+    </card>
+    <card>
+      <name>05 Passenger Pigeon</name>
+      <set rarity="Token" picURL=""></set>
+      <color>W</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Bird</type>
+      <pt>1/4
+</pt>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>06 Pterodactyl</name>
+      <set rarity="Token" picURL=""></set>
+      <color>W</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Dinosaur</type>
+      <pt>2/2
+</pt>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>07 Anomalocaris</name>
+      <set rarity="Token" picURL=""></set>
+      <color>U</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Shrimp</type>
+      <pt>2/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>Anomalocaris can't be blocked.</text>
+    </card>
+<card>
+      <name>08 Caeraquilis</name>
+      <set rarity="Token" picURL=""></set>
+      <color>U</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Bird</type>
+      <pt>1/2
+</pt>
+      <tablerow>2</tablerow>
+      <text>Flying When Caeraquilis dies, draw a card.</text>
+    </card>
+    <card>
+      <name>09 Coelacanth</name>
+      <set rarity="Token" picURL=""></set>
+      <color>U</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Fish</type>
+      <pt>0/4
+</pt>
+      <tablerow>2</tablerow>
+      <text>{T}: Scry 1.</text>
+    </card>
+    <card>
+      <name>10 Giant Squid</name>
+      <set rarity="Token" picURL=""></set>
+      <color>U</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Squid</type>
+      <pt>2/2
+</pt>
+      <tablerow>2</tablerow>
+      <text>Prowess</text>
+    </card>
+  <card>
+      <name>11 Limulidon</name>
+      <set rarity="Token" picURL=""></set>
+      <color>U</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Crab</type>
+      <pt>2/3
+</pt>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>12 Trilobium</name>
+      <set rarity="Token" picURL=""></set>
+      <color>U</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Trilobite</type>
+      <pt>3/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>Ward {2}</text>
+    </card>
+    <card>
+      <name>13 Armegadillo</name>
+      <set rarity="Token" picURL=""></set>
+      <color>B</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Pangolin</type>
+      <pt>2/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>{3}: Armegadillo gains indestructible until end of turn. Tap it.</text>
+    </card>
+        <card>
+      <name>14 Quadricerotops</name>
+      <set rarity="Token" picURL=""></set>
+      <color>B</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Dinosaur</type>
+      <pt>2/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>When Quadricerotops dies, target creature you don't control gets -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>15 Sabertooth</name>
+      <set rarity="Token" picURL=""></set>
+      <color>B</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Cat</type>
+      <pt>3/2
+</pt>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>16: Sobekian</name>
+      <set rarity="Token" picURL=""></set>
+      <color>B</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Crocodile</type>
+      <pt>3/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>17 Thylacine</name>
+      <set rarity="Token" picURL=""></set>
+      <color>B</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Beast</type>
+      <pt>2/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>When Thylacine dies, each player discards a card.</text>
+    </card>
+    <card>
+      <name>18 Titanoboa</name>
+      <set rarity="Token" picURL=""></set>
+      <color>B</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Snake</type>
+      <pt>2/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+    </card>
+    <card>
+      <name>19 Allosaurus</name>
+      <set rarity="Token" picURL=""></set>
+      <color>R</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Dinosaur</type>
+      <pt>4/1
+</pt>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>20 Dire Wolf</name>
+      <set rarity="Token" picURL=""></set>
+      <color>R</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Dinosaur</type>
+      <pt>2/2
+</pt>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+    </card>
+    <card>
+      <name>21 Giffarian</name>
+      <set rarity="Token" picURL=""></set>
+      <color>R</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Giraffe</type>
+      <pt>3/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>22 Jackalope</name>
+      <set rarity="Token" picURL=""></set>
+      <color>R</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Rabbit Beast</type>
+      <pt>3/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>Jackalope has first strike as long as it's your turn.</text>
+    </card>
+    <card>
+      <name>23 Lutrinius</name>
+      <set rarity="Token" picURL=""></set>
+      <color>R</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Otter</type>
+      <pt>1/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>{T}, discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>24 Whiptail Raptor</name>
+      <set rarity="Token" picURL=""></set>
+      <color>R</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Lizard</type>
+      <pt>1/2
+</pt>
+      <tablerow>2</tablerow>
+      <text>Whenever a land enters the battlefield under your control, Whiptail Raptor gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>25 Adiposaurus</name>
+      <set rarity="Token" picURL=""></set>
+      <color>G</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Dinosaur</type>
+      <pt>3/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+    </card>
+    <card>
+      <name>26 Arcanawalla</name>
+      <set rarity="Token" picURL=""></set>
+      <color>G</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Lizard</type>
+      <pt>2/2
+</pt>
+      <tablerow>2</tablerow>
+      <text>{3}: Arcanawalla gets +2/+2 until end of turn. Activate this ability only once each turn.</text>
+    </card>
+    <card>
+      <name>27 Dodo</name>
+      <set rarity="Token" picURL=""></set>
+      <color>G</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Bird</type>
+      <pt>1/1
+</pt>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>28 Mastodon</name>
+      <set rarity="Token" picURL=""></set>
+      <color>G</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Mammoth</type>
+      <pt>2/2
+</pt>
+      <tablerow>2</tablerow>
+      <text>You may assign Mastodon's damage as though it weren't blocked.</text>
+    </card>
+    <card>
+      <name>29 Megarachne</name>
+      <set rarity="Token" picURL=""></set>
+      <color>G</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Spider</type>
+      <pt>1/5
+</pt>
+      <tablerow>2</tablerow>
+      <text>Reach</text>
+    </card>
+    <card>
+      <name>30 Simius</name>
+      <set rarity="Token" picURL=""></set>
+      <color>G</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Fossil Creature -- Dinosaur</type>
+      <pt>1/2
+</pt>
+      <tablerow>2</tablerow>
+      <text>When Simius enters the battlefield, draw a card at the beginning of your next upkeep.</text>
+    </card>
+    <card>
+      <name>Amber</name>
+      <set rarity="Token" picURL=""></set>
+      <color>C</color>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Artifact -- Amber</type>
+      <pt>
+</pt>
+      <tablerow>2</tablerow>
+      <text>{T}, sacrifice this artifact: Create the top token of your Fossil deck tapped.</text>
+    </card>
+<card>
+ <name>Dimension Sifter</name>
+ <set rarity="uncommon"></set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elemental </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Haste
+UR, T: Draw a card, then discard a card.
+Whenever you discard one or more double-faced cards, you may exile one of them. If you do, you may play that card this turn.</text>
+</card>
+<card>
+ <name>Parallelemental</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elemental </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever you cast or transform a double-faced card, put a +1/+1 counter on Parallelemental.</text>
+</card>
+<card>
+ <name>Adwa Juvenile</name>
+ <set rarity="common" splitterPath="/Adwa Juvenile.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Adwa Colossus</related>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Turtle </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 4 (As a sorcery, 4: Put E on this. Transform at five.)
+---
+(Back): Adwa Colossus</text>
+</card>
+<card>
+ <name>Adwa Colossus</name>
+ <set rarity="common" splitterPath="/Adwa Colossus.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elder Turtle </type>
+ <pt>11/14</pt>
+ <tablerow>2</tablerow>
+ <text>Adwa Colossus has hexproof as long as it’s untapped.
+---
+(Front): Adwa Juvenile</text>
+</card>
+<card>
+ <name>Amber Capsule</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Amber </type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color.
+3, T, sacrifice Amber Capsule: Create the top token of your Fossil deck tapped.</text>
+</card>
+<card>
+ <name>Hubristic Dominion</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell.
+2, Discard Hubristic Dominion: Create an Amber token. (It’s an artifact with 3, T, sacrifice this: Create the top token of your Fossil deck tapped.)</text>
+</card>
+<card>
+ <name>Wormhole Cat</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental Cat </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast or transform a double-faced card, add R. Until end of turn, this mana doesn’t empty as steps and phases end.</text>
+</card>
+<card>
+ <name>Starsurfer</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elemental Whale </type>
+ <pt>2/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever you cast or transform a double-faced card, you may have target creature phase out.</text>
+</card>
+<card>
+ <name>Bermuda Triangle</name>
+ <set rarity="rare"></set>
+ <color>UR</color>
+ <manacost>3UR</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you play a double-faced card from your hand, copy its other face. You may cast the copy without paying its mana cost. (A a copy of a permanent spell becomes a token.)</text>
+</card>
+<card>
+ <name>Galaxy Hatchling</name>
+ <set rarity="rare" splitterPath="/Galaxy Hatchling.full.jpg" ></set>
+ <color>UR</color>
+ <related attach="attach">Millennium Hellkite</related>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Dragon </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 2UR (As a sorcery, 2UR: Put E on this. Transform at five.)
+Flying
+Whenever you put E on Galaxy Hatchling, it deals 1 damage to each opponent and you untap target permanent.
+---
+(Back): Millennium Hellkite</text>
+</card>
+<card>
+ <name>Millennium Hellkite</name>
+ <set rarity="rare" splitterPath="/Millennium Hellkite.full.jpg" ></set>
+ <color>UR</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Creature - Dragon </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When this permanent transforms into Millennium Hellkite, take an extra turn after this one. That turn has an additional untap step and combat phase after its first combat phase.
+---
+(Front): Galaxy Hatchling</text>
+</card>
+<card>
+ <name>Neon Eruption</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>XR</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>X can’t be one, two, or three.
+Neon Eruption deals 2 plus X damage to target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Prodigious Reader</name>
+ <set rarity="common" splitterPath="/Prodigious Reader.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Expert of the Field</related>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 1U (As a sorcery, 1U: Put E on this. Transform at five.)
+Whenever you put E on Prodigious Reader, draw a card, then discard a card.
+---
+(Back): Expert of the Field</text>
+</card>
+<card>
+ <name>Expert of the Field</name>
+ <set rarity="common" splitterPath="/Expert of the Field.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>When this permanent transforms into Expert of the Field, return up to two target instant and/or sorcery cards from your graveyard to your hand.
+---
+(Front): Prodigious Reader</text>
+</card>
+<card>
+ <name>Knobbed Clockbeast</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elemental Beast </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a double-faced spell or activate an ability on a double-faced permanent you control, Knobbed Clockbeast deals 1 damage to each opponent. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>Industrosaur</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Dinosaur </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Industrosaur enters the battlefield, add RRR.</text>
+</card>
+<card>
+ <name>Echo Pup</name>
+ <set rarity="common" splitterPath="/Echo Pup.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Aeon Wolf</related>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Wolf </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 1R (As a sorcery, 1R: Put E on this. Transform at five.)
+Whenever you put E on Echo Pup, it gets +1/+0 and gains first strike until end of turn.
+---
+(Back): Aeon Wolf</text>
+</card>
+<card>
+ <name>Aeon Wolf</name>
+ <set rarity="common" splitterPath="/Aeon Wolf.full.jpg" ></set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elemental Wolf </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+R: Target creature gets +1/+0 until end of turn.
+---
+(Front): Echo Pup</text>
+</card>
+<card>
+ <name>Trap In an Hourglass</name>
+ <set rarity="common" splitterPath="/Trap In an Hourglass.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Bury in Sand</related>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap target creature. It doesn’t untap during its controller’s next untap step.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Bury in Sand</text>
+</card>
+<card>
+ <name>Bury in Sand</name>
+ <set rarity="common" splitterPath="/Bury in Sand.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target tapped creature to its owner’s hand.
+---
+(Front): Trap In an Hourglass</text>
+</card>
+<card>
+ <name>Read the Stars</name>
+ <set rarity="uncommon" splitterPath="/Read the Stars.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Pull from the Planets</related>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw three cards, then discard a card.
+Foreshadow (Exile this. Cast its other face after your next untap without paying its mana cost.)
+---
+(Back): Pull from the Planets</text>
+</card>
+<card>
+ <name>Pull from the Planets</name>
+ <set rarity="uncommon" splitterPath="/Pull from the Planets.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Copy the next instant or sorcery spell you cast this turn. You may choose new targets for the copy.
+---
+(Front): Read the Stars</text>
+</card>
+<card>
+ <name>Rush of Rage</name>
+ <set rarity="common" splitterPath="/Rush of Rage.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Blurred Vision</related>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+0 and gains first strike until end of turn.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Blurred Vision</text>
+</card>
+<card>
+ <name>Blurred Vision</name>
+ <set rarity="common" splitterPath="/Blurred Vision.full.jpg" ></set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Up to two target creatures can’t block this turn.
+---
+(Front): Rush of Rage</text>
+</card>
+<card>
+ <name>Memorize</name>
+ <set rarity="common" splitterPath="/Memorize.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Overwrite</related>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Scry 2.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Overwrite</text>
+</card>
+<card>
+ <name>Overwrite</name>
+ <set rarity="common" splitterPath="/Overwrite.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put the top or bottom card of your library into your hand.
+---
+(Front): Memorize</text>
+</card>
+<card>
+ <name>Mud Trap</name>
+ <set rarity="common" splitterPath="/Mud Trap.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Anthrosaur Parade</related>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top three tokens of your Fossil deck. Create one of them, then shuffle.
+Foreshadow (Exile this. Cast its other face after your next untap without paying its mana cost.)
+---
+(Back): Anthrosaur Parade</text>
+</card>
+<card>
+ <name>Anthrosaur Parade</name>
+ <set rarity="common" splitterPath="/Anthrosaur Parade.full.jpg" ></set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put a menace counter on each of up to two target creatures.
+---
+(Front): Mud Trap</text>
+</card>
+<card>
+ <name>Nightshift Diggers</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you play or transform a double-faced card, create an Amber token. This ability triggers only once each turn. (Amber is an artifact with “3, T, sacrifice this: Create the top token of your Fossil deck tapped.)</text>
+</card>
+<card>
+ <name>Hors D'oeuvres</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>This spell costs 2 less to cast if you weren’t the starting player.
+Enchant creature
+When Hors D’oeuvres enters the battlefield, tap enchanted creature. It doesn’t untap during its controller’s untap step.</text>
+</card>
+<card>
+ <name>Dimension Moth</name>
+ <set rarity="uncommon"></set>
+ <color>U</color>
+ <manacost>5UU</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Insect </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Dimension Moth enters the battlefield, you may transform target double-faced permanent you control.</text>
+</card>
+<card>
+ <name>Dragon Girl</name>
+ <set rarity="common" splitterPath="/Dragon Girl.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Dragon Rider</related>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 2
+When you cast your second spell each turn, put E on Dragon Girl.
+---
+(Back): Dragon Rider</text>
+</card>
+<card>
+ <name>Dragon Rider</name>
+ <set rarity="common" splitterPath="/Dragon Rider.full.jpg" ></set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Dragon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+---
+(Front): Dragon Girl</text>
+</card>
+<card>
+ <name>Fireglass Storm</name>
+ <set rarity="common" splitterPath="/Fireglass Storm.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Waterglass Voyage</related>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Fireglass Storm deals 3 damage to any target.
+Foreshadow (Exile this. Cast its other face after your next untap without paying its mana cost.)
+---
+(Back): Waterglass Voyage</text>
+</card>
+<card>
+ <name>Waterglass Voyage</name>
+ <set rarity="common" splitterPath="/Waterglass Voyage.full.jpg" ></set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top card of your library. You may play that card this turn.
+---
+(Front): Fireglass Storm</text>
+</card>
+<card>
+ <name>Butterfly Flap</name>
+ <set rarity="common" splitterPath="/Butterfly Flap.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Ripple in the Wind</related>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target spell’s owner puts it on top or bottom of their library unless that player pays 3.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Ripple in the Wind</text>
+</card>
+<card>
+ <name>Ripple in the Wind</name>
+ <set rarity="common" splitterPath="/Ripple in the Wind.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card, then you may pay 2. If you don’t, discard a card.
+---
+(Front): Butterfly Flap</text>
+</card>
+<card>
+ <name>Parallelemental</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elemental </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever you cast or transform a double-faced card, put a +1/+1 counter on Parallelemental.</text>
+</card>
+<card>
+ <name>Parallelemental</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elemental </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever you cast or transform a double-faced card, put a +1/+1 counter on Parallelemental.</text>
+</card>
+<card>
+ <name>Fireglass Storm</name>
+ <set rarity="common" splitterPath="/Fireglass Storm.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Waterglass Voyage</related>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Fireglass Storm deals 3 damage to any target.
+Foreshadow (Exile this. Cast its other face after your next untap without paying its mana cost.)
+---
+(Back): Waterglass Voyage</text>
+</card>
+<card>
+ <name>Waterglass Voyage</name>
+ <set rarity="common" splitterPath="/Waterglass Voyage.full.jpg" ></set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top card of your library. You may play that card this turn.
+---
+(Front): Fireglass Storm</text>
+</card>
+<card>
+ <name>Butterfly Flap</name>
+ <set rarity="common" splitterPath="/Butterfly Flap.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Ripple in the Wind</related>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target spell’s owner puts it on top or bottom of their library unless that player pays 3.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Ripple in the Wind</text>
+</card>
+<card>
+ <name>Ripple in the Wind</name>
+ <set rarity="common" splitterPath="/Ripple in the Wind.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card, then you may pay 2. If you don’t, discard a card.
+---
+(Front): Butterfly Flap</text>
+</card>
+<card>
+ <name>Dimension Sifter</name>
+ <set rarity="uncommon"></set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elemental </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Haste
+UR, T: Draw a card, then discard a card.
+Whenever you discard one or more double-faced cards, you may exile one of them. If you do, you may play that card this turn.</text>
+</card>
+<card>
+ <name>Trap In an Hourglass</name>
+ <set rarity="common" splitterPath="/Trap In an Hourglass.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Bury in Sand</related>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap target creature. It doesn’t untap during its controller’s next untap step.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Bury in Sand</text>
+</card>
+<card>
+ <name>Bury in Sand</name>
+ <set rarity="common" splitterPath="/Bury in Sand.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target tapped creature to its owner’s hand.
+---
+(Front): Trap In an Hourglass</text>
+</card>
+<card>
+ <name>Trap In an Hourglass</name>
+ <set rarity="common" splitterPath="/Trap In an Hourglass.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Bury in Sand</related>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap target creature. It doesn’t untap during its controller’s next untap step.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Bury in Sand</text>
+</card>
+<card>
+ <name>Bury in Sand</name>
+ <set rarity="common" splitterPath="/Bury in Sand.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target tapped creature to its owner’s hand.
+---
+(Front): Trap In an Hourglass</text>
+</card>
+<card>
+ <name>Blackcloud Warrior</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental Warrior </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace, prowess</text>
+</card>
+<card>
+ <name>Blackcloud Warrior</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental Warrior </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace, prowess</text>
+</card>
+<card>
+ <name>Adwa Juvenile</name>
+ <set rarity="common" splitterPath="/Adwa Juvenile.full.jpg" ></set>
+ <color>U</color>
+ <related attach="attach">Adwa Colossus</related>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Turtle </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 4 (As a sorcery, 4: Put E on this. Transform at five.)
+---
+(Back): Adwa Colossus</text>
+</card>
+<card>
+ <name>Adwa Colossus</name>
+ <set rarity="common" splitterPath="/Adwa Colossus.full.jpg" ></set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elder Turtle </type>
+ <pt>11/14</pt>
+ <tablerow>2</tablerow>
+ <text>Adwa Colossus has hexproof as long as it’s untapped.
+---
+(Front): Adwa Juvenile</text>
+</card>
+<card>
+ <name>Echo Pup</name>
+ <set rarity="common" splitterPath="/Echo Pup.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Aeon Wolf</related>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Wolf </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 1R (As a sorcery, 1R: Put E on this. Transform at five.)
+Whenever you put E on Echo Pup, it gets +1/+0 and gains first strike until end of turn.
+---
+(Back): Aeon Wolf</text>
+</card>
+<card>
+ <name>Aeon Wolf</name>
+ <set rarity="common" splitterPath="/Aeon Wolf.full.jpg" ></set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elemental Wolf </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+R: Target creature gets +1/+0 until end of turn.
+---
+(Front): Echo Pup</text>
+</card>
+<card>
+ <name>Caerval Cadet</name>
+ <set rarity="common" splitterPath="/Caerval Cadet.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Caerval Captain</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 3 (As a sorcery, 3: Put E on this. Transform at five.)
+Whenever Caerval Cadet attacks, put E on it.
+---
+(Back): Caerval Captain</text>
+</card>
+<card>
+ <name>Caerval Captain</name>
+ <set rarity="common" splitterPath="/Caerval Captain.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>When this permanent transforms into Caerval Captain, creatures you control get +1/+1 and gain first strike until end of turn.
+---
+(Front): Caerval Cadet</text>
+</card>
+<card>
+ <name>Cretaceous Ghost</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dinosaur Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever you create one or more tokens, put a +1/+1 counter on Cretaceous Ghost.</text>
+</card>
+<card>
+ <name>Cunning Petrochemist</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Scholar </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you create a token, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Cut Your Losses</name>
+ <set rarity="common" splitterPath="/Cut Your Losses.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Unfinished Business</related>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Unfinished Business</text>
+</card>
+<card>
+ <name>Unfinished Business</name>
+ <set rarity="common" splitterPath="/Unfinished Business.full.jpg" ></set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to your hand.
+---
+(Front): Cut Your Losses</text>
+</card>
+<card>
+ <name>Decoy</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature you control to its owner’s hand. Create a token that’s a copy of it.</text>
+</card>
+<card>
+ <name>Eltravian Excavation</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Plains Swamp </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or B.)
+Eltravian Excavation enters the battlefield tapped if it’s the first, second, or third turn of the game.</text>
+</card>
+<card>
+ <name>Encase in Amber</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature. If it had mana value 2 or less, create an Amber token. (It’s an artifact with “3, T, sacrifice this: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Erase from History</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target artifact, creature, or enchantment.
+2, discard Erase from History: Create an Amber token. (It’s an artifact with “3, T, sacrifice this: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Family Reunion</name>
+ <set rarity="uncommon" splitterPath="/Family Reunion.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Family Feud</related>
+ <manacost>XWW</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create X Amber tokens. (They’re artifacts with “3, T, sacrifice this: Create the top token of your Fossil deck tapped.”)
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Family Feud</text>
+</card>
+<card>
+ <name>Family Feud</name>
+ <set rarity="uncommon" splitterPath="/Family Feud.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, creatures you control enter the battlefield with an additional +1/+1 counter.
+---
+(Front): Family Reunion</text>
+</card>
+<card>
+ <name>Honored Ancestors</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever you create one or more tokens, you gain 1 life and scry 1.</text>
+</card>
+<card>
+ <name>Livia, the Restorer</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Scholar </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>If an effect would create one or more tokens under your control, it creates twice that many tokens instead.
+B, T, Sacrifice another nontoken creature: Create an Amber token. (It’s an artifact with “3, T, sacrifice this: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Lyrian Telescope</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Amber </type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color.
+3, T, sacrifice Lyrian Telescope: Create the top token of your Fossil deck tapped.</text>
+</card>
+<card>
+ <name>Military Training</name>
+ <set rarity="common" splitterPath="/Military Training.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Martial Skill</related>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Distribute two +1/+1 counters among creatures you control.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Martial Skill</text>
+</card>
+<card>
+ <name>Martial Skill</name>
+ <set rarity="common" splitterPath="/Martial Skill.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has double strike.
+---
+(Front): Military Training</text>
+</card>
+<card>
+ <name>Museum Curator</name>
+ <set rarity="uncommon"></set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dwarf Artificer </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you create a token, creatures you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Nesting Viper</name>
+ <set rarity="uncommon" splitterPath="/Nesting Viper.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Serpent Nest</related>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Snake </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 2 (As a sorcery, 2: Put E on this. Transform at five.)
+Deathtouch
+When Nesting Viper reaches EEE, search your Fossil deck for a token named Titanoboa, create it, then shuffle. (Titanoboa is a 1/2 black Fossil Snake with deathtouch.)
+---
+(Back): Serpent Nest</text>
+</card>
+<card>
+ <name>Serpent Nest</name>
+ <set rarity="uncommon" splitterPath="/Serpent Nest.full.jpg" ></set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Snake </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch, menace
+Whenever a creature you control with deathtouch attacks, each opponent loses 1 life.
+At the beginning of your end step, if you control no other Snakes, search your Fossil deck for a token named Titanoboa, create it, then shuffle. (Titanoboa is a 1/2 black Fossil Snake with deathtouch.)
+---
+(Front): Nesting Viper</text>
+</card>
+<card>
+ <name>Outcompete</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 3 less to cast if you’ve created a token this turn.
+Target creature gets -4/-4 until end of turn.</text>
+</card>
+<card>
+ <name>Paleo-Ontologist</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Scholar </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Paleo-Ontologist enters the battlefield, you may discard a card or sacrifice a creature. If you do, create an Amber token. (It’s an artifact with “3, T, sacrifice this: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Petroglyph Giant</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>5WW</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Giant </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, if you created a token this turn, create an Amber token. (It’s an artifact with “3, T, sacrifice this: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Secondhand Blades</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+0 and has haste.
+Equipped creature has first strike as long as it’s attacking.
+Equip 2</text>
+</card>
+<card>
+ <name>Plunder the Tomb</name>
+ <set rarity="common" splitterPath="/Plunder the Tomb.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Tomb Guardian</related>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You draw a card and lose 2 life.
+Foreshadow (Exile this. After your next untap, you may cast its other face without paying its mana cost.)
+---
+(Back): Tomb Guardian</text>
+</card>
+<card>
+ <name>Tomb Guardian</name>
+ <set rarity="common" splitterPath="/Tomb Guardian.full.jpg" ></set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Skeleton </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+---
+(Front): Plunder the Tomb</text>
+</card>
+<card>
+ <name>Preserve</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You gain 3 life.
+Create an Amber token. (It’s an artifact with “3, T, sacrifice this: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Spite</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+0 and has deathtouch.
+When Spite is put into a graveyard from the battlefield, return it to its owner’s hand.</text>
+</card>
+<card>
+ <name>Timekeeper Assassin</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Assassin </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Timekeeper Assassin enters the battlefield, choose one:
+• Destroy target creature that was dealt damage this turn.
+• Each player sacrifices a creature.</text>
+</card>
+<card>
+ <name>Time Eater</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>5B</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+2, discard Time Eater: Create an Amber token. (It’s an artifact with “3, T, sacrifice this: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Unscrupulous Archaeologist</name>
+ <set rarity="uncommon"></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Scholar </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, target creature you don’t control get -X/-X until end of turn, where X is the number of tokens you created this turn.</text>
+</card>
+<card>
+ <name>Ambush Sloth</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Sloth </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ambush Sloth has first strike as long as it’s attacking.
+When Ambush Sloth enters the battlefield, create the top token of your Fossil deck. That creature gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Eonflame Phoenix</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Phoenix </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Eonflame Phoenix dies, create an Amber token. (It’s an artifact with “3, T, Sacrifice this artifact: Create the top token of your Fossil deck tapped.”)
+If you would create a token from your Fossil deck, you may pay R instead. If you do, return Eonflame Phoenix from your graveyard to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Illegal Activity</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature until end of turn. It gains haste until end of turn. Untap it.
+2, Discard Illegal Activity: Create an Amber token. (It’s an artifact with “3, T, Sacrifice this artifact: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Evolutionary Adaptation</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your Fossil deck for a token that shares a color with a mana spent to cast this spell. Create that token, then shuffle.</text>
+</card>
+<card>
+ <name>Antique Axe</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Antique Axe enters the battlefield, you may pay 2G. When you do, create the top token of your Fossil deck and attach Antique Axe to it.
+Equip 3
+Equipped creature gets +2/+1.</text>
+</card>
+<card>
+ <name>Dinosaur Outriders</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat on your turn, if you control a Fossil creature, Dinosaur Outriders gets +1/+0 and gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Buried Treasures</name>
+ <set rarity="rare" splitterPath="/Buried Treasures.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Bounty of the Land</related>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two Amber tokens. (They’re artifacts with “3, T, Sacrifice this artifact: Create the top token of your Fossil deck tapped.”)
+Foreshadow (Exile this. After your next untap, you may cast the other face without paying its mana cost.)
+---
+(Back): Bounty of the Land</text>
+</card>
+<card>
+ <name>Bounty of the Land</name>
+ <set rarity="rare" splitterPath="/Bounty of the Land.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, whenever you tap a land for mana, it produces an additional mana of that type.
+---
+(Front): Buried Treasures</text>
+</card>
+<card>
+ <name>Disturbed Slumber</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+2 and gains trample until end of turn. If it’s a Fossil creature, put two +1/+1 counters and a trample counter on it instead.</text>
+</card>
+<card>
+ <name>Nestwatcher Matriarch</name>
+ <set rarity="uncommon" splitterPath="/Nestwatcher Matriarch.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Proud Parent</related>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dinosaur </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 1G (As a sorcery, 1G: Put E on this. Transform at five.)
+When Nestwatcher Matriarch reaches EEE, create the top token of your Fossil deck.
+---
+(Back): Proud Parent</text>
+</card>
+<card>
+ <name>Proud Parent</name>
+ <set rarity="uncommon" splitterPath="/Proud Parent.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dinosaur </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Fossil creatures you control get +1/+1.
+---
+(Front): Nestwatcher Matriarch</text>
+</card>
+<card>
+ <name>Enraged Genealogist</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Djinn </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Enraged Genealogist attacks, create the top token of your Fossil deck tapped and attacking. Sacrifice that creature at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Into the Ground</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact, enchantment, or creature with flying.
+2, Discard Into the Ground: Create an Amber token. (It’s an artifact with “3, T, Sacrifice this artifact: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Unfossilize</name>
+ <set rarity="uncommon" splitterPath="/Unfossilize.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Relentless Grudge</related>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create the top token of your Fossil deck.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Relentless Grudge</text>
+</card>
+<card>
+ <name>Relentless Grudge</name>
+ <set rarity="uncommon" splitterPath="/Relentless Grudge.full.jpg" ></set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control deals damage equal to its power to any target.
+---
+(Front): Unfossilize</text>
+</card>
+<card>
+ <name>Primal Skinshifter</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shapeshifter </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat on your turn, reveal the top token of your Fossil deck. You may have Primal Skinshifter become a copy of that token until your next turn. Then shuffle.</text>
+</card>
+<card>
+ <name>Trap in Tar</name>
+ <set rarity="common" splitterPath="/Trap in Tar.full.jpg" ></set>
+ <color>R</color>
+ <related attach="attach">Put On Display</related>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top three tokens of your Fossil deck, create one of them, then shuffle.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Put On Display</text>
+</card>
+<card>
+ <name>Put On Display</name>
+ <set rarity="common" splitterPath="/Put On Display.full.jpg" ></set>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose +1/+1, first strike, or menace. Put a counter of the chosen type on target creature.
+---
+(Front): Trap in Tar</text>
+</card>
+<card>
+ <name>Sound the Horn</name>
+ <set rarity="rare" splitterPath="/Sound the Horn.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Lead the Charge</related>
+ <manacost>5GG</manacost>
+ <cmc>7</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create the top two tokens of your Fossil deck.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Lead the Charge</text>
+</card>
+<card>
+ <name>Lead the Charge</name>
+ <set rarity="rare" splitterPath="/Lead the Charge.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>7</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creature you control get +3/+3 and gain trample until end of turn.
+---
+(Front): Sound the Horn</text>
+</card>
+<card>
+ <name>Wasteland Shaman</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your precombat main phase, add RR. Spend this mana only to activate abilities.</text>
+</card>
+<card>
+ <name>Amplifying Shaman</name>
+ <set rarity="uncommon"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Fossil creature you control attacks, put a +1/+1 counter on that creature.</text>
+</card>
+<card>
+ <name>Back To My Roots</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Create an Amber token. (It’s an artifact with “3, T, Sacrifice this artifact: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Primal Fury</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gets +2/+2 until end of turn if it’s a Fossil creature. Then it fights target creature you don’t control.</text>
+</card>
+<card>
+ <name>Primordial Pylodon</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Elephant </type>
+ <pt>6/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Primordial Pylodon dies, create an Amber token. (It’s an artifact with “3, T, Sacrifice this artifact: Create the top token of your Fossil deck tapped.”)</text>
+</card>
+<card>
+ <name>Shaman of the Tooth</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Shaman of the Tooth enters the battlefield, put a +1/+1 counter on target Fossil creature you control.</text>
+</card>
+<card>
+ <name>Jaias, Prehistoric Shaman</name>
+ <set rarity="rare"></set>
+ <color>RG</color>
+ <manacost>4RG</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Creature - Human Shaman </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, put a +1/+1 counter on each creature you control.
+At the beginning of your end step, create the top token of your Fossil deck.</text>
+</card>
+<card>
+ <name>Shaman of Alacrity</name>
+ <set rarity="uncommon"></set>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Fossil creature enters the battlefield under your control, if it’s your turn, untap that creature. It gets +1/+1 and gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Teldarian Excavation</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Mountain Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or G.)
+Teldarian Excavation enters the battlefield tapped unless it’s the first, second, or third turn of the game.</text>
+</card>
+<card>
+ <name>Hungry Ladybug</name>
+ <set rarity="common" splitterPath="/Hungry Ladybug.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Toxic Scarletback</related>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Insect </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 2 (As a sorcery, 2: Put E on this. Transform at five.)
+Whenever you fast-forward Hungry Ladybug, put an additional E on Hungry Ladybug.
+---
+(Back): Toxic Scarletback</text>
+</card>
+<card>
+ <name>Toxic Scarletback</name>
+ <set rarity="common" splitterPath="/Toxic Scarletback.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Creature - Insect </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+---
+(Front): Hungry Ladybug</text>
+</card>
+<card>
+ <name>Winged Filly</name>
+ <set rarity="common" splitterPath="/Winged Filly.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Skymare Mount</related>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Pegasus </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Fast-forward 2 (As a sorcery, 2: Put E on this. Transform at five.)
+Winged Filly gets +2/+1 as long as it has EEE or more.
+---
+(Back): Skymare Mount</text>
+</card>
+<card>
+ <name>Skymare Mount</name>
+ <set rarity="common" splitterPath="/Skymare Mount.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Pegasus </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, vigilance
+Whenever Skymare Mount attacks, put a flying counter on another target creature you control.
+---
+(Front): Winged Filly</text>
+</card>
+<card>
+ <name>Lonely Lighthouse</name>
+ <set rarity="uncommon" splitterPath="/Lonely Lighthouse.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Shining City</related>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Fast-forward 3 (As a sorcery, 3: Put E on this. Transform at five.)
+W, T: Tap target creature.
+---
+(Back): Shining City</text>
+</card>
+<card>
+ <name>Shining City</name>
+ <set rarity="uncommon" splitterPath="/Shining City.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When this permanent transforms into Shining City, destroy target tapped creature an opponent controls.
+T: Tap target artifact, creature, or land.
+---
+(Front): Lonely Lighthouse</text>
+</card>
+<card>
+ <name>Sandswift Shaman</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you fast-forward a permanent, give that permanent an additional E.</text>
+</card>
+<card>
+ <name>Development Elephant</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elephant </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Development Elephant enters the battlefield, for each type of counter on target permanent, you may give that permanent another counter of that kind.</text>
+</card>
+<card>
+ <name>Nestwatcher Matriarch</name>
+ <set rarity="uncommon" splitterPath="/Nestwatcher Matriarch.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Proud Parent</related>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dinosaur </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 1G (As a sorcery, 1G: Put E on this. Transform at five.)
+When Nestwatcher Matriarch reaches EEE, create the top token of your Fossil deck.
+---
+(Back): Proud Parent</text>
+</card>
+<card>
+ <name>Proud Parent</name>
+ <set rarity="uncommon" splitterPath="/Proud Parent.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dinosaur </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Fossil creatures you control get +1/+1.
+---
+(Front): Nestwatcher Matriarch</text>
+</card>
+<card>
+ <name>Sandswift Spirit</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Sandswift Spirit enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+T: Add G.</text>
+</card>
+<card>
+ <name>Sicklemoon Golem</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Golem </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you put E on a permanent you control, put a +1/+1 counter on Sicklemoon Golem.</text>
+</card>
+<card>
+ <name>Inner Peace</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Inner Peace enters the battlefield, scry 1.
+Enchanted creature can’t attack or block.</text>
+</card>
+<card>
+ <name>Sunseed Soldier</name>
+ <set rarity="rare" splitterPath="/Sunseed Soldier.full.jpg" ></set>
+ <color>WG</color>
+ <related attach="attach">Bursting Megaflower</related>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Plant Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward GW (As a sorcery, GW: Put E on this. Transform at five.)
+Whenever you put E on Sunseed Soldier, choose one that hasn’t been chosen from among lifelink, vigilance, +1/+1, or E. Put a counter of the chosen type on Sunseed Soldier.
+---
+(Back): Bursting Megaflower</text>
+</card>
+<card>
+ <name>Bursting Megaflower</name>
+ <set rarity="rare" splitterPath="/Bursting Megaflower.full.jpg" ></set>
+ <color>WG</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Plant Elemental </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance, lifelink
+When this permanent transforms into Bursting Megaflower, remove all its counters. For each counter removed this way, put E or a +1/+1 counter on another target creature you control.
+---
+(Front): Sunseed Soldier</text>
+</card>
+<card>
+ <name>Provincial Haystack</name>
+ <set rarity="common" splitterPath="/Provincial Haystack.full.jpg" ></set>
+ <color></color>
+ <related attach="attach">Scarecrow Sentry</related>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Fast-forward 1 (As a sorcery, 1: Put E on this. Transform at five.)
+When Provincial Haystack reaches E, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+---
+(Back): Scarecrow Sentry</text>
+</card>
+<card>
+ <name>Scarecrow Sentry</name>
+ <set rarity="common" splitterPath="/Scarecrow Sentry.full.jpg" ></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Scarecrow </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add C.
+---
+(Front): Provincial Haystack</text>
+</card>
+<card>
+ <name>Megarachnid</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Spider </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+2, Discard Megarachnid: Create an Amber token. (It’s an artifact with “3, T, sacrifice this: Create the top token of your Fossil deck.”)</text>
+</card>
+<card>
+ <name>Sunseed Sapling</name>
+ <set rarity="uncommon" splitterPath="/Sunseed Sapling.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Duskbark Druid</related>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Treefolk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-Forward G (As a sorcery, G: Put E on this. Transform at five.)
+Sunseed Sapling gets +2/+2 as long as it has at least EEE.
+---
+(Back): Duskbark Druid</text>
+</card>
+<card>
+ <name>Duskbark Druid</name>
+ <set rarity="uncommon" splitterPath="/Duskbark Druid.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Creature - Treefolk Druid </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>When this permanent transforms into Duskbark Druid, return target permanent card from your graveyard to your hand.
+---
+(Front): Sunseed Sapling</text>
+</card>
+<card>
+ <name>Seminary Student</name>
+ <set rarity="uncommon" splitterPath="/Seminary Student.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Sandswift Champion</related>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 2 (As a sorcery, 2: Put E on this. Transform at five.)
+Prowess
+You may fast-forward Seminary Student any time you could cast an instant.
+---
+(Back): Sandswift Champion</text>
+</card>
+<card>
+ <name>Sandswift Champion</name>
+ <set rarity="uncommon" splitterPath="/Sandswift Champion.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Monk </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+You may cast noncreature spells and fast-forward permanents any time you could cast an instant.
+---
+(Front): Seminary Student</text>
+</card>
+<card>
+ <name>Protect the Timeline</name>
+ <set rarity="common" splitterPath="/Protect the Timeline.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Forge the Future</related>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gains hexproof until end of turn.
+Foreshadow (Then exile this. Cast its other face from exile after your next untap.)
+---
+(Back): Forge the Future</text>
+</card>
+<card>
+ <name>Forge the Future</name>
+ <set rarity="common" splitterPath="/Forge the Future.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Scry 2, then you may have each player draw a card.
+---
+(Front): Protect the Timeline</text>
+</card>
+<card>
+ <name>Student of Sands</name>
+ <set rarity="common" splitterPath="/Student of Sands.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Caerval Galemaster</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 2 (As a sorcery, 2: Put E on this. Transform at five.)
+When Student of Sands reaches EEE, draw a card.
+---
+(Back): Caerval Galemaster</text>
+</card>
+<card>
+ <name>Caerval Galemaster</name>
+ <set rarity="common" splitterPath="/Caerval Galemaster.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard Warrior </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+---
+(Front): Student of Sands</text>
+</card>
+<card>
+ <name>Destiny Dodger</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Faerie </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, flash
+2W: Destiny Dodger and target creature you control each phase out. Activate only once each turn.</text>
+</card>
+<card>
+ <name>Back To My Roots</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery // Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Create an Amber token. (It’s an artifact with “3, T, Sacrifice this: Create the top token of your Fossil deck.)
+--- 
+Add G. Until end of turn, this mana doesn’t empty as steps and phases end.</text>
+</card>
+<card>
+ <name>Tyvara, Angel of Bounty</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Angel </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a creature you control gets a counter, you may give it an additional one of those counters.
+Whenever you create a token, you may create an additional one of those tokens.
+These abilities trigger only once each turn.</text>
+</card>
+<card>
+ <name>Return to the Fold</name>
+ <set rarity="uncommon"></set>
+ <color>M</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery // </type>
+ <tablerow>3</tablerow>
+ <text>Return target creature with mana value 3 or less from your graveyard to the battlefield. If that creature has fast-forward, give it EEE.
+--- 
+If your life total is greater than the total noted with Pep Talk, draw two cards.</text>
+</card>
+<card>
+ <name>Grazing Hypsodon</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Rhino </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Grazing Hypsodon can’t be blocked by creature tokens.</text>
+</card>
+<card>
+ <name>Caerval Cadet</name>
+ <set rarity="common" splitterPath="/Caerval Cadet.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Caerval Captain</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 3 (As a sorcery, 3: Put E on this. Transform at five.)
+Whenever Caerval Cadet attacks, put E on it.
+---
+(Back): Caerval Captain</text>
+</card>
+<card>
+ <name>Caerval Captain</name>
+ <set rarity="common" splitterPath="/Caerval Captain.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature transforms into Caerval Captain, creatures you control get +1/+1 and gain first strike until end of turn.
+---
+(Front): Caerval Cadet</text>
+</card>
+<card>
+ <name>Erase From History</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put target artifact, creature, or enchantment on the bottom of its owner’s library.
+2, Discard Erase From History: Create an Amber token. (It’s an artifact with “3, T, Sacrifice this: Create the top token of your Fossil deck.”)</text>
+</card>
+<card>
+ <name>Charmed Sundial</name>
+ <set rarity="uncommon"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Permanents you control have ward 1 for each counter on them.
+W, T: You gain 1 life. You may remove a counter from a permanent you control. If you do, scry 1.</text>
+</card>
+<card>
+ <name>Development Elephant</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elephant </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Development Elephant enters the battlefield, for each type of counter on target permanent, you may give that permanent another counter of that kind.</text>
+</card>
+<card>
+ <name>Taurum Calf</name>
+ <set rarity="common" splitterPath="/Taurum Calf.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Taurum Bull</related>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Ox Spirit </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-Forward 3 (3: Put E on this. Transform at five. Fast-forward as a sorcery.)
+As long as Taurum Calf has EEE or more, it gets +2/+2.
+---
+(Back): Taurum Bull</text>
+</card>
+<card>
+ <name>Taurum Bull</name>
+ <set rarity="common" splitterPath="/Taurum Bull.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Ox Spirit </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>When this permanent transforms into Taurum Bull, you gain 5 life.
+---
+(Front): Taurum Calf</text>
+</card>
+<card>
+ <name>Tyvara's Silencer</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>W, T: Target nontoken creature phases out.</text>
+</card>
+<card>
+ <name>Fission Flash</name>
+ <set rarity="uncommon" splitterPath="/Fission Flash.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Luster Spirit</related>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature phases out. Scry 1.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Luster Spirit</text>
+</card>
+<card>
+ <name>Luster Spirit</name>
+ <set rarity="uncommon" splitterPath="/Luster Spirit.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Prowess (Whenever you cast a noncreature spells, this creature gets +1/+1 until end of turn.)
+---
+(Front): Fission Flash</text>
+</card>
+<card>
+ <name>Edgewood Blessing</name>
+ <set rarity="uncommon" splitterPath="/Edgewood Blessing.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Edgewood Guardian</related>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap target creature. It gets +4/+4 until end of turn.
+Foreshadow (Exile this. After your next untap, you may cast its other face without paying its mana cost.)
+---
+(Back): Edgewood Guardian</text>
+</card>
+<card>
+ <name>Edgewood Guardian</name>
+ <set rarity="uncommon" splitterPath="/Edgewood Guardian.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elemental Elk </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+---
+(Front): Edgewood Blessing</text>
+</card>
+<card>
+ <name>Apprentice Duelist</name>
+ <set rarity="uncommon" splitterPath="/Apprentice Duelist.full.jpg" ></set>
+ <color>WG</color>
+ <related attach="attach">Master Instructor</related>
+ <manacost>2GW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 2 (As a sorcery, 2: Put E on this. Transform at five.)
+When you fast-forward Apprentice Duelist, another target creature you control gets +1/+1 until end of turn. If Apprentice Duelist has EEE or more, put a +1/+1 counter on that creature instead.
+---
+(Back): Master Instructor</text>
+</card>
+<card>
+ <name>Master Instructor</name>
+ <set rarity="uncommon" splitterPath="/Master Instructor.full.jpg" ></set>
+ <color>WG</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>G/W, Remove E from Master Instructor: Put a +1/+1 counter on another target creature. Until end of turn, that creature gains first strike and can’t be blocked by more than one creature. Activate only as a sorcery.
+---
+(Front): Apprentice Duelist</text>
+</card>
+<card>
+ <name>Nurture</name>
+ <set rarity="uncommon" splitterPath="/Nurture.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Mature</related>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on target creature you control. If it has fast-forward, put E on it.
+Foreshadow (Exile this. After your next untap, cast its other face without paying its mana cost.)
+---
+(Back): Mature</text>
+</card>
+<card>
+ <name>Mature</name>
+ <set rarity="uncommon" splitterPath="/Mature.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put E on each permanent you control with fast-forward and a +1/+1 counter on each creature you control.
+---
+(Front): Nurture</text>
+</card>
+<card>
+ <name>Sandswift Shaman</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you fast-forward a permanent, give that permanent an additional E.</text>
+</card>
+<card>
+ <name>Sandswift Shaman</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you fast-forward a permanent, give that permanent an additional E.</text>
+</card>
+<card>
+ <name>Caerval Cadet</name>
+ <set rarity="common" splitterPath="/Caerval Cadet.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Caerval Captain</related>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 3 (As a sorcery, 3: Put E on this. Transform at five.)
+Whenever Caerval Cadet attacks, put E on it.
+---
+(Back): Caerval Captain</text>
+</card>
+<card>
+ <name>Caerval Captain</name>
+ <set rarity="common" splitterPath="/Caerval Captain.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature transforms into Caerval Captain, creatures you control get +1/+1 and gain first strike until end of turn.
+---
+(Front): Caerval Cadet</text>
+</card>
+<card>
+ <name>Taurum Calf</name>
+ <set rarity="common" splitterPath="/Taurum Calf.full.jpg" ></set>
+ <color>G</color>
+ <related attach="attach">Taurum Bull</related>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Ox Spirit </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-Forward 3 (3: Put E on this. Transform at five. Fast-forward as a sorcery.)
+As long as Taurum Calf has EEE or more, it gets +2/+2.
+---
+(Back): Taurum Bull</text>
+</card>
+<card>
+ <name>Taurum Bull</name>
+ <set rarity="common" splitterPath="/Taurum Bull.full.jpg" ></set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Creature - Ox Spirit </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>When this permanent transforms into Taurum Bull, you gain 5 life.
+---
+(Front): Taurum Calf</text>
+</card>
+<card>
+ <name>Winged Filly</name>
+ <set rarity="common" splitterPath="/Winged Filly.full.jpg" ></set>
+ <color>W</color>
+ <related attach="attach">Skymare Mount</related>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Pegasus </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Fast-forward 2 (As a sorcery, 2: Put E on this. Transform at five.)
+Winged Filly gets +2/+1 as long as it has EEE or more.
+---
+(Back): Skymare Mount</text>
+</card>
+<card>
+ <name>Skymare Mount</name>
+ <set rarity="common" splitterPath="/Skymare Mount.full.jpg" ></set>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Pegasus </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, vigilance
+Whenever Skymare Mount attacks, put a flying counter on another target creature you control.
+---
+(Front): Winged Filly</text>
+</card>
+<card>
+ <name>Viltravan Excavation</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or R.)
+Viltravan Excavation enters the battlefield tapped if it’s the first, second, or third turn of the game.</text>
+</card>
+<card>
+ <name>Illusion of Scarcity</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast your second spell each turn, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+</card>
+<card>
+ <name>Thought Crime</name>
+ <set rarity="uncommon" splitterPath="/Thought Crime.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Compulsory Reeducation</related>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player reveals three cards from their hand and you choose one of them. That player discards that card.
+Foreshadow (Exile this. At the beginning of your next upkeep, cast its other face without paying its mana cost.)
+---
+(Back): Compulsory Reeducation</text>
+</card>
+<card>
+ <name>Compulsory Reeducation</name>
+ <set rarity="uncommon" splitterPath="/Compulsory Reeducation.full.jpg" ></set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Name a card. Target player reveals their hand and discards all nonland cards with the chosen name.
+---
+(Front): Thought Crime</text>
+</card>
+<card>
+ <name>Memorial to Fury</name>
+ <set rarity="uncommon"></set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>The first spell you cast each turn costs 1 less to cast.
+Whenever you cast your second spell each turn, Memorial to Fury becomes a 4/4 red and black Elemental artifact creature with menace and trample until end of turn.</text>
+</card>
+<card>
+ <name>Accelerando</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>At the beginning of combat this turn, creatures you control gain haste until end of turn.
+Draw a card.</text>
+</card>
+<card>
+ <name>Dormant Elemental</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elemental </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>When you cast your second spell each turn, Dormant Elemental gets +3/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Erupt</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Erupt deals 3 damage to target creature. Excess damage is dealt to that creature’s controller.</text>
+</card>
+<card>
+ <name>Impatient Chronomancer</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Impatient Chronomancer attacks, the next spell you cast this turn costs 1 less to cast.</text>
+</card>
+<card>
+ <name>Double Timer</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When you cast your second spell each turn, put a +1/+1 counter on Double Timer.</text>
+</card>
+<card>
+ <name>Hired Muscle</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When you cast your second spell each turn, target creature gains menace until end of turn.</text>
+</card>
+<card>
+ <name>Make History</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature.</text>
+</card>
+<card>
+ <name>Unethical Augmentation</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Unethical Augmentation enters the battlefield, add BBB.
+Enchanted creature gets +2/+1.</text>
+</card>
+<card>
+ <name>Nighthawk Avenger</name>
+ <set rarity="rare"></set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bat </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, deathtouch, lifelink
+You can’t cast Nighthawk Avenger during your first, second, or third turns of the game.</text>
+</card>
+<card>
+ <name>Thousand Cuts</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Thousand Cuts deals 1 damage to any target.
+At the beginning of your end step, if you cast two or more spells this turn, return Thousand Cuts from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Rat Pair</name>
+ <set rarity="common" splitterPath="/Rat Pair.full.jpg" ></set>
+ <color>B</color>
+ <related attach="attach">Rat King</related>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Rat </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 2 (As a sorcery, 2: Put E on this. Transform at five.)
+---
+(Back): Rat King</text>
+</card>
+<card>
+ <name>Rat King</name>
+ <set rarity="common" splitterPath="/Rat King.full.jpg" ></set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Rat </type>
+ <pt>8/4</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+---
+(Front): Rat Pair</text>
+</card>
+
+<card>
+ <name>Grandship Harrier</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Ranger </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Whenever you cast a noncreature spell, tap target creature an opponent controls.</text>
+</card>
+<card>
+ <name>Seeker of the Way</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Steampunk Aerialist</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Boar Artificer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, prowess</text>
+</card>
+<card>
+ <name>Stenford Sheriff</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Stenford Sheriff has first strike as long as it’s attacking.</text>
+</card>
+<card>
+ <name>Frontline Breacher</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Whenever Frontline Breacher attacks, it deals damage equal to its power to each opponent.</text>
+</card>
+<card>
+ <name>Lamplight Researcher</name>
+ <set rarity="uncommon"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Scholar </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+When Lamplight Researcher enters the battlefield, you may discard a card. If you do, return target noncreature, nonland card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Aspiring Artificer</name>
+ <set rarity="uncommon" splitterPath="/Aspiring Artificer.full.jpg" ></set>
+ <color>WR</color>
+ <related attach="attach">Masterwork of Artifice</related>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fast-forward 1RW (As a sorcery, 1RW: Put E on this. Transform at five.)
+Whenever you cast a noncreature spell, put E on Aspiring Artificer.
+Aspiring Artificer gets +1/+1 for each E on it.
+---
+(Back): Masterwork of Artifice</text>
+</card>
+<card>
+ <name>Masterwork of Artifice</name>
+ <set rarity="uncommon" splitterPath="/Masterwork of Artifice.full.jpg" ></set>
+ <color>WR</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink, menace, prowess
+---
+(Front): Aspiring Artificer</text>
+</card>
+<card>
+ <name>Aseran Excavation</name>
+ <set rarity="uncommon"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Mountain Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or W.)
+Aseran Excavation enters the battlefield tapped if it’s the first, second, or third turn of the game.</text>
+</card>
+<card>
+ <name>Outsized Legacy</name>
+ <set rarity="rare"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature with mana value 2 or less
+Enchanted creature gets +1/+1 and has lifelink and protection from mana value 3 or greater. (This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything with mana value 3 or greater.)</text>
+</card>
+<card>
+ <name>Young Dinomancer</name>
+ <set rarity="rare"></set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Orc Shaman </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Whenever you cast a noncreature spell, create the top token of your Fossil deck.</text>
+</card>
+<card>
+ <name>Legend Lore</name>
+ <set rarity="rare"></set>
+ <color>WR</color>
+ <manacost>3RW</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top seven cards of your library. You may cast up to one creature spell and up to one noncreature spell not named Legend Lore with total mana value 5 or less from among them without paying their mana costs.</text>
+</card>
+</cards>
+</cockatrice_carddatabase>
+

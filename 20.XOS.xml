@@ -1,0 +1,3540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>XOS</name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>CA01 Empty Shell</name>
+ <set picURL="/CA01 Empty Shell.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Creature - Human Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>CA02 Insectiform Vukoroq</name>
+ <set picURL="/CA02 Insectiform Vukoroq.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Creature - Vukoroq Insect </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>If you control a Planet, CA02 Insectiform Vukoroq enters the battlefield with a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>UA03 Vukoroq Invader</name>
+ <set picURL="/UA03 Vukoroq Invader.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Creature - Vukoroq Soldier </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When UA03 Vukoroq Invader enters the battlefield, exile the top card of each opponent’s library.
+UA03 Vukoroq Invader gets +1/+1 as long as there’s a creature card exiled with it, has hexproof as long as there’s a land card exiled with it, and has menace as long as there’s a noncreature nonland card exiled with it.</text>
+</card>
+<card>
+ <name>CW01 Cosmonauts Companion</name>
+ <set picURL="/CW01 Cosmonauts Companion.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Dog </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When CW01 Cosmonaut’s Companion enters the battlefield, target creature gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>CW02 Asteroid Hermit</name>
+ <set picURL="/CW02 Asteroid Hermit.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Monk Knight </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell during combat, CW02 Asteroid Hermit gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>CW03 Orbital Fortifications</name>
+ <set picURL="/CW03 Orbital Fortifications.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Artifact Creature - Wall </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender, reach
+Whenever CW03 Orbital Fortifications blocks a Vehicle, it gets +3/+0 until end of turn.</text>
+</card>
+<card>
+ <name>CW04 Damaged Golem</name>
+ <set picURL="/CW04 Damaged Golem.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Artifact Creature - Golem </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When CW04 Damaged Golem enters the battlefield from a graveyard, put four +1/+1 counters on it.</text>
+</card>
+<card>
+ <name>CW05 Utopian Architect</name>
+ <set picURL="/CW05 Utopian Architect.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When CW05 Utopian Architect enters the battlefield, you may search your library for an Aura card with enchant land, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>CW06 Not-Jedi Apprentices</name>
+ <set picURL="/CW06 Not-Jedi Apprentices.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Something Monk Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever you cast a spell during combat, put a +1/+1 counter on CW06 Not-Jedi Apprentices.</text>
+</card>
+<card>
+ <name>CW07 Terran Soldier</name>
+ <set picURL="/CW07 Terran Soldier.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever CW07 Terran Soldier becomes tapped, another target creature or Vehicle you control gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>CW08 Enforcer of Orthodoxy</name>
+ <set picURL="/CW08 Enforcer of Orthodoxy.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When CW08 Enforcer of Orthodoxy enters the battlefield, discard up to two cards. Conjure that many cards named Empty Shell into your hand. (2, 2/2 Human Zombie.)</text>
+</card>
+<card>
+ <name>CW09 Starship Engineer</name>
+ <set picURL="/CW09 Starship Engineer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When CW09 Starship Engineer enters the battlefield, put two +1/+1 counters on target Vehicle you control.</text>
+</card>
+<card>
+ <name>CW10 Citizens of Arcadia</name>
+ <set picURL="/CW10 Citizens of Arcadia.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>3W: Create a 1/1 white Human creature token. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>CW11 Starfighter</name>
+ <set picURL="/CW11 Starfighter.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying, first strike
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>CW12 Imperial Frigate</name>
+ <set picURL="/CW12 Imperial Frigate.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying, vigilance
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>CW13 Castles in the Sky</name>
+ <set picURL="/CW13 Castles in the Sky.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+Enchanted land is a 2/4 white Construct artifact creature with reach and vigilance.
+When enchanted land dies, return that card to its owner’s hand.</text>
+</card>
+<card>
+ <name>CW14 Marooned</name>
+ <set picURL="/CW14 Marooned.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>This spell costs 2 less to cast if it targets a Planet.
+Enchant land
+When CW14 Marooned enters the battlefield, exile target creature until CW14 Marooned leaves the battlefield.</text>
+</card>
+<card>
+ <name>CW15 Laser Shot</name>
+ <set picURL="/CW15 Laser Shot.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>CW15 Laser Shot deals 4 damage to target attacking or blocking creature.</text>
+</card>
+<card>
+ <name>CW16 Mighty Leap</name>
+ <set picURL="/CW16 Mighty Leap.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+2 and gains flying until end of turn.</text>
+</card>
+<card>
+ <name>CW17 Disassemble</name>
+ <set picURL="/CW17 Disassemble.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target artifact or enchantment.
+2, Discard CW17 Disassemble: Conjure a card named Civilized World into your hand. (Planet, enters tapped, each player gains 3 life, T: Add W.)</text>
+</card>
+<card>
+ <name>CW18 Medical Nanobots</name>
+ <set picURL="/CW18 Medical Nanobots.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When CW18 Medical Nanobots enters the battlefield, you gain 4 life.
+2, Sacrifice CW18 Medical Nanobots: Draw a card.</text>
+</card>
+<card>
+ <name>MW01 Sundancer</name>
+ <set picURL="/MW01 Sundancer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Nymph </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Prevent all damage that would be dealt to MW01 Sundancer. Whenever damage is prevented this way, MW01 Sundancer deals that much damage to any target.</text>
+</card>
+<card>
+ <name>MW02 Ascend to a Higher Plane</name>
+ <set picURL="/MW02 Ascend to a Higher Plane.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>WW</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature or creature card in your graveyard
+Enchanted creature gets +2/+2 and has lifelink.
+2WW: Return enchanted creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>RW01 Attended Cosmonaut</name>
+ <set picURL="/RW01 Attended Cosmonaut.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When RW01 Attended Cosmonaut enters the battlefield, conjure a card named Cosmonaut’s Companion into your hand. (W, 1/1 Dog, flash, target creature gets +1/+1 until end of turn when it enters.)</text>
+</card>
+<card>
+ <name>RW02 Intrepid Xenohistorian</name>
+ <set picURL="/RW02 Intrepid Xenohistorian.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Cat Scout Advisor </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When RW02 Intrepid Xenohistorian enters the battlefield, it explores.
+T, Sacrifice RW02 Intrepid Xenohistorian: Return target artifact or Discovery card from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>RW03 Ingenious Admiral</name>
+ <set picURL="/RW03 Ingenious Admiral.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Vehicle you control attacks, choose one —
+• It gets +2/+2 until end of turn.
+• It gains lifelink until end of turn.
+• Tap target creature.</text>
+</card>
+<card>
+ <name>RW04 Space Marine</name>
+ <set picURL="/RW04 Space Marine.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Artifact Creature - Cyborg Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When RW04 Space Marine enters the battlefield, conjure a card named Powered Exosuit onto the battlefield attached to RW04 Space Marine.</text>
+</card>
+<card>
+ <name>RW05 Cosmic Herald</name>
+ <set picURL="/RW05 Cosmic Herald.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Artifact Creature - Angel </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, vigilance
+When RW05 Cosmic Herald enters the battlefield, you may destroy all creatures. (Including it.)</text>
+</card>
+<card>
+ <name>RW06 Nebula Griffin</name>
+ <set picURL="/RW06 Nebula Griffin.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Attacking creatures you control have first strike.
+2WW: RW06 Nebula Griffin becomes a 4/4 Spirit Griffin creature with flying until end of turn. It’s still an enchantment.</text>
+</card>
+<card>
+ <name>RW07 Cutting-Edge Starships</name>
+ <set picURL="/RW07 Cutting-Edge Starships.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>RW08 Forcefields</name>
+ <set picURL="/RW08 Forcefields.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>RW09 Disposable Legions</name>
+ <set picURL="/RW09 Disposable Legions.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Conjure three cards named Empty Shell onto the battlefield and three cards named Empty Shell into your hand. (2, 2/2 Human Zombie.)</text>
+</card>
+<card>
+ <name>RW10 Ancient Fabricator</name>
+ <set picURL="/RW10 Ancient Fabricator.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Create a 3/3 white Construct artifact creature token with vigilance.</text>
+</card>
+<card>
+ <name>UW01 Ace Pilot</name>
+ <set picURL="/UW01 Ace Pilot.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Pilot </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever UW01 Ace Pilot crews a Vehicle, untap that Vehicle. It gains vigilance until end of turn.</text>
+</card>
+<card>
+ <name>UW02 Zapgunner</name>
+ <set picURL="/UW02 Zapgunner.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+When UW02 Zapgunner enters the battlefield, conjure a card named Photon Pistol onto the battlefield attached to it. (1, equip 2, equipped creature gets +2/+0.)</text>
+</card>
+<card>
+ <name>UW03 Champion of Zorvotz</name>
+ <set picURL="/UW03 Champion of Zorvotz.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Human Knight </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When UW03 Champion of Zorvotz enters the battlefield, all damage that would be dealt to you or other creatures you control this turn is dealt to UW03 Champion of Zorvotz instead.</text>
+</card>
+<card>
+ <name>UW04 Relic-Eater Spacewhale</name>
+ <set picURL="/UW04 Relic-Eater Spacewhale.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Creature - Whale </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When UW04 Relic-Eater Spacewhale enters the battlefield, you may exile an artifact from the battlefield or an artifact card from your graveyard.
+When UW04 Relic-Eater Spacewhale leaves the battlefield, return the exiled card to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>UW05 Precursortech Guardian</name>
+ <set picURL="/UW05 Precursortech Guardian.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>5WW</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>4/10</pt>
+ <tablerow>2</tablerow>
+ <text>First strike, vigilance
+Whenever a creature attacks you, UW05 Precursortech Guardian blocks that creature. (Even if it can’t be blocked.)</text>
+</card>
+<card>
+ <name>UW06 Utopia Spreader</name>
+ <set picURL="/UW06 Utopia Spreader.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+Whenever you gain life, UW06 Utopia Spreader explores. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)
+Crew 1 </text>
+</card>
+<card>
+ <name>UW07 Generation Ship</name>
+ <set picURL="/UW07 Generation Ship.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>5WW</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+When UW07 Generation Ship enters the battlefield, create four 1/1 white Human creature tokens.
+Crew 4</text>
+</card>
+<card>
+ <name>UW08 Planetary Shield</name>
+ <set picURL="/UW08 Planetary Shield.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+When UW08 Planetary Shield enters the battlefield, draw a card.
+Enchanted land has indestructible.</text>
+</card>
+<card>
+ <name>UW09 Bountiful Farms</name>
+ <set picURL="/UW09 Bountiful Farms.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+Whenever enchanted land becomes tapped, you gain 2 life.</text>
+</card>
+<card>
+ <name>UW10 Mindwipe</name>
+ <set picURL="/UW10 Mindwipe.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Its controller conjures a card named Empty Shell into their hand. (2, 2/2 Human Zombie.)</text>
+</card>
+<card>
+ <name>UW11 Blissful Vacation</name>
+ <set picURL="/UW11 Blissful Vacation.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You gain 2 life for each Planet you control.
+Draw a card.</text>
+</card>
+<card>
+ <name>CU01 Bodiless Ascetic</name>
+ <set picURL="/CU01 Bodiless Ascetic.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Artifact Creature - Cyborg Monk </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 2 (Whenever this becomes the target of a spell or ability an opponent controls, counter it unless they pay 2.)</text>
+</card>
+<card>
+ <name>CU02 Peaceful Explorer</name>
+ <set picURL="/CU02 Peaceful Explorer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When CU02 Peaceful Explorer enters the battlefield, it explores. If a Planet is revealed this way, draw a card. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)</text>
+</card>
+<card>
+ <name>CU03 Kesshian Scholar</name>
+ <set picURL="/CU03 Kesshian Scholar.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Merfolk Advisor </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When CU03 Kesshian Scholar is put into your graveyard from anywhere, mill two cards.</text>
+</card>
+<card>
+ <name>CU04 Imperial Arcanologist</name>
+ <set picURL="/CU04 Imperial Arcanologist.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Artifact Creature - Cyborg Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When CU04 Imperial Arcanologist enters the battlefield, you may untap target attacking creature and remove it from combat.</text>
+</card>
+<card>
+ <name>CU05 Mysterious Xenoform</name>
+ <set picURL="/CU05 Mysterious Xenoform.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Creature - Worm </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When CU05 Mysterious Xenoform enters the battlefield, return target creature an opponent controls to its owner’s hand.</text>
+</card>
+<card>
+ <name>CU06 Ghost of the Machine</name>
+ <set picURL="/CU06 Ghost of the Machine.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Spirit </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Exile CU06 Ghost of the Machine from your graveyard: Draw a card, then discard a card.</text>
+</card>
+<card>
+ <name>CU07 Society-Managing Machine</name>
+ <set picURL="/CU07 Society-Managing Machine.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>5U</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>5/7</pt>
+ <tablerow>2</tablerow>
+ <text>2, Discard CU07 Society-Managing Machine: Conjure a card named City World into your hand. (Planet, enters tapped, each player scries 2, T: Add U.)</text>
+</card>
+<card>
+ <name>CU08 Kesshian Serpent</name>
+ <set picURL="/CU08 Kesshian Serpent.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Creature - Serpent </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>CU08 Kesshian Serpent can’t attack unless there are seven or more cards in your graveyard.</text>
+</card>
+<card>
+ <name>CU09 One-Man Probe</name>
+ <set picURL="/CU09 One-Man Probe.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+When CU09 One-Man Probe enters the battlefield, it explores. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)
+Crew 1</text>
+</card>
+<card>
+ <name>CU10 Vedalken Spellship</name>
+ <set picURL="/CU10 Vedalken Spellship.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Flying
+When CU10 Vedalken Spellship enters the battlefield, it becomes an artifact creature until end of turn.
+Crew 2</text>
+</card>
+<card>
+ <name>CU11 Ulats Acquisition</name>
+ <set picURL="/CU11 Ulats Acquisition.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant artifact or creature
+When CU11 Ulat’s Acquisition enter the battlefield, tap enchanted permanent.
+Enchanted permanent doesn’t untap during its controller’s untap step.</text>
+</card>
+<card>
+ <name>CU12 Unplanned Spacewalk</name>
+ <set picURL="/CU12 Unplanned Spacewalk.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target non-Vehicle creature to its owner’s hand. Up to one target Vehicle becomes a noncreature artifact and can’t be crewed this turn.</text>
+</card>
+<card>
+ <name>CU13 Bewildering Technobabble</name>
+ <set picURL="/CU13 Bewildering Technobabble.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -4/-0 until end of turn.
+If you’ve cast another spell this turn, draw a card.</text>
+</card>
+<card>
+ <name>CU14 The Scientific Process</name>
+ <set picURL="/CU14 The Scientific Process.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card, then discard a card, then draw a card, then discard a card, then draw a card.</text>
+</card>
+<card>
+ <name>CU15 Ikthian Ward</name>
+ <set picURL="/CU15 Ikthian Ward.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. Each player mills two cards.</text>
+</card>
+<card>
+ <name>CU16 Misplaced Decimal</name>
+ <set picURL="/CU16 Misplaced Decimal.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 1.
+Untap target land.</text>
+</card>
+<card>
+ <name>CU17 More Research Needed</name>
+ <set picURL="/CU17 More Research Needed.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards. If you’ve cast another spell this turn, draw three cards instead.</text>
+</card>
+<card>
+ <name>CU18 Crippling Chill</name>
+ <set picURL="/CU18 Crippling Chill.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap target creature. It doesn’t untap during its controller’s next untap step.
+Draw a card.</text>
+</card>
+<card>
+ <name>MU01 Time Machine</name>
+ <set picURL="/MU01 Time Machine.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>6UU</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Whenever MU01 Time Machine attacks, restart the game, leaving another target creature you control on the battlefield.
+Crew 3</text>
+</card>
+<card>
+ <name>MU02 The Answer</name>
+ <set picURL="/MU02 The Answer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>6UUU</manacost>
+ <type>Legendary Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>RU01 Student of the Precursors</name>
+ <set picURL="/RU01 Student of the Precursors.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When RU01 Student of the Precursors enters the battlefield, conjure a card named Caged Sun, Precursor Archive, or Precursortech Guardian into your graveyard.</text>
+</card>
+<card>
+ <name>RU02 Qhavix Great Scientist</name>
+ <set picURL="/RU02 Qhavix Great Scientist.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Legendary Creature - Vedalken Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>WUBRG, T: Search your library for a nonlegendary Discovery card and put it onto the battlefield, then shuffle your library. This ability costs W less to activate if you control a white Discovery, U less if you control a blue Discovery, and so on.</text>
+</card>
+<card>
+ <name>RU03 Insatiable Explorer</name>
+ <set picURL="/RU03 Insatiable Explorer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Cat Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When RU03 Insatiable Explorer enters the battlefield, it explores.
+Whenever you reveal a Planet card while a permanent you control is exploring, that permanent explores again.</text>
+</card>
+<card>
+ <name>RU04 Von Neumann Machine</name>
+ <set picURL="/RU04 Von Neumann Machine.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>6UU</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+At the beginning of your end step, conjure a card named RU04 Von Neumann Machine onto the battlefield.</text>
+</card>
+<card>
+ <name>RU05 Endless Voyager</name>
+ <set picURL="/RU05 Endless Voyager.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+Whenever RU05 Endless Voyager becomes a creature, it explores. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)
+Crew 2</text>
+</card>
+<card>
+ <name>RU06 Nebula Kraken</name>
+ <set picURL="/RU06 Nebula Kraken.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Instant or sorcery spells you cast cost 1 less to cast.
+3UU: Nebula Kraken becomes an X/X Spirit Kraken creature with trample until end of turn, where X is the number of instant and sorcery cards in your graveyard. It’s still an enchantment.</text>
+</card>
+<card>
+ <name>RU07 Gravity Manipulation</name>
+ <set picURL="/RU07 Gravity Manipulation.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>RU08 Psychohistory</name>
+ <set picURL="/RU08 Psychohistory.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>RU09 Cloning</name>
+ <set picURL="/RU09 Cloning.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>RU10 Forbidden Knowledge</name>
+ <set picURL="/RU10 Forbidden Knowledge.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>XUU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Mill X cards, then draw X cards, then mill X cards again.</text>
+</card>
+<card>
+ <name>UU01 Mad Scientist</name>
+ <set picURL="/UU01 Mad Scientist.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Creature - Human Wizard Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When UU01 Mad Scientist enters the battlefield, draw a card, then discard a card.
+Whenever you discard a card, exile it from your graveyard.
+You may cast cards exiled with UU01 Mad Scientist.</text>
+</card>
+<card>
+ <name>UU02 Umarian Leviathan</name>
+ <set picURL="/UU02 Umarian Leviathan.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Creature - Leviathan </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+If UU02 Umarian Leviathan would be put into your graveyard from your library, put it into your hand instead.</text>
+</card>
+<card>
+ <name>UU03 Merchant Ship</name>
+ <set picURL="/UU03 Merchant Ship.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+U, T: Draw a card, then discard a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>UU04 Nothing But Sky</name>
+ <set picURL="/UU04 Nothing But Sky.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Creatures without flying get -3/-0 until end of turn.
+Draw a card.</text>
+</card>
+<card>
+ <name>UU05 Mind-Machine Interface</name>
+ <set picURL="/UU05 Mind-Machine Interface.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>UU06 Weaponized Hologram</name>
+ <set picURL="/UU06 Weaponized Hologram.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Illusion </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When UU06 Weaponized Hologram enters the battlefield, you may change the target of target spell with a single target to UU06 Weaponized Hologram. (If possible.)</text>
+</card>
+<card>
+ <name>UU07 Astrogeography</name>
+ <set picURL="/UU07 Astrogeography.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>UU08 Nebula Fish</name>
+ <set picURL="/UU08 Nebula Fish.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, mill two cards.
+As long as there are seven or more cards in your graveyard, UU08 Nebula Fish is a 4/4 Spirit Fish creature with flying. It’s still an enchantment.</text>
+</card>
+<card>
+ <name>UU09 Contemplate Beauty</name>
+ <set picURL="/UU09 Contemplate Beauty.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card, then reveal a card from your hand. Conjure a duplicate of that card into your hand.</text>
+</card>
+<card>
+ <name>UU10 Xenoarchaeology</name>
+ <set picURL="/UU10 Xenoarchaeology.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>UU11 Precursor Archive</name>
+ <set picURL="/UU11 Precursor Archive.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When UU11 Precursor Archive enters the battlefield, exile the top seven cards of your library.
+Whenever you draw a card, put a card exiled with UU11 Precursor Archive into your hand.</text>
+</card>
+<card>
+ <name>CB01 Devourer Bug</name>
+ <set picURL="/CB01 Devourer Bug.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Insect </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When CB01 Devourer Bug enters the battlefield, each opponent loses 1 life and you gain 1 life.</text>
+</card>
+<card>
+ <name>CB02 Space Pirate</name>
+ <set picURL="/CB02 Space Pirate.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Human Pirate </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control a Vehicle, CB02 Space Pirate gets +1/+0 and has menace.</text>
+</card>
+<card>
+ <name>CB03 Toxic Bug</name>
+ <set picURL="/CB03 Toxic Bug.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Insect </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever you cast an Insect spell, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>CB04 Nantuko Outcast</name>
+ <set picURL="/CB04 Nantuko Outcast.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Insect Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control no other creatures, CB04 Nantuko Outcast gets +0/+2 and has lifelink.</text>
+</card>
+<card>
+ <name>CB05 Ikthian Missionary</name>
+ <set picURL="/CB05 Ikthian Missionary.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Azra Warlock Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When CB05 Ikthian Missionary enters the battlefield, it explores. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)</text>
+</card>
+<card>
+ <name>CB06 Anti-Deathist</name>
+ <set picURL="/CB06 Anti-Deathist.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Artifact Creature - Cyborg </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Exile CB06 Anti-Deathist from your graveyard: Conjure a card named Empty Shell into your hand. (2, 2/2 Human Zombie.)</text>
+</card>
+<card>
+ <name>CB07 Chitin Collector</name>
+ <set picURL="/CB07 Chitin Collector.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Creature - Insect Carrier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When CB07 Chitin Collector enters the battlefield, conjure a card named Devourer Bug into your graveyard. When you do, return target non-Carrier Insect card from your graveyard to your hand. (B, 1/1 Insect, each opponent loses 1 life when it enters.)</text>
+</card>
+<card>
+ <name>CB08 Starscourge Corsairs</name>
+ <set picURL="/CB08 Starscourge Corsairs.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Kor Zombie Pirate </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+CB08 Starscourge Corsairs gets +1/+1 as long as there is a Planet card in your graveyard.</text>
+</card>
+<card>
+ <name>CB09 Deathworld Denizen</name>
+ <set picURL="/CB09 Deathworld Denizen.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Artifact Creature - Cyborg Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you mill one or more cards, put a +1/+1 counter on CB09 Deathworld Denizen.</text>
+</card>
+<card>
+ <name>CB10 Orvian Troops</name>
+ <set picURL="/CB10 Orvian Troops.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>The first time CB10 Orvian Troops crews a Vehicle each turn, untap CB10 Orvian Troops.</text>
+</card>
+<card>
+ <name>CB11 Pirate Spaceship</name>
+ <set picURL="/CB11 Pirate Spaceship.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying, lifelink
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>CB12 Haunted Spaceship</name>
+ <set picURL="/CB12 Haunted Spaceship.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+3B: CB12 Haunted Spaceship becomes an artifact creature until end of turn.
+Crew 2</text>
+</card>
+<card>
+ <name>CB13 Nanobot Infestation</name>
+ <set picURL="/CB13 Nanobot Infestation.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature or Vehicle
+Enchanted permanent gets -3/-3 as long as it’s a creature.
+If CB13 Nanobot Infestation would be put into your graveyard from your library, put it into your hand instead.</text>
+</card>
+<card>
+ <name>CB14 Die Alone</name>
+ <set picURL="/CB14 Die Alone.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 4 less to cast if it targets the only creature on the battlefield.
+Destroy target creature.</text>
+</card>
+<card>
+ <name>CB15 Search the Ruins</name>
+ <set picURL="/CB15 Search the Ruins.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return up to two target creature cards from your graveyard to your hand.
+2, Discard CB15 Search the Ruins: Conjure a card named Dead World into your hand. (Planet, enters tapped, each player mills two, T: Add B.)</text>
+</card>
+<card>
+ <name>CB16 Cunning Maneuver</name>
+ <set picURL="/CB16 Cunning Maneuver.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+0 and gains indestructible until end of turn. If it’s a Vehicle, it also gains lifelink until end of turn.</text>
+</card>
+<card>
+ <name>CB17 Crushing Emptiness</name>
+ <set picURL="/CB17 Crushing Emptiness.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player discards two cards. If they can’t, they lose 3 life.</text>
+</card>
+<card>
+ <name>CB18 Cold Equations</name>
+ <set picURL="/CB18 Cold Equations.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards.
+Sacrifice a creature.</text>
+</card>
+<card>
+ <name>MB01 Planet Eater</name>
+ <set picURL="/MB01 Planet Eater.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>5BB</manacost>
+ <type>Creature - Dragon Horror </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, trample
+Sacrifice a Planet: MB01 Planet Eater gains indestructible until end of turn. Put a +1/+1 counter on it. You gain 1 life and draw a card.</text>
+</card>
+<card>
+ <name>MB02 Cosmic Tutor</name>
+ <set picURL="/MB02 Cosmic Tutor.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2BBB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose a card name. Conjure a card with that name into your hand.</text>
+</card>
+<card>
+ <name>RB01 Depopulation Bug</name>
+ <set picURL="/RB01 Depopulation Bug.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Creature - Insect Carrier </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When RB01 Depopulation Bug enters the battlefield, conjure a card named Devourer Bug into your hand for each Insect card in your graveyard. (B, 1/1 Insect, each opponent loses 1 life when it enters.)</text>
+</card>
+<card>
+ <name>RB02 Orvian Demon-Admiral</name>
+ <set picURL="/RB02 Orvian Demon-Admiral.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Creature - Demon Pilot Soldier </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink, menace
+You may pay X life to crew Vehicles with crew X.</text>
+</card>
+<card>
+ <name>RB03 Deep-Space Abomination</name>
+ <set picURL="/RB03 Deep-Space Abomination.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Horror </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying, menace
+You may cast RB03 Deep-Space Abomination from your graveyard as long as there are no creatures on the battlefield.</text>
+</card>
+<card>
+ <name>RB04 Brain Eater</name>
+ <set picURL="/RB04 Brain Eater.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Insect Horror </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>If RB04 Brain Eater would deal damage to a permanent, instead exile it and gain control of that permanent.
+If RB04 Brain Eater would deal damage to a player, instead exile it and you control that player during their next turn.</text>
+</card>
+<card>
+ <name>RB05 People of Valan</name>
+ <set picURL="/RB05 People of Valan.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>6BB</manacost>
+ <type>Creature - Kor Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+0: Exile target non-Zombie creature card in a graveyard. If you do, conjure a card named RB05 People of Valan onto the battlefield.</text>
+</card>
+<card>
+ <name>RB06 Survivors Despair</name>
+ <set picURL="/RB06 Survivors Despair.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent reveals their hand. You may exile a nonland card from it. If you do, that player conjures a card named Dead World into their hand. (Planet, enters tapped, each player mills two, T: Add B.)</text>
+</card>
+<card>
+ <name>RB07 You Will Be Assimilated</name>
+ <set picURL="/RB07 You Will Be Assimilated.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose a nonland card name. Search target player’s graveyard, hand, and library for any number of cards with that name and exile them. For each card exiled this way, that player conjures a card named Empty Shell into the zone that card was exiled from. Then they shuffle. (2, 2/2 Human Zombie.)</text>
+</card>
+<card>
+ <name>RB08 Nebula Demon</name>
+ <set picURL="/RB08 Nebula Demon.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, draw a card and lose 2 life.
+3BB: RB08 Nebula Demon becomes a 5/5 Spirit Demon creature with flying and lifelink until end of turn. It’s still an enchantment.</text>
+</card>
+<card>
+ <name>RB09 Neurosurgery</name>
+ <set picURL="/RB09 Neurosurgery.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>RB10 Airless Void</name>
+ <set picURL="/RB10 Airless Void.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each opponent’s upkeep, that player loses 2 life.
+Non-artifact creatures get -1/-1.</text>
+</card>
+<card>
+ <name>UB01 Tactical Bug</name>
+ <set picURL="/UB01 Tactical Bug.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Insect </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice an Insect: Target Insect gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>UB02 Ikthian Witch-Cultist</name>
+ <set picURL="/UB02 Ikthian Witch-Cultist.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Azra Warlock </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Mill a card. Then if you have seven or more cards in your graveyard, exile UB02 Ikthian Witch-Cultist and create a 4/4 black Horror creature token with flying.</text>
+</card>
+<card>
+ <name>UB03 Tradeworld Hustler</name>
+ <set picURL="/UB03 Tradeworld Hustler.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Human Advisor Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever UB03 Tradeworld Hustler becomes tapped, draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>UB04 Spaceship Invader</name>
+ <set picURL="/UB04 Spaceship Invader.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Creature - Horror </type>
+ <pt>4/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+When Spaceship Invader enters the battlefield, destroy target creature you don’t control with mana value 3 or less.</text>
+</card>
+<card>
+ <name>UB05 Void Dweller</name>
+ <set picURL="/UB05 Void Dweller.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Illusion Horror </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+UB05 Void Dweller gets -1/-1 for each other creature on the battlefield.</text>
+</card>
+<card>
+ <name>UB06 City-Killer</name>
+ <set picURL="/UB06 City-Killer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+Whenever UB06 City-Killer deals damage to a player, that player discards a card.
+Crew 2</text>
+</card>
+<card>
+ <name>UB07 Moral Quandary</name>
+ <set picURL="/UB07 Moral Quandary.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature unless its controller sacrifices three other creatures.</text>
+</card>
+<card>
+ <name>UB08 Outcasts Wisdom</name>
+ <set picURL="/UB08 Outcasts Wisdom.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw three cards.
+Each creature deals 1 damage to you.</text>
+</card>
+<card>
+ <name>UB09 Salvage Wreckage</name>
+ <set picURL="/UB09 Salvage Wreckage.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature or Vehicle card from your graveyard to the battlefield tapped.</text>
+</card>
+<card>
+ <name>UB10 The Power of Money</name>
+ <set picURL="/UB10 The Power of Money.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent discards a card for each artifact you control. If less than that many cards were discarded this way, draw cards equal to the difference.</text>
+</card>
+<card>
+ <name>UB11 Devoured by the Hive</name>
+ <set picURL="/UB11 Devoured by the Hive.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Conjure X cards named Devourer Bug into your hand, where X is that creature’s toughness. (B, 1/1 Insect, each opponent loses 1 life when it enters.)</text>
+</card>
+<card>
+ <name>CR01 Little Green Man</name>
+ <set picURL="/CR01 Little Green Man.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Goblin Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever CR01 Little Green Man attacks, you may have it explore. If you do, sacrifice it at end of combat. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)</text>
+</card>
+<card>
+ <name>CR02 Techno-Shaman</name>
+ <set picURL="/CR02 Techno-Shaman.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Artifact Creature - Cyborg Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control an enchantment, CR02 Techno-Shaman gets +1/+1 and has haste.</text>
+</card>
+<card>
+ <name>CR03 Yjinjian Servitor</name>
+ <set picURL="/CR03 Yjinjian Servitor.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>2R, Discard a card: Draw a card.</text>
+</card>
+<card>
+ <name>CR04 Stonebeast of Juko</name>
+ <set picURL="/CR04 Stonebeast of Juko.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Beast </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike, menace</text>
+</card>
+<card>
+ <name>CR05 Prince of the Star Empire</name>
+ <set picURL="/CR05 Prince of the Star Empire.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Noble </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell that targets CR05 Prince of the Star Empire, put a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>CR06 Diacron Crystalform</name>
+ <set picURL="/CR06 Diacron Crystalform.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Elemental </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Diacron Crystalform enters the battlefield, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)</text>
+</card>
+<card>
+ <name>CR07 Terran Pyromancer</name>
+ <set picURL="/CR07 Terran Pyromancer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When CR07 Terran Pyromancer enters the battlefield, conjure a card named Open Fire into your hand. (2R, Instant, deals 3 damage to any target.)</text>
+</card>
+<card>
+ <name>CR08 Giramar Glowbeast</name>
+ <set picURL="/CR08 Giramar Glowbeast.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Beast </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+CR08 Giramar Glowbeast gets +1/+0 for each enchantment you control.</text>
+</card>
+<card>
+ <name>CR09 Ferocious Xemre</name>
+ <set picURL="/CR09 Ferocious Xemre.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Creature - Beast </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When CR09 Ferocious Xemre enters the battlefield, it gets +1/+0 and gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>CR10 Stardweller</name>
+ <set picURL="/CR10 Stardweller.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Creature - Elemental Giant </type>
+ <pt>6/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When CR10 Stardweller enters the battlefield, if you control a Planet, it deals 3 damage to each opponent. If you control three or more Planets, it deals 6 damage instead.</text>
+</card>
+<card>
+ <name>CR11 Imminent Death</name>
+ <set picURL="/CR11 Imminent Death.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature or planeswalker
+At the beginning of your upkeep, CR11 Imminent Death deals 5 damage to enchanted permanent.</text>
+</card>
+<card>
+ <name>CR12 Go Berserk</name>
+ <set picURL="/CR12 Go Berserk.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+When CR12 Go Berserk enters the battlefield, enchanted creature gets +3/+3 and gains trample until end of turn.
+Enchanted creature attacks each combat if able.</text>
+</card>
+<card>
+ <name>CR13 Absolute Terror</name>
+ <set picURL="/CR13 Absolute Terror.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When CR13 Absolute Terror enters the battlefield, draw a card.
+Enchanted creature can’t block.</text>
+</card>
+<card>
+ <name>CR14 A Hero on Another Planet</name>
+ <set picURL="/CR14 A Hero on Another Planet.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+1, has menace, and is legendary.</text>
+</card>
+<card>
+ <name>CR15 Shoot First</name>
+ <set picURL="/CR15 Shoot First.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +3/+0 and gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>CR16 Meteor Strike</name>
+ <set picURL="/CR16 Meteor Strike.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or land.
+2, Discard CR16 Meteor Strike: Conjure a card named Newborn World into your hand. (Planet, enters tapped, deals 2 damage to each player, T: Add R.)</text>
+</card>
+<card>
+ <name>CR17 A Wonderful Sight</name>
+ <set picURL="/CR17 A Wonderful Sight.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast CR17 A Wonderful Sight, discard a card.
+Draw two cards.</text>
+</card>
+<card>
+ <name>CR18 Open Fire</name>
+ <set picURL="/CR18 Open Fire.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>CR18 Open Fire deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>MR01 Pyromancers Arsenal</name>
+ <set picURL="/MR01 Pyromancers Arsenal.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Conjure cards named Blaze, Flame Slash, Pyroclasm, Open Fire, and Cone of Flame into your hand.</text>
+</card>
+<card>
+ <name>MR02 Nebula Titan</name>
+ <set picURL="/MR02 Nebula Titan.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Enchantmnt</type>
+ <tablerow>1</tablerow>
+ <text>Whenever MR02 Nebula Titan enters the battlefield or attacks, exile the top three cards of your library. You may cast an enchantment card from among them without paying its mana cost.
+As long as you control three or more enchantments, MR02 Nebula Titan is a 6/6 Spirit Giant creature. It’s still an enchantment.</text>
+</card>
+<card>
+ <name>RR01 Zap Wilson Space Jockey</name>
+ <set picURL="/RR01 Zap Wilson Space Jockey.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Legendary Creature - Human Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Whenever RR01 Zap Wilson attacks or blocks, conjure a card named Open Fire into exile. You may cast that card until end of combat. (2R, Instant, deals 3 damage to any target.)</text>
+</card>
+<card>
+ <name>RR02 Meteor Elemental</name>
+ <set picURL="/RR02 Meteor Elemental.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Elemental </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When RR02 Meteor Elemental enters the battlefield, it gets +4/+0 and gains flying, trample, and haste until your next end step.</text>
+</card>
+<card>
+ <name>RR03 Unstable Prototype</name>
+ <set picURL="/RR03 Unstable Prototype.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste
+RR03 Unstable Prototype enters the battlefield with four +1/+1 counters on it.
+At the beginning of your end step, remove two counters from among permanents your control.</text>
+</card>
+<card>
+ <name>RR04 Augmented Asura</name>
+ <set picURL="/RR04 Augmented Asura.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Artifact Creature - Cyborg Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+Whenever RR04 Augmented Asura deals combat damage to a permanent or player, it deals that much damage to that permanent or player.</text>
+</card>
+<card>
+ <name>RR05 Fearsome Carnosaur</name>
+ <set picURL="/RR05 Fearsome Carnosaur.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+When RR05 Fearsome Carnosaur enters the battlefield, you may conjure a card named Absolute Terror onto the battlefield attached to target creature. (1R, draw when it enters, enchanted creature can’t block.)</text>
+</card>
+<card>
+ <name>RR06 Star Wyrm</name>
+ <set picURL="/RR06 Star Wyrm.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Creature - Dragon </type>
+ <pt>6/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+Whenever you cast another spell during combat, RR06 Star Wyrm deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>RR07 Nebula Dragon</name>
+ <set picURL="/RR07 Nebula Dragon.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>R: Target creature gets +1/+0 until end of turn.
+R: Nebula Dragon becomes a 0/4 Spirit Dragon creature with flying until end of turn. It’s still an enchantment.</text>
+</card>
+<card>
+ <name>RR08 Reckless Voyage</name>
+ <set picURL="/RR08 Reckless Voyage.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Each attacking creature explores. (For each of them, reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then you may mill that card.)</text>
+</card>
+<card>
+ <name>RR09 Antimatter</name>
+ <set picURL="/RR09 Antimatter.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>RR10 Orbital Bombardment</name>
+ <set picURL="/RR10 Orbital Bombardment.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>XXRR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>When you cast this spell, copy it X times. You may choose new targets for the copies.
+RR10 Orbital Bombardment deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>UR01 Galactic Tourists</name>
+ <set picURL="/UR01 Galactic Tourists.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Planet enters the battlefield under your control, exile the top card of your library. You may play that card this turn. (If the Planet has an ability that triggers when it enters the battlefield, you choose the order.)</text>
+</card>
+<card>
+ <name>UR02 Princess of Giramar</name>
+ <set picURL="/UR02 Princess of Giramar.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Elf Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When UR02 Princess of Giramar enters the battlefield, you may conjure a card named A Hero on Another Planet onto the battlefield attached to another target creature. (1R, Enchanted creature gets +2/+1, has menace, and is legendary.)</text>
+</card>
+<card>
+ <name>UR03 Living Storm</name>
+ <set picURL="/UR03 Living Storm.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Creature - Elemental </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Living Storm enters the battlefield, it deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>UR04 Giramar Magemark</name>
+ <set picURL="/UR04 Giramar Magemark.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Creatures you control that are enchanted get +1/+0 and have first strike.</text>
+</card>
+<card>
+ <name>UR05 Free-Willed AI</name>
+ <set picURL="/UR05 Free-Willed AI.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>UR06 Bazaar of the Bizarre</name>
+ <set picURL="/UR06 Bazaar of the Bizarre.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your precombat main phase, you may discard a card. If you do, draw a card. Whenever you discard an enchantment card this way, create a Treasure token.</text>
+</card>
+<card>
+ <name>UR07 Railgun Battery</name>
+ <set picURL="/UR07 Railgun Battery.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: UR07 Railgun Battery deals 1 damage to target player or planeswalker.
+T: Add RRR. Spend this mana only to cast spells named Open Fire.</text>
+</card>
+<card>
+ <name>UR08 Crowning Moment</name>
+ <set picURL="/UR08 Crowning Moment.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Conjure a card named A Hero on Another Planet onto the battlefield attached to target creature you control. When you do, that creature fights target creature an opponent controls. (1R, Enchanted creature gets +2/+1, has menace, and is legendary.)</text>
+</card>
+<card>
+ <name>UR09 Radiation</name>
+ <set picURL="/UR09 Radiation.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the end of each opponent’s turn, UR09 Radiation deals 1 damage to them.
+Whenever a creature attacks you, UR09 Radiation deals 1 damage to it.</text>
+</card>
+<card>
+ <name>UR10 Think for Yourself</name>
+ <set picURL="/UR10 Think for Yourself.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn. If it’s a Vehicle, it becomes an artifact creature until end of turn.</text>
+</card>
+<card>
+ <name>UR11 Photonic Weaponry</name>
+ <set picURL="/UR11 Photonic Weaponry.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>CG01 Soldier Bug</name>
+ <set picURL="/CG01 Soldier Bug.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Insect </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>CG02 Elven Manaweaver</name>
+ <set picURL="/CG02 Elven Manaweaver.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Elf Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Untap target Planet.</text>
+</card>
+<card>
+ <name>CG03 Warbug</name>
+ <set picURL="/CG03 Warbug.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Insect </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an Insect spell, CG03 Warbug gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>CG04 Preyfinder Bug</name>
+ <set picURL="/CG04 Preyfinder Bug.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Insect </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When CG04 Preyfinder Bug enters the battlefield, it explores. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)</text>
+</card>
+<card>
+ <name>CG05 Vanguard Bugs</name>
+ <set picURL="/CG05 Vanguard Bugs.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Insect </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When CG05 Vanguard Bugs enters the battlefield, conjure a card named Soldier Bug into your hand. (G, 2/1 Insect.)</text>
+</card>
+<card>
+ <name>CG06 Viashino Pioneer</name>
+ <set picURL="/CG06 Viashino Pioneer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Viashino Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Planet enters the battlefield under your control, CG06 Viashino Pioneer explores. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)</text>
+</card>
+<card>
+ <name>CG07 Emperors Vanguard</name>
+ <set picURL="/CG07 Emperors Vanguard.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Emperor’s Vanguard deals combat damage to a player, it explores. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)</text>
+</card>
+<card>
+ <name>CG08 Worldweb Weaver</name>
+ <set picURL="/CG08 Worldweb Weaver.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Insect Spider </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+4G: CG08 Worldweb Weaver gets +3/+3 until end of turn.</text>
+</card>
+<card>
+ <name>CG09 Type 42 Megafauna</name>
+ <set picURL="/CG09 Type 42 Megafauna.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Creature - Lizard </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control an Aura, CG09 Type 42 Megafauna has vigilance.</text>
+</card>
+<card>
+ <name>CG10 Orbit-Maw Wurm</name>
+ <set picURL="/CG10 Orbit-Maw Wurm.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <type>Creature - Wurm </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>Reach</text>
+</card>
+<card>
+ <name>CG11 Globestrider</name>
+ <set picURL="/CG11 Globestrider.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>6GG</manacost>
+ <type>Creature - Neverfolk </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast for each enchantment you control.
+Trample</text>
+</card>
+<card>
+ <name>CG12 Bizarre Transformation</name>
+ <set picURL="/CG12 Bizarre Transformation.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+Enchanted creature gets +2/+2 and is an enchantment and a Mutant in addition to its other types.</text>
+</card>
+<card>
+ <name>CG13 Gift of Paradise</name>
+ <set picURL="/CG13 Gift of Paradise.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+When CG13 Gift of Paradise enters the battlefield, you gain 3 life.
+Enchanted land has “T: Add two mana of any one color.”</text>
+</card>
+<card>
+ <name>CG14 First Contact</name>
+ <set picURL="/CG14 First Contact.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Reveal the top four cards of your library. You may put a permanent card from among them that doesn’t share a name with a permanent you control or a card in your graveyard into your hand. Put the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>CG15 Crash Landing</name>
+ <set picURL="/CG15 Crash Landing.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature with flying or target Vehicle.</text>
+</card>
+<card>
+ <name>CG16 We Come in Peace</name>
+ <set picURL="/CG16 We Come in Peace.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Prevent all damage that would be dealt this turn.
+2, Discard CG16 We Come in Peace: Conjure a card named Jungle World into your hand. (Planet, enters tapped, each player creates a 1/1 Insect, T: Add G.)</text>
+</card>
+<card>
+ <name>CG17 Close Encounter</name>
+ <set picURL="/CG17 Close Encounter.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control explores. When it does, you may have it fight another target creature. (To explore, reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then you may mill that card.)</text>
+</card>
+<card>
+ <name>CG18 Quiet Disrepair</name>
+ <set picURL="/CG18 Quiet Disrepair.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant artifact or enchantment
+At the beginning of your upkeep, choose one —
+• Destroy enchanted permanent
+• You gain 2 life.</text>
+</card>
+<card>
+ <name>MG01 Grey Goo</name>
+ <set picURL="/MG01 Grey Goo.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Artifact Creature - Ooze </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever MG01 Grey Goo attacks, choose one —
+• Destroy target artifact or enchantment. Create a token that’s a copy of MG01 Grey Goo.
+• Exile two cards from a single graveyard. Create two tokens that are copies of MG01 Grey Goo.</text>
+</card>
+<card>
+ <name>MG02 One Mind Countless Bodies</name>
+ <set picURL="/MG02 One Mind Countless Bodies.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When MG02 One Mind, Countless Bodies enters the battlefield, conjure 100 cards named Soldier Bug into your library, then shuffle.
+Whenever you cast an Insect spell, draw a card.</text>
+</card>
+<card>
+ <name>RG01 Iri Hero of Two Constellations</name>
+ <set picURL="/RG01 Iri Hero of Two Constellations.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Legendary Creature - Human Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever an enchantment enters the battlefield under your control, RG01 Iri gets +3/+3 until end of turn.</text>
+</card>
+<card>
+ <name>RG02 Pheromone Bug</name>
+ <set picURL="/RG02 Pheromone Bug.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <type>Creature - Insect </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Other Insects you control get +1/+1, have vigilance, attack each combat if able, and block each combat if able.</text>
+</card>
+<card>
+ <name>RG03 Fearless Xenobiologist</name>
+ <set picURL="/RG03 Fearless Xenobiologist.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When RG03 Fearless Xenobiologist enters the battlefield, it explores.
+Whenever you reveal a creature card while a permanent you control is exploring, you may sacrifice that permanent and put that creature card onto the battlefield.</text>
+</card>
+<card>
+ <name>RG04 Arcadian Behemoth</name>
+ <set picURL="/RG04 Arcadian Behemoth.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>4GGG</manacost>
+ <type>Creature - Beast </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>When RG04 Arcadian Behemoth enters the battlefield, draw a card and gain 2 life for each enchanted permanent you control.</text>
+</card>
+<card>
+ <name>RG05 Hydragian Cosmonaut</name>
+ <set picURL="/RG05 Hydragian Cosmonaut.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>XGG</manacost>
+ <type>Creature - Hydra Scout </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When RG05 Hydragian Cosmonaut enters the battlefield, it explores X times. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card. Do this X times.)</text>
+</card>
+<card>
+ <name>RG06 Conquest of the Hive</name>
+ <set picURL="/RG06 Conquest of the Hive.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant Planet
+Enchanted land has “T: Conjure a card named Soldier Bug or RG06 Conquest of the Hive into your hand.” (Soldier Bug is G for a 2/1 Insect.)</text>
+</card>
+<card>
+ <name>RG07 Nebula Hydra</name>
+ <set picURL="/RG07 Nebula Hydra.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your precombat main phase, add G.
+XG: RG07 Nebula Hydra becomes an X/X Spirit Hydra creature with trample until end of turn. It’s still an enchantment.</text>
+</card>
+<card>
+ <name>RG08 Terraforming</name>
+ <set picURL="/RG08 Terraforming.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>RG09 Moon Colony</name>
+ <set picURL="/RG09 Moon Colony.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+When RG09 Moon Colony enters the battlefield, conjure a card named Colony World onto the battlefield tapped.
+Whenever enchanted land becomes tapped, untap another target land you control named Colony World.</text>
+</card>
+<card>
+ <name>RG10 Living Planet</name>
+ <set picURL="/RG10 Living Planet.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>4GGG</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+Enchanted land is a 12/12 Elemental creature with trample and haste. It’s still a land.
+When enchanted land dies, return that card to the battlefield.</text>
+</card>
+<card>
+ <name>UG01 Wide-Eyed Explorer</name>
+ <set picURL="/UG01 Wide-Eyed Explorer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a permanent you control explores, put a +1/+1 counter on UG01 Wide-Eyed Explorer, then you may put a land card from your hand onto the battlefield.</text>
+</card>
+<card>
+ <name>UG02 Humble Farmer</name>
+ <set picURL="/UG02 Humble Farmer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Human Peasant </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Untap target land.
+T: Untap each enchanted land you control.</text>
+</card>
+<card>
+ <name>UG03 Leonin Cosmonaut</name>
+ <set picURL="/UG03 Leonin Cosmonaut.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Cat Scout </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>3G: UG03 Leonin Cosmonaut explores. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may mill that card.)</text>
+</card>
+<card>
+ <name>UG04 Stone-Age Tribe</name>
+ <set picURL="/UG04 Stone-Age Tribe.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat on your turn, target creature gets +1/+1 for each enchantment you control until end of turn.</text>
+</card>
+<card>
+ <name>UG05 Hive Queen</name>
+ <set picURL="/UG05 Hive Queen.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <type>Creature - Insect </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, conjure a card named Soldier Bug into your hand. (G, 2/1 Insect.)</text>
+</card>
+<card>
+ <name>UG06 Star Turtle</name>
+ <set picURL="/UG06 Star Turtle.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Turtle </type>
+ <pt>2/7</pt>
+ <tablerow>2</tablerow>
+ <text>Defender, flying
+When UG06 Star Turtle enters the battlefield, search your library for a Planet card and put it onto the battlefield tapped, then shuffle your library.</text>
+</card>
+<card>
+ <name>UG07 Uberbug</name>
+ <set picURL="/UG07 Uberbug.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Insect </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste
+When UG07 Uberbug enters the battlefield, reveal your hand. Then put a +1/+1 counter on UG07 Uberbug for each other Insect you control and each Insect card in your hand.</text>
+</card>
+<card>
+ <name>UG08 Enter the Unknown</name>
+ <set picURL="/UG08 Enter the Unknown.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control explores. (Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then you may mill that card.)
+You may play an additional land this turn.</text>
+</card>
+<card>
+ <name>UG09 The Final Frontier</name>
+ <set picURL="/UG09 The Final Frontier.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Conjure two cards named Unexplored Planet into your hand. (Planet, tap and sacrifice it to conjure a tapped basic land.)</text>
+</card>
+<card>
+ <name>UG10 Natural Resources</name>
+ <set picURL="/UG10 Natural Resources.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+When UG10 Natural Resources enters the battlefield, draw a card.
+Enchanted land has “T: Create a Treasure token.”</text>
+</card>
+<card>
+ <name>UG11 Genetic Engineering</name>
+ <set picURL="/UG11 Genetic Engineering.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Enchantment - Discovery </type>
+ <tablerow>1</tablerow>
+ <text>(As this enters and after your draw step, add a progress counter. Stop after you’ve discovered.</text>
+</card>
+<card>
+ <name>MX01 The Fleetmind</name>
+ <set picURL="/MX01 The Fleetmind.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>3RWB</manacost>
+ <type>Legendary Artifact Creature - Vehicle </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, lifelink, vigilance, menace
+Other Vehicles you control are artifact creatures.</text>
+</card>
+<card>
+ <name>MX02 ♅⌘ Fearless Pioneer</name>
+ <set picURL="/MX02 ♅⌘ Fearless Pioneer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>BGU</manacost>
+ <type>Legendary Creature - Horror Scout </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink, trample, ward 3
+Whenever another creature you control explores, ♅⌘ explores.</text>
+</card>
+<card>
+ <name>MX03 Goldfang Rogue Trader</name>
+ <set picURL="/MX03 Goldfang Rogue Trader.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>1BR</manacost>
+ <type>Legendary Planeswalker - Goldfang </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>+1: Create a tapped Treasure token.
++1: d
++1: Create one hundred Treasure tokens.-6: </text>
+</card>
+<card>
+ <name>MX04 Janjahar Swarmlord</name>
+ <set picURL="/MX04 Janjahar Swarmlord.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>2BG</manacost>
+ <type>Legendary Planeswalker - Janjahar </type>
+ <loyalty>2</loyalty>
+ <tablerow>1</tablerow>
+ <text>+5: Make a card named Soldier Bug or Devourer Bug and put it into your hand.
++1: Sacrifice any number of creatures. Put three loyalty counters on MX04 Janjahar, Swarmlord for each creature sacrificed this way.
++1: Destroy target nonland permanent. It deals damage to MX04 Janjahar, Swarmlord equal to its power if it’s a creature, and equal to its mana value if it’s neither.</text>
+</card>
+<card>
+ <name>MX05 Ulat the Collector</name>
+ <set picURL="/MX05 Ulat the Collector.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>3WU</manacost>
+ <type>Legendary Planeswalker - Ulat </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>Tap target permanent. It doesn’t untap during its controller’s next untap phase.
++2: Exile target nonland permanent until MX05 Ulat, the Collector leaves the battlefield.
+-3: You get an emblem with “Permanents can’t untap.”-X: </text>
+</card>
+<card>
+ <name>MX07 Worldmaker</name>
+ <set picURL="/MX07 Worldmaker.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>WUBRG</manacost>
+ <type>Legendary Creature - God </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible
+Worldmaker can’t attack or block unless there are five or more Planets among lands you control and cards in your graveyard.
+Whenever an ability of a Planet causes you to conjure a nonland card, you may cast that card without paying its mana cost.</text>
+</card>
+<card>
+ <name>RX01 Mass-Produce</name>
+ <set picURL="/RX01 Mass-Produce.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>4WU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose target artifact card on the battlefield or in a graveyard. Conjure two duplicates of that card onto the battlefield.</text>
+</card>
+<card>
+ <name>RX02 Eldritch Dreams</name>
+ <set picURL="/RX02 Eldritch Dreams.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>2UB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose two —
+• Put target creature on top of its owner’s library.
+• Draw three cards, then put two cards from your hand on top of your library.
+• Each player mills five cards.</text>
+</card>
+<card>
+ <name>RX03 Unthinkable Strategem</name>
+ <set picURL="/RX03 Unthinkable Strategem.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>1BR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a Planet or pay 3.
+Destroy all creatures.</text>
+</card>
+<card>
+ <name>RX04 Spontaneous Wormhole</name>
+ <set picURL="/RX04 Spontaneous Wormhole.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>XRG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a green or red creature card with mana value X or less, put it onto the battlefield, then shuffle. Conjure a card named A Hero on Another Planet onto the battlefield attached to that creature.</text>
+</card>
+<card>
+ <name>RX05 Prison Planet</name>
+ <set picURL="/RX05 Prison Planet.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>2GW</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant permanent
+You can’t choose a land as this spell’s target as you cast it.
+You control enchanted permanent.
+Enchanted permanent is a colorless Planet land with “T: Add C” and loses all other card types and abilities.</text>
+</card>
+<card>
+ <name>RX06 Zrilax the Last Sane Kor</name>
+ <set picURL="/RX06 Zrilax the Last Sane Kor.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>WB</manacost>
+ <type>Legendary Creature - Kor Zombie Pilot </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever RX06 Zrilax crews a Vehicle, that Vehicle gains deathtouch and indestructible until end of turn.</text>
+</card>
+<card>
+ <name>RX07 Nexus of the Hivemind</name>
+ <set picURL="/RX07 Nexus of the Hivemind.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>1BG</manacost>
+ <type>Legendary Creature - Elder Insect </type>
+ <pt>0/6</pt>
+ <tablerow>2</tablerow>
+ <text>Other Insects you control have deathtouch and haste.</text>
+</card>
+<card>
+ <name>RX08 Xenoflora Expert</name>
+ <set picURL="/RX08 Xenoflora Expert.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>1GU</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>You may play an additional land each turn.
+Whenever a player plays a land, that player draws a card.</text>
+</card>
+<card>
+ <name>RX09 Laboratory Accident</name>
+ <set picURL="/RX09 Laboratory Accident.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>XUR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter up to one target spell with mana value X or less.
+RX09 Laboratory Accident deals X damage to each player.
+Search your library for a Discovery card with mana value X or less and put it onto the battlefield. Then shuffle.</text>
+</card>
+<card>
+ <name>RX10 Star Emperor Zorvotz IV</name>
+ <set picURL="/RX10 Star Emperor Zorvotz IV.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>3RW</manacost>
+ <type>Legendary Creature - Human Noble </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever RX10 Star Emperor Zorvotz IV enters the battlefield during combat or attacks, exile the top two cards of your library. You may cast those cards as though they had flash until end of combat.</text>
+</card>
+<card>
+ <name>UX01 Legacy of the Precursors</name>
+ <set picURL="/UX01 Legacy of the Precursors.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>2WU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Return target artifact card from your graveyard to the battlefield.
+• Draw two cards, then discard any number of cards. You gain 3 life for each card discarded this way.</text>
+</card>
+<card>
+ <name>UX02 Incomprehensible Entity</name>
+ <set picURL="/UX02 Incomprehensible Entity.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>3UB</manacost>
+ <type>Creature - Horror </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+At the beginning of each player’s upkeep, that player mills three cards.
+At the beginning of your upkeep, if UX02 Incomprehensible Entity is in your graveyard, mill a card.</text>
+</card>
+<card>
+ <name>UX03 Gamma Ray Burst</name>
+ <set picURL="/UX03 Gamma Ray Burst.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>3BR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all noncreature Vehicles.
+UX03 Gamma Ray Burst deals 4 damage to each creature.</text>
+</card>
+<card>
+ <name>UX04 Stone-Age Enchantress</name>
+ <set picURL="/UX04 Stone-Age Enchantress.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>1RG</manacost>
+ <type>Creature - Elf Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an enchantment enters the battlefield under your control, you may discard a card. If you do, draw two cards.</text>
+</card>
+<card>
+ <name>UX05 Gleaming Cities</name>
+ <set picURL="/UX05 Gleaming Cities.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+Enchanted land has “T: Add CC.” and “T: Create a tapped 1/1 white Human creature token.”</text>
+</card>
+<card>
+ <name>UX06 Abduction Saucer</name>
+ <set picURL="/UX06 Abduction Saucer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>2WB</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+When UX06 Abduction Saucer enters the battlefield, exile target creature an opponent controls.
+Crew 2</text>
+</card>
+<card>
+ <name>UX07 Living Colony</name>
+ <set picURL="/UX07 Living Colony.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>6BG</manacost>
+ <type>Creature - Insect Carrier </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast for each Insect you control.
+Flying
+When UX07 Living Colony enters the battlefield, conjure two cards named Soldier Bug and two cards named Devourer Bug into your hand.</text>
+</card>
+<card>
+ <name>UX08 Astronomer</name>
+ <set picURL="/UX08 Astronomer.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>GU</manacost>
+ <type>Creature - Human Advisor </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>If a permanent you control would explore for the first time this turn, instead scry 2, then it explores.</text>
+</card>
+<card>
+ <name>UX09 For Science!</name>
+ <set picURL="/UX09 For Science!.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>1UR</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Flash
+You may cast Discovery spells as though they had flash.
+Spells you cast during your opponents’ turns cost 1 less to cast.</text>
+</card>
+<card>
+ <name>UX10 Valiant Spaceknight</name>
+ <set picURL="/UX10 Valiant Spaceknight.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>M</color>
+ <manacost>1RW</manacost>
+ <type>Creature - Human Knight </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>As long as UX10 Valiant Spaceknight is attacking or blocking, spells you cast cost 2 less to cast.</text>
+</card>
+<card>
+ <name>CA03 Sky Skiff</name>
+ <set picURL="/CA03 Sky Skiff.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact  - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+Crew 1</text>
+</card>
+<card>
+ <name>CA04 Colony Ship</name>
+ <set picURL="/CA04 Colony Ship.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+When CA04 Colony Ship enters the battlefield, conjure a card named Unexplored Planet into your hand. (Planet, tap and sacrifice to conjure a tapped basic land.)
+Crew 1</text>
+</card>
+<card>
+ <name>CA05 Photon Pistol</name>
+ <set picURL="/CA05 Photon Pistol.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +2/+0.
+Equip 2</text>
+</card>
+<card>
+ <name>CA06 Powered Exosuit</name>
+ <set picURL="/CA06 Powered Exosuit.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +2/+2 and has ward 2. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless they pay 2.)
+Equip 2</text>
+</card>
+<card>
+ <name>CA07 Junk Heap</name>
+ <set picURL="/CA07 Junk Heap.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When CA07 Junk Heap enters the battlefield, draw a card and lose 1 life.
+2, Sacrifice CA07 Junk Heap: Draw a card and lose 1 life.
+2, Exile CA07 Junk Heap from your graveyard: Draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>MA01 Possibility Titan</name>
+ <set picURL="/MA01 Possibility Titan.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>12</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Possibility Titan enters the battlefield or attacks, choose one —
+• Destroy target nonland permanent.
+• Draw two cards.
+• Create three 1/1 colorless Thopter artifact creature tokens with flying.</text>
+</card>
+<card>
+ <name>RA01 Varat Uploaded Mind</name>
+ <set picURL="/RA01 Varat Uploaded Mind.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Legendary Artifact Creature - Assembly-Worker </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When RA01 Varat, Uploaded Mind enters the battlefield, conjure a card named RA01 Varat, Uploaded Mind into your hand.</text>
+</card>
+<card>
+ <name>RA02 The Starcutter</name>
+ <set picURL="/RA02 The Starcutter.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Legendary Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>When RA02 The Starcutter enters the battlefield, it explores.
+Whenever a permanent you control explores, it gets +1/+1 and gains haste until end of turn.
+Crew 1</text>
+</card>
+<card>
+ <name>RA03 Caged Sun</name>
+ <set picURL="/RA03 Caged Sun.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>6</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Caged Sun enters the battlefield, choose a color.
+Creatures you control of the chosen color get +1/+1.
+Whenever a land’s ability causes you to add one or more mana of the chosen color, add one additional mana of that color.</text>
+</card>
+<card>
+ <name>UA01 Precursor Monolith</name>
+ <set picURL="/UA01 Precursor Monolith.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Wall </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible, hexproof, defender
+UA01 Precursor Monolith can’t be exiled.
+The toughness of UA01 Precursor Monolith can’t be reduced.</text>
+</card>
+<card>
+ <name>UA02 Automated Warbeetle</name>
+ <set picURL="/UA02 Automated Warbeetle.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Insect Construct </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>If you have an odd number of cards in hand, UA02 Automated Warbeetle attacks or blocks each combat if able.
+If you have an even number of cards in hand, UA02 Automated Warbeetle can’t attack or block.</text>
+</card>
+<card>
+ <name>UA04 Space Hulk</name>
+ <set picURL="/UA04 Space Hulk.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+Tap three untapped creatures you control: Return UA04 Space Hulk from your graveyard to your hand.
+Crew 3</text>
+</card>
+<card>
+ <name>UA05 Asteroid Miner</name>
+ <set picURL="/UA05 Asteroid Miner.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Artifact  - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying, vigilance, haste
+T: Add CC.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>UA06 Flagship</name>
+ <set picURL="/UA06 Flagship.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>6</manacost>
+ <type>Artifact  - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+When UA06 Flagship enters the battlefield, conjure two cards named Sky Skiff onto the battlefield. (2, 2/3, flying, crew 1.)
+Crew 3</text>
+</card>
+<card>
+ <name>UA07 Mass-Produced Weapons</name>
+ <set picURL="/UA07 Mass-Produced Weapons.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When you cast UA07 Mass-Produced Weapons, conjure three cards named UA07 Mass-Produced Weapons onto the battlefield.
+Equipped creature gets +1/+1.
+Equip 1</text>
+</card>
+<card>
+ <name>UA08 Cosmic Chart</name>
+ <set picURL="/UA08 Cosmic Chart.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color.
+5, T, Sacrifice Cosmic Chart: Search your library for a card, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>0010 Android Graveyard</name>
+ <set picURL="/0010 Android Graveyard.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>When Garbage Planet enters the battlefield, you may conjure a card named Junk Heap on top of your library.
+T: Add C.</text>
+</card>
+<card>
+ <name>Arcadia Solarpunk Paradise</name>
+ <set picURL="/Arcadia Solarpunk Paradise.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Agri-World enters the battlefield tapped. When it does, you may conjure a card named Humble Farmer or Bountiful Farms on top of your library.
+T: Add G or W.</text>
+</card>
+<card>
+ <name>Artificial Worldlet</name>
+ <set picURL="/Artificial Worldlet.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Pleasure Planet enters the battlefield tapped. When it does, you may conjure a card named Galactic Tourists or Blissful Vacation on top of your library.
+T: Add R or W.</text>
+</card>
+<card>
+ <name>Barbarian Warworld</name>
+ <set picURL="/Barbarian Warworld.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Primitive World enters the battlefield tapped. When it does, you may conjure a card named Giramar Magemark or Stone-Age Tribe on top of your library.
+T: Add R or G.</text>
+</card>
+<card>
+ <name>Blazing Worldlet</name>
+ <set picURL="/Blazing Worldlet.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Newborn World enters the battlefield tapped. When it does, it deals 2 damage to each player.
+T: Add R.</text>
+</card>
+<card>
+ <name>Brave New World</name>
+ <set picURL="/Brave New World.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Unexplored Planet: Conjure a card named Plains, Island, Swamp, Mountain, or Forest onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>CL01 Asteroid Field</name>
+ <set picURL="/CL01 Asteroid Field.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2, T, Sacrifice CL01 Asteroid Field: CL01 Asteroid Field deals 5 damage to target attacking Vehicle.</text>
+</card>
+<card>
+ <name>Clockwork Utopia</name>
+ <set picURL="/Clockwork Utopia.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>City World enters the battlefield tapped. When it does, each player may scry 2.
+T: Add U.</text>
+</card>
+<card>
+ <name>Conglomeration of Meteors</name>
+ <set picURL="/Conglomeration of Meteors.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Newborn World enters the battlefield tapped. When it does, it deals 2 damage to each player.
+T: Add R.</text>
+</card>
+<card>
+ <name>Cosmopolitan Crossroads</name>
+ <set picURL="/Cosmopolitan Crossroads.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Civilized World enters the battlefield tapped. When it does, each player gains 3 life.
+T: Add W.</text>
+</card>
+<card>
+ <name>Dokko Core of the Plutocracy</name>
+ <set picURL="/Dokko Core of the Plutocracy.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Trade Nexus enters the battlefield tapped. When it does, you may conjure a card named Merchant Ship or Tradeworld Hustler on top of your library.
+T: Add U or B.</text>
+</card>
+<card>
+ <name>The Dragons Eye</name>
+ <set picURL="/The Dragons Eye.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Volcanic Planet enters the battlefield tapped. When it does, you may conjure a card named Diacron Crystalform on top of your library.
+T: Add R.</text>
+</card>
+<card>
+ <name>Drux Planet of Predators</name>
+ <set picURL="/Drux Planet of Predators.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Monster Planet enters the battlefield tapped. When it does, you may conjure a card named Orbit-Maw Wurm on top of your library.
+T: Add G.</text>
+</card>
+<card>
+ <name>Ecumenopolis</name>
+ <set picURL="/Ecumenopolis.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>City World enters the battlefield tapped. When it does, each player may scry 2.
+T: Add U.</text>
+</card>
+<card>
+ <name>Eruna the Shrineworld</name>
+ <set picURL="/Eruna the Shrineworld.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Legendary Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Eruna, the Shrineworld enters the battlefield tapped. When it does, each player conjures a card named Mox Pearl onto the battlefield tapped.
+T: Add W.</text>
+</card>
+<card>
+ <name>Homeworld of the Diacrons</name>
+ <set picURL="/Homeworld of the Diacrons.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Volcanic Planet enters the battlefield tapped. When it does, you may conjure a card named Diacron Crystalform on top of your library.
+T: Add R.</text>
+</card>
+<card>
+ <name>Homeworld of the Precursors</name>
+ <set picURL="/Homeworld of the Precursors.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Legendary Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Homeworld of the Precursors enters the battlefield tapped. When it does, conjure a card named Ancestral Recall into your library, then shuffle.
+T: Add U.</text>
+</card>
+<card>
+ <name>Human World</name>
+ <set picURL="/Human World.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Civilized World enters the battlefield tapped. When it does, each player gains 3 life.
+T: Add W.</text>
+</card>
+<card>
+ <name>The Hydragian Dominion</name>
+ <set picURL="/The Hydragian Dominion.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Monster Planet enters the battlefield tapped. When it does, you may conjure a card named Orbit-Maw Wurm on top of your library.
+T: Add G.</text>
+</card>
+<card>
+ <name>Ikthia Heart of the Witch-Cult</name>
+ <set picURL="/Ikthia Heart of the Witch-Cult.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Haunted Planet enters the battlefield tapped. When it does, you may conjure a card named Deathworld Denizen on top of your library.
+T: Add B.</text>
+</card>
+<card>
+ <name>Infested Planetoid</name>
+ <set picURL="/Infested Planetoid.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Bug Planet enters the battlefield tapped. When it does, you may conjure a card named Hive Queen or Devoured By the Hive on top of your library.
+T: Add B or G.</text>
+</card>
+<card>
+ <name>Juko Hive of Scum and Villainy</name>
+ <set picURL="/Juko Hive of Scum and Villainy.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Slum Planet enters the battlefield tapped. When it does, you may conjure a card named Outcast’s Wisdom or Think for Yourself on top of your library.
+T: Add B or R.</text>
+</card>
+<card>
+ <name>Kessh Planet of Sea Monsters</name>
+ <set picURL="/Kessh Planet of Sea Monsters.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Ocean World enters the battlefield tapped. When it does, you may conjure a card named Enter the Unknown or Umarian Leviathan on top of your library.
+T: Add G or U.</text>
+</card>
+<card>
+ <name>Kretex the World Engine</name>
+ <set picURL="/Kretex the World Engine.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>When Forge World enters the battlefield, you may conjure a card named Automated Warbot or Mass-Produced Weapons on top of your library.
+T: Add C.</text>
+</card>
+<card>
+ <name>Kxim Moons Landfill</name>
+ <set picURL="/Kxim Moons Landfill.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>When Garbage Planet enters the battlefield, you may conjure a card named Junk Heap on top of your library.
+T: Add C.</text>
+</card>
+<card>
+ <name>Limurax VI</name>
+ <set picURL="/Limurax VI.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Monster Planet enters the battlefield tapped. When it does, you may conjure a card named Orbit-Maw Wurm on top of your library.
+T: Add G.</text>
+</card>
+<card>
+ <name>Lozi Former Forge-World</name>
+ <set picURL="/Lozi Former Forge-World.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>When Garbage Planet enters the battlefield, you may conjure a card named Junk Heap on top of your library.
+T: Add C.</text>
+</card>
+<card>
+ <name>Lunar Colony</name>
+ <set picURL="/Lunar Colony.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Untap Colony World during each other player’s untap step as long as it’s enchanted.
+T: Add C.</text>
+</card>
+<card>
+ <name>Megascale AI</name>
+ <set picURL="/Megascale AI.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>City World enters the battlefield tapped. When it does, each player may scry 2.
+T: Add U.</text>
+</card>
+<card>
+ <name>Meragrat IV</name>
+ <set picURL="/Meragrat IV.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Haunted Planet enters the battlefield tapped. When it does, you may conjure a card named Deathworld Denizen on top of your library.
+T: Add B.</text>
+</card>
+<card>
+ <name>Miru the Eternal Garden</name>
+ <set picURL="/Miru the Eternal Garden.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Legendary Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Miru, the Eternal Garden enters the battlefield tapped. When it does, discard any number of cards. Conjure that many cards named Forest into your hand.
+T: Add G.</text>
+</card>
+<card>
+ <name>Mushroom Planet</name>
+ <set picURL="/Mushroom Planet.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Jungle World enters the battlefield tapped. When it does, each player creates a 1/1 green Insect creature token.
+T: Add G.</text>
+</card>
+<card>
+ <name>Mysterious Toroid</name>
+ <set picURL="/Mysterious Toroid.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Unexplored Planet: Conjure a card named Plains, Island, Swamp, Mountain, or Forest onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Obeva Cradle of the Fleetmind</name>
+ <set picURL="/Obeva Cradle of the Fleetmind.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Subjugated Colony enters the battlefield tapped. When it does, you may conjure a card named Ace Pilot or City-Killer on top of your library.
+T: Add W or B.</text>
+</card>
+<card>
+ <name>Orvian Conquest</name>
+ <set picURL="/Orvian Conquest.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Haunted Planet enters the battlefield tapped. When it does, you may conjure a card named Deathworld Denizen on top of your library.
+T: Add B.</text>
+</card>
+<card>
+ <name>Periuma II</name>
+ <set picURL="/Periuma II.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Gas Giant enters the battlefield tapped. When it does, you may conjure a card named Living Storm or Nothing But Sky on top of your library.
+T: Add U or R.</text>
+</card>
+<card>
+ <name>The Planet of the Lotus-Eaters</name>
+ <set picURL="/The Planet of the Lotus-Eaters.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Legendary Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>The Planet of the Lotus-Eaters enters the battlefield tapped. When it does, you may conjure a card named Black Lotus into your library fifth from the top.
+T: Add R.</text>
+</card>
+<card>
+ <name>Potential Utopia</name>
+ <set picURL="/Potential Utopia.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Untap Colony World during each other player’s untap step as long as it’s enchanted.
+T: Add C.</text>
+</card>
+<card>
+ <name>A Powerful Culture</name>
+ <set picURL="/A Powerful Culture.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Civilized World enters the battlefield tapped. When it does, each player gains 3 life.
+T: Add W.</text>
+</card>
+<card>
+ <name>Primeval Biosphere</name>
+ <set picURL="/Primeval Biosphere.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Jungle World enters the battlefield tapped. When it does, each player creates a 1/1 green Insect creature token.
+T: Add G.</text>
+</card>
+<card>
+ <name>Primordial Soup</name>
+ <set picURL="/Primordial Soup.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Newborn World enters the battlefield tapped. When it does, it deals 2 damage to each player.
+T: Add R.</text>
+</card>
+<card>
+ <name>Psychomorphic Planetoid</name>
+ <set picURL="/Psychomorphic Planetoid.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Unexplored Planet: Conjure a card named Plains, Island, Swamp, Mountain, or Forest onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Qhavora Vedalken Homeworld</name>
+ <set picURL="/Qhavora Vedalken Homeworld.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Frozen Planet enters the battlefield tapped. When it does, you may conjure a card named Crippling Chill on top of your library.
+T: Add U.</text>
+</card>
+<card>
+ <name>Remnant of Collapse</name>
+ <set picURL="/Remnant of Collapse.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Dead World enters the battlefield tapped. When it does, each player mills two cards.
+T: Add B.</text>
+</card>
+<card>
+ <name>Remnant of Dark Magic</name>
+ <set picURL="/Remnant of Dark Magic.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Dead World enters the battlefield tapped. When it does, each player mills two cards.
+T: Add B.</text>
+</card>
+<card>
+ <name>Remnant of Disaster</name>
+ <set picURL="/Remnant of Disaster.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Dead World enters the battlefield tapped. When it does, each player mills two cards.
+T: Add B.</text>
+</card>
+<card>
+ <name>Remnant of War</name>
+ <set picURL="/Remnant of War.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Dead World enters the battlefield tapped. When it does, each player mills two cards.
+T: Add B.</text>
+</card>
+<card>
+ <name>Repopulated Deathworld</name>
+ <set picURL="/Repopulated Deathworld.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Untap Colony World during each other player’s untap step as long as it’s enchanted.
+T: Add C.</text>
+</card>
+<card>
+ <name>Starchild</name>
+ <set picURL="/Starchild.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Newborn World enters the battlefield tapped. When it does, it deals 2 damage to each player.
+T: Add R.</text>
+</card>
+<card>
+ <name>Sunsoaked Sandsphere</name>
+ <set picURL="/Sunsoaked Sandsphere.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Desert Planet </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+3, T, Sacrifice Desert Planet: Draw a card.</text>
+</card>
+<card>
+ <name>Terran Food-World</name>
+ <set picURL="/Terran Food-World.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Agri-World enters the battlefield tapped. When it does, you may conjure a card named Humble Farmer or Bountiful Farms on top of your library.
+T: Add G or W.</text>
+</card>
+<card>
+ <name>Terran Outpost</name>
+ <set picURL="/Terran Outpost.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Untap Colony World during each other player’s untap step as long as it’s enchanted.
+T: Add C.</text>
+</card>
+<card>
+ <name>The Three Sisters</name>
+ <set picURL="/The Three Sisters.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Trade Nexus enters the battlefield tapped. When it does, you may conjure a card named Merchant Ship or Tradeworld Hustler on top of your library.
+T: Add U or B.</text>
+</card>
+<card>
+ <name>Throneworld of Zorvotz</name>
+ <set picURL="/Throneworld of Zorvotz.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Fortress Planet enters the battlefield tapped. When it does, you may conjure a card named Orbital Fortifications on top of your library.
+T: Add W.</text>
+</card>
+<card>
+ <name>Tidelocked Wasteworld</name>
+ <set picURL="/Tidelocked Wasteworld.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Desert Planet </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+3, T, Sacrifice Desert Planet: Draw a card.</text>
+</card>
+<card>
+ <name>Tramotan III</name>
+ <set picURL="/Tramotan III.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Fortress Planet enters the battlefield tapped. When it does, you may conjure a card named Orbital Fortifications on top of your library.
+T: Add W.</text>
+</card>
+<card>
+ <name>UL01 White Dwarf Star</name>
+ <set picURL="/UL01 White Dwarf Star.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>UL01 White Dwarf Star enters the battlefield tapped with a charge counter on it.
+T: Add W.
+1WW, T, Remove a charge counter from UL01 White Dwarf Star: You gain 6 life.</text>
+</card>
+<card>
+ <name>UL02 Mysterious Nebula</name>
+ <set picURL="/UL02 Mysterious Nebula.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>UL02 Mysterious Nebula enters the battlefield tapped with a charge counter on it.
+T: Add U.
+1U, T, Remove a charge counter from UL02 Mysterious Nebula: Target creature explores. Activate this ability only any time you could cast a sorcery.</text>
+</card>
+<card>
+ <name>UL03 Black Hole</name>
+ <set picURL="/UL03 Black Hole.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>UL03 Black Hole enters the battlefield tapped with a charge counter on it.
+T: Add B.
+B, T, Remove a charge counter from UL03 Black Hole: Exile all cards from all graveyards.</text>
+</card>
+<card>
+ <name>UL04 Red Giant Star</name>
+ <set picURL="/UL04 Red Giant Star.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>UL04 Red Giant Star enters the battlefield tapped with a charge counter on it.
+T: Add R.
+2RR, T, Remove a charge counter from UL04 Red Giant Star: UL04 Red Giant Star deals 1 damage to target player and each creature and planeswalker they control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>UL05 Garden Cylinder</name>
+ <set picURL="/UL05 Garden Cylinder.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>UL05 Garden Cylinder enters the battlefield tapped with a charge counter on it.
+T: Add G.
+1G, T, Remove a charge counter from UL05 Garden Cylinder: Conjure a card named Forest into your hand.</text>
+</card>
+<card>
+ <name>Ulats Museum-Planet</name>
+ <set picURL="/Ulats Museum-Planet.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Frozen Planet enters the battlefield tapped. When it does, you may conjure a card named Crippling Chill on top of your library.
+T: Add U.</text>
+</card>
+<card>
+ <name>Umaria the World-Bowl</name>
+ <set picURL="/Umaria the World-Bowl.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Ocean World enters the battlefield tapped. When it does, you may conjure a card named Enter the Unknown or Umarian Leviathan on top of your library.
+T: Add G or U.</text>
+</card>
+<card>
+ <name>Uncharted Wildworld</name>
+ <set picURL="/Uncharted Wildworld.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Jungle World enters the battlefield tapped. When it does, each player creates a 1/1 green Insect creature token.
+T: Add G.</text>
+</card>
+<card>
+ <name>Uninhabited Cubelet</name>
+ <set picURL="/Uninhabited Cubelet.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Unexplored Planet: Conjure a card named Plains, Island, Swamp, Mountain, or Forest onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Valan the Tombworld</name>
+ <set picURL="/Valan the Tombworld.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Legendary Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Valan, the Tombworld enters the battlefield tapped. When it does, conjure a card named People of Valan into your graveyard.
+T: Add B.</text>
+</card>
+<card>
+ <name>Varats Domain</name>
+ <set picURL="/Varats Domain.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Desert Planet </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+3, T, Sacrifice Desert Planet: Draw a card.</text>
+</card>
+<card>
+ <name>The Vespian Gas Mines</name>
+ <set picURL="/The Vespian Gas Mines.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Gas Giant enters the battlefield tapped. When it does, you may conjure a card named Living Storm or Nothing But Sky on top of your library.
+T: Add U or R.</text>
+</card>
+<card>
+ <name>Viro Vu Refuge of the Forgotten</name>
+ <set picURL="/Viro Vu Refuge of the Forgotten.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Slum Planet enters the battlefield tapped. When it does, you may conjure a card named Outcast’s Wisdom or Think for Yourself on top of your library.
+T: Add B or R.</text>
+</card>
+<card>
+ <name>Vukoroq Duneworld</name>
+ <set picURL="/Vukoroq Duneworld.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Desert Planet </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+3, T, Sacrifice Desert Planet: Draw a card.</text>
+</card>
+<card>
+ <name>Vukoroq Factory-Sphere</name>
+ <set picURL="/Vukoroq Factory-Sphere.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>When Forge World enters the battlefield, you may conjure a card named Automated Warbot or Mass-Produced Weapons on top of your library.
+T: Add C.</text>
+</card>
+<card>
+ <name>World of Cats</name>
+ <set picURL="/World of Cats.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Civilized World enters the battlefield tapped. When it does, each player gains 3 life.
+T: Add W.</text>
+</card>
+<card>
+ <name>World of Uploads</name>
+ <set picURL="/World of Uploads.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>City World enters the battlefield tapped. When it does, each player may scry 2.
+T: Add U.</text>
+</card>
+<card>
+ <name>World Tree</name>
+ <set picURL="/World Tree.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Jungle World enters the battlefield tapped. When it does, each player creates a 1/1 green Insect creature token.
+T: Add G.</text>
+</card>
+<card>
+ <name>Xax Indentured Civilization</name>
+ <set picURL="/Xax Indentured Civilization.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Subjugated Colony enters the battlefield tapped. When it does, you may conjure a card named Ace Pilot or City-Killer on top of your library.
+T: Add W or B.</text>
+</card>
+<card>
+ <name>Xelek Interstellar University</name>
+ <set picURL="/Xelek Interstellar University.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Precursortech Ringworld enters the battlefield tapped. When it does, you may conjure a card named Precursortech Guardian or Xenoarchaeology on top of your library.
+T: Add W or U.</text>
+</card>
+<card>
+ <name>Yjinj Well-Protected Paradise</name>
+ <set picURL="/Yjinj Well-Protected Paradise.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Pleasure Planet enters the battlefield tapped. When it does, you may conjure a card named Galactic Tourists or Blissful Vacation on top of your library.
+T: Add R or W.</text>
+</card>
+<card>
+ <name>Yjinjian Wall-World</name>
+ <set picURL="/Yjinjian Wall-World.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Fortress Planet enters the battlefield tapped. When it does, you may conjure a card named Orbital Fortifications on top of your library.
+T: Add W.</text>
+</card>
+<card>
+ <name>Zeptulon II</name>
+ <set picURL="/Zeptulon II.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Volcanic Planet enters the battlefield tapped. When it does, you may conjure a card named Diacron Crystalform on top of your library.
+T: Add R.</text>
+</card>
+<card>
+ <name>Zeptulon IX</name>
+ <set picURL="/Zeptulon IX.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Planet </type>
+ <tablerow>0</tablerow>
+ <text>Frozen Planet enters the battlefield tapped. When it does, you may conjure a card named Crippling Chill on top of your library.
+T: Add U.</text>
+</card>
+<card>
+ <name>Plains</name>
+ <set picURL="/Plains.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Island</name>
+ <set picURL="/Island.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set picURL="/Swamp.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set picURL="/Mountain.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Forest</name>
+ <set picURL="/Forest.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Welcome to My World</name>
+ <set picURL="/Welcome to My World.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Conjure any number of your homeworld’s geographies, inhabitants, and/or events on top of your library in any order.
+Draw a card.</text>
+</card>
+<card>
+ <name>The Armies of My People</name>
+ <set picURL="/The Armies of My People.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Conjure two of your homeworld’s inhabitant into your hand.</text>
+</card>
+<card>
+ <name>Homeworld Secrets</name>
+ <set picURL="/Homeworld Secrets.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Conjure your homeworld’s geography, inhabitant, and event into your hand.</text>
+</card>
+<card>
+ <name>Iru Cargo-Cultists Paradise</name>
+ <set picURL="/Iru Cargo-Cultists Paradise.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Homeworld</type>
+ <tablerow>1</tablerow>
+ <text>(Reveal one homeworld from outside the game before drawing opening hands.)
+Geography — City World
+Inhabitant — Ghost of the Machine
+Event — Xenoarchaeology</text>
+</card>
+<card>
+ <name>Orv Utter Dystopia</name>
+ <set picURL="/Orv Utter Dystopia.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Homeworld</type>
+ <tablerow>1</tablerow>
+ <text>(Reveal one homeworld from outside the game before drawing opening hands.)
+Geography — Swamp
+Inhabitant — Orvian Troops
+Event — Moral Quandary</text>
+</card>
+<card>
+ <name>Rule the World</name>
+ <set picURL="/Rule the World.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Conjure your homeworld’s geography and inhabitant into your hand. You lose 2 life.</text>
+</card>
+<card>
+ <name>Giramar IV</name>
+ <set picURL="/Giramar IV.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Homeworld</type>
+ <tablerow>1</tablerow>
+ <text>(Reveal one homeworld from outside the game before drawing opening hands.)
+Geography — Mountain
+Inhabitant — Techno-Shaman
+Event — Crowning Moment</text>
+</card>
+<card>
+ <name>Quantum Flux</name>
+ <set picURL="/Quantum Flux.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Conjure your homeworld’s inhabitant, geography, or event into exile. You may play that card this turn.</text>
+</card>
+<card>
+ <name>World Spirit</name>
+ <set picURL="/World Spirit.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Spirit </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When World Spirit enters the battlefield, conjure your homeworld’s geography onto the battlefield.</text>
+</card>
+<card>
+ <name>Xixizzb Birthplace of the Hive</name>
+ <set picURL="/Xixizzb Birthplace of the Hive.full.jpg" picURLHq="" picURLSt="">XOS</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Homeworld</type>
+ <tablerow>1</tablerow>
+ <text>(Reveal one homeworld from outside the game before drawing opening hands.)
+Geography — Jungle Planet
+Inhabitant — Hive Queen
+Event — Close Encounter</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

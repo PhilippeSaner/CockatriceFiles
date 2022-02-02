@@ -1,0 +1,2651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>PDX</name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>The God that Will Be</name>
+ <set picURL="PDX/The God that Will Be.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>12</manacost>
+ <type>Legendary Creature - God </type>
+ <pt>12/12</pt>
+ <tablerow>2</tablerow>
+ <text>Reveal The God that Will Be from your hand: Until end of turn, creatures you control gain “2, T: Create a colorless Fragment artifact token with ‘T, Sacrifice this artifact: Add C.’”
+When you cast this spell, exile all other nonland permanents.
+Flying, trample, indestructible</text>
+</card>
+<card>
+ <name>Accelerated Training</name>
+ <set picURL="PDX/Accelerated Training.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it and untap it. You gain 1 life.</text>
+</card>
+<card>
+ <name>Age of Humanity</name>
+ <set picURL="PDX/Age of Humanity.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+Whenever a creature enters the battlefield under your control,
+I, II — put a +1/+1 counter on that creature.
+III — put a +1/+1 counter on each creature you control with a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Angel of Now</name>
+ <set picURL="PDX/Angel of Now.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Creature - Angel </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying, first strike
+When Angel of Now enters the battlefield, until the end of your next turn, you can’t lose the game and your opponents can’t win the game.</text>
+</card>
+<card>
+ <name>Borrowed Wrath</name>
+ <set picURL="PDX/Borrowed Wrath.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control gain accelerate until end of turn. Those creatures don’t untap during your next untap step. (After the first combat phase this turn, untap those creatures. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Buried Sentinel</name>
+ <set picURL="PDX/Buried Sentinel.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Zombie Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Buried Sentinel attacks, untap target creature you control.
+Unearth W (W: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>City Watchers</name>
+ <set picURL="PDX/City Watchers.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Clean Ending</name>
+ <set picURL="PDX/Clean Ending.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target enchantment, tapped artifact, or tapped creature.
+Draw a card.</text>
+</card>
+<card>
+ <name>Critical Moment</name>
+ <set picURL="PDX/Critical Moment.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on target creature you control for each spell that targets it, then counter any number of spells targeting that creature.</text>
+</card>
+<card>
+ <name>Debt to the Buried</name>
+ <set picURL="PDX/Debt to the Buried.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Its controller gains 3 life.</text>
+</card>
+<card>
+ <name>Flickering Echo</name>
+ <set picURL="PDX/Flickering Echo.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Spirit </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+4WW: Exile target creature you control, then return it to the battlefield under your control.</text>
+</card>
+<card>
+ <name>Forced Deceleration</name>
+ <set picURL="PDX/Forced Deceleration.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Remove target attacking or blocking creature from combat. If that creature entered the battlefield this turn, Forced Deceleration deals 4 damage to it.</text>
+</card>
+<card>
+ <name>Heal All Wounds</name>
+ <set picURL="PDX/Heal All Wounds.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 5WW (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Your life total becomes equal to your starting life total.</text>
+</card>
+<card>
+ <name>Host of Echoes</name>
+ <set picURL="PDX/Host of Echoes.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Spirit </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a non-Spirit creature you control leaves the battlefield, create a 1/1 white Spirit creature token with flying.</text>
+</card>
+<card>
+ <name>Impassioned Orator</name>
+ <set picURL="PDX/Impassioned Orator.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature enters the battlefield under your control, you gain 1 life.</text>
+</card>
+<card>
+ <name>Infantry Deployment</name>
+ <set picURL="PDX/Infantry Deployment.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create three 1/1 white Soldier creature tokens. You gain 3 life.</text>
+</card>
+<card>
+ <name>Ixia, the Founder</name>
+ <set picURL="PDX/Ixia, the Founder.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Legendary Creature - Human </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a player casts a spell with mana value greater than Ixia, the Founder’s power, put a +1/+1 counter on Ixia, the Founder.
+If you would lose the game, instead exile Ixia, the Founder and your life total becomes equal to her power.</text>
+</card>
+<card>
+ <name>Ixia’s Pattern</name>
+ <set picURL="PDX/Ixia’s Pattern.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Legendary Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+Whenever you attack with two or more creatures,
+I, II — put a +1/+1 counter on each attacking creature.
+III — attacking creatures gain double strike and indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Ixia’s Revision</name>
+ <set picURL="PDX/Ixia’s Revision.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>For each card type, if you control fewer permanents of that type than an opponent, exile all nonland permanents of that type. You gain 1 life for each permanent exiled this way.</text>
+</card>
+<card>
+ <name>Mark of the Pattern</name>
+ <set picURL="PDX/Mark of the Pattern.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has accelerate. (After the first combat phase on your turn, untap that creature. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Meandering Scout</name>
+ <set picURL="PDX/Meandering Scout.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Meandering Scout attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of your next declare attackers step.</text>
+</card>
+<card>
+ <name>Other Selves</name>
+ <set picURL="PDX/Other Selves.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile up to two target creatures you control, then return them to the battlefield under your control.
+Alter 2W (2W, Discard this card and another card: Draw two cards.)</text>
+</card>
+<card>
+ <name>Pattern Archivist</name>
+ <set picURL="PDX/Pattern Archivist.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you scry one or more cards, you gain that much life.</text>
+</card>
+<card>
+ <name>Pattern Captain</name>
+ <set picURL="PDX/Pattern Captain.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)
+Other creatures you control with accelerate get +2/+2.
+Whenever Pattern Captain attacks for the first time each turn, untap each creature you control without accelerate.</text>
+</card>
+<card>
+ <name>Pattern Cleanser</name>
+ <set picURL="PDX/Pattern Cleanser.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Pattern Glider</name>
+ <set picURL="PDX/Pattern Glider.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Pattern Guardian</name>
+ <set picURL="PDX/Pattern Guardian.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Pattern Rescuer</name>
+ <set picURL="PDX/Pattern Rescuer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Pattern Rescuer enters the battlefield, return a creature you control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Pattern Salvager</name>
+ <set picURL="PDX/Pattern Salvager.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Pattern Salvager enters the battlefield, scry 2.</text>
+</card>
+<card>
+ <name>Pattern Sentry</name>
+ <set picURL="PDX/Pattern Sentry.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Alter 4W (4W, Discard this card and another card: Draw two cards.)
+When you alter Pattern Sentry or it enters the battlefield, create two 1/1 white Soldier creature tokens.</text>
+</card>
+<card>
+ <name>Pattern Sky Patrol</name>
+ <set picURL="PDX/Pattern Sky Patrol.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Creature - Human Knight </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Pattern Sky Patrol enters the battlefield, creatures you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Pattern Vanguard</name>
+ <set picURL="PDX/Pattern Vanguard.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>2W: Untap Pattern Vanguard.</text>
+</card>
+<card>
+ <name>Retroactive Charge</name>
+ <set picURL="PDX/Retroactive Charge.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap up to three target creatures you control. Those creatures each get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Reverse Death</name>
+ <set picURL="PDX/Reverse Death.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>When target creature dies this turn, return that card to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Sudden Moves</name>
+ <set picURL="PDX/Sudden Moves.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+2 and gains first strike until end of turn. Scry 1.</text>
+</card>
+<card>
+ <name>Timebreaker Goliath</name>
+ <set picURL="PDX/Timebreaker Goliath.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Creature - Giant Soldier </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)
+Timebreaker Goliath doesn’t untap during your untap step.</text>
+</card>
+<card>
+ <name>Timeline Seizer</name>
+ <set picURL="PDX/Timeline Seizer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Zombie Cleric </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Timeline Seizer enters the battlefield, you may exile another target creature until Timeline Seizer leaves the battlefield.
+Unearth 1W (1W: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Timeline Warden</name>
+ <set picURL="PDX/Timeline Warden.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures your opponents control enter the battlefield tapped.</text>
+</card>
+<card>
+ <name>Traveler’s Key</name>
+ <set picURL="PDX/Traveler’s Key.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+2W: Exile enchanted creature and all Auras attached to it, then return that card to the battlefield under its owner’s control. At the beginning of the next end step, return the other cards exiled this way to the battlefield under their owners’ control attached to that creature.</text>
+</card>
+<card>
+ <name>Versatile Vanguard</name>
+ <set picURL="PDX/Versatile Vanguard.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Versatile Vanguard attacks, it gains your choice of first strike or lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Veteran Paratrooper</name>
+ <set picURL="PDX/Veteran Paratrooper.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Veteran Paratrooper attacks, target attacking creature without flying gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Age of Progress</name>
+ <set picURL="PDX/Age of Progress.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+Whenever you cast your second spell each turn,
+I — scry 2.
+II — draw two cards.
+III, IV, V, VI, C — untap up to two lands. Spells you cast this turn cost 2 less to cast.</text>
+</card>
+<card>
+ <name>Archaeomancer</name>
+ <set picURL="PDX/Archaeomancer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Blink Drone</name>
+ <set picURL="PDX/Blink Drone.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Artifact Creature - Drone </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+Blink Drone can block only creatures that entered the battlefield this turn.</text>
+</card>
+<card>
+ <name>Borrowed Wisdom</name>
+ <set picURL="PDX/Borrowed Wisdom.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw three cards. At the beginning of your next upkeep, put three cards from your hand on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Change the Future</name>
+ <set picURL="PDX/Change the Future.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. Scry 2.</text>
+</card>
+<card>
+ <name>Countdown to the Start</name>
+ <set picURL="PDX/Countdown to the Start.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, look at the top card of your library. You may exile it.
+U, Exile Countdown to the Start: If you own four cards named Countdown to the Start in exile, restart the game, leaving in exile all cards in exile. You may play those cards for as long as they remain exiled, unless they’re named Countdown to the Start.</text>
+</card>
+<card>
+ <name>Cyclical Progress</name>
+ <set picURL="PDX/Cyclical Progress.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 1/1 blue Assembly-Worker creature token. It has “U, T, Discard a card: Return target card named Cyclical Progress from your graveyard to your hand.”
+Draw a card.</text>
+</card>
+<card>
+ <name>Disrupt Essence</name>
+ <set picURL="PDX/Disrupt Essence.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 2.
+Alter 2U (2U, Discard this card and another card: Draw two cards.)</text>
+</card>
+<card>
+ <name>Extratemporal Possession</name>
+ <set picURL="PDX/Extratemporal Possession.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Paradox 5UU (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Enchant creature
+You control enchanted creature.</text>
+</card>
+<card>
+ <name>Find Yourself</name>
+ <set picURL="PDX/Find Yourself.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 2UU (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Create a token that’s a copy of target creature you control.</text>
+</card>
+<card>
+ <name>Future</name>
+ <set picURL="PDX/Future.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>5UUU</manacost>
+ <type>Creature - Incarnation </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your library revealed.
+You may play the top card of your library. If it’s a nonland card, it costs 1 less to cast.
+When Future dies, put it on the bottom of its owner’s library and take an extra turn after this one.</text>
+</card>
+<card>
+ <name>Invert Logic</name>
+ <set picURL="PDX/Invert Logic.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 2U (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Counter target spell unless its controller pays 1.</text>
+</card>
+<card>
+ <name>Nilthus, the Last</name>
+ <set picURL="PDX/Nilthus, the Last.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Legendary Creature - Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When you cast this spell, if your library has no cards in it, you may choose a card you own from outside the game and put it into your hand.
+If Nilthus, the Last would be put it into a graveyard from anywhere, reveal Nilthus and put them on the bottom of their owner’s library instead.</text>
+</card>
+<card>
+ <name>Paranoia Cultivator</name>
+ <set picURL="PDX/Paranoia Cultivator.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Artifact Creature - Drone </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>8: Target player mills eight cards.</text>
+</card>
+<card>
+ <name>Possibility Seer</name>
+ <set picURL="PDX/Possibility Seer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Alter 3U (3U, Discard this card and another card: Draw two cards.)
+When you alter Possibility Seer or it enters the battlefield, scry 2. (Do this before you draw.)</text>
+</card>
+<card>
+ <name>Precognitive Ploy</name>
+ <set picURL="PDX/Precognitive Ploy.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 2U (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Untap target creature. It gets +0/+2 and gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Resequence</name>
+ <set picURL="PDX/Resequence.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This spell has flash as long as you’ve cast another spell this turn.
+Put target spell or creature on top of its owner’s library.</text>
+</card>
+<card>
+ <name>Reverse Summoning</name>
+ <set picURL="PDX/Reverse Summoning.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target nonland permanent that entered the battlefield this turn to its owner’s hand.
+Draw a card.</text>
+</card>
+<card>
+ <name>Rift Passage</name>
+ <set picURL="PDX/Rift Passage.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature can’t be blocked this turn.
+Draw a card.</text>
+</card>
+<card>
+ <name>Riftborn Fugitive</name>
+ <set picURL="PDX/Riftborn Fugitive.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Rogue </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Riftborn Omniscient</name>
+ <set picURL="PDX/Riftborn Omniscient.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Cleric Wizard </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Once each turn, while you can see one or more cards in your library, you may put one of those cards into your hand. (You can see cards in your library while you’re looking at, revealing, or searching them.)</text>
+</card>
+<card>
+ <name>Riftborn Serpent</name>
+ <set picURL="PDX/Riftborn Serpent.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Creature - Serpent </type>
+ <pt>5/6</pt>
+ <tablerow>2</tablerow>
+ <text>4U, Sacrifice an artifact: Riftborn Serpent can’t be blocked this turn.</text>
+</card>
+<card>
+ <name>Riftborn Titan</name>
+ <set picURL="PDX/Riftborn Titan.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>6UU</manacost>
+ <type>Creature - Leviathan Dreadnought </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>When Riftborn Titan enters the battlefield, return up to two target creatures to their owners’ hands.
+U, Discard a card: Riftborn Titan gains your choice of flying or hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Riftborn Trickster</name>
+ <set picURL="PDX/Riftborn Trickster.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell, you may pay 1. If you do, Riftborn Trickster gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Riftrider Continuum</name>
+ <set picURL="PDX/Riftrider Continuum.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+Whenever you cast a noncreature spell,
+I, II — create a 1/1 blue Drone artifact creature token with flying.
+III — create Rift Network, a blue enchantment token with “Whenever an opponent is dealt damage, you may draw a card.”</text>
+</card>
+<card>
+ <name>Riftweaver</name>
+ <set picURL="PDX/Riftweaver.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Paradox 3U (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+T: Add C. Spend this mana only to pay paradox costs.</text>
+</card>
+<card>
+ <name>Seer’s Prediction</name>
+ <set picURL="PDX/Seer’s Prediction.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose a card name. Scry 4, then reveal the top card of your library. If that card has the chosen name, draw a card.</text>
+</card>
+<card>
+ <name>Sphinx of Progress</name>
+ <set picURL="PDX/Sphinx of Progress.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>5UU</manacost>
+ <type>Creature - Sphinx </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>As long as it’s an extra turn or an additional step or phase, this spell costs 2 less to cast and has flash.
+Flying
+At the beginning of each end step, draw a card. If it’s an extra turn, draw three cards instead.</text>
+</card>
+<card>
+ <name>Spymaster Titan</name>
+ <set picURL="PDX/Spymaster Titan.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>5U</manacost>
+ <type>Creature - Giant Artificer </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Drone you control deals combat damage to a player, draw a card.
+3U, Discard a card: Create a 1/1 blue Drone artifact creature token with flying.</text>
+</card>
+<card>
+ <name>Stealth Striker</name>
+ <set picURL="PDX/Stealth Striker.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Artifact Creature - Drone </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+U, Discard a card: Stealth Striker gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Surveillance Drone</name>
+ <set picURL="PDX/Surveillance Drone.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Artifact Creature - Drone </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever you cast a spell during an opponent’s turn, scry 1.</text>
+</card>
+<card>
+ <name>Tidewarper</name>
+ <set picURL="PDX/Tidewarper.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Elemental </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Paradox 4U (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+1: Tidewarper gets +1/-1 or -1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Time Lock</name>
+ <set picURL="PDX/Time Lock.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Time Lock enters the battlefield, tap enchanted creature unless its controller pays 3.
+Enchanted creature doesn’t untap during its controller’s untap step.</text>
+</card>
+<card>
+ <name>Time Snap</name>
+ <set picURL="PDX/Time Snap.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 3U (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Return target creature to its owner’s hand.</text>
+</card>
+<card>
+ <name>Tireless Artisan</name>
+ <set picURL="PDX/Tireless Artisan.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Assembly-Worker </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell, you may pay 1. If you do, create a colorless Fragment artifact token with “T, Sacrifice this artifact: Add C.”</text>
+</card>
+<card>
+ <name>Totally Lost</name>
+ <set picURL="PDX/Totally Lost.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put target nonland permanent on top of its owner’s library.</text>
+</card>
+<card>
+ <name>Unwind</name>
+ <set picURL="PDX/Unwind.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target noncreature spell. Untap up to three lands.</text>
+</card>
+<card>
+ <name>Weight of Eons</name>
+ <set picURL="PDX/Weight of Eons.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap all attacking creatures your opponents control. They get -2/-0 and lose all abilities until end of turn. They don’t untap during their controller’s next untap step.</text>
+</card>
+<card>
+ <name>Work the Rifts</name>
+ <set picURL="PDX/Work the Rifts.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards. Create a colorless Fragment artifact token with “T, Sacrifice this artifact: Add C.”</text>
+</card>
+<card>
+ <name>Age of Burial</name>
+ <set picURL="PDX/Age of Burial.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+Whenever a creature you control leaves the battlefield,
+I — each opponent loses 2 life.
+II — each opponent discards a card.
+III, IV, V, VI, C — each opponent sacrifices a permanent.</text>
+</card>
+<card>
+ <name>Agent of the Buried</name>
+ <set picURL="PDX/Agent of the Buried.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Human Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Agent of the Buried dies, create a 2/2 black Zombie creature token.</text>
+</card>
+<card>
+ <name>Borrowed Strength</name>
+ <set picURL="PDX/Borrowed Strength.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +2/+0 until end of turn. At the beginning of your next upkeep, those creatures get -2/-0 until end of turn.</text>
+</card>
+<card>
+ <name>Buried Apostate</name>
+ <set picURL="PDX/Buried Apostate.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>5B</manacost>
+ <type>Creature - Zombie Cleric </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Pay 1 life: Add C. You can’t spend this mana to cast a spell.
+8: Draw three cards.</text>
+</card>
+<card>
+ <name>Buried Assassin</name>
+ <set picURL="PDX/Buried Assassin.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Zombie Assassin </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Buried Assassin enters the battlefield, each player sacrifices a creature.
+Unearth 6B (6B: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Eviscerator</name>
+ <set picURL="PDX/Buried Eviscerator.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Zombie Giant </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Alter 2B (2B, Discard this card and another card: Draw two cards.)
+Unearth 3B (3B: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Forerunner</name>
+ <set picURL="PDX/Buried Forerunner.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Zombie Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Buried Forerunner can’t block.
+Unearth 2B (2B: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Ghoul</name>
+ <set picURL="PDX/Buried Ghoul.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+B, Sacrifice another creature: Buried Ghoul gets +2/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Buried Mastermind</name>
+ <set picURL="PDX/Buried Mastermind.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <type>Creature - Zombie Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as Buried Mastermind is on the battlefield or in your graveyard, whenever another creature enters the battlefield from your graveyard, put a +1/+1 counter on it.
+Unearth 1B (1B: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Prophet</name>
+ <set picURL="PDX/Buried Prophet.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zombie Cleric </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Buried Prophet enters the battlefield, mill two cards.
+Unearth 1B (1B: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Ritualist</name>
+ <set picURL="PDX/Buried Ritualist.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Zombie Cleric </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Buried Ritualist or another creature enters the battlefield under your control, until end of turn, up to one target creature you control becomes a black Horror with base power and toughness 5/5 and gains menace.</text>
+</card>
+<card>
+ <name>Change the Past</name>
+ <set picURL="PDX/Change the Past.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Discard up to two cards, then return that many creature cards plus one from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Chronofragged</name>
+ <set picURL="PDX/Chronofragged.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 4B (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Target creature gets -5/-5 until end of turn.</text>
+</card>
+<card>
+ <name>Death Foretold</name>
+ <set picURL="PDX/Death Foretold.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has “At the beginning of your end step, sacrifice this creature.”</text>
+</card>
+<card>
+ <name>Demon of Entropy</name>
+ <set picURL="PDX/Demon of Entropy.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Demon </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, trample
+If a face-up or revealed card or a permanent would be put into an opponent’s library, hand, or graveyard from anywhere, instead exile it.</text>
+</card>
+<card>
+ <name>Despoil Youth</name>
+ <set picURL="PDX/Despoil Youth.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player discards two cards and loses 2 life.</text>
+</card>
+<card>
+ <name>Drown in Corpses</name>
+ <set picURL="PDX/Drown in Corpses.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>All creatures get -2/-2 until end of turn. Whenever a creature you control leaves the battlefield this turn, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Embalmed Trooid</name>
+ <set picURL="PDX/Embalmed Trooid.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Zombie Dinosaur </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Unearth 1B (1B: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>End of Days</name>
+ <set picURL="PDX/End of Days.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 5BB (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Destroy all creatures.</text>
+</card>
+<card>
+ <name>Fateful Coincidence</name>
+ <set picURL="PDX/Fateful Coincidence.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This spell has flash as long as you’ve cast another spell this turn.
+Destroy target tapped creature.</text>
+</card>
+<card>
+ <name>Faultless Timing</name>
+ <set picURL="PDX/Faultless Timing.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 3B (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Until end of turn, target creature gets +1/+0 and gains first strike and deathtouch.</text>
+</card>
+<card>
+ <name>Fossilized Pest</name>
+ <set picURL="PDX/Fossilized Pest.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zombie Insect </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature enters the battlefield under your control, target creature you control gains deathtouch until end of turn.</text>
+</card>
+<card>
+ <name>Glimpse Oblivion</name>
+ <set picURL="PDX/Glimpse Oblivion.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature, then return it to the battlefield tapped under its owner’s control.</text>
+</card>
+<card>
+ <name>Interception Drone</name>
+ <set picURL="PDX/Interception Drone.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Artifact Creature - Drone </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying, deathtouch</text>
+</card>
+<card>
+ <name>Invite to Nowhere</name>
+ <set picURL="PDX/Invite to Nowhere.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature or pay 4.
+Destroy target creature.</text>
+</card>
+<card>
+ <name>Keeper of Lost Eons</name>
+ <set picURL="PDX/Keeper of Lost Eons.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Zombie Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature you control leaves the battlefield, put a +1/+1 counter on Keeper of Lost Eons and you lose 1 life.</text>
+</card>
+<card>
+ <name>Loathing of the Buried</name>
+ <set picURL="PDX/Loathing of the Buried.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose a creature card you own in your graveyard or in exile. Loathing of the Buried deals damage equal to that card’s power to target creature.</text>
+</card>
+<card>
+ <name>Lost Hours</name>
+ <set picURL="PDX/Lost Hours.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player reveals their hand. You choose a nonland card from it. That player puts that card into their library third from the top.</text>
+</card>
+<card>
+ <name>Marrow Mystic</name>
+ <set picURL="PDX/Marrow Mystic.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Zombie Shaman </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Unearth 3B (3B: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Necropolis Guardian</name>
+ <set picURL="PDX/Necropolis Guardian.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Skeleton Thrull </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Necropolis Guardian enters the battlefield, each opponent sacrifices a creature.</text>
+</card>
+<card>
+ <name>Postmortem Studies</name>
+ <set picURL="PDX/Postmortem Studies.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, pay 3 life or sacrifice a creature.
+Draw two cards.</text>
+</card>
+<card>
+ <name>Preserved Goliath</name>
+ <set picURL="PDX/Preserved Goliath.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <type>Creature - Skeleton Thrull </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Rift Denizen</name>
+ <set picURL="PDX/Rift Denizen.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Artifact Creature - Insect Drone </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Haste
+Paradox 3B (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)</text>
+</card>
+<card>
+ <name>Rift Parasite</name>
+ <set picURL="PDX/Rift Parasite.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Artifact Creature - Insect Drone </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell during an opponent’s turn, that player loses 1 life.</text>
+</card>
+<card>
+ <name>Siphon Years</name>
+ <set picURL="PDX/Siphon Years.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Siphon Years deals 2 damage to any target and you gain 2 life.
+Whenever you cast a spell during an opponent’s turn, you may pay 1. If you do, return Siphon Years from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Stillborn Monstrosity</name>
+ <set picURL="PDX/Stillborn Monstrosity.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Horror </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>You may cast Stillborn Monstrosity from your graveyard, but not from anywhere else.
+Lifelink, menace
+When Stillborn Monstrosity dies, return it to its owner’s hand.</text>
+</card>
+<card>
+ <name>Strain the Fabric</name>
+ <set picURL="PDX/Strain the Fabric.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -2/-2 until end of turn.
+Alter 2B (2B, Discard this card and another card: Draw two cards.)</text>
+</card>
+<card>
+ <name>Timeline Corruptor</name>
+ <set picURL="PDX/Timeline Corruptor.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Leech Horror </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Alter 1B (1B, Discard this card and another card: Draw two cards.)
+When you alter Timeline Corruptor or it enters the battlefield, you lose 2 life.</text>
+</card>
+<card>
+ <name>Vuryot, the Eternal</name>
+ <set picURL="PDX/Vuryot, the Eternal.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Legendary Creature - Zombie Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Skip your end step.
+Unearth 3BB (3BB: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Vuryot’s Bargain</name>
+ <set picURL="PDX/Vuryot’s Bargain.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Legendary Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+If Vuryot’s Bargain would leave the battlefield or you would lose the game, your life total becomes 1 instead. When it does,
+I — draw four cards.
+II — sacrifice half the permanents you control, rounded up.
+III, IV, V, VI, C — Vuryot’s Bargain loses all abilities. Exile it and all cards from your hand and graveyard.</text>
+</card>
+<card>
+ <name>Age of Finality</name>
+ <set picURL="PDX/Age of Finality.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+Whenever a land enters the battlefield under your control,
+I, II, III — create a colorless Fragment artifact token with “T, Sacrifice this artifact: Add C.”
+IV — exile the top three cards of your library. Until end of turn, you may play those cards.</text>
+</card>
+<card>
+ <name>Ageless Disciple</name>
+ <set picURL="PDX/Ageless Disciple.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Artillery Fire</name>
+ <set picURL="PDX/Artillery Fire.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Artillery Fire deals 3 damage to target player and 1 damage to each creature that player controls.</text>
+</card>
+<card>
+ <name>Birth of the Final God</name>
+ <set picURL="PDX/Birth of the Final God.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Legendary Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+At the beginning of your upkeep,
+I — discard your hand.
+II — your life total becomes 4.
+III, IV, V, VI, C — search your library for a nonland card and cast it without paying its mana cost. Then shuffle.</text>
+</card>
+<card>
+ <name>Bloodsoaked Timebreaker</name>
+ <set picURL="PDX/Bloodsoaked Timebreaker.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Creature - Giant Berserker </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Bloodsoaked Timebreaker must be blocked if able.
+Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Borrowed Pain</name>
+ <set picURL="PDX/Borrowed Pain.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Borrowed Pain deals 2 damage to each creature target player controls. Prevent all damage that would be dealt to those creatures during that player’s next turn.</text>
+</card>
+<card>
+ <name>Carve Out</name>
+ <set picURL="PDX/Carve Out.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>5R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Carve Out deals 5 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.</text>
+</card>
+<card>
+ <name>Chaos Spawn</name>
+ <set picURL="PDX/Chaos Spawn.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Elemental </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Paradox 2R (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Whenever you pay a paradox cost, put a +1/+1 counter on Chaos Spawn.</text>
+</card>
+<card>
+ <name>Desynchronized Duo</name>
+ <set picURL="PDX/Desynchronized Duo.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Desynchronized Duo attacks, it gains your choice of menace or trample until end of turn.</text>
+</card>
+<card>
+ <name>Experimental Weaponry</name>
+ <set picURL="PDX/Experimental Weaponry.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it and Experimental Weaponry deals 1 damage to any target.</text>
+</card>
+<card>
+ <name>Flamewarper</name>
+ <set picURL="PDX/Flamewarper.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Elemental </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Paradox 3R (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+1: Flamewarper gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Hellkite of the End</name>
+ <set picURL="PDX/Hellkite of the End.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Creature - Dragon </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, haste
+If you would begin a turn, instead skip that turn and Hellkite of the End deals 5 damage to any target.</text>
+</card>
+<card>
+ <name>Impossible Entity</name>
+ <set picURL="PDX/Impossible Entity.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Creature - Elemental </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>You may pay 0 rather than pay paradox costs of spells you’ve cast.
+You can’t cast spells without paradox.
+3RR: Put Impossible Entity from your hand, graveyard, or exile onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Invasion Stirrings</name>
+ <set picURL="PDX/Invasion Stirrings.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>At the beginning of combat on your turn, you may pay 1 and reveal Invasion Stirrings from your hand. If you do, create a 1/1 red Warrior creature token. It has haste and “This creature can’t attack or block unless a card named Invasion Stirrings is in your graveyard.”</text>
+</card>
+<card>
+ <name>Moments too Soon</name>
+ <set picURL="PDX/Moments too Soon.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Up to two target creatures each get +1/+0 and gain first strike until end of turn.
+Alter 2R (2R, Discard this card and another card: Draw two cards.)</text>
+</card>
+<card>
+ <name>Open the Rifts</name>
+ <set picURL="PDX/Open the Rifts.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
+</card>
+<card>
+ <name>Outside Context</name>
+ <set picURL="PDX/Outside Context.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +3/+3 and has menace.</text>
+</card>
+<card>
+ <name>Pattern Conscriptor</name>
+ <set picURL="PDX/Pattern Conscriptor.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Pattern Conscriptor attacks, create a token that’s a copy of another target attacking creature and that’s tapped and attacking. Exile the token at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Pattern Enforcer</name>
+ <set picURL="PDX/Pattern Enforcer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Pattern Pathblazer</name>
+ <set picURL="PDX/Pattern Pathblazer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Pattern Pathblazer attacks, you may discard a card. If you do, draw a card.
+Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Pattern Recruit</name>
+ <set picURL="PDX/Pattern Recruit.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Pattern Severer</name>
+ <set picURL="PDX/Pattern Severer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Pattern Severer enters the battlefield, tap target artifact or land. It doesn’t untap during its controller’s next untap step.</text>
+</card>
+<card>
+ <name>Portent of Betrayal</name>
+ <set picURL="PDX/Portent of Betrayal.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1.</text>
+</card>
+<card>
+ <name>Present</name>
+ <set picURL="PDX/Present.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>5RRR</manacost>
+ <type>Creature - Incarnation </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+You may cast spells from your hand for 1. If you cast a permanent card this way, it enters the battlefield with haste and “At the beginning of your end step, sacrifice this permanent.”</text>
+</card>
+<card>
+ <name>Propel</name>
+ <set picURL="PDX/Propel.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control gain haste until end of turn.
+Draw a card.</text>
+</card>
+<card>
+ <name>Rend Causality</name>
+ <set picURL="PDX/Rend Causality.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 5RR (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Each player discards their hand, then draws seven cards.</text>
+</card>
+<card>
+ <name>Repeat Offensive</name>
+ <set picURL="PDX/Repeat Offensive.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Repeat Offensive deals damage to target creature an opponent controls equal to the damage already dealt to it this turn.
+Draw a card.</text>
+</card>
+<card>
+ <name>Rift Channeler</name>
+ <set picURL="PDX/Rift Channeler.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Artifact Creature - Drone </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+8: Rift Channeler gets +8/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Rift Feeder</name>
+ <set picURL="PDX/Rift Feeder.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Elemental </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, haste
+At the beginning of your end step, sacrifice Rift Feeder unless you return another creature that attacked this turn to its owner’s hand.</text>
+</card>
+<card>
+ <name>Rift Zap</name>
+ <set picURL="PDX/Rift Zap.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Paradox 2R (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Rift Zap deals 2 damage to target creature.</text>
+</card>
+<card>
+ <name>Riftborn Aberration</name>
+ <set picURL="PDX/Riftborn Aberration.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Elemental </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat on your turn, exile the top card of your library. If it’s a creature card, Riftborn Aberration’s base power becomes equal to that card’s power until end of combat.</text>
+</card>
+<card>
+ <name>Riftborn Artisan</name>
+ <set picURL="PDX/Riftborn Artisan.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Assembly-Worker </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Riftborn Artisan enters the battlefield, create a colorless Fragment artifact token with “T, Sacrifice this artifact: Add C.”</text>
+</card>
+<card>
+ <name>Riftborn Builder-Priest</name>
+ <set picURL="PDX/Riftborn Builder-Priest.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Artificer Cleric </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you tap an artifact for mana, add one additional mana of any type that artifact could produce.</text>
+</card>
+<card>
+ <name>Riftborn Marauder</name>
+ <set picURL="PDX/Riftborn Marauder.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Paradox 3R (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)</text>
+</card>
+<card>
+ <name>Riftborn Prophet</name>
+ <set picURL="PDX/Riftborn Prophet.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Alter 3R (3R, Discard this card and another card: Draw two cards.)
+When you alter Riftborn Prophet or it enters the battlefield, create a colorless Fragment artifact token with “T, Sacrifice this artifact: Add C.”</text>
+</card>
+<card>
+ <name>Riftspark</name>
+ <set picURL="PDX/Riftspark.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Elemental </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste
+Paradox 2R (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+At the beginning of the end step, sacrifice Riftspark.</text>
+</card>
+<card>
+ <name>Riftsplitter</name>
+ <set picURL="PDX/Riftsplitter.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell, you may pay 2. If you do, Riftsplitter deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>Shock Trooper</name>
+ <set picURL="PDX/Shock Trooper.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature enters the battlefield under your control, target creature can’t block this turn.</text>
+</card>
+<card>
+ <name>Surprising Strike</name>
+ <set picURL="PDX/Surprising Strike.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +4/+1 until end of turn. If that creature entered the battlefield this turn, draw a card.</text>
+</card>
+<card>
+ <name>Vashla, Free Spirit</name>
+ <set picURL="PDX/Vashla, Free Spirit.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Legendary Planeswalker - Vashla </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+2]: Exile the top card of your library. You may cast that card. If you don’t, add RR.
+[-3]: Each player exiles all the cards in their hand, then draws that many cards.
+[-12]: Each player exiles the top four cards of their library. You may cast any number of nonland cards exiled with Vashla, Free Spirit without paying their mana costs.</text>
+</card>
+<card>
+ <name>Age of Titans</name>
+ <set picURL="PDX/Age of Titans.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+At the beginning of your precombat main phase, if you control a creature with the greatest power or tied for greatest,
+I — add GG.
+II — draw a card.
+III, IV, V, VI, C — creatures you control get +2/+2 and gain trample until end of turn.</text>
+</card>
+<card>
+ <name>Alarm Creeper</name>
+ <set picURL="PDX/Alarm Creeper.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Plant </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Alarm Creeper dies, create a 1/1 green Elf creature token with hexproof.</text>
+</card>
+<card>
+ <name>Alpha Authority</name>
+ <set picURL="PDX/Alpha Authority.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has hexproof and can’t be blocked by more than one creature.</text>
+</card>
+<card>
+ <name>Anachronise</name>
+ <set picURL="PDX/Anachronise.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put target artifact or enchantment into its owner’s library third from the top.</text>
+</card>
+<card>
+ <name>Ancient Promises</name>
+ <set picURL="PDX/Ancient Promises.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card for each creature card you own in your graveyard or in exile.</text>
+</card>
+<card>
+ <name>Ancient Raptor</name>
+ <set picURL="PDX/Ancient Raptor.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Ancient Raptor can’t be blocked by creatures with power 2 or less.</text>
+</card>
+<card>
+ <name>Ancient Tanadon</name>
+ <set picURL="PDX/Ancient Tanadon.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <type>Creature - Dinosaur Beast </type>
+ <pt>8/7</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Arboreal Echo</name>
+ <set picURL="PDX/Arboreal Echo.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Spider Monkey Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Reach
+Whenever Arboreal Echo blocks, it gains your choice of deathtouch or indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Atavistic Strength</name>
+ <set picURL="PDX/Atavistic Strength.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +3/+3.
+Unearth 3G (3G: Return this card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Borrowed Life</name>
+ <set picURL="PDX/Borrowed Life.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return up to two target cards from your graveyard to your hand. Discard two cards at the beginning of your next upkeep.</text>
+</card>
+<card>
+ <name>Bridled Dreadmaw</name>
+ <set picURL="PDX/Bridled Dreadmaw.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <type>Creature - Zombie Dinosaur </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Unearth 3G (3G: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Ambusher</name>
+ <set picURL="PDX/Buried Ambusher.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Zombie Warrior </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+You may activate Buried Ambusher’s unearth ability any time you could cast an instant.
+You may activate unearth abilities of cards in your graveyard any time you could cast an instant.
+Unearth 1G</text>
+</card>
+<card>
+ <name>Buried Druid</name>
+ <set picURL="PDX/Buried Druid.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Zombie Druid </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add C.
+Unearth 0 (0: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Hunter</name>
+ <set picURL="PDX/Buried Hunter.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Zombie Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Buried Hunter must be blocked if able.
+Unearth 5G (5G: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Hydra</name>
+ <set picURL="PDX/Buried Hydra.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>XGG</manacost>
+ <type>Creature - Zombie Hydra </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Buried Hydra enters the battlefield with a +1/+1 counter on it for each mana you spent this turn.
+Unearth XGG (XGG: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Interloper</name>
+ <set picURL="PDX/Buried Interloper.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Zombie Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Buried Interloper enters the battlefield, draw a card.
+Unearth 4G (4G: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Pet</name>
+ <set picURL="PDX/Buried Pet.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Zombie Snake </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Unearth 2G (2G: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Buried Sharpshooter</name>
+ <set picURL="PDX/Buried Sharpshooter.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Zombie Archer </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Buried Sharpshooter attacks, it deals damage equal to its power to target creature with flying an opponent controls.
+Unearth 1G (1G: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Commune with the Buried</name>
+ <set picURL="PDX/Commune with the Buried.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Mill three cards, then you may return a creature or land card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Dimensional Exploration</name>
+ <set picURL="PDX/Dimensional Exploration.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Paradox 5GG (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Hexproof
+At the beginning of your upkeep, reveal the top card of your library. If it’s a land card, put it onto the battlefield. Otherwise, put that card into your hand.</text>
+</card>
+<card>
+ <name>Druid of the Outer Reaches</name>
+ <set picURL="PDX/Druid of the Outer Reaches.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Elf Druid </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Untap target land.</text>
+</card>
+<card>
+ <name>Eldritch Evolution</name>
+ <set picURL="PDX/Eldritch Evolution.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature’s mana value. Put that card onto the battlefield, then shuffle. Exile Eldritch Evolution.</text>
+</card>
+<card>
+ <name>Indomitable Echo</name>
+ <set picURL="PDX/Indomitable Echo.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>8GG</manacost>
+ <type>Creature - Dinosaur Spirit </type>
+ <pt>7/6</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast for each time a creature you control attacked this turn.
+Trample, hexproof</text>
+</card>
+<card>
+ <name>Inexplicable Jaunt</name>
+ <set picURL="PDX/Inexplicable Jaunt.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap target creature. It gets +2/+2 until end of turn.
+Alter 2G (2G, Discard this card and another card: Draw two cards.)</text>
+</card>
+<card>
+ <name>Invade the Present</name>
+ <set picURL="PDX/Invade the Present.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature or pay 2.
+Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Mists of Time</name>
+ <set picURL="PDX/Mists of Time.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.</text>
+</card>
+<card>
+ <name>Origin of Species</name>
+ <set picURL="PDX/Origin of Species.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Enchantment - Era </type>
+ <tablerow>1</tablerow>
+ <text>
+Whenever you cast a creature spell,
+I, II, III — create a 0/0 green Ooze creature token, then put a put a +1/+1 counter on each Ooze you control.
+IV — remove all +1/+1 counters from any number of creatures you control, then draw a card for each counter removed this way.</text>
+</card>
+<card>
+ <name>Outer Reaches Explorer</name>
+ <set picURL="PDX/Outer Reaches Explorer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Elf Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Outer Reaches Explorer attacks for the first time each turn, untap it.</text>
+</card>
+<card>
+ <name>Past</name>
+ <set picURL="PDX/Past.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>5GGG</manacost>
+ <type>Creature - Incarnation </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>You may play cards from your graveyard.
+When Past or another card is put into your graveyard from anywhere, put it on top of your library unless you pay 1.</text>
+</card>
+<card>
+ <name>Prey Upon</name>
+ <set picURL="PDX/Prey Upon.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control fights target creature you don’t control.</text>
+</card>
+<card>
+ <name>Rot Elemental</name>
+ <set picURL="PDX/Rot Elemental.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Fungus Elemental </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+When Rot Elemental dies, you gain 1 life for each land you control.</text>
+</card>
+<card>
+ <name>Stampeding Echo</name>
+ <set picURL="PDX/Stampeding Echo.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Creature - Dinosaur Spirit </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever Stampeding Echo attacks, you may sacrifice it. If you do, creatures you control get +3/+3 and gain trample until end of turn.</text>
+</card>
+<card>
+ <name>Timbermaw Parasites</name>
+ <set picURL="PDX/Timbermaw Parasites.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Insect </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+G, Discard a land card: Timbermaw Parasites gets +2/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Time-Tunnel Wurm</name>
+ <set picURL="PDX/Time-Tunnel Wurm.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Creature - Wurm </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever Time-Tunnel Wurm attacks, you may return it to its owner’s hand. If you do, create an attacking 5/5 green Wurm creature token with trample.</text>
+</card>
+<card>
+ <name>Titan of the Outer Reaches</name>
+ <set picURL="PDX/Titan of the Outer Reaches.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <type>Creature - Elemental Giant </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Alter 3G (3G, Discard this card and another card: Draw two cards.)
+When you alter Titan of the Outer Reaches or it enters the battlefield, you may put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Unraveling Boon</name>
+ <set picURL="PDX/Unraveling Boon.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+Enchanted creature gets +4/+4.
+At the beginning of your upkeep, sacrifice a creature or Aura.</text>
+</card>
+<card>
+ <name>Valchuri Mystic</name>
+ <set picURL="PDX/Valchuri Mystic.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Elf Shaman </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell that targets Valchuri Mystic, put a +1/+1 counter on it and untap it.</text>
+</card>
+<card>
+ <name>Voracious Archelid</name>
+ <set picURL="PDX/Voracious Archelid.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Beast </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell that targets Voracious Archelid, it gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Warden of the Outer Reaches</name>
+ <set picURL="PDX/Warden of the Outer Reaches.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Elf Shaman </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Each creature you control that’s enchanted or a target of a spell you control has hexproof.</text>
+</card>
+<card>
+ <name>Whispers of the Buried</name>
+ <set picURL="PDX/Whispers of the Buried.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature you control
+When enchanted creature leaves the battlefield, create two 2/2 black Zombie creature tokens.</text>
+</card>
+<card>
+ <name>Ageless Master</name>
+ <set picURL="PDX/Ageless Master.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1RW</manacost>
+ <type>Creature - Human Monk </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)</text>
+</card>
+<card>
+ <name>Anchor Point</name>
+ <set picURL="PDX/Anchor Point.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1GW</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Damage that would reduce your life total to less than 1 reduces it to 1 instead.
+Exile Anchor Point: Your life total becomes 1 and can’t change this turn.</text>
+</card>
+<card>
+ <name>Arrive in the Past</name>
+ <set picURL="PDX/Arrive in the Past.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>XGU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Reveal cards from the bottom of your library until you reveal a nonland permanent card with mana value X or less. Put that card onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Buried Commander</name>
+ <set picURL="PDX/Buried Commander.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1WB</manacost>
+ <type>Creature - Zombie Knight </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Buried Commander or another creature enters the battlefield under your control, you gain 1 life.
+Whenever Buried Commander or another creature you control leaves the battlefield, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Buried Necromancer</name>
+ <set picURL="PDX/Buried Necromancer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>3BG</manacost>
+ <type>Creature - Zombie Shaman </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Unearth abilities of cards in your graveyard cost 2 less to activate.
+Unearth BG (BG: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Heretical Outcast</name>
+ <set picURL="PDX/Heretical Outcast.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>GU</manacost>
+ <type>Creature - Elf Warlock </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add G or U.
+4GU, T, Sacrifice Heretical Outcast: You gain 3 life and draw three cards.</text>
+</card>
+<card>
+ <name>Pattern Archangel</name>
+ <set picURL="PDX/Pattern Archangel.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>4RW</manacost>
+ <type>Creature - Angel </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)
+At the beginning of combat on your turn, creatures you control gain your choice of first strike, menace, trample, or lifelink until end of combat.</text>
+</card>
+<card>
+ <name>Pattern Outlander</name>
+ <set picURL="PDX/Pattern Outlander.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Creature - Human Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an spell that targets one or more creatures you control, put a +1/+1 counter on each of those creatures.</text>
+</card>
+<card>
+ <name>Pattern Sergeant</name>
+ <set picURL="PDX/Pattern Sergeant.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>2RW</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Accelerate (After the first combat phase on your turn, untap this creature. There is a second combat phase after the first one.)
+Whenever Pattern Sergeant attacks, attacking creatures you control get +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Portal Seeker</name>
+ <set picURL="PDX/Portal Seeker.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>UR</manacost>
+ <type>Creature - Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Paradox 2UR (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Whenever you pay a paradox cost, draw a card.
+T, Discard a card: Add CC. Spend this mana only to pay paradox costs.</text>
+</card>
+<card>
+ <name>Reap the Present</name>
+ <set picURL="PDX/Reap the Present.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1RG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Discard your hand. You may play any number of lands this turn. Until end of turn, play with the top card of your library revealed, and you may play cards from the top of your library.</text>
+</card>
+<card>
+ <name>Rift Sustainer</name>
+ <set picURL="PDX/Rift Sustainer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1UB</manacost>
+ <type>Creature - Wizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell during an opponent’s turn, you draw a card and gain 1 life.</text>
+</card>
+<card>
+ <name>Riftborn Fanatic</name>
+ <set picURL="PDX/Riftborn Fanatic.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1BR</manacost>
+ <type>Creature - Berserker </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Riftborn Fanatic or another creature enters the battlefield under your control, you may pay 1. If you do, that creature gets +2/+0 and gains menace until end of turn.</text>
+</card>
+<card>
+ <name>Riftborn Hypercharger</name>
+ <set picURL="PDX/Riftborn Hypercharger.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>3BR</manacost>
+ <type>Creature - Berserker </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Attacking creatures you control have double strike and menace.
+At the beginning of your end step, sacrifice each other creature you control.</text>
+</card>
+<card>
+ <name>Teferi, Redemption Seeker</name>
+ <set picURL="PDX/Teferi, Redemption Seeker.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>3WU</manacost>
+ <type>Legendary Planeswalker - Teferi </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Draw a card. Until your next turn, you may cast spells as though they had flash.
+[-3]: Return up to two target nonland permanents to their owners’ hands.
+[-8]: Exile all other nonland permanents. You get an emblem with “You may cast cards you own in exile.”</text>
+</card>
+<card>
+ <name>Teferi’s Reversion</name>
+ <set picURL="PDX/Teferi’s Reversion.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>3WU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return all nonland permanents to their owners’ hands. Each player chooses up to seven cards in their hand, then shuffles the rest into their library.</text>
+</card>
+<card>
+ <name>Timeline Manipulator</name>
+ <set picURL="PDX/Timeline Manipulator.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1UB</manacost>
+ <type>Creature - Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever you cast a spell during an opponent’s turn, you may pay 1. If you do, that player loses 1 life and you put a +1/+1 counter on Timeline Manipulator.</text>
+</card>
+<card>
+ <name>Timeline Protector</name>
+ <set picURL="PDX/Timeline Protector.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1WU</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, name a card, then look at the top card of your library. If that card has the chosen name, you may reveal it and put it into your hand. If you don’t put the card into your hand, scry 1.</text>
+</card>
+<card>
+ <name>Trophy Claimer</name>
+ <set picURL="PDX/Trophy Claimer.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1RG</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever Trophy Claimer attacks, target attacking creature with power 4 or greater must be blocked this combat if able.</text>
+</card>
+<card>
+ <name>Twist of Fate</name>
+ <set picURL="PDX/Twist of Fate.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>0</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Alter 1UR (1UR, Discard this card and another card: Draw two cards.)
+When Twist of Fate is put into your graveyard from anywhere, scry 2.</text>
+</card>
+<card>
+ <name>Undo Extinction</name>
+ <set picURL="PDX/Undo Extinction.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>1WB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return to the battlefield all creature cards in your graveyard that were put there from the battlefield this turn.</text>
+</card>
+<card>
+ <name>Vengeance of Fallen Kings</name>
+ <set picURL="PDX/Vengeance of Fallen Kings.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>2BG</manacost>
+ <type>Creature - Zombie Avatar </type>
+ <pt>6/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Vengeance of Fallen Kings enters the battlefield from your graveyard, destroy target nonland permanent.
+Unearth 5BG (5BG: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Xalinu, Master of Rifts</name>
+ <set picURL="PDX/Xalinu, Master of Rifts.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>2UURR</manacost>
+ <type>Legendary Creature - Wizard </type>
+ <pt>3/6</pt>
+ <tablerow>2</tablerow>
+ <text>You may cast spells as though they had flash.
+Spells you cast have paradox. The paradox cost is equal to their mana cost. (You may those cards without paying their mana cost. If you do, you can’t cast spells until you pay their paradox cost.)
+Other creatures you control have haste.</text>
+</card>
+<card>
+ <name>Yubgryn, Resentful Hermit</name>
+ <set picURL="PDX/Yubgryn, Resentful Hermit.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>M</color>
+ <manacost>3BG</manacost>
+ <type>Legendary Planeswalker - Yubgryn </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Mill the top three cards of your library. You may put a creature or land card milled this way into your hand.
+[-3]: Yubgryn, Resentful Hermit deals damage to target creature equal to the total number of creature cards you own in exile and in your graveyard.
+[-7]: Each opponent sacrifices half the permanents they control, rounded up.</text>
+</card>
+<card>
+ <name>Altar to the Unborn</name>
+ <set picURL="PDX/Altar to the Unborn.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact - Fragment </type>
+ <tablerow>1</tablerow>
+ <text>You may spend mana as though it were mana of any color, except to cast spells.
+T: Add C. You can’t spend this mana to cast a spell that’s one or more colors.</text>
+</card>
+<card>
+ <name>Baffling Curio</name>
+ <set picURL="PDX/Baffling Curio.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Fragment </type>
+ <tablerow>1</tablerow>
+ <text>When Baffling Curio enters the battlefield, scry 2.
+T, Sacrifice Baffling Curio: Add C.</text>
+</card>
+<card>
+ <name>Chronicle of the Buried</name>
+ <set picURL="PDX/Chronicle of the Buried.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Mill a card.
+6, T, Sacrifice Chronicle of the Buried: Return target creature card from your graveyard to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Corroded Bauble</name>
+ <set picURL="PDX/Corroded Bauble.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>1, T, Sacrifice Corroded Bauble: Exile target card from a graveyard. Draw a card.</text>
+</card>
+<card>
+ <name>Disjunction Blade</name>
+ <set picURL="PDX/Disjunction Blade.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Paradox 5 (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Equipped creature gets +3/+1.
+Equip 2</text>
+</card>
+<card>
+ <name>Eternity Engine</name>
+ <set picURL="PDX/Eternity Engine.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>7</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of combat on your turn, exile any number of creatures you control until Eternity Engine leaves the battlefield.
+At the beginning of your declare attackers step, for each creature card exiled with Eternity Engine, create a token that’s a copy of that card tapped and attacking.</text>
+</card>
+<card>
+ <name>Ixia’s Circlet</name>
+ <set picURL="PDX/Ixia’s Circlet.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Legendary Artifact - Fragment </type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each end step, if a nonland permanent entered the battlefield under your control this turn, scry 1.
+T, Sacrifice Ixia’s Circlet: Add C. If this mana is spent on a spell with mana value 8 or greater, that spell can’t be countered and you draw a card.</text>
+</card>
+<card>
+ <name>Kitesail</name>
+ <set picURL="PDX/Kitesail.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+0 and has flying.
+Equip 2</text>
+</card>
+<card>
+ <name>Prophetic Prism</name>
+ <set picURL="PDX/Prophetic Prism.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Prophetic Prism enters the battlefield, draw a card.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Riftborn Battlecruiser</name>
+ <set picURL="PDX/Riftborn Battlecruiser.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>6</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying, trample
+0: Riftborn Battlecruiser becomes an artifact creature until end of turn. At the beginning of your next upkeep, exile it unless you pay its crew cost. (This payment doesn’t make it a creature.)
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Riftrider Vessel</name>
+ <set picURL="PDX/Riftrider Vessel.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying, haste
+Paradox 4 (You may cast this card without paying its mana cost. If you do, you can’t cast spells until you pay its paradox cost.)
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Silvered Prototype</name>
+ <set picURL="PDX/Silvered Prototype.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Watch of Wrong Moments</name>
+ <set picURL="PDX/Watch of Wrong Moments.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever an opponent casts a spell during your turn, you may sacrifice Watch of Wrong Moments. If you do, counter that spell.</text>
+</card>
+<card>
+ <name>Buried Necropolis</name>
+ <set picURL="PDX/Buried Necropolis.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>You may have Buried Necropolis enter the battlefield tapped. If you don’t, return it to your hand at the beginning of the next end step.
+T: Add B or G.</text>
+</card>
+<card>
+ <name>Enigmatic Outpost</name>
+ <set picURL="PDX/Enigmatic Outpost.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T, Pay 2 life: Add CC. Activate only during your upkeep.</text>
+</card>
+<card>
+ <name>Marrow Chapel</name>
+ <set picURL="PDX/Marrow Chapel.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>You may have Marrow Chapel enter the battlefield tapped. If you don’t, return it to your hand at the beginning of the next end step.
+T: Add W or B.</text>
+</card>
+<card>
+ <name>Outer Reaches</name>
+ <set picURL="PDX/Outer Reaches.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>You may have Outer Reaches enter the battlefield tapped. If you don’t, return it to your hand at the beginning of the next end step.
+T: Add G or U.</text>
+</card>
+<card>
+ <name>Pattern Stronghold</name>
+ <set picURL="PDX/Pattern Stronghold.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>You may have Pattern Stronghold enter the battlefield tapped. If you don’t, return it to your hand at the beginning of the next end step.
+T: Add R or W.</text>
+</card>
+<card>
+ <name>Riftrider Station</name>
+ <set picURL="PDX/Riftrider Station.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>You may have Riftrider Station enter the battlefield tapped. If you don’t, return it to your hand at the beginning of the next end step.
+T: Add U or R.</text>
+</card>
+<card>
+ <name>Timeworn Cavern</name>
+ <set picURL="PDX/Timeworn Cavern.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2B, T: Each player discards a card. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Timeworn Cliff</name>
+ <set picURL="PDX/Timeworn Cliff.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2R, T: Timeworn Cliff deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Timeworn Plateau</name>
+ <set picURL="PDX/Timeworn Plateau.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1W, T: You gain 1 life.</text>
+</card>
+<card>
+ <name>Timeworn Riverbed</name>
+ <set picURL="PDX/Timeworn Riverbed.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2U, T: Scry 1.</text>
+</card>
+<card>
+ <name>Timeworn Woodland</name>
+ <set picURL="PDX/Timeworn Woodland.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+3G, T: Reveal the top card of your library. If it’s a land card, put it into your hand. Otherwise, put it into your graveyard.</text>
+</card>
+<card>
+ <name>Warped Landscape</name>
+ <set picURL="PDX/Warped Landscape.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2, T, Sacrifice Warped Landscape: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Plains</name>
+ <set picURL="PDX/Plains.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Island</name>
+ <set picURL="PDX/Island.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set picURL="PDX/Swamp.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set picURL="PDX/Mountain.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Forest</name>
+ <set picURL="PDX/Forest.full.jpg" picURLHq="" picURLSt="">PDX</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

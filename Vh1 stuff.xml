@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>VH1</name>
+<longname>Vintage Horizons</longname>
+<settype>Custom</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Norn's Tax</name>
+ <set rarity="rare">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Spells cost H more to cast. (H can be paid with either 1 or 2 life.)</text>
+</card>
+<card>
+ <name>Scion of Hogaak</name>
+ <set rarity="rare">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Skeleton Warlock </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Scion of Hogaak can’t block.
+You may cast Scion of Hogaak from your graveyard by exiling a black card from your graveyard in addition to its other costs.</text>
+</card>
+<card>
+ <name>Onatah, Anaba Shaman</name>
+ <set rarity="rare">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Creature - Minotaur Shaman </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, Onatah, Anaba Shaman deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Bazaar of Baghdad</name>
+ <set rarity="mythic">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Draw two cards, then discard three cards.</text>
+</card>
+
+<!-->Tokens</-->
+
+
+</cards>
+</cockatrice_carddatabase>

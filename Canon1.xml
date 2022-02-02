@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>CANON</name>
+<longname></longname>
+<settype></settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Bolas's Citadel</name>
+ <set rarity="rare">CANON</set>
+ <color>B</color>
+ <manacost>3BBB</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>You may look at the top card of your library any time.
+You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.
+T, Sacrifice ten nonland permanents: Each opponent loses 10 life.</text>
+</card>
+<card>
+ <name>Manifold Key</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>1, T: Untap another target artifact.
+3, T: Target creature can’t be blocked this turn.</text>
+</card>
+<card>
+ <name>Mishra's Bauble</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Mishra’s Bauble: Look at the top card of target player’s library. Draw a card at the beginning of the next turn’s upkeep.</text>
+</card>
+<card>
+ <name>Mox Opal</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Metalcraft — T: Add one mana of any color. Activate only if you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Pithing Needle</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Pithing Needle enters the battlefield, choose a card name.
+Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.</text>
+</card>
+<card>
+ <name>Sol Ring</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add CC.</text>
+</card>
+<card>
+ <name>Urza's Bauble</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Urza’s Bauble: Look at a card at random in target player’s hand. You draw a card at the beginning of the next turn’s upkeep.</text>
+</card>
+<card>
+ <name>Sensei's Divining Top</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>1: Look at the top three cards of your library, then put them back in any order.
+T: Draw a card, then put Sensei’s Divining Top on top of its owner’s library.</text>
+</card>
+<card>
+ <name>Emry, Lurker of the Loch</name>
+ <set rarity="rare">CANON</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Merfolk Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast for each artifact you control.
+When Emry, Lurker of the Loch enters the battlefield, mill four cards.
+T: Choose target artifact card in your graveyard. You may cast that card this turn. (You still pay its costs. Timing rules still apply.)</text>
+</card>
+<card>
+ <name>Sphinx of the Steel Wind</name>
+ <set rarity="mythic">CANON</set>
+ <color>WUB</color>
+ <manacost>5WUB</manacost>
+ <cmc>8</cmc>
+ <type>Artifact Creature - Sphinx </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, first strike, vigilance, lifelink, protection from red and from green</text>
+</card>
+<card>
+ <name>Thought Monitor</name>
+ <set rarity="rare">CANON</set>
+ <color>U</color>
+ <manacost>6U</manacost>
+ <cmc>7</cmc>
+ <type>Artifact Creature</type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Affinity for artifacts
+Flying
+When Thought Monitor enters the battlefield, draw two cards.</text>
+</card>
+<card>
+ <name>Urza, Lord High Artificer</name>
+ <set rarity="mythic">CANON</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Artificer </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Urza, Lord High Artificer enters the battlefield, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+Tap an untapped artifact you control: Add U.
+5: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.</text>
+</card>
+<card>
+ <name>Flusterstorm</name>
+ <set rarity="rare">CANON</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target instant or sorcery spell unless its controller pays 1.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
+</card>
+<card>
+ <name>Mental Misstep</name>
+ <set rarity="uncommon">CANON</set>
+ <color>U</color>
+ <manacost>H/U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>(H/U can be paid with either U or 2 life.)
+Counter target spell with mana value 1.</text>
+</card>
+<card>
+ <name>Seat of the Synod</name>
+ <set rarity="common">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add U.</text>
+</card>
+<card>
+ <name>Snow-Covered Island</name>
+ <set rarity="common">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Snow Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Tolarian Academy</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add U for each artifact you control.</text>
+</card>
+<card>
+ <name>Urza's Saga</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Enchantment Land - Urza’s Saga </type>
+ <tablerow>0</tablerow>
+ <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Urza’s Saga gains “T: Add C.”
+II — Urza’s Saga gains “2, T: Create a 0/0 colorless Construct artifact creature token with ‘This creature gets +1/+1 for each artifact you control.’”
+III — Search your library for an artifact card with mana cost 0 or 1, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Narset, Parter of Veils</name>
+ <set rarity="uncommon">CANON</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Narset </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>Each opponent can’t draw more than one card each turn.
+[-2]: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+</text>
+</card>
+<card>
+ <name>Sea Gate Restoration</name>
+ <set rarity="mythic" splitterPath="/Sea Gate Restoration.full.jpg" >CANON</set>
+ <color>U</color>
+ <related attach="attach">Sea Gate, Reborn</related>
+ <manacost>4UUU</manacost>
+ <cmc>7</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw cards equal to the number of cards in your hand plus one. You have no maximum hand size for the rest of the game.
+---
+(Back): Sea Gate, Reborn</text>
+</card>
+<card>
+ <name>Sea Gate, Reborn</name>
+ <set rarity="mythic" splitterPath="/Sea Gate, Reborn.full.jpg" >CANON</set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>7</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>As Sea Gate, Reborn enters the battlefield, you may pay 3 life. If you don’t, it enters the battlefield tapped.
+T: Add U.
+---
+(Front): Sea Gate Restoration</text>
+</card>
+<card>
+ <name>Thoughtcast</name>
+ <set rarity="common">CANON</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)
+Draw two cards.</text>
+</card>
+<card>
+ <name>Tinker</name>
+ <set rarity="uncommon">CANON</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice an artifact.
+Search your library for an artifact card, put that card onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Grafdigger's Cage</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Creature cards in graveyards and libraries can’t enter the battlefield.
+Players can’t cast spells from graveyards or libraries.</text>
+</card>
+<card>
+ <name>Soul-Guide Lantern</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Soul-Guide Lantern enters the battlefield, exile target card from a graveyard.
+T, Sacrifice Soul-Guide Lantern: Exile each opponent’s graveyard.
+1, T, Sacrifice Soul-Guide Lantern: Draw a card.</text>
+</card>
+<card>
+ <name>Dismember</name>
+ <set rarity="uncommon">CANON</set>
+ <color>B</color>
+ <manacost>1H/BH/B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -5/-5 until the end of turn.</text>
+</card>
+<card>
+ <name>Hurkyl's Recall</name>
+ <set rarity="rare">CANON</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return all artifacts target player owns to their hand.</text>
+</card>
+<card>
+ <name>Mystical Dispute</name>
+ <set rarity="uncommon">CANON</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spells costs 2 less to cast if it targets a blue spell.
+Counter target spell unless its controller pays 3.</text>
+</card>
+<card>
+ <name>Karn, the Great Creator</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Karn </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>Activated abilities of artifacts your opponents control can’t be activated.
+[+1]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
+[-2]: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.
+</text>
+</card>
+<card>
+ <name>Collector Ouphe </name>
+ <set rarity="rare">CANON</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Ouphe </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Activated abilities of artifacts can’t be activated.</text>
+</card>
+<card>
+ <name>Deathrite Shaman</name>
+ <set rarity="rare">CANON</set>
+ <color>BG</color>
+ <manacost>B/G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elf Shaman </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Exile target land card from a graveyard. Add one mana of any color.
+B, T: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.
+G, T: Exile target creature card from a graveyard. You gain 2 life.</text>
+</card>
+<card>
+ <name>Endurance</name>
+ <set rarity="mythic">CANON</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elemental Incarnation </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Reach
+When Endurance enters the battlefield, up to one target player puts all the cards from their graveyard on the bottom of their library in a random order.
+Evoke—Exile a green card from your hand.</text>
+</card>
+<card>
+ <name>Leovold, Emissary of Trest</name>
+ <set rarity="mythic">CANON</set>
+ <color>UBG</color>
+ <manacost>BGU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Elf Advisor </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Each opponent can’t draw more than one card each turn.
+Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card.</text>
+</card>
+<card>
+ <name>Tarmogoyf</name>
+ <set rarity="mythic">CANON</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Lhurgoyf </type>
+ <pt>*/*+1</pt>
+ <tablerow>2</tablerow>
+ <text>Tarmogoyf’s power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.</text>
+</card>
+<card>
+ <name>Sylvan Library</name>
+ <set rarity="common">CANON</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.</text>
+</card>
+<card>
+ <name>Abrupt Decay</name>
+ <set rarity="rare">CANON</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell can’t be countered.
+Destroy target nonland permanent with mana value 3 or less.</text>
+</card>
+<card>
+ <name>Assassin's Trophy</name>
+ <set rarity="rare">CANON</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Brainstorm</name>
+ <set rarity="common">CANON</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw three cards, then put two cards from your hand on top of your library in any order.</text>
+</card>
+<card>
+ <name>Dig Through Time</name>
+ <set rarity="rare">CANON</set>
+ <color>U</color>
+ <manacost>6UU</manacost>
+ <cmc>8</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Delve (Each card you exile from your graveyard while casting this spell pays for 1.)
+Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Force of Vigor</name>
+ <set rarity="rare">CANON</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>If it’s not your turn, you may exile a green card from your hand rather than pay this spell’s mana cost.
+Destroy up to two target artifacts and/or enchantments.</text>
+</card>
+<card>
+ <name>Force of Will</name>
+ <set rarity="mythic">CANON</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You may pay 1 life and exile a blue card from your hand rather than pay this spell’s mana cost.
+Counter target spell.</text>
+</card>
+<card>
+ <name>Misty Rainforest</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Strip Mine</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T, Sacrifice Strip Mine: Destroy target land.</text>
+</card>
+<card>
+ <name>Wasteland</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T, Sacrifice Wasteland: Destroy target nonbasic land.</text>
+</card>
+<card>
+ <name>Verdant Catacombs</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Oko, Thief of Crowns</name>
+ <set rarity="mythic">CANON</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Oko </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+2]: Create a Food token.
+[+1]: Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3.
+[-5]: Exchange control of target artifact or creature you control and target creature an opponent controls with power 3 or less.
+</text>
+</card>
+<card>
+ <name>Brazen Borrower</name>
+ <set rarity="mythic">CANON</set>
+ <color>U</color>
+ <manacost>1UU // 1U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Faerie Rogue  // Instant - Adventure </type>
+ <pt>3/1</pt>
+ <tablerow>3</tablerow>
+ <text>Flash
+Flying
+Brazen Borrower can block only creatures with flying.
+--- 
+Return target nonland permanent an opponent controls to its owner’s hand.</text>
+</card>
+<card>
+ <name>Fatal Push</name>
+ <set rarity="uncommon">CANON</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature if it has mana value 2 or less.
+Revolt — Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.</text>
+</card>
+<card>
+ <name>Ravenous Trap</name>
+ <set rarity="rare">CANON</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Instant - Trap </type>
+ <tablerow>3</tablerow>
+ <text>If an opponent had three or more cards put into their graveyard from anywhere this turn, you may pay 0 rather than pay this spell’s mana cost.
+Exile target player’s graveyard.</text>
+</card>
+<card>
+ <name>The Tabernacle at Pendrell Vale</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>All creatures have “At the beginning of your upkeep, destroy this creature unless you pay 1.”</text>
+</card>
+<card>
+ <name>Toxic Deluge</name>
+ <set rarity="rare">CANON</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, pay X life.
+All creatures get -X/-X until end of turn.</text>
+</card>
+<card>
+ <name>Chalice of the Void</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>XX</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Chalice of the Void enters the battlefield with X charge counters on it.
+Whenever a player casts a spell with mana value equal to the number of charge counters on Chalice of the Void, counter that spell.</text>
+</card>
+<card>
+ <name>Crucible of Worlds</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>You may play lands from your graveyard.</text>
+</card>
+<card>
+ <name>God-Pharaoh's Statue</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Spells your opponents cast cost 2 more to cast.
+At the beginning of your end step, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Mana Crypt</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.
+T: Add CC.</text>
+</card>
+<card>
+ <name>Mystic Forge</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>You may look at the top card of your library any time.
+You may cast artifact spells and colorless spells from the top of your library.
+T, Pay 1 life: Exile the top card of your library.</text>
+</card>
+<card>
+ <name>Relic of Progenitus</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Target player exiles a card from their graveyard.
+1, Exile Relic of Progenitus: Exile all graveyards. Draw a card.</text>
+</card>
+<card>
+ <name>Sphere of Resistance</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Spells cost 1 more to cast.</text>
+</card>
+<card>
+ <name>Thorn of Amethyst</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Noncreature spells cost 1 more to cast.</text>
+</card>
+<card>
+ <name>Golos, Tireless Pilgrim</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Artifact Creature - Scout </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.
+2WUBRG: Exile the top three cards of your library. You may play them this turn without paying their mana costs.</text>
+</card>
+<card>
+ <name>Lodestone Golem</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Golem </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Nonartifact spells cost 1 more to cast.</text>
+</card>
+<card>
+ <name>Phyrexian Revoker</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Phyrexian Horror </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>As Phyrexian Revoker enters the battlefield, choose a nonland card name.
+Activated abilities of sources with the chosen name can’t be activated.</text>
+</card>
+<card>
+ <name>Ancient Tomb</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add CC. Ancient Tomb deals 2 damage to you.</text>
+</card>
+<card>
+ <name>Ghost Quarter</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Inventor's Fair</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>At the beginning of your upkeep, if you control three or more artifacts, you gain 1 life.
+T: Add C.
+4, Sacrifice Inventors’ Fair: Search your library for an artifact card, reveal it, put it into your hand, then shuffle. Activate only if you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Karakas</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add W.
+T: Return target legendary creature to its owner’s hand.</text>
+</card>
+<card>
+ <name>Ensnaring Bridge</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Creatures with power greater than the number of cards in your hand can’t attack.</text>
+</card>
+<card>
+ <name>Mycosynth Lattice</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>All permanents are artifacts in addition to their other types.
+All cards that aren’t on the battlefield, spells, and permanents are colorless.
+Players may spend mana as though it were mana of any color.</text>
+</card>
+<card>
+ <name>Null Rod</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Activated abilities of artifacts can’t be activated.</text>
+</card>
+<card>
+ <name>Wurmcoil Engine</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Artifact Creature - Wurm </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch, lifelink
+When Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact creature token with lifelink.</text>
+</card>
+<card>
+ <name>Mindbreak Trap</name>
+ <set rarity="mythic">CANON</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Instant - Trap </type>
+ <tablerow>3</tablerow>
+ <text>If an opponent cast three or more spells this turn, you may pay 0 rather than pay this spell’s mana cost.
+Exile any number of target spells.</text>
+</card>
+<card>
+ <name>Bojuka Bog</name>
+ <set rarity="common">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Bojuka Bog enters the battlefield tapped.
+When Bojuka Bog enters the battlefield, exile target player’s graveyard.
+T: Add B.</text>
+</card>
+<card>
+ <name>Force of Negation</name>
+ <set rarity="rare">CANON</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>If it’s not your turn, you may exile a blue card from your hand rather than pay this spell’s mana cost.
+Counter target noncreature spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard.</text>
+</card>
+<card>
+ <name>Mystical Tutor</name>
+ <set rarity="rare">CANON</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.</text>
+</card>
+<card>
+ <name>Vampiric Tutor</name>
+ <set rarity="mythic">CANON</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a card, then shuffle and put that card on top. You lose 2 life.</text>
+</card>
+<card>
+ <name>Flooded Strand</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Polluted Delta</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Demonic Tutor</name>
+ <set rarity="rare">CANON</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a card, put that card into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Gitaxian Probe</name>
+ <set rarity="common">CANON</set>
+ <color>U</color>
+ <manacost>H/U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>(H/U can be paid with either U or 2 life.)
+Look at target player’s hand.
+Draw a card.</text>
+</card>
+<card>
+ <name>Blightsteel Colossus</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>12</manacost>
+ <cmc>12</cmc>
+ <type>Artifact Creature - Phyrexian Golem </type>
+ <pt>11/11</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, infect, indestructible
+If Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner’s library instead.</text>
+</card>
+<card>
+ <name>Path to Exile</name>
+ <set rarity="uncommon">CANON</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Karn, Scion of Urza</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Karn </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+[-1]: Put a card you own with a silver counter on it from exile into your hand.
+[-2]: Create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+</text>
+</card>
+<card>
+ <name>Archon of Emeria</name>
+ <set rarity="rare">CANON</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Archon </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Each player can’t cast more than one spell each turn.
+Nonbasic lands your opponents control enter the battlefield tapped.</text>
+</card>
+<card>
+ <name>Containment Priest</name>
+ <set rarity="rare">CANON</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+If a nontoken creature would enter the battlefield and it wasn’t cast, exile it instead.</text>
+</card>
+<card>
+ <name>Eldrazi Displacer</name>
+ <set rarity="rare">CANON</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Devoid Creature - Eldrazi </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>2C: Exile another target creature, then return it to the battlefield tapped under its owner’s control.</text>
+</card>
+<card>
+ <name>Luminarch Aspirant</name>
+ <set rarity="rare">CANON</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+ <name>Sanctifier en-Vec</name>
+ <set rarity="rare">CANON</set>
+ <color>W</color>
+ <manacost>WW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Protection from black and from red
+When Sanctifier en-Vec enters the battlefield, exile all cards that are black or red from all graveyards.
+If a black or red permanent, spell, or card not on the battlefield would be put into a graveyard, exile it instead.</text>
+</card>
+<card>
+ <name>Solitude</name>
+ <set rarity="mythic">CANON</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elemental Incarnation </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Lifelink
+When Solitude enters the battlefield, exile up to one other target creature. That creature’s controller gains life equal to its power.
+Evoke—Exile a white card from your hand.</text>
+</card>
+<card>
+ <name>Thalia, Guardian of Thraben</name>
+ <set rarity="rare">CANON</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Noncreature spells cost 1 more to cast.</text>
+</card>
+<card>
+ <name>Deafening Silence</name>
+ <set rarity="uncommon">CANON</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Each player can’t cast more than one noncreature spell each turn.</text>
+</card>
+<card>
+ <name>Arid Mesa</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Cavern of Souls</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>As Cavern of Souls enters the battlefield, choose a creature type.
+T: Add C.
+T: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can’t be countered.</text>
+</card>
+<card>
+ <name>Leyline of the Void</name>
+ <set rarity="rare">CANON</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.
+If a card would be put into an opponent’s graveyard from anywhere, exile it instead.</text>
+</card>
+<card>
+ <name>Nettlecyst</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +1/+1 for each artifact and/or enchantment you control.
+Equip 2</text>
+</card>
+<card>
+ <name>Arcbound Ravager</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Beast </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</text>
+</card>
+<card>
+ <name>Foundry Inspector</name>
+ <set rarity="common">CANON</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Artifact spells you cast cost 1 less to cast.</text>
+</card>
+<card>
+ <name>Stonecoil Serpent</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>X</manacost>
+ <cmc>0</cmc>
+ <type>Artifact Creature - Snake </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Reach, trample, protection from multicolored
+Stonecoil Serpent enters the battlefield with X +1/+1 counters on it.</text>
+</card>
+<card>
+ <name>Walking Ballista</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>XX</manacost>
+ <cmc>0</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Walking Ballista enters the battlefield with X +1/+1 counters on it.
+4: Put a +1/+1 counter on Walking Ballista.
+Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.</text>
+</card>
+<card>
+ <name>Skysovereign, Consul Flagship</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+Whenever Skysovereign, Consul Flagship enters the battlefield or attacks, it deals 3 damage to target creature or planeswalker an opponent controls.
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Eidolon of the Great Revel</name>
+ <set rarity="rare">CANON</set>
+ <color>R</color>
+ <manacost>RR</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment Creature - Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a player casts a spell with mana value 3 or less, Eidolon of the Great Revel deals 2 damage to that player.</text>
+</card>
+<card>
+ <name>Fury</name>
+ <set rarity="mythic">CANON</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elemental Incarnation </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+When Fury enters the battlefield, it deals 4 damage divided as you choose among any number of target creatures and/or planeswalkers.
+Evoke—Exile a red card from your hand.</text>
+</card>
+<card>
+ <name>Goblin Guide</name>
+ <set rarity="rare">CANON</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Goblin Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Goblin Guide attacks, defending player reveals the top card of their library. If it’s a land card, that player puts it into their hand.</text>
+</card>
+<card>
+ <name>Monastery Swiftspear</name>
+ <set rarity="uncommon">CANON</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Monk </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Prowess</text>
+</card>
+<card>
+ <name>Ragavan, Nimble Pilferer</name>
+ <set rarity="mythic">CANON</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Creature - Monkey Pirate </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player’s library. Until end of turn, you may cast that card.
+Dash 1R (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)</text>
+</card>
+<card>
+ <name>Roiling Vortex</name>
+ <set rarity="rare">CANON</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each player’s upkeep, Roiling Vortex deals 1 damage to them.
+Whenever a player casts a spell, if no mana was spent to cast that spell, Roiling Vortex deals 5 damage to that player.
+R: Your opponents can’t gain life this turn.</text>
+</card>
+<card>
+ <name>Fireblast</name>
+ <set rarity="common">CANON</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You may sacrifice two Mountains rather than pay this spell’s mana cost.
+Fireblast deals 4 damage to any target.</text>
+</card>
+<card>
+ <name>Chain Lightning</name>
+ <set rarity="uncommon">CANON</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Chain Lightning deals 3 damage to any target. Then that player or that permanent’s controller may pay RR. If the player does, they may copy this spell and may choose a new target for that copy.</text>
+</card>
+<card>
+ <name>Tormod's Crypt</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Tormod’s Crypt: Exile target player’s graveyard.</text>
+</card>
+<card>
+ <name>Pyroblast</name>
+ <set rarity="uncommon">CANON</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Counter target spell if it’s blue.
+• Destroy target permanent if it’s blue.</text>
+</card>
+<card>
+ <name>Red Elemental Blast</name>
+ <set rarity="common">CANON</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Counter target blue spell.
+• Destroy target blue permanent.</text>
+</card>
+<card>
+ <name>Scalding Tarn</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Dack Fayden</name>
+ <set rarity="mythic">CANON</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Dack </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Target player draws two cards, then discards two cards.
+[-2]: Gain control of target artifact.
+[-6]: You get an emblem with “Whenever you cast a spell that targets one or more permanents, gain control of those permanents.”
+</text>
+</card>
+<card>
+ <name>Wrenn and Six</name>
+ <set rarity="mythic">CANON</set>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Planeswalker - Wrenn </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Return up to one target land card from your graveyard to your hand.
+[-1]: Wrenn and Six deals 1 damage to any target
+[-7]: You get an emblem with “Instant and sorcery cards in your graveyard have retrace.”
+</text>
+</card>
+<card>
+ <name>Preordain</name>
+ <set rarity="common">CANON</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+</card>
+<card>
+ <name>Treasure Cruise</name>
+ <set rarity="common">CANON</set>
+ <color>U</color>
+ <manacost>7U</manacost>
+ <cmc>8</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Delve (Each card you exile from your graveyard while casting this spell pays for 1.)
+Draw three cards.</text>
+</card>
+<card>
+ <name>Basking Rootwalla</name>
+ <set rarity="common">CANON</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Lizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1G: Basking Rootwalla gets +2/+2 until end of turn. Activate only once each turn.
+Madness 0 (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+</card>
+<card>
+ <name>Grief</name>
+ <set rarity="mythic">CANON</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elemental Incarnation </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+When Grief enters the battlefield, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Evoke—Exile a black card from your hand.</text>
+</card>
+<card>
+ <name>Hollow One</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Golem </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 2 less to cast for each card you’ve cycled or discarded this turn.
+Cycling 2  (2, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Master of Death</name>
+ <set rarity="rare">CANON</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie Wizard </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Master of Death enters the battlefield, surveil 2.
+At the beginning of your upkeep, if Master of Death is in your graveyard, you may pay 1 life. If you do, return it to your hand.</text>
+</card>
+<card>
+ <name>Narcomoeba</name>
+ <set rarity="rare">CANON</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Illusion </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.</text>
+</card>
+<card>
+ <name>Prized Amalgam</name>
+ <set rarity="rare">CANON</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature enters the battlefield, if it entered from your graveyard or you cast it from your graveyard, return Prized Amalgam from your graveyard to the battlefield tapped at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Street Wraith</name>
+ <set rarity="uncommon">CANON</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Wraith </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)
+Cycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Vengevine</name>
+ <set rarity="mythic">CANON</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elemental </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever you cast a spell, if it’s the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Urborg, Tomb of Yawgmoth</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>Each land is a Swamp in addition to its other land types.</text>
+</card>
+<card>
+ <name>Mishra's Workshop</name>
+ <set rarity="mythic">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add CCC. Spend this mana only to cast artifact spells.</text>
+</card>
+<card>
+ <name>Noble Heirarch</name>
+ <set rarity="rare">CANON</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+T: Add G, W, or U.</text>
+</card>
+<card>
+ <name>Outland Liberator</name>
+ <set rarity="uncommon" splitterPath="/Outland Liberator.full.jpg" >CANON</set>
+ <color>G</color>
+ <related attach="attach">Frenzied Trapbreaker</related>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Werewolf </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>1, Sacrifice Outland Liberator: Destroy target artifact or enchantment.
+Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
+---
+(Back): Frenzied Trapbreaker</text>
+</card>
+<card>
+ <name>Frenzied Trapbreaker</name>
+ <set rarity="uncommon" splitterPath="/Frenzied Trapbreaker.full.jpg" >CANON</set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Creature - Werewolf </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>1, Sacrifice Frenzied Trapbreaker: 
+Destroy target artifact or enchantment.
+Whenever Frenzied Trapbreaker attacks, destroy target artifact or enchantment defending player controls.
+Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
+---
+(Front): Outland Liberator</text>
+</card>
+<card>
+ <name>Once Upon a Time</name>
+ <set rarity="rare">CANON</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>If this spell is the first spell you’ve cast this game, you may cast it without paying its mana cost.
+Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+</card>
+<card>
+ <name>Unclaimed Territory</name>
+ <set rarity="uncommon">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>As Unclaimed Territory enters the battlefield, choose a creature type.
+T: Add C.
+T: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.</text>
+</card>
+<card>
+ <name>Horizon Canopy</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add G or W.
+1, T, Sacrifice Horizon Canopy: Draw a card.</text>
+</card>
+<card>
+ <name>Mana Confluence</name>
+ <set rarity="rare">CANON</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life: Add one mana of any color.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Food Token</name>
+ <set>CANON</set>
+ <color></color>
+ <type>Token Artifact - Food </type>
+ <tablerow>1</tablerow>
+ <text>2, T, Sacrifice this artifact: You gain 3 life.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Construct Token</name>
+ <set>CANON</set>
+ <color></color>
+ <type>Token Artifact Creature - Construct </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>This creature gets +1/+1 for each artifact you control.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Wurm Token</name>
+ <set>CANON</set>
+ <color></color>
+ <type>Token Artifact Creature - Phyrexian Wurm </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Wurm Token</name>
+ <set>CANON</set>
+ <color></color>
+ <type>Token Artifact Creature - Phyrexian Wurm </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Germ Token</name>
+ <set>CANON</set>
+ <color>B</color>
+ <type>Token Creature - Phyrexian Germ </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

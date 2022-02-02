@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>PMTC TST</name>
+<longname>PH Test Decks</longname>
+<settype>CUSTOM</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Centennial Medic</name>
+ <set rarity="common">PMTC TST</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Bird Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Centennial Medic enters the battlefield, return a creature card with mana value 3 or less from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Culinary Artist</name>
+ <set rarity="common">PMTC TST</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Ox Citizen </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Culinary Artist attacks, you get E.</text>
+</card>
+<card>
+ <name>Exorcise Monstrosity</name>
+ <set rarity="common">PMTC TST</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one or both — 
+• Exile target creature you don’t control, then if its power is two or less, return it to the battlefield under its owner’s control.
+• Exile target creature you control, then return it to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Rhythmic Guitarist</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Bard </type>
+ <pt></pt>
+ <tablerow>2</tablerow>
+ <text>When Rhythmic Guitarist enters the battlefield, you get E.
+EEE, T: Exile target creature you control. Return it to the battlefield at the next end step.</text>
+</card>
+<card>
+ <name>Centennial Crossed Lover</name>
+ <set rarity="common">PMTC TST</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Centennial Crossed Lover enters the battlefield, gain control of target creature until end of turn. Untap it and it has haste until end of turn.</text>
+</card>
+<card>
+ <name>Energetic Bassist</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Bard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Energetic Bassist enters the battlefield, you get E.
+Pay E: Target creature has haste and loses defender until end of turn.</text>
+</card>
+<card>
+ <name>Rooftop Bystander</name>
+ <set rarity="common">PMTC TST</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Fox Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+2R, discard a card, T: Draw a card.
+When Rooftop Bystander leaves the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Tengu Fire Shifter</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bird Bard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, haste
+Whenever you gain one more E, Tengu Fire Shifter gets +1/+1 until end of turn.
+At the beginning of combat you may pay EEE: Return Tengu Fire Shifter from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>With All Our Heart</name>
+ <set rarity="mythic">PMTC TST</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>After your post combat main phase, there is an additional combat step and additional main phase for one less than the total number of members in your squad. (Your squad contains one creature of each color. Each creature counts as one color.)
+Creatures you control get +3./+3, have haste, trample and lose defender until end of turn. For the rest of the turn, you may only attack with one creature during combat.</text>
+</card>
+<card>
+ <name>Mark, Idol Singer</name>
+ <set rarity="uncommon" splitterPath="/Mark, Idol Singer.full.jpg" >PMTC TST</set>
+ <color>WR</color>
+ <related attach="attach">Mark, Magical Boy</related>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Bard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Mark, Idol Singer or another creature enters the battlefield under your control, you get E.
+3, pay EEE: Transform Mark, Idol Singer.
+---
+(Back): Mark, Magical Boy</text>
+</card>
+<card>
+ <name>Mark, Magical Boy</name>
+ <set rarity="uncommon" splitterPath="/Mark, Magical Boy.full.jpg" >PMTC TST</set>
+ <color>WR</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Warrior </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Whenever Mark, Magical Boy attacks, you may pay EE. When you do, exile another target creature you control, then return it to the battlefield tapped and attacking.
+---
+(Front): Mark, Idol Singer</text>
+</card>
+<card>
+ <name>Spiritfire</name>
+ <set rarity="common">PMTC TST</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast Spiritfire, return a creature you control its owner’s hand. 
+Spiritfire deals 3 damage to target permanent and you gain 3 life.</text>
+</card>
+<card>
+ <name>Yousei's Companion</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>M</color>
+ <manacost>3W/UU // G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elk  // </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Yousei’s Companion attacks, tap target creature. If you control a legendary druid, that creature doesn’t untap during it next untap step.
+--- 
+</text>
+</card>
+<card>
+ <name>Tanuki Caretaker</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>RG</color>
+ <manacost>4GR/G</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Racoon Bear </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>You may cast creature cards as though they had flash as long as they have a color that could join your squad. (Your squad contains one creature of each color. Each creature counts as one color.)
+At he beginning of combat on your turn, creatures with power 5 or greater gain trample until end of turn.</text>
+</card>
+<card>
+ <name>Yousei, Nature's Hero</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Druid </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+T: Add one mana of any color.
+4GU, T: Monstrify target creature you control. (Put two +1/+1 counters on it, then it becomes a Nightmare creature. Whenever you trigger an ability of it, copy it for each time its been monstrified.)</text>
+</card>
+<card>
+ <name>Monstrify Spell</name>
+ <set rarity="common">PMTC TST</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Monstrify target creature. It has hexproof until end of turn. (Put two +1/+1 counters on it, then it becomes a Nightmare creature. Whenever you trigger an ability of it, copy it for each time its been monstrified.)</text>
+</card>
+<card>
+ <name>Orochi Kaiju</name>
+ <set rarity="mythic">PMTC TST</set>
+ <color>G</color>
+ <manacost>4GGG</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Hydra </type>
+ <pt>10/10</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Orochi Kaiju attacks, create a 3/3 Snake creature token of the color of your choice.
+Whenever Orochi Kaiju is dealt damage, monstrify another target creature you control. (Put two +1/+1 counters on it. Its also a Nightmare.Whenever you trigger an ability of it, copy it for each time its been monstrified.)</text>
+</card>
+<card>
+ <name>Make My Monster Grow</name>
+ <set rarity="common">PMTC TST</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Monstrify target creature twice. (To monstrify it, put two +1/+1 counters on it, then it becomes a Nightmare creature. Whenever you trigger an ability of it, copy it for each time its been monstrified.)</text>
+</card>
+<card>
+ <name>Kitsune Protector</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fox Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance, reach
+Whenever Kitsune Protector deals damage to a player, destroy an artifact or enchantment they control.</text>
+</card>
+<card>
+ <name>Hot Springs Troop</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Monkey </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+During you untap setup, you may choose not to untap Hot Springs Troop. If you do, create a copy of Hot Springs Troop.</text>
+</card>
+<card>
+ <name>Friendly Kappa</name>
+ <set rarity="common">PMTC TST</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Turtle Spirit </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Friendly Kappa is dealt damage, search your library for a basic land and put into the battlefield tapped. Shuffle.</text>
+</card>
+<card>
+ <name>Soaring Cranes</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Bird </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Soaring Cranes attacks, another target creature gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Rhino Beetle</name>
+ <set rarity="common">PMTC TST</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Rhino Insect </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Rhino Beetle attacks, draw a card, then discard a card.</text>
+</card>
+<card>
+ <name>Fortune Granting Koi</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Fish </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Fortune Granting Koi deals combat damage to a player, draw a card.</text>
+</card>
+<card>
+ <name>Curious Bystander</name>
+ <set rarity="common">PMTC TST</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Curious Bystander enters the battlefield, scry 1.
+When Curious Bystander leaves the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Biology Student</name>
+ <set rarity="common">PMTC TST</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 2 less to cast if you control three or more non-human creatures. 
+Defender
+When Biology Student enters the battlefield, draw two cards.</text>
+</card>
+<card>
+ <name>Barrier Mage's Summon</name>
+ <set rarity="common">PMTC TST</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create two colorless 0/3 Barrier creature tokens.</text>
+</card>
+<card>
+ <name>City-Wide Kekkai</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Artifact - Structure </type>
+ <tablerow>1</tablerow>
+ <text>(Structures can be attacked like a player.)
+You have hexproof and can’t be attacked.
+At the beginning of your upkeep, you may sacrifice City-Wide Kekkai. If you do, destroy all creatures.</text>
+</card>
+<card>
+ <name>Containment Kekkai</name>
+ <set rarity="common">PMTC TST</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant Creature
+When Containment Kekkai enters the battlefield, hush the enchanted creature. (Hushed creatures are colorless and lose all abilities.)
+Enchanted creature can’t attack or block.</text>
+</card>
+<card>
+ <name>Innocent Bystander</name>
+ <set rarity="common">PMTC TST</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Innocent Bystander enters the battlefield, gain 3 life.
+When Innocent Bystander leaves the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Snow Witch</name>
+ <set rarity="common">PMTC TST</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Snow Witch enters the battlefield, hush a non-colorless creature you control. Then, you gain 1 life for each colorless creature. (Hushed creatures are colorless and lose all abilities.)</text>
+</card>
+<card>
+ <name>Tengu Kekkaishi</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Bird Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Tengu Kekkaishi enters the battlefield create a 0/3 colorless Barrier creature token.
+Whenever Tengu Kekkaishi attacks, another attacking creature gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Barrier Armor</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+The enchanted creature is colorless and gets +2/+4.
+If the enchanted creature would die, sacrifice Barrier Armor instead and the enchanted creature has indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Commencement of Festivities</name>
+ <set rarity="common">PMTC TST</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Prevent all combat damage dealt to players this turn.</text>
+</card>
+<card>
+ <name>Garden Oni</name>
+ <set rarity="common">PMTC TST</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Azra Druid </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender</text>
+</card>
+<card>
+ <name>Guardian Statue</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>6</cmc>
+ <type>Artifact Creature - Fox Spirit </type>
+ <pt>3/6</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When Guardian Statue enters the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Ana, Jaded Kekkaishi</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>WG</color>
+ <manacost>3GW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Shaman </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Colorless creatures you control deal damage equal to their toughness.
+Hush a creature you control, T: Remove target blocking or blocked creature from combat. Create a 0/3 colorless Barrier creature token replacing that creature. (Hushed creatures are colorless and lose all abilities.)</text>
+</card>
+<card>
+ <name>Apathetic Acceptance</name>
+ <set rarity="common">PMTC TST</set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Hush target non-colorless creature. Add one mana of any color for each non-artifact colorless creature you control. (Hushed creatures are colorless and lose all abilities.)</text>
+</card>
+<card>
+ <name>Soul of PLANE</name>
+ <set rarity="mythic" splitterPath="/Soul of PLANE.full.jpg" >PMTC TST</set>
+ <color>WUBRG</color>
+ <related attach="attach">Soul of Plane</related>
+ <manacost>5WUBRG</manacost>
+ <cmc>10</cmc>
+ <type>Legendary Creature - Avatar </type>
+ <pt>15/15</pt>
+ <tablerow>2</tablerow>
+ <text>As an additional cost to cast this spell, you may tap any number of creatures you control. For each creature tapped this way, this spell costs one mana of that creature’s color less to cast. (This can’t pay for 1)
+Flying, vigilance, trample
+---
+(Back): Soul of Plane</text>
+</card>
+<card>
+ <name>Soul of Plane</name>
+ <set rarity="mythic" splitterPath="/Soul of Plane.full.jpg" >PMTC TST</set>
+ <color></color>
+ <manacost>5CCCCC</manacost>
+ <cmc>10</cmc>
+ <type>Legendary Creature - Avatar </type>
+ <pt>5/15</pt>
+ <tablerow>2</tablerow>
+ <text>When you cast this spell, hush all non-colorless creatures. Each creature you hushed this way pays for C. (Hushed creatures are colorless and lose all abilities.)
+---
+(Front): Soul of PLANE</text>
+</card>
+<card>
+ <name>Ana's Apprentice</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>UG</color>
+ <manacost>2G/UG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Shaman </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+This spell costs 2 less to cast if your squad contains three or more creatures. (Your squad contains one creature of each color. Each creature counts as one color.)
+Reach</text>
+</card>
+<card>
+ <name>Ana's Familar</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>WB</color>
+ <manacost>1W/BW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Spirit Dog </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Ana’s Familar deals combat damage to a creature, hush it. (Hushed creatures are colorless and lose all abilities.)
+As long as you control a legendary shaman, Ana’s Familar can’t be blocked by colorless creatures.</text>
+</card>
+<card>
+ <name>Alien Assassin</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Cat Construct </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Alien Assassin enters the battlefield, you get E.
+When Alien Assassin dies, destroy target creature with mana value less than the amount of E you have.</text>
+</card>
+<card>
+ <name>Alien Collector</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Cat Construct </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Alien Collector enters the battlefield tapped.
+Whenever a creature dies, you may exile it. If you do, you get E.
+B: Return Alien Collector from the graveyard to the battlefield. Activate this ability only if you have five or more E. </text>
+</card>
+<card>
+ <name>Cataclysmic Warlock</name>
+ <set rarity="mythic">PMTC TST</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Nightmare Warlock </type>
+ <pt>*/*</pt>
+ <tablerow>2</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature. If you do, gain E equal to that creature’s power or toughness.
+Trample
+Cataclysmic Warlock’s power and toughness is equal to the amount of E you have.</text>
+</card>
+<card>
+ <name>Himeko's Strike</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, you may pay EEEEE.
+Destroy target creature. Then if you paid the additional cost, return it to the the battlefield under your control.</text>
+</card>
+<card>
+ <name>Late Night Bystander</name>
+ <set rarity="common">PMTC TST</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Vampire Citizen </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+T: Each player mills a card.
+When Late Night Bystander leaves the battlefield, return another creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Street Gang Recruit</name>
+ <set rarity="common">PMTC TST</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Azra Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever Street Gang Recruit attacks, you get E.</text>
+</card>
+<card>
+ <name>Alien Manipulation</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Monstrify target creature. Then if you have 10 or more E, monstrify it again. Then if you have 15 or more E, monstrify it again. (Put two +1/+1 counters on it. Its also a Nightmare.Whenever you trigger an ability of it, copy it for each time its been monstrified.)</text>
+</card>
+<card>
+ <name>Harnessed Spirit</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>R</color>
+ <manacost>2/RR</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Hush target creature. You get EEE. Then spend any amount of E. Harnessed Spirit deals that much damage to that creature. (Hushed creatures are colorless and lose all abilities.)</text>
+</card>
+<card>
+ <name>Mountain Oni</name>
+ <set rarity="common">PMTC TST</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Azra Warrior </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Mountain Oni becomes the target of a spell or ability, you get E. 
+As long as you have ten or more E, Mountain Oni can attack as if it didn’t have defender.</text>
+</card>
+<card>
+ <name>Street Artist</name>
+ <set rarity="common">PMTC TST</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Street Artist attacks, you get E.</text>
+</card>
+<card>
+ <name>Himeko, Seeking Company</name>
+ <set rarity="uncommon" splitterPath="/Himeko, Seeking Company.full.jpg" >PMTC TST</set>
+ <color>BR</color>
+ <related attach="attach">Himeko, Magical Girl</related>
+ <manacost>BR</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Citizen </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature dies, you get E.
+At the beginning of your end step, if you have five or more E, transform Himeko, Seeking Company. Then create a Phylactery,  an Equipment artifact token and equip it to Himeko. It has “The equipped creature has indestructible. If this leaves the battlefield, destroy the equipped creature.”
+---
+(Back): Himeko, Magical Girl</text>
+</card>
+<card>
+ <name>Himeko, Magical Girl</name>
+ <set rarity="uncommon" splitterPath="/Himeko, Magical Girl.full.jpg" >PMTC TST</set>
+ <color>BR</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Soldier </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you have ten or more E, Himeko, Magical Girl has menace.
+At the beginning of your end step, if you have 15 or more E, monstrify Himeko, Magical Girl. (Put two +1/+1 counters on it. Its a nightmare.Whenever you trigger an ability of it, copy it for each time its been monstrified.)
+---
+(Front): Himeko, Seeking Company</text>
+</card>
+<card>
+ <name>Magical Contract</name>
+ <set rarity="common">PMTC TST</set>
+ <color>BR</color>
+ <manacost>BR</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Hush target non-colorless creature you control. You get EE.  (Hushed creatures are colorless and lose all abilities.)
+Then if you have five or more E, create an artifact equipment Phylactery token equipped to the hushed creature. It has, “The equipped creature has indestructible. If this leaves the battlefield, destroy the equipped creature.”</text>
+</card>
+<card>
+ <name>Magical Knight</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>WB</color>
+ <manacost>W/BB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Whenever Magical Knight deals combat damage, if you control a legendary soldier, you get that much E.</text>
+</card>
+<card>
+ <name>Squad Tactician</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>UR</color>
+ <manacost>1U/RR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Advisor </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat, if you have three or more members in your squad, you get E.  (Your squad contains one creature of each color. Each creature counts as one color.)
+Whenever you gain one or more E, Squad Tactician gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Charming Keyboardist</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>M</color>
+ <manacost>3W/BW // G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Bard  // </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Charming Keyboardist enters the battlefield, choose one for each member of your squad. You can choose each more than once —
+• Scry 1.
+• You get E. 
+• Gain 3 life. 
+ (Your squad contains one creature of each color. Each creature counts as one color.)
+--- 
+</text>
+</card>
+<card>
+ <name>Drummoner</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>UR</color>
+ <manacost>3U/RR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Bard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Drummoner enters the battlefield, create a token copy of another target creature not named Drummoner you control except it has haste. Exile the token at the end of turn.</text>
+</card>
+<card>
+ <name>Reflective Bystander</name>
+ <set rarity="common">PMTC TST</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Fox Shaman </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Reflective Bystander enters the battlefield, mill three cards, then return a land from your graveyard to your hand. 
+When Reflective Bystander leaves the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Black Armor</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has base power and toughness 4/4, has deathtouch, and “Whenever one or more other creatures die, draw a card. This ability triggers only once each turn.”
+Equip 1B</text>
+</card>
+<card>
+ <name>Finishing Blow</name>
+ <set rarity="common">PMTC TST</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Street Gang Lookout</name>
+ <set rarity="common">PMTC TST</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Street Gang Lookout enters the battlefield, look at the top card of your library. You may put it into your graveyard.</text>
+</card>
+<card>
+ <name>Street Gang Patron</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Demon </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Sacrifice a creature or an artifact: Draw a card.
+You may cast creature and equipment cards from your graveyard. When those cards would leave the battlefield, exile them instead.</text>
+</card>
+<card>
+ <name>Green Armor</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>The equipped creature’s base power and toughness is 6/6  has trample, and “Whenever this creature deals combat damage to a player, destroy target artifact or enchantment they control.”
+Equip 1G</text>
+</card>
+<card>
+ <name>Street Gang General</name>
+ <set rarity="rare">PMTC TST</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature</type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an equipment enters the battlefield, if you don’t control a 1/1 colorless Azra creature token, create one. You may attach the equipment to it. </text>
+</card>
+<card>
+ <name>Swordcraft Traditionalist</name>
+ <set rarity="common">PMTC TST</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Azra Monk </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>1G, Sacrifice an equipment attached to Swordcraft Traditionalist, T: Swordcraft Traditionalist deals damage equal to its power to target creature you don’t control.</text>
+</card>
+<card>
+ <name>Armor of the One</name>
+ <set rarity="mythic">PMTC TST</set>
+ <color>WUBRG</color>
+ <manacost>W/BU/BB/GB/R</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Whenever equipped creature attacks alone, it gets +2/+2 for each other creature you control.
+The equipped creature has deathtouch if you control another creature with deathtouch. The same is true for flying, lifelink, menace, and trample. 
+Equip 3</text>
+</card>
+<card>
+ <name>Hard Working Barista</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>UB</color>
+ <manacost>2U/BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Ox Citizen </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever Hard Working Barista deals combat damage to a player, draw a card.
+As long as you control a legendary Samurai, Hard Working Barista is a Warrior and can’t be blocked. </text>
+</card>
+<card>
+ <name>Demon Gang Shield</name>
+ <set rarity="common">PMTC TST</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +0/+2 and has “When this creature become blocked, Demon Gang Shield deals 1 the blocking creature’s controller.”
+Equip 2</text>
+</card>
+<card>
+ <name>Aquisition Expert</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>BR</color>
+ <manacost>1BB/R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Equipment spells and equip cost are reduced by 1 for each member of your squad. (Your squad contains one creature of each color. Each creature counts as one color.)</text>
+</card>
+<card>
+ <name>Scoped Bow</name>
+ <set rarity="common">PMTC TST</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has +2/+1 and reach.
+Equip G</text>
+</card>
+<card>
+ <name>Hoshi, Part-Time Samurai</name>
+ <set rarity="uncommon">PMTC TST</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Azra Samurai </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Pay 1 life, T: Add G or B. Spend this only to pay equip costs or cast artifact spells.
+If an equipped creature you control would die, sacrifice an equipment attached to it instead.</text>
+</card>
+<card>
+ <name>Island</name>
+ <set rarity="common">PMTC TST</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set rarity="common">PMTC TST</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Plains</name>
+ <set rarity="common">PMTC TST</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Forest</name>
+ <set rarity="common">PMTC TST</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set rarity="common">PMTC TST</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+
+<!-->Tokens</-->
+
+
+</cards>
+</cockatrice_carddatabase>

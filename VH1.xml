@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>VH1</name>
+<longname>Vintage Horizons</longname>
+<settype>Custom</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Fridius, Telemin Master</name>
+ <set rarity="rare">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Artifact Creature - Vedalken Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>At the end of each player’s untap step, for each other untapped artifact or enchantment that player controls, tap that permanent unless they pay 1.
+Other artifacts and enchantments have no abilities as long as they are tapped.</text>
+</card>
+<card>
+ <name>Mox Pearl</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add W.</text>
+</card>
+<card>
+ <name>Mox Jet</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add B.</text>
+</card>
+<card>
+ <name>Mox Ruby</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add R.</text>
+</card>
+<card>
+ <name>Mox Emerald</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add G.</text>
+</card>
+<card>
+ <name>Black Lotus</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Black Lotus: Add three mana of any one color. </text>
+</card>
+<card>
+ <name>Time Marauder</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost>X</manacost>
+ <cmc>0</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vanishing X (This creature enters the battlefield with X time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+Whenever you remove a time counter from Time Marauder, put a +1/+1 counter on another creature you control.</text>
+</card>
+<card>
+ <name>Chandra, Consulate Enforcer</name>
+ <set rarity="rare" splitterPath="/Chandra, Consulate Enforcer.full.jpg" >VH1</set>
+ <color>U</color>
+ <related attach="attach">Chandra, Harsh Suppressor</related>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a blue spell, untap Chandra, Consulate Enforcer.
+T: Tap up to one target creature. If this ability was activated three or more times this turn, exile Chandra, then return her to the battlefield transformed under her owner’s control.
+---
+(Back): Chandra, Harsh Suppressor</text>
+</card>
+<card>
+ <name>Chandra, Harsh Suppressor</name>
+ <set rarity="rare" splitterPath="/Chandra, Harsh Suppressor.full.jpg" >VH1</set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Chandra </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Scry 1, then draw a card.
+[-2]: Tap target permanent. It doesn’t untap during its controller’s next untap step.
+[-7]: Tap all permanents you don’t control. Each opponent gets an emblem with “You can’t untap more than one permanent during your untap step.”
+---
+(Front): Chandra, Consulate Enforcer</text>
+</card>
+<card>
+ <name>Mox Sapphire</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add U.</text>
+</card>
+<card>
+ <name>Mishra, Phyrexian Pawn</name>
+ <set rarity="rare">VH1</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Phyrexian Artificer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>T, Sacrifice an artifact: Add CCC. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+Whenever an artifact card is put into a graveyard from anywhere, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Yawgmoth's Will</name>
+ <set rarity="mythic">VH1</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, you may play lands and cast spells from your graveyard.
+If a card would be put into your graveyard from anywhere this turn, exile that card instead.</text>
+</card>
+<card>
+ <name>Reveler's Scorn</name>
+ <set rarity="rare">VH1</set>
+ <color>R</color>
+ <manacost>RR</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever an opponent casts a noncreature spell, Reveler’s Scorn deals 2 damage to that player.</text>
+</card>
+<card>
+ <name>Iona, Shield of Tazeem</name>
+ <set rarity="rare">VH1</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Angel </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Your opponents can’t cast artifact spells.</text>
+</card>
+<card>
+ <name>Greensleeves, Vindictive Archdruid</name>
+ <set rarity="rare">VH1</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Druid </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Ward—Sacrifice an untapped land.
+Activated abilities can’t be activated unless they’re mana abilities.</text>
+</card>
+<card>
+ <name>Cleaner's Servant</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Scarecrow </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>All cards that aren’t on the battlefield, spells, and permanents are colorless.</text>
+</card>
+<card>
+ <name>Enlightened Tutor</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.</text>
+</card>
+<card>
+ <name>lava barb</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>lava barb deals 2 damage to target player or planeswalker.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Lightning Bolt</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Lightning Bolt deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>Cathar Commando</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+1, Sacrifice Cathar Commando: Destroy target artifact or enchantment.</text>
+</card>
+<card>
+ <name>Swords to Plowshares</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Its controller gains life equal to its power.</text>
+</card>
+<card>
+ <name>Ponder</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top three cards of your library, then put them back in any order. You may shuffle.
+Draw a card.</text>
+</card>
+<card>
+ <name>Vault of Whispers</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add B.</text>
+</card>
+<card>
+ <name>Ancient Den</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add W.</text>
+</card>
+<card>
+ <name>Seas of the Unknown</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Locus </type>
+ <tablerow>0</tablerow>
+ <text>T: Add U.
+1U, T: Look at the top three cards of your library, then put them back in any order. You may shuffle.</text>
+</card>
+<card>
+ <name>Excavation Site</name>
+ <set rarity="rare">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Desert </type>
+ <tablerow>0</tablerow>
+ <text>T: Add W.
+1W, T: Return target artifact or enchantment from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Time Walk</name>
+ <set rarity="mythic">VH1</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Take an extra turn after this one.</text>
+</card>
+<card>
+ <name>Price of Progress</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.</text>
+</card>
+<card>
+ <name>Veil of Summer</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can’t be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn.</text>
+</card>
+<card>
+ <name>Mana Magnet</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell if it’s colorless or if its mana value is greater than the number of lands its controller controls.</text>
+</card>
+<card>
+ <name>Lotus Petal</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Lotus Petal: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Time Vault</name>
+ <set rarity="mythic">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Time Vault enters the battlefield tapped.
+Time Vault doesn’t untap during your untap step.
+If you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.
+T: Take an extra turn after this one.</text>
+</card>
+<card>
+ <name>Ancestral Recall</name>
+ <set rarity="mythic">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target player draws three cards.</text>
+</card>
+
+<!-->Tokens</-->
+
+
+</cards>
+</cockatrice_carddatabase>

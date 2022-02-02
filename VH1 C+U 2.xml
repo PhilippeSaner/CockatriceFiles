@@ -1,0 +1,2554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>VH1</name>
+<longname>Vintage Horizons</longname>
+<settype>Custom</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Dwarven Jeweler</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Dwarf Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+T: Untap another target nonland permanent.</text>
+</card>
+<card>
+ <name>Shard of the Winter Moon</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Shard </type>
+ <tablerow>1</tablerow>
+ <text>Nonbasic lands enter the battlefield tapped.
+2, Sacrifice Shard of the Winter Moon: Scry 1, then draw a card.</text>
+</card>
+<card>
+ <name>Void Trap</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment Planeswalker</type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>(Void Trap isn’t legendary)
+When Void Trap enters the battlefield, exile target nonland permanent until Void Trap leaves the battlefield.
+They discovered that the extracted spark’s connection to the Blind Eternities could be harnessed, creating a cage that defied all reason.
+</text>
+</card>
+<card>
+ <name>Ivory Armor</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Enchantment - Aura Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+1 and has lifelink.
+As long as Ivory Armor isn’t attached to a creature, it doesn’t have “Enchant creature” and it isn’t an Aura.
+Equip 2</text>
+</card>
+<card>
+ <name>metal dragon</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Drake </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever metal dragon becomes tapped, scry 1, then gain 1 life.</text>
+</card>
+<card>
+ <name>what have you done with my face</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment Creature - Illusion </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>As long as what have you done with my face is untapped, prevent all combat damage that would be dealt to and dealt by what have you done with my face.</text>
+</card>
+<card>
+ <name>Workshop Guardian</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Dragon Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>T, Tap another creature or artifact you control: Target creature gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>ench reanimator</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Creature</type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When ench reanimator enters the battlefield, return target enchantment from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Bewitched Kavu</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Kavu </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Bewitched Kavu enters the battlefield, draw a card. Then if you control an enchantment, you gain 3 life.</text>
+</card>
+<card>
+ <name>Enlightened Tutor</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.</text>
+</card>
+<card>
+ <name>Ondu Battle Priest</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment Creature - Kor Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Ondu Battle Priest becomes untapped, put a +1/+1 counter on up to two target creatures you control.</text>
+</card>
+<card>
+ <name>look at my cool fire tornado</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+0 until end of turn.
+Exile the top card of your library. Until the end of your next end step, you may play that card.</text>
+</card>
+<card>
+ <name>yo, look at all these dead dudes</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create four 1/1 red Minotaur Spirit creature tokens. They gain “This can’t block.”</text>
+</card>
+<card>
+ <name>lava barb</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>lava barb deals 2 damage to target player or planeswalker.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Lightning Bolt</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Lightning Bolt deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>Young Pyromancer</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.</text>
+</card>
+<card>
+ <name>look at the big worm, ma</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Hellion </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, you may have look at the big worm, ma deal 1 damage to target player or planeswalker. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>Orcish Hunting Party</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Orc Ranger </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+When Orcish Hunting Party enters the battlefield, create two 2/2 red Orc creature tokens with menace.</text>
+</card>
+<card>
+ <name>minotaur rummager</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Minotaur Berserker </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more tokens enter the battlefield under your control, discard a card, then draw a card. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>angy minotaur</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Minotaur Shaman </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever you cast a noncreature spell, angy minotaur deals 1 damage to each opponent, then scry 1.</text>
+</card>
+<card>
+ <name>Burstfire Elemental</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental Elk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste
+Whenever you cast a spell, Burstfire Elemental gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>seal of anarchy</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Sacrifice seal of anarchy: Return target sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>yooo monke</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Monkey </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text>When yooo monke enters the battlefield, create a Treasure token.
+yooo monke gets +1/+0 for each token you control.</text>
+</card>
+<card>
+ <name>piggyback rider</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Goblin Warrior </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>When piggyback rider enters the battlefield, create a 1/1 red Goblin creature token.</text>
+</card>
+<card>
+ <name>Grapeshot</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Grapeshot deals 1 damage to any target.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
+</card>
+<card>
+ <name>Simian Spirit Guide</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Ape Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Exile Simian Spirit Guide from your hand: Add R.</text>
+</card>
+<card>
+ <name>Cathar Commando</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+1, Sacrifice Cathar Commando: Destroy target artifact or enchantment.</text>
+</card>
+<card>
+ <name>Swords to Plowshares</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Its controller gains life equal to its power.</text>
+</card>
+<card>
+ <name>Evaporating Winds</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature to its owner’s hand.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
+</card>
+<card>
+ <name>lighthouse crab</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Crab </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast or copy an instant or sorcery spell, target creature loses all abilities and becomes a blue Crab until end of turn.</text>
+</card>
+<card>
+ <name>fae fountain</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast or copy an instant or sorcery spell, fae fountain becomes a 2/1 blue Faerie creature with flying in addition to its other types and abilities until end of turn.
+U, Sacrifice fae fountain: Scry 1</text>
+</card>
+<card>
+ <name>brainstorm at home</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards. If this spell was cast from your hand, put two cards from your hand on top of your library in any order.
+Flashback 1U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>club bouncer</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When club bouncer enters the battlefield, you may return two artifacts to their owner’s hand. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Ponder</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top three cards of your library, then put them back in any order. You may shuffle.
+Draw a card.</text>
+</card>
+<card>
+ <name>angrey servo</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Servo </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an artifact spell, target creature an opponent controls gets -3/-0 until the beginning of your next turn. This ability triggers only once per turn.</text>
+</card>
+<card>
+ <name>Reconnaissance Thopter</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Thopter </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+U: The next time an artifact creature you control would deal combat damage, you may draw a card instead. Activate only once each turn.</text>
+</card>
+<card>
+ <name>ice wizard</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Dragon Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+</card>
+<card>
+ <name>some cool rocks me and my buddies found</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Eye </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>some cool rocks me and my buddies found has flying as long as you’ve cast a noncreature spell this turn.</text>
+</card>
+<card>
+ <name>Counterspell</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>UU</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell.</text>
+</card>
+<card>
+ <name>Dimir Operative</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Skulk (This creature can’t be blocked by creatures with greater power.)
+Whenever you cast or copy a noncreature spell, you may surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>Colorful Fishes</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Fish </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Colorful Fishes can’t be blocked.
+When Colorful Fishes enters the battlefield, scry 2.</text>
+</card>
+<card>
+ <name>High Tide</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Until end of  turn, whenever a player taps an Island for mana, that player adds an additional U.</text>
+</card>
+<card>
+ <name>Land Tax</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Peregrine Drake</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Drake </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Peregrine Drake enters the battlefield, untap up to five lands.</text>
+</card>
+<card>
+ <name>Hymn to Tourach</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player discards two cards at random.</text>
+</card>
+<card>
+ <name>Mud-Digger Initiate</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>T, Exile two land cards from your graveyard: You draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>Sinkhole</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target land.</text>
+</card>
+<card>
+ <name>accursed centaur callback</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Centaur Zombie Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When accursed centaur callback enters the battlefield, sacrifice an artifact, creature, or land.</text>
+</card>
+<card>
+ <name>Swamp Rat</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Rat Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Swamp Rat can’t block.
+CB03 — Swamp Rat is a Swamp land in addition to its other types as long as it’s not in your hand.</text>
+</card>
+<card>
+ <name>Basilica Haunter</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land Creature - Swamp Specter </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>(Basilica Haunter isn’t a spell, it’s affected by summoning sickness, and it has “T: Add B.”)
+If Basilica Haunter would enter the battlefield, pay 2B instead. If you do, put Basilica Haunter onto the battlefield. If you don’t, put it into its owner’s graveyard.</text>
+</card>
+<card>
+ <name>Salvage Slasher</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Human Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Salvage Slasher gets +1/+0 for each artifact card in your graveyard.</text>
+</card>
+<card>
+ <name>scrap moncher</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Vampire </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When scrap moncher enters the battlefield, create a Blood token.
+1, Sacrifice an artifact: scrap moncher gains lifelink until end of turn. </text>
+</card>
+<card>
+ <name>edgy boi</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Human Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+1B, Sacrifice an artifact: Target opponent loses 1 life and you gain 1 life.</text>
+</card>
+<card>
+ <name>stone pigge</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Boar </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>You may cast this spell from your graveyard by exiling two lands from your graveyard in addition to its other costs</text>
+</card>
+<card>
+ <name>sign in whispers</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target player draw two cards and loses 2 life.</text>
+</card>
+<card>
+ <name>Yixlid Lock</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Creatures can’t leave graveyards.
+T, Sacrifice Yixlid Lock: Exile target player’s graveyard.</text>
+</card>
+<card>
+ <name>pile of gold</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When pile of gold enters the battlefield or is put into your graveyard from anywhere, create a Treasure token.</text>
+</card>
+<card>
+ <name>Etherium Shards</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice an artifact, discard an artifact card or pay 2B.
+Exile target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Disciple of the Vault</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.</text>
+</card>
+<card>
+ <name>Gaea's Touch</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>GG</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>0: You may put a basic Forest card from your hand onto the battlefield. Activate only as a sorcery and only once each turn.
+Sacrifice Gaea’s Touch: Add GG.</text>
+</card>
+<card>
+ <name>Crop Rotation</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a land.
+Search your library for a land card, put that card onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Quirion Ranger</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elf Ranger </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Return a Forest you control to its owner’s hand: Untap target creature. Activate only once each turn.</text>
+</card>
+<card>
+ <name>Grapple with the Past</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Mill three cards, then you may return a creature or a land card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>echo of oko</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a Forest card, put it onto the battlefield, then shuffle. You may have it become a 2/2 Elk creature with haste in addition to its other types and abilities.</text>
+</card>
+<card>
+ <name>land aura</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant Forest
+When land aura enters the battlefield, untap enchanted Forest.
+Enchanted Forest is a 2/2 green Elemental Bear creature in addition to its other types.</text>
+</card>
+<card>
+ <name>bear of the forest</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bear Beast Berserker Warrior </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>bear of the forest is a Forest land in addition to its other types as long as it’s not in your hand.</text>
+</card>
+<card>
+ <name>apparition of the woods</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment Creature - Illusion </type>
+ <pt>*/4</pt>
+ <tablerow>2</tablerow>
+ <text>apparition of the woods’s power is equal to the number of Forests you control.</text>
+</card>
+<card>
+ <name>naga hunter</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Naga Mercenary </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat, if there are four or more creature types among creatures you control, until end of turn you may have naga hunter deal combat damage as though it weren’t blocked.</text>
+</card>
+<card>
+ <name>Frenzied Gorilla</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Ape </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste; trample; rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+Frenzied Gorilla must be blocked by two or more creatures if able.</text>
+</card>
+<card>
+ <name>dino</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment Creature - Dinosaur Skeleton </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When dino enters the battlefield, if there are four or more creature types among creatures you control, dino gets +1+1 until end of turn. Then you may have it fight target creature you don’t control. </text>
+</card>
+<card>
+ <name>crocodile on legs</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Viashino Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Forest enters the battlefield under your control, crocodile on legs gets +1/+1 and trample until end of turn.</text>
+</card>
+<card>
+ <name>Naya Outrider</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Ranger </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Naya Outrider enters the battlefield, look at the top three cards of your library. You may reveal a Forest or a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Velis Vel Hermit</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Shapeshifter </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Changeling (This card is every creature type.)
+Reach
+T: Untap target Forest.</text>
+</card>
+<card>
+ <name>Menagerie Guardian</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature enters the battlefield under your control, if it doesn’t share a creature type with Menagerie Guardian, put a +1/+1 counter on that creature.</text>
+</card>
+<card>
+ <name>Badlands</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or R.)</text>
+</card>
+<card>
+ <name>Volcanic Island</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Island Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add U or R.)</text>
+</card>
+<card>
+ <name>Underground Sea</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Island Swamp </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add U or B.)</text>
+</card>
+<card>
+ <name>Tundra</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Plains Island </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or U.)</text>
+</card>
+<card>
+ <name>Tropical Island</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Forest Island </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G or U.)</text>
+</card>
+<card>
+ <name>Taiga</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Mountain Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or G.)</text>
+</card>
+<card>
+ <name>Savannah</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Forest Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G or W.)</text>
+</card>
+<card>
+ <name>Plateau</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Mountain Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or W.)</text>
+</card>
+<card>
+ <name>Bayou</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Swamp Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or G.)</text>
+</card>
+<card>
+ <name>Scrubland</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Plains Swamp </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or B.)</text>
+</card>
+<card>
+ <name>Vault of Whispers</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add B.</text>
+</card>
+<card>
+ <name>goiblin mine</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Mine </type>
+ <tablerow>0</tablerow>
+ <text>goiblin mine enters the battlefield tapped.
+When goiblin mine enters the battlefield, create a 1/1 red Goblin creature token.
+T: Add R.</text>
+</card>
+<card>
+ <name>Ancient Den</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add W.</text>
+</card>
+<card>
+ <name>Navigator's Cabin</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Lair </type>
+ <tablerow>0</tablerow>
+ <text>T: Add G.
+T: Another target land you control becomes the basic land type of your choice in addition to its other types until end of turn.</text>
+</card>
+<card>
+ <name>mystic marshes</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>mystic marshes enters the battlefield tapped.
+When mystic marshes enters the battlefield, you may pay 1. If you do, return target instant or sorcery from your graveyard to your hand.
+T: Add U.</text>
+</card>
+<card>
+ <name>Crucius, Etherium Master</name>
+ <set rarity="uncommon">VH1</set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Artifact Creature - Sphinx </type>
+ <pt>*/*</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Crucius, Etherium Master’s power and toughness are each equal to the number of artifacts and enchantments you control.
+WU: Create a 1/1 colorless Thopter artifact creature token with flying.</text>
+</card>
+<card>
+ <name>Silas Renn, Seasoned Reclaimer</name>
+ <set rarity="uncommon">VH1</set>
+ <color>UB</color>
+ <manacost>2UB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Artifact Creature - Human </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, create a 1/1 colorless Thopter artifact creature token with flying.
+T, Sacrifice an artifact creature: Return target artifact creature from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Dusk Marauder</name>
+ <set rarity="uncommon">VH1</set>
+ <color>BR</color>
+ <manacost>3BR</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Demon Construct </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an artifact or land is put into your graveyard from anywhere, Dusk Marauder deals 1 damage to each opponent.
+B/R, Sacrifice an artifact: Dusk Marauder gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Dust Lord</name>
+ <set rarity="uncommon">VH1</set>
+ <color>RG</color>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Sand </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Forest enters the battlefield under your control, create a 1/1 red Elemental creature token.</text>
+</card>
+<card>
+ <name>Barry</name>
+ <set rarity="uncommon">VH1</set>
+ <color>WG</color>
+ <manacost>2GW</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Elf Wizard </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>When Barry enters the battlefield, up to three target lands become 1/1 green Forest Elf enchantment creature lands until Barry leaves the battlefield.-3: </text>
+</card>
+<card>
+ <name>Tide Sweeper</name>
+ <set rarity="uncommon">VH1</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Tide Sweeper enters the battlefield with a +1/+1 counter.
+Whenever you cast or copy a spell, if it wasn’t the first spell you’ve cast this turn, put a +1/+1 counter on Tide Sweeper.</text>
+</card>
+<card>
+ <name>Gargantuan Gardener</name>
+ <set rarity="uncommon">VH1</set>
+ <color>BG</color>
+ <manacost>2BG</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Giant </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>You may play land cards from your graveyard.
+At the beginning of your upkeep, mill a card.</text>
+</card>
+<card>
+ <name>Woof</name>
+ <set rarity="uncommon">VH1</set>
+ <color>WR</color>
+ <manacost>2RW</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment Creature - Wolf </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever you cast an artifact or enchantment spell, you may pay 2. If you do, create a 2/2 red and white Wolf enchantment creature token.</text>
+</card>
+<card>
+ <name>Marsh lad</name>
+ <set rarity="uncommon">VH1</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dragon </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Creature spells you cast cost 1 less to cast as long as they don’t share a creature type with a creature you control. Creatures with changeling count as having one creature type for this effect. (You choose which creature type.)</text>
+</card>
+<card>
+ <name>Persisting Thirst</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Persisting Thirst deals 1 damage to any target and you gain 1 life.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
+</card>
+<card>
+ <name>Desecrate</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each player discards two cards. For each green or white card discarded this way, each opponent loses 1 life and you gain 1 life.</text>
+</card>
+<card>
+ <name>I can only print removal</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When I can only print removal is put into your graveyard from the battlefield, target creature gets +3/-3 until end of turn.
+Evoke 2B (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Undercity Informer</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>1, Sacrifice a creature: Target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.</text>
+</card>
+<card>
+ <name>Stitcher's Supplier</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Zombie </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Stitcher’s Supplier enters the battlefield or dies, mill three cards.</text>
+</card>
+<card>
+ <name>Reckless Miner</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dwarf </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Land exploit (When Reckless Miner enters the battlefield, you may sacrifice a land.)
+When Reckless Miner exploits a land, destroy target creature.</text>
+</card>
+<card>
+ <name>wow! naga made out of oil!</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Naga Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)
+Sacrifice a land: Return up to one target land from your graveyard to the battlefield under the control of an opponent of your choice. Activate only once each turn.</text>
+</card>
+<card>
+ <name>Dredge</name>
+ <set rarity="common">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Sacrifice an artifact or land.
+Draw a card.</text>
+</card>
+<card>
+ <name>Dread Return</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield.
+Flashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>phyrexian vampire</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Phyrexian Vampire </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike, wither
+Whenever a creature dies, if it had a -1/-1 counter on it, create a Blood token.</text>
+</card>
+<card>
+ <name>dragonrat</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Dragon </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When dragonrat enters the battlefield or is put into a graveyard from anywhere, each player discards a card.</text>
+</card>
+<card>
+ <name>wah</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When wah is put into a graveyard from anywhere except the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.</text>
+</card>
+<card>
+ <name>Wisps' Claim</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target enchantment you don’t control. You lose 2 life.</text>
+</card>
+<card>
+ <name>swamp snorter</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>1BBB</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Frog </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Swamp card is put into your graveyard from anywhere, you gain 2 life and each opponent loses 2 life.</text>
+</card>
+<card>
+ <name>orcish speedster</name>
+ <set rarity="uncommon">VH1</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Orc Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Dash—Sacrifice an untapped land</text>
+</card>
+<card>
+ <name>post scratcher</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Cat </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Untap another target creature: Tap target nonland permanent. Activate only once each turn.</text>
+</card>
+<card>
+ <name>booster</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment Creature - Human Knight </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature you control becomes untapped, if it isn’t your untap step, that creature gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Mesa Eagle</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Bird </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control an artifact, Mesa Eagle has vigilance.
+As long as you control an enchantment, Mesa Eagle has flying.</text>
+</card>
+<card>
+ <name>serra construct</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Angel Construct </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When serra construct enters the battlefield, create a 0/0 white Angel Spirit enchantment creature token with “This creature gets +1/+1 for each enchantment you control.”
+Evoke 2W (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Houndkin Paladin</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dog Knight Cleric </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Noncreature spells cost 1 more to cast. 
+Whenever a player casts a red or black spell, you gain 1 life.</text>
+</card>
+<card>
+ <name>rol effect</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Each player can’t cast more than one spell each turn.
+Each player can’t activate more than one activated ability that isn’t a mana ability each turn.</text>
+</card>
+<card>
+ <name>white burn</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>white burn deals damage equal to the number of artifacts and enchantments you control to target creature or planeswalker.</text>
+</card>
+<card>
+ <name>forgive and forget</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell, activated ability, or triggered ability unless its controller pays 2.</text>
+</card>
+<card>
+ <name>reinforcements</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature you control becomes untapped, if it’s not your untap step, create a 1/1 white Soldier enchantment creature token. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>there are three cards in LEA</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant permanent
+As there are three cards in LEA enters the battlefield, choose a color.
+Enchanted permanent has protection from the chosen color. This effect doesn’t remove Auras and Equipment you control that are already attached to it.</text>
+</card>
+<card>
+ <name>Mesa Enchantress</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an enchantment spell, you may draw a card.</text>
+</card>
+<card>
+ <name>God-Favored General</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Inspired — Whenever God-Favored General becomes untapped, you may pay 2W. If you do, create two 1/1 white Soldier enchantment creature tokens.</text>
+</card>
+<card>
+ <name>sprit</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast or copy a spell, if it wasn’t the first spell you’ve cast this turn, target creature gains flying until end of turn.</text>
+</card>
+<card>
+ <name>bottom text</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Homarid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Other Homarids, Camarids, Crabs, Cephalids, and Fish get +1/+1
+Whenever a Homarid, Camarid, Crab, Cephalid, or Fish deals damage to an opponent, draw a card.</text>
+</card>
+<card>
+ <name>why</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Devoid Artifact Creature - Eldrazi Fish </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof, shroud, ward 2
+why can’t be blocked.</text>
+</card>
+<card>
+ <name>the only snow creature in the set</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Snow Creature - Beast </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever you cast or copy a noncreature spell, tap target creature it doesn’t untap during its controller’s next untap step.</text>
+</card>
+<card>
+ <name>preordain this</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>UUU</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Sphinx </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When preordain this enters the battlefield, scry X, where X is your devotion to blue, then draw a card. (Each U in the mana costs of permanents you control counts toward your devotion to blue.)</text>
+</card>
+<card>
+ <name>mechanical cephalid</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Cephalid </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Threshold — mechanical cephalid has “Escape—3U, exile three other cards from your graveyard” as long as seven or more cards are in your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+</card>
+<card>
+ <name>moonshield</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>You may pay 1U rather than pay this spell’s mana cost. If you do, this spell gains flash and the permanent it becomes is sacrificed at the end of turn.
+You and and other permanents you control have hexproof.</text>
+</card>
+<card>
+ <name>All Just a Dream</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 1 less to cast if it targets a red or a green spell.
+Counter target spell unless its controller pays 3.</text>
+</card>
+<card>
+ <name>Jettison</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target nonland permanent to its owner’s hand.
+Draw a card.</text>
+</card>
+<card>
+ <name>free lump of flesh</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Devoid Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Untap target permanent.
+Create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add C.”</text>
+</card>
+<card>
+ <name>Gustha's Deflection</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Change the target of target spell with a single target.</text>
+</card>
+<card>
+ <name>Search for Azcanta</name>
+ <set rarity="uncommon" splitterPath="/Search for Azcanta.full.jpg" >VH1</set>
+ <color>U</color>
+ <related attach="attach">Azcanta, the Sunken Ruin</related>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta.
+---
+(Back): Azcanta, the Sunken Ruin</text>
+</card>
+<card>
+ <name>Azcanta, the Sunken Ruin</name>
+ <set rarity="uncommon" splitterPath="/Azcanta, the Sunken Ruin.full.jpg" >VH1</set>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>2</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add U.
+2U, T: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+---
+(Front): Search for Azcanta</text>
+</card>
+<card>
+ <name>Merchant Scroll</name>
+ <set rarity="uncommon">VH1</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a blue instant card, reveal that card, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Shattering Spree</name>
+ <set rarity="common">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Replicate R (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Destroy target artifact.</text>
+</card>
+<card>
+ <name>Price of Progress</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.</text>
+</card>
+<card>
+ <name>Faithless Looting</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards, then discard two cards.
+Flashback 2R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>blood moon (not the The Dark one)</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Creature tokens you control have decayed.
+Whenever you sacrifice a token, if it was sacrificed to a decayed ability, create a Blood token.</text>
+</card>
+<card>
+ <name>Magmablast</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one:
+• Counter target artifact spell.
+• Counter target white or blue creature spell with toughness 2 or less.</text>
+</card>
+<card>
+ <name>Spiteful Pilfering</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a Treasure token.
+Draw a card.</text>
+</card>
+<card>
+ <name>wow! fire!</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>wow! fire! deals 2 damage to each creature.</text>
+</card>
+<card>
+ <name>rakdos magician</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Devil </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a token you control attacks, it gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>traitor wall</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Wall </type>
+ <pt>2/5</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Whenever you cast a noncreature spell, you may gain control of target creature until the end of turn. Untap it. It gains haste. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>triple red pips how will I ever be able to cast this smh</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>RRR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When triple red pips how will I ever be able to cast this smh enters the battlefield, you may discard any number of cards. Create two 1/1 red Elemental creature tokens for each card discarded this way.</text>
+</card>
+<card>
+ <name>crecher</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie Skeleton Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast or copy a noncreature spell, crecher deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Kozilek's Lieutenant</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Devoid Creature - Eldrazi </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, if you control less than three creature tokens, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add C.”</text>
+</card>
+<card>
+ <name>viashino and goblin, new hit tv show</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Viashino Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When viashino and goblin, new hit tv show enters the battlefield, create a 1/1 red Goblin creature token.</text>
+</card>
+<card>
+ <name>Fumarole Worm</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Worm </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Fumarole Worm can’t block.
+Sacrifice Fumarole Worm: Add R.</text>
+</card>
+<card>
+ <name>Empty the Warrens</name>
+ <set rarity="uncommon">VH1</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 red Goblin creature tokens.
+Storm  (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+</card>
+<card>
+ <name>fuck you, strictly better thallid</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment Creature - Fungus Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>G: Create a 1/1 green Saproling creature token. Activate only if there are four or more creature types among creatures you control and only once each turn.</text>
+</card>
+<card>
+ <name>Past or Present</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose up to five target cards in your graveyard. An opponent separates those cards into two piles. Put one pile into your hand.</text>
+</card>
+<card>
+ <name>Rift Marauder</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Suspend 3—1G
+Whenever a time counter is removed from Rift Marauder while it’s exiled, add G.</text>
+</card>
+<card>
+ <name>mr hides-in-snowbanks</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Snow Creature - Human Berserker </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Morph—Return target forest you control to its owner’s hand (You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)</text>
+</card>
+<card>
+ <name>Telion Ooze</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land Creature - Ooze </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>(Telion Ooze isn’t a spell, and it’s affected by summoning sickness.)
+T, Sacrifice Telion Ooze: Search your library for a Forest card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>ewoahweewah</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant Forest
+Whenever enchanted Forest becomes tapped, add G.
+0: Return ewoahweewah to its owner’s hand.</text>
+</card>
+<card>
+ <name>Sanctified Fracturing</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all artifacts and enchantments you don’t control.</text>
+</card>
+<card>
+ <name>Hermit Druid</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>G, T: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.</text>
+</card>
+<card>
+ <name>Veil of Summer</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can’t be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn.</text>
+</card>
+<card>
+ <name>yoooo oooyooyooyooy</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Druid </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever a Forest enters the battlefield under your control, you gain 1 life.</text>
+</card>
+<card>
+ <name>Wordly Tutor</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a creature card, reveal it, then shuffle and put the card on top.</text>
+</card>
+<card>
+ <name>Woodland lzard</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment Creature - Lizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Return a Forest you control to its owner’s hand: Woodland lzard gets +2/+2 until end of turn. Activate only once each turn.</text>
+</card>
+<card>
+ <name>colossal forest tender</name>
+ <set rarity="common">VH1</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Elemental Giant Peasant </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Forestcycling 1G (1G, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand, then shuffle.)</text>
+</card>
+<card>
+ <name>Sliver Scout</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Sliver Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Sliver creatures have “T: You may put a land card from your hand onto the battlefield.”</text>
+</card>
+<card>
+ <name>Deranged Hermit</name>
+ <set rarity="uncommon">VH1</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elf </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Echo 3GG
+When Deranged Hermit enters the battlefield, create four 1/1 green Squirrel creature tokens.
+Squirrel creatures get +1/+1.</text>
+</card>
+<card>
+ <name>creb</name>
+ <set rarity="common">VH1</set>
+ <color>WU</color>
+ <manacost>3WU</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Crab </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)
+When creb enters the battlefield, look at the top three cards of your library. You may reveal a noncreature, nonland card from among them, put it into your hand, then put the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>ninja</name>
+ <set rarity="common">VH1</set>
+ <color>UB</color>
+ <manacost>UB</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Human Ninja </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Ninjutsu 1UB (1UB, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+When ninja deals combat damage to an opponent, you draw a card, then each player discards a card.</text>
+</card>
+<card>
+ <name>blood extractor</name>
+ <set rarity="common">VH1</set>
+ <color>BR</color>
+ <manacost>BR</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Phyrexian Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When blood extractor enters the battlefield, you may sacrifice a nonland permanent. If you do, create a Blood token.</text>
+</card>
+<card>
+ <name>ride wolf</name>
+ <set rarity="common">VH1</set>
+ <color>RG</color>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Wolf </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When ride wolf enters the battlefield, create a 2/2 red Orc creature token with menace.</text>
+</card>
+<card>
+ <name>aura shards joke here</name>
+ <set rarity="common">VH1</set>
+ <color>WG</color>
+ <manacost>1GW</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +1/+1.
+Whenever enchanted creature deals combat damage to a player, if there are four or more creature types among creatures you control, destroy up to one target artifact or enchantment.</text>
+</card>
+<card>
+ <name>Serra Reaper</name>
+ <set rarity="uncommon">VH1</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment Artifact Creature - Phyrexian Angel </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Serra Reaper becomes tapped, you may sacrifice an artifact or a creature. If you do, untap Serra Reaper, each opponent loses 1 life, and you gain 1 life.</text>
+</card>
+<card>
+ <name>card advantage</name>
+ <set rarity="common">VH1</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card.
+Create a 1/1 red Minotaur Spirit creature token.
+Flashback UR (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>epic LD</name>
+ <set rarity="common">VH1</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a permanent.
+Destroy target permanent that shares a type with the sacrificed permanent.</text>
+</card>
+<card>
+ <name>oof ow my bones</name>
+ <set rarity="common">VH1</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create a 0/0 white Angel Spirit creature token with “This creature gets +1/+1 for each enchantment you control.”</text>
+</card>
+<card>
+ <name>squirrel steals spell more news at 8</name>
+ <set rarity="common">VH1</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target noncreature spell unless its controller pays 2.
+Create a 1/1 green Squirrel token.</text>
+</card>
+<card>
+ <name>scrap something</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Gargoyle </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When scrap something dies, return target artifact card with lesser or equal mana value from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>lodepebble golem</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Golem </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>When lodepebble golem enters the battlefield, until end of turn, nonartifact spells cost 1 more to cast.</text>
+</card>
+<card>
+ <name>thran armor</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1 and has flying, first strike, and trample. 
+Equip 3</text>
+</card>
+<card>
+ <name>plow</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When plow enters the battlefield, exile up to one target card from a graveyard.
+T: Until end of turn, target land you control becomes the basic land type of your choice in addition to its other types. You gain 1 life.</text>
+</card>
+<card>
+ <name>Fallen Star</name>
+ <set rarity="common">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Fallen Star enters the battlefield, scry 1, then draw a card.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Gitxaian Bauble</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Gitxaian Bauble: Target opponent reveals their hand. Scry 1.</text>
+</card>
+<card>
+ <name>storm jar</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice storm jar: Add two mana in any combination of colors.</text>
+</card>
+<card>
+ <name>whispering mine</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>1, T, Sacrifice a land: Draw a card.</text>
+</card>
+<card>
+ <name>Mana Magnet</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell if it’s colorless or if its mana value is greater than the number of lands its controller controls.</text>
+</card>
+<card>
+ <name>goblin chasm</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When goblin chasm enters the battlefield, create two 1/1 red Goblin creature tokens.
+2, T, Sacrifice a Goblin: goblin chasm deals 1 damage to any target.</text>
+</card>
+<card>
+ <name>Cranial Plating</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+0 for each artifact you control.
+BB: Attach Cranial Plating to target creature you control.
+Equip 1</text>
+</card>
+<card>
+ <name>Voltaic Key</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>1, T: Untap target artifact.</text>
+</card>
+<card>
+ <name>Expedition Map</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>awakener</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Scarecrow </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Forest enters the battlefield under your control, you may put a +1/+1 counter on it.
+3: Target land you control becomes a 0/0 Elemental creature until end of turn.</text>
+</card>
+<card>
+ <name>Lotus Petal</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Lotus Petal: Add one mana of any color.</text>
+</card>
+<card>
+ <name>wait, isn't this just millikin no, it's actually super different and you are a terrible person for asking that</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add C. Surveil 1 (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>gear spinner</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>9</manacost>
+ <cmc>9</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>5/7</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a nonland permanent you control becomes tapped, untap it. This ability triggers only thrice each turn.</text>
+</card>
+<card>
+ <name>reconstructor</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>7</manacost>
+ <cmc>7</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>When reconstructor dies, return target artifact card from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>my torso is on fire help</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Horror </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control an enchantment, my torso is on fire help has shroud can’t be blocked.</text>
+</card>
+<card>
+ <name>onulet 2 this time it's actually good</name>
+ <set rarity="uncommon">VH1</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another artifact is put into your graveyard from the battlefield, you gain 2 life.</text>
+</card>
+<card>
+ <name>Roaming Jail</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature can’t attack or block.
+1W: Attach Roaming Jail to target creature.</text>
+</card>
+<card>
+ <name>Auramancer</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Ethereal Armor</name>
+ <set rarity="common">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.</text>
+</card>
+<card>
+ <name>Unsubstantiate</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target spell or creature to its owner’s hand.</text>
+</card>
+<card>
+ <name>Archaeomancer</name>
+ <set rarity="common">VH1</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Wastes</name>
+ <set rarity="">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Wastes </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Plains</name>
+ <set rarity="">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Island</name>
+ <set rarity="">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set rarity="">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Forest</name>
+ <set rarity="">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set rarity="">VH1</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Instruments of Repair</name>
+ <set rarity="common">VH1</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Instruments of Repair enters the battlefield, return target artifact or creature from your graveyard to your hand.
+1, T, Sacrifice Instruments of Repair: Return target artifact or creature from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>stockpile</name>
+ <set rarity="uncommon">VH1</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever an artifact or enchantment enters the battlefield under your control, you gain 1 life.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Minotaur Spirit Token</name>
+ <set>VH1</set>
+ <color>R</color>
+ <type>Token Creature - Minotaur Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Anaba Spiritlord</reverse-related>
+<reverse-related>yo, look at all these dead dudes</reverse-related>
+<reverse-related>card advantage</reverse-related>
+
+</card>
+<card>
+ <name>Treasure Token</name>
+ <set>VH1</set>
+ <color></color>
+ <type>Token Artifact - Treasure </type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice this artifact: Add one mana of any color.</text>
+ <token>1</token>
+<reverse-related>pile of gold</reverse-related>
+<reverse-related>Turn to Gold</reverse-related>
+<reverse-related>yooo monke</reverse-related>
+
+</card>
+<card>
+ <name>Squirrel Token</name>
+ <set>VH1</set>
+ <color>G</color>
+ <type>Token Creature - Squirrel </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Deranged Hermit</reverse-related>
+<reverse-related>Ravi, Apocalypse Ringer</reverse-related>
+
+</card>
+<card>
+ <name>Thopter Token</name>
+ <set>VH1</set>
+ <color></color>
+ <type>Token Artifact Creature - Thopter </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+<reverse-related>wah</reverse-related>
+<reverse-related>Crucius, Etherium Master</reverse-related>
+<reverse-related>Silas Renn, Seasoned Reclaimer</reverse-related>
+
+</card>
+<card>
+ <name>Copy</name>
+ <set>VH1</set>
+ <color></color>
+ <type>Token</type>
+ <tablerow>1</tablerow>
+ <text>This token can be used to represent a token that’s a copy of a permanent.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Goblin Token</name>
+ <set>VH1</set>
+ <color>R</color>
+ <type>Token Creature - Goblin </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>goiblin mine</reverse-related>
+<reverse-related>Empty the Warrens</reverse-related>
+<reverse-related>piggyback rider</reverse-related>
+<reverse-related>goblin chasm</reverse-related>
+<reverse-related>viashino and goblin, new hit tv show</reverse-related>
+
+</card>
+<card>
+ <name>Angel Spirit Token</name>
+ <set>VH1</set>
+ <color>W</color>
+ <type>Token Enchantment Creature - Angel Spirit </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>This creature gets +1/+1 for each enchantment you control.</text>
+ <token>1</token>
+<reverse-related>serra construct</reverse-related>
+<reverse-related>Urza, Argivian Librarian</reverse-related>
+
+</card>
+<card>
+ <name>Forest Elf</name>
+ <set>VH1</set>
+ <color>G</color>
+ <type>Token Marker</type>
+ <tablerow>1</tablerow>
+ <text>Use this token to note a land that has been turned into a 1/1 Forest Elf enchantment creature land.</text>
+ <token>1</token>
+
+</card>
+<card>
+ <name>Wolf Token</name>
+ <set>VH1</set>
+ <color>WR</color>
+ <type>Token Enchantment Creature - Wolf </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+
+</card>
+<card>
+ <name>Blood Token</name>
+ <set>VH1</set>
+ <color></color>
+ <type>Token Artifact - Blood </type>
+ <tablerow>1</tablerow>
+ <text>1, T, Discard a card, Sacrifice this artifact: Draw a card.</text>
+ <token>1</token>
+<reverse-related>blood extractor</reverse-related>
+<reverse-related>scrap moncher</reverse-related>
+<reverse-related>phyrexian vampire</reverse-related>
+
+</card>
+<card>
+ <name>Orc Token</name>
+ <set>VH1</set>
+ <color>R</color>
+ <type>Token Creature - Orc </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace</text>
+ <token>1</token>
+<reverse-related>ride wolf</reverse-related>
+<reverse-related>Orcish Hunting Party</reverse-related>
+
+</card>
+<card>
+ <name>Elemental Token</name>
+ <set>VH1</set>
+ <color>R</color>
+ <type>Token Creature - Elemental </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Young Pyromancer</reverse-related>
+<reverse-related>Dust Lord</reverse-related>
+
+</card>
+<card>
+ <name>Soldier Token</name>
+ <set>VH1</set>
+ <color>W</color>
+ <type>Token Enchantment Creature - Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>reinforcements</reverse-related>
+<reverse-related>God-Favored General</reverse-related>
+
+</card>
+<card>
+ <name>Saproling Token</name>
+ <set>VH1</set>
+ <color>G</color>
+ <type>Token Creature - Saproling </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>fuck you, strictly better thallid</reverse-related>
+
+</card>
+<card>
+ <name>Forest Token</name>
+ <set>VH1</set>
+ <color></color>
+ <type>Token Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G.)</text>
+ <token>1</token>
+
+</card>
+
+</cards>
+</cockatrice_carddatabase>

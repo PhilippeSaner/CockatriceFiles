@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>SKI</name>
+			<longname>Suki Precon - Legends of the Four Nations</longname>
+			<settype>Custom</settype>
+			<releasedate>2021-10-06</releasedate>
+		</set>
+		<set>
+			<name>AZU</name>
+			<longname>Azula Precon — Legends of the Four Nations</longname>
+			<settype>Custom</settype>
+			<releasedate>2021-10-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Mai, Betrayer and Betrayed</name>
+			<text>When Mai enters the battlefield, create two Shuriken tokens. They’re Equipment artifact tokens with “Equipped creature gets +1/+0,”and equip 1.
+T, Sacrifice X artifacts: Mai deals X damage to any target.</text>
+			<prop>
+				<layout>normal</layout>
+				<type>Legendary Creature - Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<set rarity="rare">AZU</set>
+			<related>Shuriken AZU</related>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firelord Azula</name>
+			<text>Azula Hero (If you cast this spell, you may put this over or under target Azula hero you own and control. When you do, draw a card. They become the creature on top plus all abilities from under it. )
+Wing-It UR (You may cast this spell for its wing-it cost by discarding a card as you cast it.)
+Exile an instant or sorcery card from your graveyard: Azula gets +1/+1 and gains first strike and trample until end of turn.</text>
+			<prop>
+				<layout>normal</layout>
+				<type>Legendary Creature - Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<set rarity="mythic">AZU</set>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fire Jet</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has haste.
+At the beginning of the end step, return Fire Jet to its owner’s hand.</text>
+			<prop>
+				<layout>normal</layout>
+				<type>Enchantment - Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<set rarity="common">AZU</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sure-fire Strike</name>
+			<text>Target attacking creature gets first strike and +2/+0.
+Study fire. (Begin or move along the Fire Mastery Path)</text>
+			<prop>
+				<layout>normal</layout>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<set rarity="common">AZU</set>
+			<related>Fire Mastery Path</related>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Zuko, Avatar Seeker</name>
+			<text>Zuko hero (If you cast this spell, you may put this over or under target Zuko hero you own and control. When you do, draw a card. They become the creature on top plus all abilities from under it. )
+Whenever Zuko is dealt damage, he deals 1 damage to each opponent.</text>
+			<prop>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<colors>R</colors>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human Bender </type>
+				<pt>2/2</pt>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<set rarity="common">AZU</set>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightning Redirection</name>
+			<set rarity="rare">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>UR</colors>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<coloridentity>UR</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Gain control of target instant or sorcery spell. You may choose new targets for it.</text>
+		</card>
+		<card>
+			<name>Dominate the Earth</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>UR</colors>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<coloridentity>UR</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>When Dominate the Earth enters the battlefield, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Whenever you discard a card, return Dominate the Earth to its owner’s hand.</text>
+		</card>
+		<card>
+			<name>Shackle in Ice</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Tap target creature, it does not untap during its controller’s next untap step.
+Draw a card for each player who controls a tapped creature.</text>
+		</card>
+		<card>
+			<name>Etherial Guide</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Dragon Spirit</type>
+				<pt>2/4</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+As long as you’ve discarded a card this turn, Etherial Guide gets +2/+0</text>
+		</card>
+		<card>
+			<name>Diffuse</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Counter target spell.
+Draw a card, then discard a card.</text>
+		</card>
+		<card>
+			<name>Temple of Epiphany</name>
+			<set rarity="rare">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<coloridentity>UR</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+			<text>Temple of Epiphany enters the battlefield tapped.
+When Temple of Epiphany enters the battlefield, scry 1.
+T: Add U or R</text>
+		</card>
+		<card>
+			<name>Teaching Spark</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>R</colors>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<related>Fire Mastery Path</related>
+			<text>Teaching Spark deals 4 damage to target creature or planeswalker. 
+Study fire (Begin or move along the Fire Mastery Path)</text>
+		</card>
+		<card>
+			<name>Consider</name>
+			<set rarity="common">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Look at the top card of your library. You may put that card into your graveyard.
+Draw a card.</text>
+		</card>
+		<card>
+			<name>Zuko, Redeemed Prince</name>
+			<set rarity="rare">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>R</colors>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Bender</type>
+				<pt>4/3</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Zuko hero (If you cast this spell, you may put this over or under target Zuko hero you own and control. When you do, draw a card. They become the creature on top plus all abilities from under it. )
+1R: Zuko gets +2/+0 until end of turn and deals 1 damage to each creature. Activate only once each turn.</text>
+		</card>
+		<card>
+			<name>Azula, Lightning Prodigy</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>UR</colors>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human Noble </type>
+				<pt>2/2</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Azula Hero (If you cast this spell, you may put this over or under target Azula hero you own and control. When you do, draw a card. They become the creature on top plus all abilities from under it. )
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you discard one or more cards, Azula deals 1 damage to each opponent.</text>
+		</card>
+		<card>
+			<name>Reflow</name>
+			<set rarity="common">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Water Mastery Path</related>
+			<tablerow>3</tablerow>
+			<text>Counter target spell that targets you or a creature you control.
+Study water. (Begin or move along the Water Mastery Path)</text>
+		</card>
+		<card>
+			<name>Bloodbending</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<type>Enchantment - Aura</type>
+				<maintype>Enchantment</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>This spell costs 1 less for each card type among cards in your graveyard.
+Enchant creature
+You control enchanted creature.</text>
+		</card>
+		<card>
+			<name>Desperate Swordsman</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Human Rogue</type>
+				<pt>1/1</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Desperate Swordsman enters the battlefield, mill four cards.</text>
+		</card>
+		<card>
+			<name>Moon Glow</name>
+			<set rarity="common">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Water Mastery Path</related>
+			<tablerow>3</tablerow>
+			<text>Draw a card.
+Study water. (Begin or move along the Water Mastery Path)</text>
+		</card>
+		<card>
+			<name>Water Bending Scroll</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Water Mastery Path</related>
+			<tablerow>1</tablerow>
+			<text>Whenever you discard or cast an instant or sorcery spell, put a focus counter on Water Bending Scroll.
+1, T, Remove two focus counters from Water Bending Scroll: Study water (Begin or move along the Water Mastery Path)</text>
+		</card>
+		<card>
+			<name>Meteorite Sword</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>R</colors>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>When Meteorite Sword enters the battlefield, it deals 2 damage to any target.
+Whenever equipped creature attacks, add RR. Until end of turn, you don’t lose this mana as steps and phases end.
+Equip 3</text>
+		</card>
+		<card>
+			<name>Tidal Grasp</name>
+			<set rarity="common">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Wing-It 1U (You may cast this spell for its wing-it cost by discarding a card as you cast it.)
+Put target creature on top of its owner’s library.</text>
+		</card>
+		<card>
+			<name>Southern Waterbenders</name>
+			<set rarity="common">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<type>Creature - Human Bender </type>
+				<pt>3/4</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Water Mastery Path</related>
+			<tablerow>2</tablerow>
+			<text>Wing-It 2UU (You may cast this spell for its wing-it cost by discarding a card as you cast it.)
+When Southern Waterbenders enters the battlefield, study water. (Begin or move along the Water Mastery Path)</text>
+		</card>
+		<card>
+			<name>Molten Fissure</name>
+			<set rarity="common">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>R</colors>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Molten Fissure deals 1 damage to each of up to two target creatures.
+If you are a Master of Fire, Molten Fissure deals 2 damage to each of those creatures instead.</text>
+		</card>
+		<card>
+			<name>Headlong Bowmaster</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>R</colors>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human Archer </type>
+				<pt>*/3</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample, reach
+Headlong Bowmaster’s power is equal to the total number of instant and sorcery cards you own in exile and in your graveyard.</text>
+		</card>
+		<card>
+			<name>Buried Knowledge</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>U</colors>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Draw three cards. 
+1UU, Exile Draw much from your graveyard: Draw a card.</text>
+		</card>
+		<card>
+			<name>Path to the Forgotten</name>
+			<set rarity="uncommon">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>R</colors>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Fire Mastery Path</related>
+			<tablerow>1</tablerow>
+			<text>Whenever you or a creature you control is dealt damage, put a focus counter on Path to the Forgotten.
+1, T, Remove two focus counters from Path to the Forgotten: Study fire (Begin or move along the Fire Mastery Path)</text>
+		</card>
+		<card>
+			<name>Castle of Ice</name>
+			<set rarity="common">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Land - Island </type>
+				<maintype>Land</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+			<text>(T: Add U.)
+Castle of Ice enters the battlefield tapped unless you control three or more other Islands.
+When Castle of Ice enters the battlefield untapped, scry 2.</text>
+		</card>
+		<card>
+			<name>Volcanic Shrine</name>
+			<set rarity="common">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Land - Mountain </type>
+				<maintype>Land</maintype>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+			<text>(T: Add R.)
+Volcanic Shrine enters the battlefield tapped unless you control three or more other Mountains.
+When Volcanic Shrine enters the battlefield untapped, target creature can’t block this turn.</text>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<set rarity="">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Basic Land - Mountain </type>
+				<maintype>Land</maintype>
+				<coloridentity>R</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<text/>
+		</card>
+		<card>
+			<name>Island</name>
+			<set rarity="">AZU</set>
+			<prop>
+				<layout>normal</layout>
+				<colors/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Basic Land - Island </type>
+				<maintype>Land</maintype>
+				<coloridentity>U</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<text/>
+		</card>
+		<card>
+			<name>Aang, The Last Airbender</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>W</colors>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Avatar Bender </type>
+				<pt>3/2</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>W</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Aang hero (If you cast this spell, you may put this over or under target Aang hero you own and control. When you do, draw a card. They become the creature on top plus all abilities from under it. )
+Flying 
+Whenever Aang and at least two other creatures attack, put a +1/+1 counter on him.</text>
+		</card>
+		<card>
+			<name>Elephant Mandrill</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Elephant Monkey </type>
+				<pt>2/3</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Elephant Mandrill enters the battlefield, put a +1/+1 counter on another target creature you control.
+Each creature you control with a +1/+1 counter on it has trample.</text>
+		</card>
+		<card>
+			<name>Cocky Brute</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Bender </type>
+				<pt>3/2</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Earth Mastery Path</related>
+			<tablerow>2</tablerow>
+			<text>At the end of your turn, if you control a creature with the greatest power among creatures on the battlefield, study earth. (Begin or move along the Earth Mastery Path)</text>
+		</card>
+		<card>
+			<name>Sabertooth Moose Lion Cub</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<type>Creature - Cat Elk Beast </type>
+				<pt>1/1</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Beast SKI</related>
+			<tablerow>2</tablerow>
+			<text>When Sabertooth Moose Lion Cub enters, create a 4/4 green Beast creature token.</text>
+		</card>
+		<card>
+			<name>Glimpse the Unforgettable</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Treasure</related>
+			<tablerow>3</tablerow>
+			<text>Search your library for a basic land and put it onto the battlefield tapped, then shuffle. 
+Create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)</text>
+		</card>
+		<card>
+			<name>Left to Crumble</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>W</colors>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<coloridentity>W</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Exile target creature or planeswalker. 
+You gain 2 life.</text>
+		</card>
+		<card>
+			<name>Winged Lemur</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>W</colors>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Lemur </type>
+				<pt>1/1</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>W</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Whenever another creature enters the battlefield under your control, you gain 1 life.</text>
+		</card>
+		<card>
+			<name>Gan Jin Elder</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>W</colors>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human Warrior </type>
+				<pt>1/3</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>W</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Gan Jin Elder enters the battlefield, put a +1/+1 counter on another target creature you control.
+Each creature you control with a +1/+1 counter on it has vigilance.</text>
+		</card>
+		<card>
+			<name>Toph, the Blind Bandit</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Bender </type>
+				<pt>1/4</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Toph hero (If you cast this spell, you may put this over or under target Toph hero you own and control. When you do, draw a card. They become the creature on top plus all abilities from under it. )
+Whenever Toph attacks or blocks alone, she gets +3/+0 until end of turn.</text>
+		</card>
+		<card>
+			<name>Coddled Bear</name>
+			<set rarity="uncommon">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Bear </type>
+				<pt>2/2</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Vigilance
+Whenever one or more +1/+1 counters are put on Coddled Bear, gain 3 life.</text>
+		</card>
+		<card>
+			<name>Cycle of Pedagogy</name>
+			<set rarity="uncommon">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>WG</colors>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<coloridentity>WG</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on that creature instead.
+Each creature you control with a +1/+1 counter on it has mentor. (Whenever it attacks, put a +1/+1 counter on target attacking creature with lesser power.)</text>
+		</card>
+		<card>
+			<name>Undeterred General</name>
+			<set rarity="uncommon">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<type>Creature - Human Bender </type>
+				<pt>4/3</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Undeterred General can’t be blocked by more than one creature</text>
+		</card>
+		<card>
+			<name>Toph, Unrelenting Tutor</name>
+			<set rarity="uncommon">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Bender </type>
+				<pt>4/4</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Toph hero (If you cast this spell, you may put this over or under target Toph hero you own and control. When you do, draw a card. They become the creature on top plus all abilities from under it. )
+At the beginning of combat on your turn, creatures you control with power 4 or greater gain trample until end of turn.</text>
+		</card>
+		<card>
+			<name>Toph, Metalbender</name>
+			<set rarity="rare">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human Bender </type>
+				<pt>3/3</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Toph hero (If you cast this spell, you may put this over or under target Toph hero you own and control. When you do, draw a card. They become the creature on top plus all abilities from under it. )
+Whenever Toph attacks, destroy up to one target artifact. If you do, put a +1/+1 counter on Toph.</text>
+		</card>
+		<card>
+			<name>Inspiring Call</name>
+			<set rarity="uncommon">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn.</text>
+		</card>
+		<card>
+			<name>Suki, Kyoshi Leader</name>
+			<set rarity="mythic">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>WG</colors>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Warrior </type>
+				<pt>3/2</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>WG</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Warrior Lifelink SKI 11</related>
+			<tablerow>2</tablerow>
+			<text>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. That creature gains indestructible until end of turn.
+2GW: Create a 1/1 green and white Warrior token with lifelink.</text>
+		</card>
+		<card>
+			<name>Verdant Soul</name>
+			<set rarity="rare">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Plant Spirit </type>
+				<pt>1/1</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Whenever one or more +1/+1 counters are put on Verdant Soul, you may put that many +1/+1 counters on another target non-Plant creature you control.
+1G, T: Put a +1/+1 counter on Verdant Soul.</text>
+		</card>
+		<card>
+			<name>Banyan-Grove</name>
+			<set rarity="rare">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<color/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+			<text>Banyan-Grove enters the battlefield tapped.
+T: Add G.
+4G: Until end of turn, Banyan-Grove becomes an X/X green Plant creature, where X is the number of creature cards in your graveyard. It’s still a land.</text>
+		</card>
+		<card>
+			<name>Tail Whip</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature you control fights target creature you don’t control.
+Menagerie — If there are five or more creature types among non-Human creatures you control, it gets +1/+2 until end of turn before it fights.</text>
+		</card>
+		<card>
+			<name>Master of Tranquility</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<type>Creature - Monkey Spirit </type>
+				<pt>3/4</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Vigilance
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)</text>
+		</card>
+		<card>
+			<name>Plan of Attack</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Look at the top four cards of your library. You may reveal a creature or land card from among them and put it in your hand. Put the rest in your graveyard. Then if you are a Master of Earth, you may return a creature or land card from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>Bumi, Mad King</name>
+			<set rarity="rare">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Bender </type>
+				<pt>5/5</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample
+At the end of your turn, if you control another creature with power 4 or greater, have three or more cards in hand, and cast two or more spells this turn, put a lotus counter on Bumi.
+As long as Bumi has a lotus counter he gets +5/+5 and has ward 5</text>
+		</card>
+		<card>
+			<name>Kyoshi Warrior</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>W</colors>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Warrior </type>
+				<pt>3/1</pt>
+				<maintype>Creature</maintype>
+				<coloridentity>W</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)</text>
+		</card>
+		<card>
+			<name>Protector's Fury</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<related>Earth Mastery Path</related>
+			<tablerow>3</tablerow>
+			<text>Target creature gets +4/+4 until end of turn.
+Study earth. (Begin or move along the Earth Mastery Path)</text>
+		</card>
+		<card>
+			<name>Airbending Staff</name>
+			<set rarity="uncommon">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors>W</colors>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<type>Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+				<coloridentity>W</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +1/+0, flying, and mentor (Whenever it attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Equip 3</text>
+		</card>
+		<card>
+			<name>Stalwart City</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<color/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Land - Forest </type>
+				<maintype>Land</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>(T: Add G.)
+Stalwart City enters the battlefield tapped unless you control three or more other Forests.
+When Stalwart City enters the battlefield untapped, put a +1/+1 counter on up to one target creature</text>
+		</card>
+		<card>
+			<name>Temple in the Sky</name>
+			<set rarity="common">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<color/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Land - Plains </type>
+				<maintype>Land</maintype>
+				<coloridentity>W</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>(T: Add W.)
+Temple in the Sky enters the battlefield tapped unless you control three or more other Plains.
+When Temple in the Sky enters the battlefield untapped, tap or untap target creature.</text>
+		</card>
+		<card>
+			<name>Forest</name>
+			<set rarity="">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Basic Land - Forest </type>
+				<maintype>Land</maintype>
+				<coloridentity>G</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<text/>
+		</card>
+		<card>
+			<name>Plains</name>
+			<set rarity="">SKI</set>
+			<prop>
+				<layout>normal</layout>
+				<colors/>
+				<manacost/>
+				<cmc>0</cmc>
+				<type>Basic Land - Plains </type>
+				<maintype>Land</maintype>
+				<coloridentity>W</coloridentity>
+				<format-standard>legal</format-standard>
+				<format-commander>legal</format-commander>
+				<format-modern>legal</format-modern>
+				<format-pauper>legal</format-pauper>
+			</prop>
+			<tablerow>0</tablerow>
+			<text/>
+		</card>
+		<!-->Tokens</-->
+	<card>
+		<name>Fire Mastery Path</name>
+		<set rarity="common">AZU</set>
+		<prop>
+			<layout>normal</layout>
+			<colors>R</colors>
+			<manacost/>
+			<cmc>0</cmc>
+			<type>Path</type>
+			<maintype>Path</maintype>
+			<coloridentity>R</coloridentity>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<tablerow>1</tablerow>
+		<token>1</token>
+		<text>(When you study Fire, move along the path.)
+This path deals 1 damage to each player.
+  
+Target creature can’t block until your next turn.
+ Master of Fire        
+This path deals 3 damage to any target.
+
+Now, when you study Fire, Exile the top card of your library. You may play it this turn.</text>
+	</card>
+	<card>
+		<name>Water Mastery Path</name>
+		<set rarity="">AZU</set>
+		<prop>
+			<layout>normal</layout>
+			<colors>U</colors>
+			<manacost/>
+			<cmc>0</cmc>
+			<type>Path</type>
+			<maintype>Path</maintype>
+			<coloridentity>U</coloridentity>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<tablerow>1</tablerow>
+		<token>1</token>
+		<text>(When you study Water, move along the path.)
+Tap or untap target permanent.
+  
+Draw two cards, then discard two cards.
+  Master of Water     
+Creatures your opponents control get -2/-0 until your next turn and don’t untap during their controller’s next untap step.
+
+Now, when you study Water, scry 1, then draw a card.</text>
+	</card>
+	<card>
+		<name>Shuriken AZU</name>
+		<set rarity="">AZU</set>
+		<prop>
+			<layout>normal</layout>
+			<colors/>
+			<manacost/>
+			<cmc>0</cmc>
+			<type>Token Artifact - Equipment</type>
+			<maintype>Artifact</maintype>
+			<coloridentity/>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<tablerow>1</tablerow>
+		<token>1</token>
+		<text>Equipped creature gets +1/+0
+Equip 3</text>
+	</card>
+	<card>
+		<name>Earth Mastery Path</name>
+		<set rarity="">SKI</set>
+		<prop>
+			<layout>normal</layout>
+			<colors>G</colors>
+			<manacost/>
+			<cmc>0</cmc>
+			<type>Path</type>
+			<maintype>Path</maintype>
+			<coloridentity>G</coloridentity>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<token>1</token>
+		<related>Wall SKI</related>
+		<related>Treasure</related>
+		<related>Elemental SKI XX</related>
+		<tablerow>1</tablerow>
+		<text>(When you study Earth, move along the path.)
+Create a 0/3 green Wall creature token with defender.
+  
+Create two Treasure tokens.
+ Master of Earth     
+Create an X/X green Elemental creature token, where X is the greatest power or toughness among creatures you control.
+
+Now, whenever you study Earth, put two +1/+1 counters on target permanent. It gains trample until end of turn.</text>
+	</card>
+	<card>
+		<name>Air Mastery Path</name>
+		<set rarity="">SKI</set>
+		<prop>
+			<layout>normal</layout>
+			<colors>W</colors>
+			<manacost/>
+			<cmc>0</cmc>
+			<type>Path</type>
+			<maintype>Path</maintype>
+			<coloridentity>W</coloridentity>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<token>1</token>
+		<related>Monk SKI</related>
+		<tablerow>1</tablerow>
+		<text>(When you study Air, move along the path.)
+Tap up to one target creature.
+  
+Up to two target creatures get +1/+1 and gain flying until end of turn.
+ Master of Air        
+Put a +1/+1 counter on each creature you control. Those creature gain flying until end of turn.
+
+Now, when you study Air, create a 1/1 white Monk creature token with flying and lifelink.</text>
+	</card>
+	<card>
+		<name>Beast SKI</name>
+		<set rarity="">SKI</set>
+		<prop>
+			<layout>normal</layout>
+			<colors>G</colors>
+			<type>Token Creature - Beast </type>
+			<pt>4/4</pt>
+			<maintype>Creature</maintype>
+			<coloridentity/>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<tablerow>2</tablerow>
+		<text/>
+		<token>1</token>
+		<reverse-related>Sabertooth Moose Lion Cub</reverse-related>
+	</card>
+	<card>
+		<name>Monk SKI</name>
+		<set rarity="">SKI</set>
+		<prop>
+			<layout>normal</layout>
+			<colors>W</colors>
+			<type>Token Creature - Monk </type>
+			<pt>1/1</pt>
+			<maintype>Creature</maintype>
+			<coloridentity/>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<tablerow>2</tablerow>
+		<text>Flying, lifelink</text>
+		<token>1</token>
+	</card>
+	<card>
+		<name>Elemental SKI XX</name>
+		<set rarity="">SKI</set>
+		<prop>
+			<layout>normal</layout>
+			<colors>G</colors>
+			<type>Token Creature - Elemental </type>
+			<pt>X/X</pt>
+			<maintype>Creature</maintype>
+			<coloridentity/>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<tablerow>2</tablerow>
+		<text/>
+		<token>1</token>
+	</card>
+	<card>
+		<name>Wall SKI</name>
+		<set rarity="">SKI</set>
+		<prop>
+			<layout>normal</layout>
+			<colors>G</colors>
+			<type>Token Creature - Wall </type>
+			<pt>0/3</pt>
+			<maintype>Creature</maintype>
+			<coloridentity/>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<tablerow>2</tablerow>
+		<text>Defender</text>
+		<token>1</token>
+	</card>
+	<card>
+		<name>Warrior Lifelink SKI 11</name>
+		<set rarity="">SKI</set>
+		<prop>
+			<layout>normal</layout>
+			<colors>WG</colors>
+			<type>Token Creature - Warrior</type>
+			<pt>1/1</pt>
+			<maintype>Creature</maintype>
+			<coloridentity/>
+			<format-standard>legal</format-standard>
+			<format-commander>legal</format-commander>
+			<format-modern>legal</format-modern>
+			<format-pauper>legal</format-pauper>
+		</prop>
+		<tablerow>2</tablerow>
+		<text>Lifelink</text>
+		<token>1</token>
+	</card>
+</cards>
+</cockatrice_carddatabase>

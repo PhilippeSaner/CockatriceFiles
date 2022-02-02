@@ -1,0 +1,4099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>LTDC</name>
+<longname>Live The Dream Custom Cube</longname>
+<settype>Custom Cube</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Seafoam Illusionist</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Seafoam Illusionist enters the battlefield, create a 0/0 blue Serpent Illusion creature token with “This creature gets +1/+1 for each token you control.”</text>
+</card>
+<card>
+ <name>Eclipse Angel</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Angel Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+At the beginning of each player’s end step, if that player didn’t cast a spell this turn, they lose 2 life.</text>
+</card>
+<card>
+ <name>Passage of Souls</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UB</color>
+ <manacost>2UB</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature card with power less than or equal to 2 enters your graveyard, if it didn’t enter from the battlefield, you may return it to the battlefield and put a passage counter on Passage of Souls. Then if Passage of Souls has two or more passage counters on it, sacrifice it.</text>
+</card>
+<card>
+ <name>Nexus of Destinies</name>
+ <set rarity="mythic">LTDC</set>
+ <color>WUBRG</color>
+ <manacost>WUBRG</manacost>
+ <cmc>5</cmc>
+ <type> Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>You can’t spend mana to cast this spell.
+Convoke
+At the beginning of your upkeep, if you control a creature of each color, you win the game.</text>
+</card>
+<card>
+ <name>Canal Guide</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UG</color>
+ <manacost>G/U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Canal Guide deals combat damage to a player, create a 1/1 green Cat creature token.
+Creature tokens you control can’t be blocked.</text>
+</card>
+<card>
+ <name>Apothecary Noble</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WB</color>
+ <manacost>3W/B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Zombie Noble </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of each end step, if you cast two white or black spells this turn, you may return a permanent with mana value 3 or less from your graveyard to the battlefield. Otherwise, draw a card.</text>
+</card>
+<card>
+ <name>Emberpelt Ronin</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>RG</color>
+ <manacost>1R/G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fox Samurai </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)
+When Emberpelt Ronin dies, you may put a number of +1/+1 counters on target land you control equal to its power. If you do, that land becomes a 0/0 Elemental creature with haste that’s still a land.</text>
+</card>
+<card>
+ <name>Temple Ring-Fighter</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WR</color>
+ <manacost>R/W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a multicolored spell, Temple Ring-Fighter gets +X/+X until end of turn, where X is the number of that spell’s colors.</text>
+</card>
+<card>
+ <name>Sanguine Sunset</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BR</color>
+ <manacost>BR</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>As long as a player lost life this turn, nonbasic lands are Mountains.
+Sacrifice a creature: Sanguine Sunset deals 1 damage to target opponent.</text>
+</card>
+<card>
+ <name>Prismatic Visions</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Converge — Choose X, where X is the number of colors of mana spent to cast this spell.
+• Draw a card.
+• Counter target spell unless its controller pays 1.
+• Create a Treasure token, then investigate.</text>
+</card>
+<card>
+ <name>Tourist Trap</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Tourist Trap enters the battlefield, create a Treasure token and a Clue token.
+Treasures you control have “T, Sacrifice this artifact: Add CC. Spend this mana only to cast artifact spells or activate abilities of artifacts.”</text>
+</card>
+<card>
+ <name>Void Convergence</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one. If you control a land that could produce two or more colors of mana, choose two instead.
+• Return a creature with mana value 3 or less from your graveyard to the battlefield.
+• Target creature gets -5/-5 until end of turn.
+• Draw two cards, create two Treasure tokens and lose 2 life.</text>
+</card>
+<card>
+ <name>Oceanic Convergence</name>
+ <set rarity="rare">LTDC</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one. If you control a land that could produce two or more colors of mana, choose two instead.
+• Counter target spell with mana value 3 or less.
+• Scry 3, then draw a card.
+• Tap or untap two target nonland permanents.</text>
+</card>
+<card>
+ <name>Fiery Convergence</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one. If you control a land that could produce two or more colors of mana, choose two instead.
+• Fiery Convergence deals 3 damage to target creature.
+• Destroy target artifact.
+• Discard a card, then draw two cards.</text>
+</card>
+<card>
+ <name>Fallen Noble</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Demon Noble </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+T, Exile X cards from your graveyard: Return target creature with mana value X from your graveyard to the battlefield. Activate this ability only as a sorcery.</text>
+</card>
+<card>
+ <name>Lightning Ambusher</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Lightning Ambusher enters the battlefield, it gains first strike until end of turn.
+Whenever you cast a noncreature spell, put a +1/+1 counter on Lightning Ambusher.</text>
+</card>
+<card>
+ <name>Crypt Ranger</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice a Forest: Return up to two non-Forest lands from your graveyard to the battlefield tapped and lose 2 life. Activate this ability only once each turn and only as a sorcery.
+Sacrifice a Swamp: Destroy target tapped creature. You lose life equal to its mana value. Activate this ability only once each turn and only as a sorcery.</text>
+</card>
+<card>
+ <name>Dramatic Confrontation</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gains +1/+1 for each spell cast this turn. Then, you may have it fight another target creature.</text>
+</card>
+<card>
+ <name>Dockside Cutthroat</name>
+ <set rarity="rare">LTDC</set>
+ <color>BR</color>
+ <manacost>2BR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Fox Pirate Ninja </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ninjutsu 1BR
+Whenever Dockside Cutthroat deals combat damage to an opponent, create a Treasure token.
+Dockside Cutthroat gets +1/+0 for each Treasure you control.</text>
+</card>
+<card>
+ <name>Defiant Sunblade</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a multicolored creature spell, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Blade Priestess</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WG</color>
+ <manacost>1GW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Cleric Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more 1/1 creatures you control attack, create a Blade token. (It’s an equipment artifact with “Equipped creature gets +1/+1” and “Equip 2”)</text>
+</card>
+<card>
+ <name>Herald of Autumn</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control a land creature or control six or more lands, Herald of Autumn gains +2/+3.</text>
+</card>
+<card>
+ <name>Commune with the Wilds</name>
+ <set rarity="common">LTDC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top three cards of your library. You may reveal a creature card and/or a land from among them and put them in your hand. Put the rest on the bottom of your library.
+You may put a land card from your hand onto the battlefield.</text>
+</card>
+<card>
+ <name>Street Duelist</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Street Duelist fights, put a +1/+1 counter on it.
+RG, Discard a card: Street Duelist fights another target creature you don’t control.</text>
+</card>
+<card>
+ <name>Wayfinder's Statue</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WG</color>
+ <manacost>1GW</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Landfall—Whenever a land enters the battlefield under your control, if it was a basic land, create a 1/1 white Spirit creature token with flying. If it was a nonbasic land, you may search your library for a basic Forest or Plains card, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Tranquil Moment</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WU</color>
+ <manacost>WU</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap target permanent, then untap target permanent. Scry 1 and gain 1 life.</text>
+</card>
+<card>
+ <name>Sylvan Convergence</name>
+ <set rarity="rare">LTDC</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one. If you control a land that could produce two or more colors of mana, choose two instead.
+• Put three +1/+1 counters on target land you control. Untap it. It becomes a 0/0 Elemental creature with haste that’s still a land.
+• Target creature you control fights another target creature.
+• Destroy target artifact or enchantment.</text>
+</card>
+<card>
+ <name>Solar Convergence</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one. If you control a land that could produce two or more colors of mana, choose two instead.
+• Create two 1/1 white Human creature tokens.
+• Exile target tapped creature or artifact.
+• Counter target monocolored spell unless its controller pays 3.</text>
+</card>
+<card>
+ <name>Blazing Duel</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control fights target creature you don’t control. If both target creatures die this way, put a blaze counter on a land an opponent controls. For as long as that land has a blaze counter on it, it has “At the beginning of your upkeep, this land deals 1 damage to you.”</text>
+</card>
+<card>
+ <name>Spiritforger</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WG</color>
+ <manacost>2G/W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Artificer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Spiritforger enters the battlefield, if you control another token, create a Blade token and attach it to a creature you control. (It’s an equipment artifact with “Equipped creature gets +1/+1” and “Equip 2”)</text>
+</card>
+<card>
+ <name>Frontier Summoner</name>
+ <set rarity="rare">LTDC</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Druid </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Frontier Summoner enters the battlefield, if you control at least two nonbasic lands, create a 4/4 green Elemental creature token.</text>
+</card>
+<card>
+ <name>Moonlight Harmony</name>
+ <set rarity="common">LTDC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>When you cast this spell, copy it for each multicolored spell you’ve cast this turn.
+Choose one —
+• Return target instant or sorcery from your graveyard to your hand.
+• Scry 2, then draw a card.</text>
+</card>
+<card>
+ <name>Forbidden Knowledge</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+Whenever enchanted creature deals combat damage to an opponent, draw a card.</text>
+</card>
+<card>
+ <name>Wandering Acolyte</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WU</color>
+ <manacost>WU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Whenever you cast an instant or sorcery spell, Wandering Acolyte gains first strike until end of turn.
+Whenever you cast an artifact or enchantment spell, Wandering Acolyte gains vigilance until end of turn.</text>
+</card>
+<card>
+ <name>Frostflame Barrage</name>
+ <set rarity="rare">LTDC</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Frostflame Barrage deals 2 damage divided as you choose among one or two targets.
+Tap target permanent.
+Draw a card.</text>
+</card>
+<card>
+ <name>Blazing Paladin</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental Knight </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Blazing Paladin deals combat damage to a player, put a blaze counter on target land they control. For as long as that land has a blaze counter on it, it has “At the beginning of your upkeep, this land deals 1 damage to you.”</text>
+</card>
+<card>
+ <name>Grim Captain's Return</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield. If mana from a Treasure wasn’t spent to cast this spell, you lose life equal to its mana value. If it isn’t a Pirate, you lose life equal to its mana value.</text>
+</card>
+<card>
+ <name>Novice Illusionist</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Novice Illusionist enters the battlefield, create a token that’s a copy of another nontoken creature with mana value 3 or less.</text>
+</card>
+<card>
+ <name>Diamond Mage</name>
+ <set rarity="rare">LTDC</set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+When Diamond Mage enters the battlefield, put a prowess counter on another creature you control.
+The first noncreature spell you cast each turn costs 1 less.</text>
+</card>
+<card>
+ <name>Tidal Paladin</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental Knight </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Tidal Paladin deals combat damage to a player, tap target nonland permanent they control. It doesn’t untap during their next untap step.</text>
+</card>
+<card>
+ <name>Scythe Striker</name>
+ <set rarity="common">LTDC</set>
+ <color>RG</color>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Scythe Striker deals combat damage to an opponent, put that many +1/+1 counters on a land you control. That land becomes a 0/0 Elemental creature. It’s still a land.</text>
+</card>
+<card>
+ <name>Cranial Scrying</name>
+ <set rarity="rare">LTDC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Whenever a creature is put into a graveyard from anywhere, if Cranial Scrying is in your graveyard, you may pay 1B. If you do, return Cranial Scrying to your hand.
+Surveil 1, draw two cards, then discard a card. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>Ritual of Rebirth</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target land from your graveyard to the battlefield. For each color of mana it could produce, add it and lose 1 life.</text>
+</card>
+<card>
+ <name>Temple Psyblade</name>
+ <set rarity="rare">LTDC</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Cleric Assassin </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ward — Pay 3 life.
+Whenever you cast your second spell each turn, if it was white, destroy up to one target tapped nonland permanent. If it was black, draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>Waterspout Monk</name>
+ <set rarity="rare">LTDC</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Creature  - Human Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a token enters the battlefield under your control, if it doesn’t have the same name as any other tokens you control, draw a card.
+4, T: Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Tidemaker Prodigy</name>
+ <set rarity="rare">LTDC</set>
+ <color>U</color>
+ <manacost>UUU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an Island or a blue creature enters the battlefield, put a tide counter on Tidemaker Prodigy.
+Remove two tide counters from Tidemaker Prodigy: Scry 1, then draw a card.</text>
+</card>
+<card>
+ <name>Maran, Speaker of Omens</name>
+ <set rarity="rare">LTDC</set>
+ <color>UB</color>
+ <manacost>3UB</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Warlock </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, surveil 2 and lose 2 life.
+Whenever a creature card enters your graveyard, create a 1/1 blue Bird creature token with flying. If it entered from your library, create two of those tokens instead.</text>
+</card>
+<card>
+ <name>United We Stand</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>WW</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast your second spell each turn, create a 1/1 white Soldier creature token.
+When United We Stand enters the battlefield, if it was the second spell you cast this turn, create a 1/1 white Soldier creature token for each creature you control.</text>
+</card>
+<card>
+ <name>Stensia Ringleader</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Vampire Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, if an opponent lost life this turn, create a Treasure token.</text>
+</card>
+<card>
+ <name>Soul Rend</name>
+ <set rarity="common">LTDC</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature. You lose 3 life.
+Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+</card>
+<card>
+ <name>Vengeful Bloodlord</name>
+ <set rarity="rare">LTDC</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Noble </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, scry 1. If you sacrificed a permanent this turn, Vengeful Bloodlord deals 2 damage to target opponent.</text>
+</card>
+<card>
+ <name>Angel of Knowledge</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WU</color>
+ <manacost>2W/U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Angel </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Prowess
+Whenever you cast a noncreature spell, if its mana cost is different from each other noncreature card in your graveyard, put a +1/+1 counter on Angel of Knowledge.</text>
+</card>
+<card>
+ <name>Highwater Brigand</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Azra Pirate </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Landfall — Whenever a land enters the battlefield under your control, exile the top card of your library. You may cast that card this turn. If you exiled a land card this way, Highwater Brigand deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Frostmountain Scout</name>
+ <set rarity="common">LTDC</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Frostmountain Scout enters the battlefield, create a 3/3 green Wolf creature token.
+Creature tokens you control have hexproof.</text>
+</card>
+<card>
+ <name>Voidblade Duelist</name>
+ <set rarity="rare">LTDC</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more permanents leave the battlefield, you gain 1 life and target opponent loses 1 life.
+2WB: Exile target card from a graveyard that entered that graveyard this turn. Put a +1/+1 counter on Voidblade Duelist.</text>
+</card>
+<card>
+ <name>Rimewind Angel</name>
+ <set rarity="rare">LTDC</set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Angel Warrior </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Angel spells you cast cost W less to cast. This effect reduces only the amount of colored mana you pay.
+Whenever an Angel you control deals combat damage to a player, tap target permanent they control. It doesn’t untap during their next untap step.</text>
+</card>
+<card>
+ <name>Dreadlord Brigand</name>
+ <set rarity="mythic">LTDC</set>
+ <color>BR</color>
+ <manacost>BBRR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Vampire Pirate </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Dreadlord Brigand gets +1/+1 for each other Vampire and Pirate you control.
+T, Sacrifice a Vampire or Pirate: Dreadlord Brigand deals damage equal to its power to target player. Create a Treasure token.</text>
+</card>
+<card>
+ <name>Sunrise Angel</name>
+ <set rarity="rare">LTDC</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Angel Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a multicolored creature enters or leaves the battlefield, put a +1/+1 counter on Sunrise Angel.</text>
+</card>
+<card>
+ <name>Skyship Iris</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Crew 3
+Flying
+Tap three tokens you control: Skyship Iris becomes an artifact creature until end of turn.
+When Skyship Iris attacks, if it wasn’t crewed or was crewed by only token creatures, create a copy of a tapped token you control.</text>
+</card>
+<card>
+ <name>Bearcaller Shaman</name>
+ <set rarity="common">LTDC</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Bearcaller Shaman enters the battlefield, create a 2/2 green Bear creature token.
+1GG, Exile Bearcaller Shaman from your graveyard: Create a 2/2 green Bear creature token.</text>
+</card>
+<card>
+ <name>Celebration Mage</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>RRR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Cleric, Druid, Wizard, Warlock, or Shaman enters the battlefield, put a celebration counter on Celebration Mage.
+Remove a celebration counter from Celebration Mage: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate this ability only once each turn.</text>
+</card>
+<card>
+ <name>Ominous Whisperer</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a Bird you control deals combat damage, surveil 2.
+Delirium—Ominous Whisperer has flying and +1/+1 as long as there are four or more card types among cards in your graveyard.</text>
+</card>
+<card>
+ <name>Bog Heiress</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Warlock Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, mill a card.
+Whenever a land card enters your graveyard, if it didn’t enter from the battlefield, return it to the battlefield and lose 1 life. Sacrifice that land at the beginning of your next end step.</text>
+</card>
+<card>
+ <name>Ancestral Ritualist</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Ancestral Ritualist enters the battlefield, you may sacrifice three tokens with different names. If you do, draw three cards. Otherwise, create your choice of a Clue token, a Food token, or a Treasure token.</text>
+</card>
+<card>
+ <name>Darkheart Pactmaker</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>BBB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell, if its mana cost is different from each other card in your graveyard, put a pact counter on Darkheart Pactmaker.
+Remove two pact counters from Darkheart Pactmaker: Create a 5/5 black Demon creature token with flying. Activate this ability only any time you could cast a sorcery.</text>
+</card>
+<card>
+ <name>Aspiring Soloist</name>
+ <set rarity="mythic">LTDC</set>
+ <color>WU</color>
+ <manacost>WWUU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Birds you control have exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, create a 1/1 blue Bird creature token.</text>
+</card>
+<card>
+ <name>Conjurer's Ring</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add C.
+T: Add one mana of any color. Spend this mana only to cast Cleric, Druid, Shaman, Wizard, or Warlock spells.</text>
+</card>
+<card>
+ <name>Runic Vessel</name>
+ <set rarity="rare">LTDC</set>
+ <color>UB</color>
+ <manacost>3UB</manacost>
+ <cmc>5</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>The first nonland permanent card that enters your graveyard each turn has unearth. The unearth cost is equal to its mana cost.
+The first instant or sorcery that enters your graveyard each turn has flashback. The flashback cost is equal to its mana cost.</text>
+</card>
+<card>
+ <name>Skyclave Explorer</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Landfall—Whenever a land enters the battlefield under your control, if it’s a basic land, gain 1 life. If it’s a nonbasic land, add one mana of any type that land could produce.</text>
+</card>
+<card>
+ <name>Viashino Dartcaster</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Viashino Shaman </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever you cast a multicolored spell, Viashino Dartcaster deals 1 damage to any target.</text>
+</card>
+<card>
+ <name>Frostflame Ritualist</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UR</color>
+ <manacost>2U/R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Frostflame Ritualist enters the battlefield, you may sacrifice another creature. If you do, copy target instant or sorcery spell. You may choose new targets for the copy.</text>
+</card>
+<card>
+ <name>Forgemaster Giant</name>
+ <set rarity="rare">LTDC</set>
+ <color>WR</color>
+ <manacost>3RW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Giant </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Forgemaster Giant enters the battlefield, you may sacrifice another multicolored permanent. If you do, create a colorless Equipment artifact token named Sunblade with “Equipped creature gets +1/+1 for each of its colors” and “Equip multicolored creature 1”</text>
+</card>
+<card>
+ <name>Blessing of the Faithful</name>
+ <set rarity="common">LTDC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Target creature gets +2/+2 until end of turn. If you’ve cast another white spell this turn, that creature gains hexproof and indestructible as well.</text>
+</card>
+<card>
+ <name>Seat of Power</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature you control attacks alone, it gets +X/+X, where X is the number of creature types among creatures you control.</text>
+</card>
+<card>
+ <name>Voyager's Map</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Voyager’s Map enters the battlefield tapped.
+1, T, Sacrifice Voyager’s Map: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+Cycling 2 (2, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Corrupted Sower</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Corrupted Sower enters the battlefield, if you have a Swamp or a Forest in your graveyard, put a +1/+1 counter on Corrupted Sower. If you have both, put three +1/+1 counters on Corrupted Sower instead.</text>
+</card>
+<card>
+ <name>Dauntless Knight</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Dauntless Knight enters the battlefield, if was the second spell you cast this turn, put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Entrancing Harpist</name>
+ <set rarity="rare">LTDC</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Faerie Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Entrancing Harpist enters the battlefield, you may exile X cards from your graveyard. If you do, gain control of target creature with mana value X or less until Entrancing Harpist leaves the battlefield.</text>
+</card>
+<card>
+ <name>Enlightenment</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on target creature you control. If this spell was cast from a graveyard, put a +1/+1 counter on each creature you control instead.
+Flashback 1W (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Shambling Knight</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Zombie Knight </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Exile Shambling Knight from your graveyard: Until end of turn, whenever a creature card enters your graveyard, if it didn’t enter from the battlefield, create a tapped 2/2 black Zombie creature token.</text>
+</card>
+<card>
+ <name>Words of Warding</name>
+ <set rarity="common">LTDC</set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 1 less to cast if it targets a spell that targets you or a permanent or spell you control.
+Counter target spell unless its controller pays 1.
+Draw a card.</text>
+</card>
+<card>
+ <name>Prismatic Druid</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elf Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add one mana of any color. Spend this mana only to cast a multicolored spell.</text>
+</card>
+<card>
+ <name>Goldwing Phoenix</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Phoenix </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Haste
+Whenever you cast your second multicolored spell each turn, you may return Goldwing Phoenix from your graveyard to the battlefield with a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Curse the Streams</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• All creatures get -2/-2 until end of turn.
+• Each opponent sacrifices a creature or planeswalker with the highest mana value among creatures and planeswalkers they control.</text>
+</card>
+<card>
+ <name>Deeprock Kindler</name>
+ <set rarity="common">LTDC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dwarf Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Deeprock Kindler enters the battlefield, create a Treasure token.
+Treasures you control have “T, Sacrifice this artifact: Add R. This permanent deals 1 damage to target opponent.”</text>
+</card>
+<card>
+ <name>Seafoam Mage</name>
+ <set rarity="common">LTDC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever Seafoam Mage enters the battlefield or deals combat damage, you may tap or untap target permanent.</text>
+</card>
+<card>
+ <name>Kraken's Wrath</name>
+ <set rarity="rare">LTDC</set>
+ <color>U</color>
+ <manacost>4UUUU</manacost>
+ <cmc>8</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Affinity for tokens (This spell costs 1 less to cast for each token you control.)
+Put an 8/8 blue Octopus creature token with hexproof onto the battlefield. You may return target nonland permanent to its owner’s hand.</text>
+</card>
+<card>
+ <name>Ritual of the Night</name>
+ <set rarity="common">LTDC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent loses 3 life and you gain 3 life. If you control a Vampire, they lose 4 life and you gain 4 life instead.
+Flashback 3BB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Warlord of the Peak</name>
+ <set rarity="mythic">LTDC</set>
+ <color>RG</color>
+ <manacost>RRGG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Barbarian </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Land creatures you control have double strike.
+RRGG, T: Target land you control becomes an X/X Elemental creature until end of turn, where X is the greatest power among creatures on the battlefield.</text>
+</card>
+<card>
+ <name>Sun's Vigil</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +1/+1 for each color among creatures you control until end of turn.
+Draw a card.</text>
+</card>
+<card>
+ <name>Woodland Guardian</name>
+ <set rarity="rare">LTDC</set>
+ <color>G</color>
+ <manacost>GGG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Faerie Druid </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature enters the battlefield under your control, for each of its creature types, put a bloom counter on Woodland Guardian.
+Remove a bloom counter from Woodland Guardian: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Sanctum Protector</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>WWW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell, put a wrath counter on Sanctum Protector. If it targeted a creature, put two wrath counters instead.
+Remove X wrath counters from Sanctum Protector: Exile target nonland nontoken permanent with mana value X or less.</text>
+</card>
+<card>
+ <name>Sanguine Overlord</name>
+ <set rarity="rare">LTDC</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Pay 2 life: Each player discards a card, then create a 1/1 black Vampire creature token. Activate this ability only as a sorcery and only once each turn.
+Hellbent— As long as you have no cards in hand, Vampires you control have +1/+1 and haste.</text>
+</card>
+<card>
+ <name>Daybreak Angel</name>
+ <set rarity="mythic">LTDC</set>
+ <color>WR</color>
+ <manacost>RRWW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Angel Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+The first multicolored spell you cast each turn has cascade. (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+</card>
+<card>
+ <name>Spellweaver Twins</name>
+ <set rarity="mythic">LTDC</set>
+ <color>UR</color>
+ <manacost>UURR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, scry 1 if its the first time this ability has resolved this turn. If it’s the second time, add UR. If it’s the third time, copy target instant or sorcery spell. You may choose new targets for the copy.</text>
+</card>
+<card>
+ <name>Mistmourne Witch</name>
+ <set rarity="mythic">LTDC</set>
+ <color>UB</color>
+ <manacost>UUBB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Mistmourne Witch deals combat damage to a player, each player mills a card, then create an X/X black Familiar token with flying, where X is the number of cards that entered a graveyard this turn.</text>
+</card>
+<card>
+ <name>Seafoam Oracle</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Seafoam Oracle enters the battlefield, return target permanent or spell with mana value less than or equal to your devotion to blue to its owner’s hand. (Each U in the mana costs of permanents you control counts toward your devotion to blue.)</text>
+</card>
+<card>
+ <name>Weaver of Runes</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Landfall — Whenever a land enters the battlefield under your control, another target creature you control gains protection from colorless or from the color of your choice until end of turn.</text>
+</card>
+<card>
+ <name>Voidblade Paladin</name>
+ <set rarity="mythic">LTDC</set>
+ <color>WB</color>
+ <manacost>WWBB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike, vigilance
+The first time each turn a permanent you control leaves the battlefield, if it was a creature, put a +1/+1 counter on each creature you control. Otherwise, target opponent discards a card.</text>
+</card>
+<card>
+ <name>Sparkforge Construct</name>
+ <set rarity="mythic">LTDC</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Construct Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+As you cast Sparkforge Construct, choose a card name from among Cloudshift, Opt, Disfigure, Brute Force, and Nature’s Claim. Create a copy of the card with the chosen name. You may cast the copy without paying its costs.</text>
+</card>
+<card>
+ <name>Grave Waltz</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a tapped 2/2 black Zombie creature token and a 1/1 white Spirit creature token with flying.
+Flashback WB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Temple Garden</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Forest Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G or W.)
+As Temple Garden enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Godless Shrine</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Plains Swamp </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or B.)
+As Godless Shrine enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Stomping Ground</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Mountain Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or G.)
+As Stomping Ground enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Blood Crypt</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or R.)
+As Blood Crypt enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Watery Grave</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Island Swamp </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add U or B.)
+As Watery Grave enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Breeding Pool</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Forest Island </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G or U.)
+As Breeding Pool enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Overgrown Tomb</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Swamp Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or G.)
+As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Hallowed Fountain</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Plains Island </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or U.)
+As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Sacred Foundry</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Mountain Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or W.)
+As Sacred Foundry enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Adarkar Wastes</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add W or U. Adarkar Wastes deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Battlefield Forge</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add R or W. Battlefield Forge deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Brushland</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add G or W. Brushland deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Caves of Koilos</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add W or B. Caves of Koilos deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Karplusan Forest</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add R or G. Karplusan Forest deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Llanowar Wastes</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add B or G. Llanowar Wastes deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Shivan Reef</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add U or R. Shivan Reef deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Sulfurous Springs</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add B or R. Sulfurous Springs deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Underground River</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add U or B. Underground River deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Yavimaya Coast</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add G or U. Yavimaya Coast deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Sulfur Falls</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.
+T: Add U or R.</text>
+</card>
+<card>
+ <name>Clifftop Retreat</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Clifftop Retreat enters the battlefield tapped unless you control a Mountains or a Plains.
+T: Add R or W.</text>
+</card>
+<card>
+ <name>Dragonskull Summit</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain
+T: Add B or R.</text>
+</card>
+<card>
+ <name>Drowned Catacomb</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+T: Add U or B.</text>
+</card>
+<card>
+ <name>Glacial Fortress</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+T: Add W or U.</text>
+</card>
+<card>
+ <name>Hinterland Harbor</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
+T: Add G or U.</text>
+</card>
+<card>
+ <name>Isolated Chapel</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
+T: Add W or B.</text>
+</card>
+<card>
+ <name>Rootbound Crag</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Rootbound Crag enters the battlefield tapped unless you control a Forest or a Mountain.
+T: Add R or G.</text>
+</card>
+<card>
+ <name>Sunpetal Grove</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+T: Add G or W.</text>
+</card>
+<card>
+ <name>Woodland Cemetery</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.
+T: Add B or G.</text>
+</card>
+<card>
+ <name>Steam Vents</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Island Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add U or R.)
+As Steam Vents enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Divided We Fall</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Divided We Fall enters the battlefield, each opponent discards a card and loses 1 life.
+Revolt — At the beginning of each end step, if a permanent you controlled left the battlefield this turn, you may return Divided We Fall to your hand.</text>
+</card>
+<card>
+ <name>Volcanic Rebirth</name>
+ <set rarity="mythic">LTDC</set>
+ <color>R</color>
+ <manacost>5RR</manacost>
+ <cmc>7</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top seven cards of your library. Create an X/X red Elemental creature token, where X is the total mana value of the exiled cards. If you exiled at least two lands this way, it gains haste.</text>
+</card>
+<card>
+ <name>Sunset Industry</name>
+ <set rarity="rare">LTDC</set>
+ <color>BR</color>
+ <manacost>2BR</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Sunset Industry enters the battlefield with seven industry counters on it.
+Whenever a player casts a spell, remove an industry counter from Sunset Industry, create a Treasure token and lose 1 life. Then if Sunset Industry has no industry counters on it, sacrifice it and all Treasures you control. You lose 1 life for each permanent you sacrificed this turn.</text>
+</card>
+<card>
+ <name>Capital Architect</name>
+ <set rarity="rare">LTDC</set>
+ <color>WG</color>
+ <manacost>3GW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Advisor </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Capital Architect enters the battlefield, search your library for a nonbasic land, reveal it, put it into your hand, and shuffle.
+Landfall— Whenever a land enters the battlefield under your control, you may populate. Otherwise, create a 1/1 white Human creature token. (Create a token that’s a copy of a creature token you control.)</text>
+</card>
+<card>
+ <name>Dreadfleet Marauder</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Pirate Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Raid—At the beginning of your end step, if you attacked with a creature this turn, exile the top card of target opponent’s library, lose life equal to the exiled card’s mana value. and create a Treasure token. You may cast that card for as long as it remains exiled.</text>
+</card>
+<card>
+ <name>Falkenrath Tormentor</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Vampire Noble </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice a creature: Falkenrath Tormentor deals damage equal to the sacrificed creature’s power to any target. If it was a Human, Falkenrath Tormentor deals twice that much damage instead. Activate this ability as a sorcery and only once each turn.</text>
+</card>
+<card>
+ <name>Songs of Frost</name>
+ <set rarity="common">LTDC</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards.
+Choose two permanents you don’t control. Those permanents don’t untap during their controllers’ next untap steps.</text>
+</card>
+<card>
+ <name>Ransack the Library</name>
+ <set rarity="common">LTDC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Surveil 2, then look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 4 life. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+</card>
+<card>
+ <name>Oath of Spring</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Oath of Spring enters the battlefield, create a 2/2 white Knight creature token with vigilance.
+Whenever a Noble enters the battlefield under your control, you may sacrifice Oath of Spring. If you do, create two Blade tokens and attach them to a creature you control. (It’s an equipment artifact with “Equipped creature gets +1/+1” and “Equip 2”)</text>
+</card>
+<card>
+ <name>Princess of the Wilds</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WG</color>
+ <manacost>1GW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Ranger Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Princess of the Wilds enters the battlefield, you may put a land card from your hand onto the battlefield.
+Landfall — Whenever a land enters the battlefield under your control, you may create a 1/1 white Bird creature token with flying.</text>
+</card>
+<card>
+ <name>Sanctum Shadowmage</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Spirit Warlock </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Sanctum Shadowmage enters the battlefield, you may sacrifice another permanent. If you do, target opponent discards two cards and creates a 1/1 white Spirit creature token with flying.</text>
+</card>
+<card>
+ <name>Skydive</name>
+ <set rarity="common">LTDC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a permanent.
+Skydive deals 4 damage to any target.</text>
+</card>
+<card>
+ <name>Renyu, Seafoam Empress</name>
+ <set rarity="rare">LTDC</set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Merfolk Noble </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>The first noncreature spell you cast each turn costs X less, where X is the number of Merfolk you control.
+T: Other Merfolk can’t be blocked this turn.
+1WU: Create a 1/1 blue Merfolk creature token with prowess. Activate only as a sorcery and only once each turn.</text>
+</card>
+<card>
+ <name>Alluring Skysinger</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UR</color>
+ <manacost>3UR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Bird Shaman </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+When Alluring Skysinger enters the battlefield, you may sacrifice a Treasure. If you do, gain control of target creature you don’t control until end of turn. Untap that creature. It gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Eternal Suffering</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BR</color>
+ <manacost>1B/R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets “At the beginning of your upkeep, this creature deals damage equal to its power to you unless you sacrifice this creature.”</text>
+</card>
+<card>
+ <name>Immortal Breath</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target multicolored creature card from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Ninkil, Lab Rat</name>
+ <set rarity="rare">LTDC</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Rat Druid </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Ninkil, Lab Rat enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+4BG, T: Target opponent loses life equal to the number of land cards in your graveyard.</text>
+</card>
+<card>
+ <name>Cauldron Summoning</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast Cauldron Summoning, sacrifice a permanent.
+Search your library or graveyard for a creature card with mana value 3 or less and put it on the battlefield. If you sacrificed a Food as an additional cost, copy this spell.</text>
+</card>
+<card>
+ <name>Explosive Repopulation</name>
+ <set rarity="rare">LTDC</set>
+ <color>RG</color>
+ <manacost>2RG</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for up to two basic lands, put one of them onto the battlefield tapped and the other into your hand. Then, put three +1/+1 counters on target land you control. It becomes a 0/0 Elemental creature. It’s still a land.</text>
+</card>
+<card>
+ <name>Spring Court Spymaster</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Faerie Noble </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Spring Court Spymaster enters the battlefield, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+Whenever you sacrifice a token artifact, tap or untap target permanent.</text>
+</card>
+<card>
+ <name>Yarai, Frontier Stalwart</name>
+ <set rarity="mythic">LTDC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Landfall—Whenever a land enters the battlefield under your control, you may exile another nonland permanent you control. Return that card to the battlefield under its owner’s control at the beginning of the next end step. Creatures that enter the battlefield this way return with an additional +1/+1 counter on them.</text>
+</card>
+<card>
+ <name>Runic Trap</name>
+ <set rarity="common">LTDC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 2. If that spell has mana value greater than the number of lands its controller controls, counter target spell instead.</text>
+</card>
+<card>
+ <name>Jungle Stalkers</name>
+ <set rarity="common">LTDC</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a land enters a graveyard from the battlefield, create a 3/3 green Beast creature token. This ability only triggers once each turn.</text>
+</card>
+<card>
+ <name>Blighted Stalker</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Nightmare Beast </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Blighted Stalker enters the battlefield, each player sacrifices a creature or land.</text>
+</card>
+<card>
+ <name>Fen Protector</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Faerie Druid </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Fen Protector enters the battlefield, you may return up to one land and one nonland card from your graveyard to your hand. You lose 1 life for each card returned this way.</text>
+</card>
+<card>
+ <name>On Wings of Vengeance</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -2/-2 until end of turn.
+Revolt—Target creature gets -5/-5 until end of turn instead if a permanent you controlled left the battlefield this turn.</text>
+</card>
+<card>
+ <name>Murkblade Hunter</name>
+ <set rarity="rare">LTDC</set>
+ <color>BG</color>
+ <manacost>3BG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elf Assassin </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Murkblade Hunter enters the battlefield, mill four cards. Then, you may destroy target permanent with mana value less than or equal to the highest mana value among the milled cards.</text>
+</card>
+<card>
+ <name>Spirit of Innovation</name>
+ <set rarity="mythic">LTDC</set>
+ <color>URG</color>
+ <manacost>XGUR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for 1.)
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)
+Cascade. If X is 3 or more, cascade again. If X is 6 or more, cascade again.</text>
+</card>
+<card>
+ <name>Afterimage</name>
+ <set rarity="rare">LTDC</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Illusion </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+You may have Afterimage enter as a copy of any creature you control. If that creature is attacking, Afterimage enters tapped and attacking.</text>
+</card>
+<card>
+ <name>Overgrown Monument</name>
+ <set rarity="rare">LTDC</set>
+ <color>WG</color>
+ <manacost>1GW</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Overgrown Monument enters the battlefield with a overgrowth counter on it.
+At the beginning of your end step, put an overgrowth counter on Overgrown Monument if a creature and a land entered the battlefield this turn.
+Creatures you control have +1/+1 for each overgrowth counter on Overgrown Monument.</text>
+</card>
+<card>
+ <name>Expedition Provisioner</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Ranger </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Expedition Provisioner enters the battlefield, create a Food token and a Treasure token.
+Sacrifice a token artifact: Another target creature you control gains indestructible until end of turn. Tap it.</text>
+</card>
+<card>
+ <name>Prismatic Puzzle Box</name>
+ <set rarity="common">LTDC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Prismatic Puzzle Box enters the battlefield, add one mana of any color.
+T: Add one mana of any color.
+Sacrifice Prismatic Puzzle Box: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Bloodreap Ritual</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BR</color>
+ <manacost>2BR</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards. Bloodreap Ritual deals damage equal to the sacrificed creature’s power to any target.</text>
+</card>
+<card>
+ <name>Priestess of the Harvest</name>
+ <set rarity="mythic">LTDC</set>
+ <color>WG</color>
+ <manacost>GGWW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, if you control more lands than each other opponent, create a 1/1 white Human creature token for each differently named land you control.</text>
+</card>
+<card>
+ <name>Oath of Silence</name>
+ <set rarity="common">LTDC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 1.
+Until end of turn, spells cost 1 more to cast.</text>
+</card>
+<card>
+ <name>Undying Runeblade</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+Undying Runeblade has haste as long as you have a land in your graveyard.</text>
+</card>
+<card>
+ <name>Severa, Duskwing Angel</name>
+ <set rarity="mythic">LTDC</set>
+ <color>WUB</color>
+ <manacost>2WUB</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Angel </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, vigilance
+Tap another Angel: Severa gains hexproof until end of turn.
+Sacrifice an untapped Angel: Severa gets +4/+4 until end of turn.
+Exile an Angel card from your graveyard: Create a tapped 4/4 Angel creature token with flying.</text>
+</card>
+<card>
+ <name>Daybreak Vanguard</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>You may exert Daybreak Vanguard as it attacks. When you do, creatures you control get +1/+1 for each color among creatures you control until end of turn. (An exerted creature won’t untap during your next untap step.)</text>
+</card>
+<card>
+ <name>Dark Tidings</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UB</color>
+ <manacost>UB</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top four cards of your library. Put one of them in your hand and the rest into your graveyard.
+Flashback—Sacrifice two creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Inner Balance</name>
+ <set rarity="rare">LTDC</set>
+ <color>RG</color>
+ <manacost>2RG</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Kicker— Tap an untapped red permanent and an untapped green permanent you control.
+Domain — Search your library for two basic lands and put them onto the battlefield tapped. If this spell was kicked, Inner Balance deals X damage to any target, where X is the number of basic land types among lands you control.</text>
+</card>
+<card>
+ <name>Draconic Warrunner</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Dragons you control have haste and trample.
+3RR, Sacrifice another non-Dragon creature: Create a 5/5 red Dragon creature token with flying.</text>
+</card>
+<card>
+ <name>Crimson Inquisitor</name>
+ <set rarity="rare">LTDC</set>
+ <color>WR</color>
+ <manacost>2RW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Crimson Inquisitor attacks, create a 1/1 Soldier token that’s all colors tapped and attacking.</text>
+</card>
+<card>
+ <name>Illustrious Sculptor</name>
+ <set rarity="mythic">LTDC</set>
+ <color>UG</color>
+ <manacost>GGUU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Wizard </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Sculptures you control can’t attack or block.
+At the beginning of your upkeep, you may exile a creature card from your graveyard. If you do, create a token that’s a copy of that card, except it’s also a Sculpture.</text>
+</card>
+<card>
+ <name>Undercity Huntmaster</name>
+ <set rarity="mythic">LTDC</set>
+ <color>BG</color>
+ <manacost>BBGG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Druid </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Undercity Huntmaster enters the battlefield, mill four cards.
+Whenever you mill one or more creature cards, create a 2/2 green Wolf token.
+Whenever you mill one or more land cards,  Undercity Huntmaster deals 1 damage to each opponent and you gain 1 life.</text>
+</card>
+<card>
+ <name>Draconic Fury</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draconic Fury deals 4 damage to each creature.
+6RR, Exile Draconic Fury from your graveyard: Create a 5/5 red Dragon creature token with flying. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Moonlight Rendezvous</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature you control and target creature you don’t control. At the beginning of the next end step, you may return each creature exiled this way to the battlefield under their owner’s control.</text>
+</card>
+<card>
+ <name>Curious Axolotl</name>
+ <set rarity="common">LTDC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Lizard Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Curious Axolotl enters the battlefield, you may choose an card you own from outside the game with mana value 1, reveal it, and exile it.
+When Curious Axolotl leaves the battlefield, you may cast the exiled card without paying it’s mana cost.</text>
+</card>
+<card>
+ <name>Saera of the Summer Court</name>
+ <set rarity="mythic">LTDC</set>
+ <color>WUG</color>
+ <manacost>GWU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Faerie Noble </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever another nontoken creature enters the battlefield, investigate. If that creature shares a color with Saera of the Summer Court, investigate an additional time. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Riyel, Sharpshooter</name>
+ <set rarity="mythic">LTDC</set>
+ <color>UBR</color>
+ <manacost>UBR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Pirate </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Whenever a creature you control deals combat damage to an opponent, create a Treasure token.
+1UBR, Sacrifice X Treasures: Gain control of target nonland permanent with mana value X.</text>
+</card>
+<card>
+ <name>Vengeful Legionnaire</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Revolt—This spell has cascade if a permanent you controlled left the battlefield this turn. (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+</card>
+<card>
+ <name>Frontier Warlord</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Frontier Warlord enters the battlefield or attacks, each player discards a card. Then, target opponent loses life equal to the highest mana value among cards discarded this way.</text>
+</card>
+<card>
+ <name>Illusionist's Stroke</name>
+ <set rarity="common">LTDC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap target permanent. Draw a card.
+Flashback 3U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Sea of Thoughts</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>The first time each turn you mill a card, discard a card, or draw a card except the first one you draw in each of your draw steps, create a Treasure token.</text>
+</card>
+<card>
+ <name>Hedron Explosion</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Hedron Explosion deals damage to target creature equal to the number of lands you control. Excess damage is dealt to that creature’s controller instead.</text>
+</card>
+<card>
+ <name>Shambling Ursa</name>
+ <set rarity="mythic">LTDC</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Zombie Bear </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+At the beginning of your upkeep, if Shambling Ursa is in your graveyard, you may exile four cards that do not share a card type from your graveyard. If you do, return Shambling Ursa to the battlefield. It gains haste.</text>
+</card>
+<card>
+ <name>Springbloom Ritual</name>
+ <set rarity="mythic">LTDC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+Domain—Untap a basic land for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Timereaver</name>
+ <set rarity="rare">LTDC</set>
+ <color>UB</color>
+ <manacost>4UB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Delve
+At the beginning of each upkeep, each player exiles the top two cards of their libraries.
+T, Exile Timereaver: Take an extra turn. Activate this ability only if five or more different mana values are exiled with Timereaver and only as a sorcery.</text>
+</card>
+<card>
+ <name>Blade Dancer</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Battalion—Whenever Blade Dancer and at least two other creatures attack, create a Blade token and attach it to Blade Dancer. (It’s an equipment artifact with “Equipped creature gets +1/+1” and “Equip 2”)</text>
+</card>
+<card>
+ <name>Magnetized Dragon</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Dragon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Ward 1
+While players are choosing targets as part of casting a spell they control or activating an ability they control, they must choose Magnetized Dragon if able.</text>
+</card>
+<card>
+ <name>Avenging Knight</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elf Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Revolt — Avenging Knight gets +2/+1 and has first strike and vigilance if a permanent you controlled left the battlefield this turn.</text>
+</card>
+<card>
+ <name>Blood Crescent Oni</name>
+ <set rarity="mythic">LTDC</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Demon Spirit Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Blood Crescent Oni deals combat damage to an opponent, put a blood counter on target nonbasic land they control. It becomes a Mountain and gains “Whenever this land is tapped for mana, it deals 1 damage to you.”
+When Blood Crescent Oni leaves the battlefield, remove all blood counters from all permanents.</text>
+</card>
+<card>
+ <name>Aurora Florealis</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+At the beginning of your precombat main phase, add one mana of any color. If you have the city’s blessing, add three mana of any color instead.</text>
+</card>
+<card>
+ <name>Phoenix Dancer</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Azra Shaman </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Battalion—Whenever Phoenix Dancer and at least two other creatures attack, create a 0/0 red Phoenix creature token with flying and “This creature gets +1/+1 for each attacking creature you control” that’s tapped and attacking.</text>
+</card>
+<card>
+ <name>Blood Lotus</name>
+ <set rarity="mythic">LTDC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Blood Lotus: Add three mana of any color. Until end of turn, whenever you cast a spell, you lose life equal to its mana value.</text>
+</card>
+<card>
+ <name>Skysqualler Mage</name>
+ <set rarity="common">LTDC</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast if you control a creature with prowess.
+Prowess
+When Skysqualler Mage enters the battlefield, return target creature an opponent controls to its owners hand.</text>
+</card>
+<card>
+ <name>Descend Upon the Guilty</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each player sacrifices an artifact, a creature, an enchantment, a land, discards a card, and loses 1 life.
+Delirium—When you cast this spell, copy it if there are four or more card types among cards in your graveyard.</text>
+</card>
+<card>
+ <name>Fen Botanist</name>
+ <set rarity="rare">LTDC</set>
+ <color>BG</color>
+ <manacost>2BG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Exile two lands from your graveyard: Return target land from your graveyard to the battlefield tapped. Create two tapped 2/2 black Zombie creature tokens.</text>
+</card>
+<card>
+ <name>Falkenrath Ravager</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Vampire Noble </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Falkenrath Ravager has menace and +1/+1 as long as you’ve sacrificed a creature this turn.
+Sacrifice a creature: Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.</text>
+</card>
+<card>
+ <name>To The Point</name>
+ <set rarity="common">LTDC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, if a red source you control would deal 2 or less damage to an opponent or a permanent an opponent controls, it deals 3 damage instead.</text>
+</card>
+<card>
+ <name>Ignition Angel</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WR</color>
+ <manacost>4RW</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Angel Wizard </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 2 less to cast for each multicolored spell you cast this turn.
+Flying
+When Ignition Angel enters the battlefield, it deals X damage to any target, where X is the number of multicolored permanents you control.</text>
+</card>
+<card>
+ <name>Blossoming Winds</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a land.
+Choose one—
+• Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
+• Search your library for a land card, put that card onto the battlefield, then shuffle your library. Draw a card.</text>
+</card>
+<card>
+ <name>Kindling Breath</name>
+ <set rarity="common">LTDC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kindling Breath deals 2 damage to any target. Scry 2.
+Flashback 5R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Hero's Passing</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. You may put a memorial counter on it.
+At the beginning of your upkeep, if Hero’s Passing is in your graveyard, you may exile four cards that do not share a card type from your graveyard. If you do, return a creature in exile with a memorial counter on it to the battlefield under your control. Exile Hero’s Passing.</text>
+</card>
+<card>
+ <name>Midnight Ritual</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a card, reveal it, and put it in your hand.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost.</text>
+</card>
+<card>
+ <name>Prismatic Channeler</name>
+ <set rarity="common">LTDC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Converge—When Prismatic Channeler enters the battlefield, put a +1/+1 counter on up to X target creatures, where X is the number of colors of mana spent to cast this spell.</text>
+</card>
+<card>
+ <name>Gecko Rider</name>
+ <set rarity="rare">LTDC</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elf Knight </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1G: Gecko Rider gets +2/+2 until end of turn. Activate this ability only once each turn.
+When Gecko Rider dies, create a X/X green Lizard creature token, where X is Gecko Rider’s power. It gains all activated abilities of Gecko Rider.</text>
+</card>
+<card>
+ <name>Sylvan Scavenger</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Sylvan Scavenger dies, return target card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Forbidden Studies</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Reveal the top seven cards of your library. You choose three of them and shuffle them back into your library, and mill the rest.
+Draw a card.</text>
+</card>
+<card>
+ <name>Will of the Empress</name>
+ <set rarity="rare">LTDC</set>
+ <color>UR</color>
+ <manacost>3UR</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Will of the Empress deals damage to any target equal to the greatest mana value among other spells cast this turn.</text>
+</card>
+<card>
+ <name>Jackal Marauder</name>
+ <set rarity="common">LTDC</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Jackal Pirate </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Jackal Marauder is dealt damage, create a Treasure token.</text>
+</card>
+<card>
+ <name>Refurbished Wings</name>
+ <set rarity="common">LTDC</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has flying and “Whenever this creature deals combat damage to an opponent, create a Treasure token.”
+Equip 1</text>
+</card>
+<card>
+ <name>Wilderness Snare</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control fights target creature an opponent controls. If the creature an opponent controls is tapped, the creature you control gains indestructible.</text>
+</card>
+<card>
+ <name>Winter Court Maiden</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Faerie Noble </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Prowess
+When Winter Court Maiden enters the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Sojourner Mage</name>
+ <set rarity="rare">LTDC</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Sojourner Mage attacks, exile a noncreature card from your graveyard. You may return target nonland permanent with mana value less than or equal to that of the exiled card to its owner’s hand.</text>
+</card>
+<card>
+ <name>Sisterhood</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Revolt—As long as a permanent you controlled left the battlefield this turn, creatures you control get +1/+1.
+2W, Discard a card: Exile target creature you control. Return it to the battlefield at the beginning of your next end step. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Cosmic Spear</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target nonland permanent. Its controller creates a Treasure token.</text>
+</card>
+<card>
+ <name>Season's Reckoning</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +X/+X, where X is your devotion to green. If your devotion to green is five or more, it also gains your choice of hexproof or trample until end of turn. (Each G in the mana costs of permanents you control counts toward your devotion to green.)</text>
+</card>
+<card>
+ <name>Ritual of Restoration</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Ritual of Restoration enters or leaves the battlefield, return target permanent with mana value 3 or less from your graveyard to the battlefield.
+1W, Sacrifice Ritual of Restoration: Scry 2.</text>
+</card>
+<card>
+ <name>Skyburst</name>
+ <set rarity="mythic">LTDC</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all creatures. If this is the second spell you cast this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Dockside Diver</name>
+ <set rarity="common">LTDC</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Pirate </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Dockside Diver deals combat damage to a player, draw a card.
+Dockside Diver can’t be blocked as long as you’ve cast a noncreature spell this turn.</text>
+</card>
+<card>
+ <name>Blightwood Huntress</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Ranger </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Blightwood Huntress enters the battlefield, if you control a Forest, you may have it fight target creature you don’t control.
+Exile two cards from your graveyard: Blightwood Huntress gains indestructible until end of turn. Tap it.</text>
+</card>
+<card>
+ <name>Dirge</name>
+ <set rarity="common">LTDC</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose a noncreature, nonland card type. Target opponent reveals their hand. You choose a creature card or a card of the chosen type from it. That player discards that card.</text>
+</card>
+<card>
+ <name>Apotheosis</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Its controller creates a 1/1 white Spirit creature token with flying. If that creature had mana value 4 or greater, its controller creates two of those tokens instead.</text>
+</card>
+<card>
+ <name>Harrowing Necromancer</name>
+ <set rarity="mythic">LTDC</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, return target creature card you control from your graveyard to the battlefield. It gains haste. At the beginning of your next end step or if it would leave the battlefield, exile it.</text>
+</card>
+<card>
+ <name>Wayward Shrine</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you may put a land card from your hand onto the battlefield.
+Sacrifice Wayward Shrine: Return any number of land cards from your graveyard and lands you control from the battlefield to your hand.</text>
+</card>
+<card>
+ <name>Juvenile Treefolk</name>
+ <set rarity="common">LTDC</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Treefolk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Juvenile Treefolk enters the battlefield, search your library for a Forest card and put it in your hand, then shuffle. If you control only nonbasic lands, instead put it onto the battlefield tapped.
+1G, Exile Juvenile Treefolk from your graveyard: Create a Food token.</text>
+</card>
+<card>
+ <name>Imperial Enforcers</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Imperial Enforcers enters the battlefield, each player sacrifices each nonbasic land they control except for one.</text>
+</card>
+<card>
+ <name>Dreadshore Raiders</name>
+ <set rarity="rare">LTDC</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Pirate </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Dreadshore Raiders attacks, create a 2/2 black Pirate creature token with Menace tapped and attacking.</text>
+</card>
+<card>
+ <name>Molten Snail</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Insect Elemental </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Molten Snail attacks, you may exert it. If you do, Molten Snail deals damage equals to the number of lands defending player controls to any target. (An exerted creature won’t untap during your next untap step.)</text>
+</card>
+<card>
+ <name>Young Firebrand</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Wizard</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast your first sorcery spell each turn, Young Firebrand deals 1 damage to each opponent. The same is true for instant, artifact, enchantment, and planeswalker.</text>
+</card>
+<card>
+ <name>Mulch Wardens</name>
+ <set rarity="common">LTDC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Mulch Wardens enters the battlefield, search your library for up to two basic lands, reveal those cards, put one onto the battlefield tapped and the other in your graveyard, then shuffle.</text>
+</card>
+<card>
+ <name>Meru of the Golden Circle</name>
+ <set rarity="mythic">LTDC</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Affinity for non-Humans (This spell costs 1 less to cast for each non-Human you control.)
+When Meru enters the battlefield or dies, create a green 3/3 Beast creature token.</text>
+</card>
+<card>
+ <name>Seal of Suffering</name>
+ <set rarity="common">LTDC</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Sacrifice Seal of Suffering: Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+</card>
+<card>
+ <name>Hydra Ravager</name>
+ <set rarity="rare">LTDC</set>
+ <color>RG</color>
+ <manacost>XRG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Hydra </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Affinity for nonbasic lands (This spell costs 1 less to cast for each nonbasic land you control.)
+Hydra Ravager enters with X +1/+1 counters on it.</text>
+</card>
+<card>
+ <name>Ibiru, Heir of the Sands</name>
+ <set rarity="mythic">LTDC</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Shaman </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Landfall—Whenever a land enters the battlefield under your control, if it doesn’t share a name with each other land you control, deal X damage to any target, where X is the number of differently named lands you control. Otherwise, deal 1 damage to any target.</text>
+</card>
+<card>
+ <name>Myth of Obliteration</name>
+ <set rarity="mythic">LTDC</set>
+ <color>WBR</color>
+ <manacost>RWB</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your end step, choose one—
+• Each player sacrifices a creature.
+• Each player sacrifices a land.
+• Each player sacrifices a noncreature, nonland permanent.</text>
+</card>
+<card>
+ <name>Gift of Flame</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Gift of Flame deals 2 damage to any target. If you cast this spell from your graveyard, Gift of Flame instead deals 3 damage to any target.
+Flashback 4R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Seal of Ascension</name>
+ <set rarity="common">LTDC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Sacrifice Seal of Ascension: Exile target creature you control, then return it to the battlefield under your control. Create a Treasure token.</text>
+</card>
+<card>
+ <name>Seal of Savagery</name>
+ <set rarity="common">LTDC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Sacrifice Seal of Savagery: Target creature you control fights target creature you don’t control.</text>
+</card>
+<card>
+ <name>Emergency Bauble</name>
+ <set rarity="common">LTDC</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Sacrifice Emergency Bauble: Add one mana of any color to your mana pool. Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Amber Crystal</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add C.
+T: Add one mana of any color. Spend this mana only to cast multicolored spells.</text>
+</card>
+<card>
+ <name>Diminutive Illusionist</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Rabbit Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Diminutive Illusionist enters the battlefield, if it isn’t a token, create a token that’s a copy of another target creature, except it’s 1/1 and has “When this creature becomes the target of a spell or ability, sacrifice it.”</text>
+</card>
+<card>
+ <name>Witty Retort</name>
+ <set rarity="common">LTDC</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This spell has flash and costs 1 less to cast as long as you’ve cast a spell this turn.
+Witty Retort deals 2 damage divided as you choose among one or two targets.
+Draw a card.</text>
+</card>
+<card>
+ <name>Diamond Merchant</name>
+ <set rarity="common">LTDC</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Diamond Merchant enters the battlefield, you may discard a land card. If you do, create an artifact token named Mox Diamond with “T: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Frostmountain Lookout</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+</card>
+<card>
+ <name>Dauntless Explorer</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Dauntless Explorer enters the battlefield or deals combat damage to an opponent, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+</card>
+<card>
+ <name>Lunar Cut</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Revolt — Choose one. If a permanent you controlled left the battlefield this turn, you may choose two.
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.</text>
+</card>
+<card>
+ <name>Burst of Light</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>If it’s your turn, put target creature on top of its controller’s library. Otherwise, you may tap target creature and draw a card.</text>
+</card>
+<card>
+ <name>Cloudreach Monk</name>
+ <set rarity="mythic">LTDC</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Monk </type>
+ <pt>*/*</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Cloudreach Monk’s power and toughness are each equal to the number of creatures you control.
+Whenever Cloudreach Monk enters the battlefield or you cast a noncreature spell, create a 1/1 white Bird creature token with flying.</text>
+</card>
+<card>
+ <name>Inhibit</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As long as it’s your turn, Inhibit costs 1 less to cast.
+Counter target spell. Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Djen, Cosmic Chronologist</name>
+ <set rarity="mythic">LTDC</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Giant Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+At the beginning of your upkeep, you may choose an instant or sorcery card with mana value less than or equal to your devotion to blue from your graveyard. It gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
+</card>
+<card>
+ <name>Skywrath Mystic</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Angel Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Skywrath Mystic enters the battlefield, you may destroy target nonland permanent with mana value less than or equals to your devotion to white. If you do, its controller investigates.</text>
+</card>
+<card>
+ <name>Runesoul Golem</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>The first nonartifact spell each player casts each turn costs 1 more to cast.</text>
+</card>
+<card>
+ <name>Wild Pyromancer</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a source you control deals noncombat damage, create a 1/1 red Elemental creature token. This ability triggers only once each turn.
+1R, Exile Wild Pyromancer from your graveyard: Sacrifice any number of creatures. Wild Pyromancer deals that much damage to target opponent.</text>
+</card>
+<card>
+ <name>Spiritwarden</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UB</color>
+ <manacost>2U/B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Spiritwarden enters the battlefield, each player mills four cards, then choose a card milled this way. You may cast that card this turn.</text>
+</card>
+<card>
+ <name>Woodland Explorer</name>
+ <set rarity="common">LTDC</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elf Scout </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add G.
+Exile Woodland Explorer from your graveyard: Add G.</text>
+</card>
+<card>
+ <name>Dire Fleet Vermin</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Rat Pirate </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Dire Fleet Vermin enters the battlefield, you may sacrifice a Treasure. If you do, destroy target creature. Otherwise, create two Treasure tokens.</text>
+</card>
+<card>
+ <name>Mossrock Scavengers</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BG</color>
+ <manacost>2B/G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Mossrock Scavengers enters the battlefield or dies, you may search your library for a card and put it in your graveyard.</text>
+</card>
+<card>
+ <name>Voidcaller Shade</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Shade </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>1B: Exile target card from a graveyard. If it was a creature card, create a 1/1 black Shade creature token.</text>
+</card>
+<card>
+ <name>Crystal Sellsword</name>
+ <set rarity="common">LTDC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Pirate </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Crystal Sellsword deals combat damage to an opponent, if it didn’t attack alone, create a Treasure token.</text>
+</card>
+<card>
+ <name>Cosmic Relevation</name>
+ <set rarity="rare">LTDC</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top seven cards of your library. You may put one of them in your hand. Put the rest at the bottom of your library in a random order. If you didn’t put a card into your hand this way, draw two cards.</text>
+</card>
+<card>
+ <name>Realign</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card. If this spell was cast from a graveyard, scry 2, then draw a card instead.
+Flashback 2U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Refute</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell with mana value 3 or less.
+Cycling 1 (1, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Journey's End</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target nonland permanent you control and target nonland permanent you don’t control to their owner’s hands. If both permanents shared a type, draw a card.</text>
+</card>
+<card>
+ <name>Beyond the Frontiers</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a land card and reveal it, and put it in your hand. If this spell was cast from a graveyard, you may put that card onto the battlefield instead of putting it in your hand. Shuffle.
+Flashback—Sacrifice a land (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Woodland Prowler</name>
+ <set rarity="rare">LTDC</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elemental Wolf </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Woodland Prowler enters the battlefield, you may have it fight target creature you don’t control. Until end of turn, whenever a creature dies, create a Food token. (Each deals damage equal to its power to the other.)</text>
+</card>
+<card>
+ <name>Maera, Mycelium Queen</name>
+ <set rarity="mythic">LTDC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Elf Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Maera, Mycelium Queen enters the battlefield or dies, create a 1/1 green Saproling creature token.
+Delirium—If there are four or more card types among cards in your graveyard, instead create a 1/1 green Saproling creature token for each creature card in your graveyard.</text>
+</card>
+<card>
+ <name>Vantage Point</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a Forest card, put that card onto the battlefield tapped, then shuffle. You may choose target creature you control. It explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on it, then put the card back or put it into your graveyard.)</text>
+</card>
+<card>
+ <name>Horizon Skiff</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+Crew 2
+Horizon Skiff’s power and toughness are each equal to the number of creatures you control.
+When Horizon Skiff attacks or blocks, create a 1/1 white Human creature token.</text>
+</card>
+<card>
+ <name>Rotten Reanimation</name>
+ <set rarity="mythic">LTDC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield. It gains decayed. (A creature with decayed can’t block. When it attacks, sacrifice it at end of combat.)</text>
+</card>
+<card>
+ <name>Abberation Sentry</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>As long as Abberation Sentry is in a graveyard, it’s an enchantment and a land in addition to its other types.
+3, Exile Abberation Sentry from a graveyard: Abberation Sentry’s owner draws a card. Any player may activate this ability.</text>
+</card>
+<card>
+ <name>Ilse, Lady of Omens</name>
+ <set rarity="mythic">LTDC</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Warlock </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice a creature: Surveil 2.
+The first time each turn a creature card enters your graveyard from your library, you may exile it. If you do, create a X/X black Horror creature token, where X is the number of cards that entered your graveyard this turn.</text>
+</card>
+<card>
+ <name>Fortuitous Bauble</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Fortuitous Bauble: Look at the top card of your library. You may shuffle. At the beginning of your next upkeep, draw a card.</text>
+</card>
+<card>
+ <name>Mox Astra</name>
+ <set rarity="mythic">LTDC</set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color. You can’t spend this mana to cast spells from your hand.</text>
+</card>
+<card>
+ <name>Temporal Ascendancy</name>
+ <set rarity="mythic">LTDC</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You can’t spend mana to cast this spell.
+Convoke, delve. (Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color. Each card you exile from your graveyard pays for 1.)
+Take an extra turn after this one.</text>
+</card>
+<card>
+ <name>Aeru, Runethief</name>
+ <set rarity="mythic">LTDC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Shapeshifter </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever you cast an instant or a spell with flash, put a +1/+1 counter on Aeru, Runethief. If this is the second time this ability has resolved this turn, draw a card.</text>
+</card>
+<card>
+ <name>Arev, Dawn's Anthem</name>
+ <set rarity="mythic">LTDC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Elf Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast your second spell each turn, creatures you control get +1/+1 until end of turn, and put a dawn counter on Arev. If there are three or more dawn counters on Arev, put a +1/+1 counter on each creature you control instead.</text>
+</card>
+<card>
+ <name>Priest of Fading Hope</name>
+ <set rarity="rare">LTDC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elf Cleric </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Priest of Fading Hope enters the battlefield, target creature an opponent controls phases out as long as Priest of Fading Hope is on the battlefield. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+3: Priest of Fading Hope phases out. Any player may activate this ability as a sorcery. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+</card>
+<card>
+ <name>Abhor</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Abhor enters the battlefield, exile another target nonland permanent until Abhor leaves the battlefield. Its controller creates their choice of a Clue token, Food token, or Treasure token.</text>
+</card>
+<card>
+ <name>Masume, Earthen Animator</name>
+ <set rarity="rare">LTDC</set>
+ <color>WRG</color>
+ <manacost>RGW</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a land you control becomes a creature, put a +1/+1 counter on it and untap it.
+XRGW: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It’s still a land.</text>
+</card>
+<card>
+ <name>Kome, Lantern Herald</name>
+ <set rarity="rare">LTDC</set>
+ <color>UBG</color>
+ <manacost>1BGU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Spirit Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+T, Sacrifice a creature: Return creature card with mana value equal to 1 plus the sacrificed creature’s mana value from your graveyard to the battlefield. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Windswept Heath</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Verdant Catacombs</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Scalding Tarn</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Misty Rainforest</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Marsh Flats</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Arid Mesa</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Wooded Foothills</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T,  Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Polluted Delta</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Flooded Strand</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Bloodstained Mire</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Hali, Symbol of Hope</name>
+ <set rarity="rare">LTDC</set>
+ <color>WR</color>
+ <manacost>2RW</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Angel Warrior </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Other multicolored creatures you control have mentor. (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)</text>
+</card>
+<card>
+ <name>Brionn, Spirit of the Forge</name>
+ <set rarity="mythic">LTDC</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Spirit Artificer </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Brionn enters the battlefield or dies, create a Treasure token.
+Treasures you control have “T, Sacrifice this artifact: Add one mana of any color and one mana of any other color.”</text>
+</card>
+<card>
+ <name>Lys, the Shadewing</name>
+ <set rarity="mythic">LTDC</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Vampire </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Haste
+Raid— At the beginning of your end step, if you attacked this turn, you may sacrifice a creature. If you do, target opponent sacrifices a creature.</text>
+</card>
+<card>
+ <name>Flameburst Raider</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Shaman </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Raid—When Flameburst Raider enters the battlefield, if you attacked this turn, you may discard a card. If you do, Flameburst Raider deals damage equal to that card’s mana value to target creature. Excess damage is dealt to that creature’s controller instead.</text>
+</card>
+<card>
+ <name>Destruction of Property</name>
+ <set rarity="rare">LTDC</set>
+ <color>R</color>
+ <manacost>XRR</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Domain — Destruction of Property costs 1 less for each basic land type among lands you control.
+Destruction of Property deals X damage to any target. Each player sacrifices a land.</text>
+</card>
+<card>
+ <name>Basalt Minotaur</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Minotaur Warrior </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, put a +1/+1 counter on Basalt Minotaur. If Basalt Minotaur has two or more +1/+1 counters on it, you may instead choose one—
+• Destroy target artifact.
+• Exile the top card of your library. Until the end of your next turn, you may play this card.</text>
+</card>
+<card>
+ <name>Murktide Octopus</name>
+ <set rarity="mythic">LTDC</set>
+ <color>U</color>
+ <manacost>6UU</manacost>
+ <cmc>8</cmc>
+ <type>Creature - Octopus </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of each combat, you may exile a card from your graveyard.
+Murktide Octopus has protection from each mana value among cards exiled by it.</text>
+</card>
+<card>
+ <name>Tomekeeper Sphinx</name>
+ <set rarity="rare">LTDC</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Sphinx </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+When Tomekeeper Sphinx enters the battlefield, you may cast target noncreature spell from your graveyard as if it had flash without paying its mana cost. If that card would be put into a graveyard this turn, exile it instead.</text>
+</card>
+<card>
+ <name>Voidcaller Demon</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Demon </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Voidcaller Demon enters the battlefield, each opponent loses X life, where X is the number of different mana costs among nonland cards in your graveyard..</text>
+</card>
+<card>
+ <name>Relentless Bloodlord</name>
+ <set rarity="rare">LTDC</set>
+ <color>B</color>
+ <manacost>5BB</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Vampire </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Delve (Each card you exile from your graveyard while casting this spell pays for 1.)
+You may cast Relentless Bloodlord from your graveyard. If you do, you can’t spend mana to pay for this spell’s generic mana cost.</text>
+</card>
+<card>
+ <name>Bloodlord's Edict</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Each player sacrifices a creature. If this spell was cast from a graveyard, target player sacrifices a creature instead.
+Flashback— 4BB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Scavenging Hydra</name>
+ <set rarity="rare">LTDC</set>
+ <color>G</color>
+ <manacost>XGG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Ooze Hydra </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Scavenging Hydra enters the battlefield, you may exile up to X target cards from graveyards. Put a +1/+1 counter on Scavenging Hydra and gain 1 life for each card exiled this way.</text>
+</card>
+<card>
+ <name>Urban Overgrowth</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant non-Forest land
+Whenever enchanted land is tapped for mana, its controller adds G.</text>
+</card>
+<card>
+ <name>Shambling Oak</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Treefolk </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Delirium—When Shambling Oak enters the battlefield, if there are four or more card types among cards in your graveyard, you may return any number of cards that do not share a card type from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Tidespiral Pearl</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Tidespiral Pearl enters the battlefield, you may pay 2 life. Otherwise, Tidespiral Pearl enters the battlefield tapped.
+T: Add W or U.
+3WU, T, Sacrifice Tidespiral Pearl: Exile target instant or sorcery card in your graveyard with mana value 3 or less. You may cast it without paying its costs this turn.</text>
+</card>
+<card>
+ <name>Treasury Pouch</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Treasury Pouch enters the battlefield, you may pay 2 life. Otherwise, Treasury Pouch enters the battlefield tapped.
+T: Add R or W.
+2RW, T, Sacrifice Treasury Pouch: Create two Treasure tokens.</text>
+</card>
+<card>
+ <name>Void Stone</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Void Stone enters the battlefield, you may pay 2 life. Otherwise, Void Stone enters the battlefield tapped.
+T: Add W or B.
+3WB, T, Sacrifice Void Stone: Return target permanent with mana value 3 or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Cryptic Pendant</name>
+ <set rarity="common">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Cryptic Pendant enters the battlefield, you may pay 2 life. Otherwise, Cryptic Pendant enters the battlefield tapped.
+T: Add U or B.
+3UB, T, Sacrifice Cryptic Pendant: Mill four cards. You may choose a card milled this way and return it to your hand. </text>
+</card>
+<card>
+ <name>Enigmatic Candle</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Enigmatic Candle enters the battlefield, you may pay 2 life. Otherwise, Enigmatic Candle enters the battlefield tapped.
+T: Add U or R.
+3UR, T, Sacrifice Enigmatic Candle: Return target noncreature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Sylvan Diamond</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Sylvan Diamond enters the battlefield, you may pay 2 life. Otherwise, Sylvan Diamond enters the battlefield tapped.
+T: Add G or U.
+2GU, T, Sacrifice Sylvan Diamond: Create a token that’s a copy of a token you control.</text>
+</card>
+<card>
+ <name>Fireheart Armillary</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Fireheart Armillary enters the battlefield, you may pay 2 life. Otherwise, Fireheart Armillary enters the battlefield tapped.
+T: Add B or R.
+1BR, T, Sacrifice Fireheart Armillary: Until end of turn, whenever a creature dies, it deals 1 damage to any target.</text>
+</card>
+<card>
+ <name>Fractured Bauble</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Fractured Bauble enters the battlefield, you may pay 2 life. Otherwise, Fractured Bauble enters the battlefield tapped.
+T: Add B or G.
+1BG, T, Sacrifice Fractured Bauble: Put target card from your graveyard on top of your library.</text>
+</card>
+<card>
+ <name>Wild Riftstone</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Wild Riftstone enters the battlefield, you may pay 2 life. Otherwise, Wild Riftstone enters tapped.
+T: Add R or G.
+X2RG, T, Sacrifice Wild Riftstone: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It’s still a land.</text>
+</card>
+<card>
+ <name>Wildwing Emerald</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>As Wildwing Emerald enters the battlefield, you may pay 2 life. Otherwise, Wildwing Emerald enters the battlefield tapped.
+T: Add G or W.
+3GW, T, Sacrifice Wildwing Emerald: Exile target land and target nonland permanent you control, then return them to the battlefield under their owner’s control.</text>
+</card>
+<card>
+ <name>Ixley, the Grim Captain</name>
+ <set rarity="rare">LTDC</set>
+ <color>BR</color>
+ <manacost>4BR</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Creature - Spirit Pirate </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Raid—When Ixley, the Grim Captain enters the battlefield, if you attacked this turn, return target creature card from your graveyard to the battlefield. It gains haste. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+</card>
+<card>
+ <name>Frostburst</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WU</color>
+ <manacost>WU</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards, then discard a card. Tap target permanent. It doesn’t untap during its controllers next untap step.</text>
+</card>
+<card>
+ <name>Frost Lance</name>
+ <set rarity="rare">LTDC</set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target nonland permanent if it has the highest mana value among permanents on the battlefield.</text>
+</card>
+<card>
+ <name>Frostmountain Mage</name>
+ <set rarity="rare">LTDC</set>
+ <color>WU</color>
+ <manacost>2WU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When you cast your first noncreature spell each turn, reveal the top card of your library. If it’s a noncreature card, put it in your hand and gain life equal to its mana value. Otherwise, you may put it on the bottom of your library.</text>
+</card>
+<card>
+ <name>Relegate</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UB</color>
+ <manacost>UB</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 3. Each player mills three cards.</text>
+</card>
+<card>
+ <name>Cerebral Culling</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UB</color>
+ <manacost>UB</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. You may search your library for a card with mana value equal to the discarded card and reveal it. If you do, put that card in your graveyard.</text>
+</card>
+<card>
+ <name>Mind Warp</name>
+ <set rarity="rare">LTDC</set>
+ <color>UB</color>
+ <manacost>2UB</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Take an extra turn after this one. During your next turn, you can’t cast spells from your hand.</text>
+</card>
+<card>
+ <name>Trickster Kami</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Trickster Kami enters the battlefield, reveal the top card of your library until end of turn. Your opponent may have you draw a card. If they don’t, that opponent loses 1 life and you mill a card. Repeat this process until you draw a card this way.</text>
+</card>
+<card>
+ <name>Canyon Ogre</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>RG</color>
+ <manacost>4RG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Ogre </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+Discard a land card: Canyon Ogre gets +1/+1 until end of turn. If you’ve discarded three or more cards this way this turn, Canyon Ogre gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Greatstag of the Redwoods</name>
+ <set rarity="rare">LTDC</set>
+ <color>RG</color>
+ <manacost>3RG</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Elk </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of combat on your turn, you may have target Mountain and target Forest you control become X/Y Elemental creatures with haste until end of turn, where X is Greatstag’s power and Y is Greatstag’s toughness. They are still lands.</text>
+</card>
+<card>
+ <name>Frontier Skiff</name>
+ <set rarity="rare">LTDC</set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Flying
+Frontier Skiff has +1/+1 for each noncreature spell you cast this turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Heruj, Nature's Aegis</name>
+ <set rarity="rare">LTDC</set>
+ <color>WG</color>
+ <manacost>1GW</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Elf Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Landfall—Whenever a land enters the battlefield under your control, choose target nonland permanent card in your graveyard with mana value 3 or less. You may cast that card this turn.</text>
+</card>
+<card>
+ <name>Viridian Rush</name>
+ <set rarity="rare">LTDC</set>
+ <color>WG</color>
+ <manacost>3GW</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +X/+X and trample until end of turn, where X is the number of differently named lands you control.</text>
+</card>
+<card>
+ <name>Draconic Meteor</name>
+ <set rarity="rare">LTDC</set>
+ <color>RG</color>
+ <manacost>XXRG</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Affinity for permanents (This spell costs 1 less to cast for each permanent you control.)
+Draconic Meteor deals X damage to any target.</text>
+</card>
+<card>
+ <name>Heliod's Wrath</name>
+ <set rarity="rare">LTDC</set>
+ <color>WB</color>
+ <manacost>XWB</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy each nonland permanent with mana value X.
+Revolt— If a permanent you controlled left the battlefield this turn, instead destroy each nonland permanent with mana value X or less.</text>
+</card>
+<card>
+ <name>Growing Rites of Mul Daya</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, mill a card.
+Delirium— If there are four or more card types among cards in your graveyard, instead mill two cards, then return a card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Daybreak Goldsmith</name>
+ <set rarity="rare">LTDC</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dwarf Artificer </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a multicolored spell, create a X/X colorless Golem artifact creature token, where X is the number of colors of mana spent to cast that spell.</text>
+</card>
+<card>
+ <name>Vicious Spark</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>BR</color>
+ <manacost>BR</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Vicious Spark deals 3 damage to any target.
+Delirium—If there are four or more card types among cards in your graveyard, Vicious Spark has flashback. Its flashback cost is equal to its mana cost.</text>
+</card>
+<card>
+ <name>Tectonic Teachings</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card, then discard a card. If you discarded a nonland card this way, Tectonic Teachings deals 2 damage to any target.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Aether Trick</name>
+ <set rarity="rare">LTDC</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature.
+Search your library for an instant or sorcery card with mana value equal to one plus the sacrificed creature’s mana value, exile that card, then shuffle. You may cast this spell without paying its mana cost.</text>
+</card>
+<card>
+ <name>Sayan, Erratic Archmage</name>
+ <set rarity="rare">LTDC</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, draw a card, then discard a card.
+Instant and sorcery spells that share a mana value with an instant or sorcery card in your graveyard have rebound. (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Solar Glare</name>
+ <set rarity="rare">LTDC</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Converge — Choose X, where X is the number of colors of mana spent to cast this spell.
+• Solar Glare deals 2 damage to target creature and that creature’s controller.
+• Destroy target artifact or enchantment.
+• Destroy target nonbasic land.</text>
+</card>
+<card>
+ <name>Crusader Frog</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Frog Knight </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Crusader Frog enters the battlefield, create a Blade token and attach it to Crusader Frog. (It’s an equipment artifact with “Equipped creature gets +1/+1” and “Equip 2”)</text>
+</card>
+<card>
+ <name>Methodical Evolution</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>UG</color>
+ <manacost>XGU</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a X/X green Ooze creature token.
+Flashback—Sacrifice X tokens. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Zenno, Aether Artisan</name>
+ <set rarity="rare">LTDC</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Zenno, Aether Artisan enters the battlefield or dies, you may sacrifice an artifact. If you do, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
+</card>
+<card>
+ <name>Overgrown Elephant</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>RG</color>
+ <manacost>2RG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elephant </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+When Overgrown Elephant dies, create a 3/3 green Elephant creature token at the beginning of your next upkeep.</text>
+</card>
+<card>
+ <name>Redwood Ritualist</name>
+ <set rarity="common">LTDC</set>
+ <color>RG</color>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add one mana of any color, then add one mana of any other color.</text>
+</card>
+<card>
+ <name>Soul Grasp</name>
+ <set rarity="uncommon">LTDC</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent reveals their hand. You choose a nonland card from it. Exile that card.
+Revolt—If a permanent you controlled left the battlefield this turn, you may cast the exiled card until end of turn, and you may spend mana as though it were mana of any type to cast that spell.</text>
+</card>
+<card>
+ <name>Box of Fates</name>
+ <set rarity="rare">LTDC</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life. Then, put a fate counter on Box of Fates. If Box of Fates has three or more fate counters on it, sacrifice Box of Fates. Search your library for a card, put that card in your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Avera of the Void Tomes</name>
+ <set rarity="rare">LTDC</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Elf Noble </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Avera of the Void Tomes enters the battlefield, search your library for a nonland card and exile it face up. Shuffle.
+Whenever you cast a spell that shares a card type with the exiled card, each opponent loses 2 life.
+Whenever you cast a spell that shares a mana value with the exiled card, each opponent loses 2 life.</text>
+</card>
+<card>
+ <name>Lei, the Primordial Storm</name>
+ <set rarity="mythic">LTDC</set>
+ <color>WUR</color>
+ <manacost>2URW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Dragon </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+As Lei, the Primordial Storm enters the battlefield, choose one from among instant, sorcery, artifact or enchantment. The first spell you cast each turn of the chosen type has storm. (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+</card>
+<card>
+ <name>Wysth, Dragon Tamer</name>
+ <set rarity="mythic">LTDC</set>
+ <color>BRG</color>
+ <manacost>1BRG</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Elf Warlock </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Wysth, Dragon Tamer enters the battlefield, you may sacrifice any number of creatures and exile any number of cards from your graveyard. If you do, create a X/X black Dragon creature token with flying, where X is the number of creatures sacrificed plus number of card types among cards exiled this way.</text>
+</card>
+<card>
+ <name>City of Brass</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Whenever City of Brass becomes tapped, it deals 1 damage to you.
+T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Prismatic Vista</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Fabled Passage</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.</text>
+</card>
+<card>
+ <name>Prismatic Palace</name>
+ <set rarity="rare">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+4, T: Add two mana of any one color and two mana of any other color.</text>
+</card>
+<card>
+ <name>Tranquil Landscape</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2, T, Sacrifice Tranquil Landscape: Search your library for two basic land cards that don’t share a card type, put them onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Illuminating Lantern</name>
+ <set rarity="common">LTDC</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Each player exiles a card from their graveyard.
+3, Sacrifice Illuminating Lantern: Exile all cards from target player’s graveyard. Draw a card.</text>
+</card>
+<card>
+ <name>Cranial Bell</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add C.
+T: Each player mills a card.</text>
+</card>
+<card>
+ <name>Abandoned Torii</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>The first time each turn a permanent card enters your graveyard, create a 1/1 white Spirit creature token with flying.</text>
+</card>
+<card>
+ <name>Jade Eye Guardian</name>
+ <set rarity="common">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Jade Eye Guardian dies, each player shuffles their graveyards into their library.</text>
+</card>
+<card>
+ <name>Veni, Knight of the Oasis</name>
+ <set rarity="rare">LTDC</set>
+ <color>WBG</color>
+ <manacost>WBG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Knight </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature enters the battlefield, choose one—
+• If it entered from exile, put a +1/+1 counter on Veni.
+• If it entered from a graveyard or was cast from a graveyard, target creature gets -2/-2 until end of turn.
+• If it entered from a library or was cast from your library, draw a card.</text>
+</card>
+<card>
+ <name>Sacred Lodestone</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color. Put a charge counter on Sacred Lodestone.
+T, Remove two charge counters from Sacred Lodestone: Add two mana of any color.</text>
+</card>
+<card>
+ <name>Armillary of the Cosmos</name>
+ <set rarity="uncommon">LTDC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Armillary of the Cosmos enters the battlefield, draw a card.
+Landfall—Whenever a land enters the battlefield under your control, target land gains “T: Add one mana of any color.” until end of turn.</text>
+</card>
+
+<!-->Tokens</-->
+
+
+</cards>
+</cockatrice_carddatabase>

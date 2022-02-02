@@ -1,0 +1,2968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>PAX</name>
+<longname></longname>
+<settype></settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Student of the Elixir</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Lizard Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.
+Scavenge W (W, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Taifeng Flockherd</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Soldier </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+3W: Taifeng Flockherd and each other creature in its pack get +1/+1 until end of turn. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Penitent Martyr</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Otter Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When Penitent Martyr dies, if it was in a pack, create a 2/1 black Spirit creature token with “This creature can’t block.” (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Dynasty Infantry</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Panda Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Dynasty Infantry enters the battlefield, choose one —
+• Search your library for a card named Dynasty Infantry, reveal it, put it into your hand, then shuffle.
+• Put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Rice Fields Cultivator</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Goat Druid </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Rice Fields Cultivator enters the battlefield, search your library for a basic Plains card or an artifact card with a mana ability, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Heaven's Eyes</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Heaven’s Eyes enters the battlefield, create a 1/1 white Bird creature token with flying. Then you gain 1 life for each creature in Heaven’s Eyes’ pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Herald of the Yaoguai</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Fox </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Herald of the Yaoguai has indestructible as long as two or more creatures have entered the battlefield under your control this turn.</text>
+</card>
+<card>
+ <name>Enlightened Orator</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Cat Monk </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Enlightened Orator enters the battlefield, choose one —
+• Other creatures you control get +1/+1 until end of turn.
+• Destroy target enchantment.</text>
+</card>
+<card>
+ <name>Dawning Celestial</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Dragon </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever another creature enters the battlefield under your control, you may have Dawning Celestial get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Funerary Daoshi</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When Funerary Daoshi enters the battlefield, return target creature card with mana value 3 or less from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Banished from the Pack</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature or planeswalker
+Enchanted permanent has base power 0 and loses all abilities.</text>
+</card>
+<card>
+ <name>Accept Mortality</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature or planeswalker and up to one target card from its controller’s graveyard.</text>
+</card>
+<card>
+ <name>Festive Firecrackers</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Target attacking creature gets +2/+2 until end of turn.
+• Destroy target artifact.</text>
+</card>
+<card>
+ <name>Expel Darkness</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, when target creature you control dies, return it to your hand and create a 2/1 black Spirit creature token with “This creature can’t block.”</text>
+</card>
+<card>
+ <name>Combination Wontons</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose target creature, then choose two —
+• Put a +1/+1 counter on it.
+• Put a first strike counter on it.
+• Put a lifelink counter on it.</text>
+</card>
+<card>
+ <name>Ascend Inner Mountains</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Exile up to two target creatures. Return them to the battlefield under their owners’ control at the beginning of the next end step.
+3 | You may have them enter the battlefield with an additional +1/+1 counter on them.</text>
+</card>
+<card>
+ <name>Celestial Intervention</name>
+ <set rarity="common">PAX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Destroy target tapped creature.
+3 | Prevent all combat damage that would be dealt this turn.</text>
+</card>
+<card>
+ <name>Taifeng Quartermaster</name>
+ <set rarity="uncommon">PAX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Taifeng Quartermaster attacks, another target creature in its pack gains double strike until end of turn. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Deification</name>
+ <set rarity="uncommon">PAX</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Deification enters the battlefield, exile target nonland permanent an opponent controls and each other permanent with the same name that player controls until Deification leaves the battlefield.</text>
+</card>
+<card>
+ <name>Forsaken Soulherd</name>
+ <set rarity="uncommon">PAX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Bird Spirit Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a creature in Forsaken Soulherd’s pack dies, look at the top card of your library. If it’s a creature card with equal or lesser power, you may reveal it and put it into your hand. Otherwise, you may mill it. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Karmic Judgment</name>
+ <set rarity="uncommon">PAX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target nonland permanent. Its controller creates a 1/1 black Spirit token for each of that permanent’s colors.</text>
+</card>
+<card>
+ <name>Qi Block</name>
+ <set rarity="uncommon">PAX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 2 or if its controller has cast two or more spells this turn.</text>
+</card>
+<card>
+ <name>Imperial Conquest</name>
+ <set rarity="uncommon">PAX</set>
+ <color>W</color>
+ <manacost>XW</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Create X 1/1 black Spirit creature tokens.
+5 | Put a +1/+1 counter on each creature you control.</text>
+</card>
+<card>
+ <name>Bai Long Ma, Pillar of Fortitude</name>
+ <set rarity="uncommon">PAX</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Dragon Spirit </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+Flying
+1W: Demigod
+Return up to one target creature card with mana value 2 or less form your graveyard to the battlefield.
+3W: God
+Put a +1/+1 counter on each creature you control with the lowest power among creatures you control.</text>
+</card>
+<card>
+ <name>Whimwing</name>
+ <set rarity="rare">PAX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Cleric </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, lifelink
+Creatures entering or leaving the battlefield don’t cause abilities to trigger unless that creature is in a pack.  (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Master of Moderation</name>
+ <set rarity="rare">PAX</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a player casts their second spell each turn, each of that player’s opponents draws a card unless that player pays 2.
+If an opponent would draw a card except the first one they draw in each of their draw steps, that player skips that draw instead unless that player pays 2.</text>
+</card>
+<card>
+ <name>Sunbird Expiration</name>
+ <set rarity="rare">PAX</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Destroy all creatures and all planeswalkers.
+X | Return any number of creature and/or planeswalker cards with total mana value X or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Huang Ya, Silent Arbiter</name>
+ <set rarity="rare">PAX</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Elephant Monk </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+When Huang Ya enters the battlefield, choose a card type. Each player sacrifices a permanent of the chosen type.
+1W Demigod
+Choose a card type. Huang Ya gains protection from the chosen type.
+3W God
+Choose a card type. Return all permanent cards in your graveyard of that type to your hand.</text>
+</card>
+<card>
+ <name>Laiyru River Guide</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Fish Scout </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Target land you control becomes the basic land type of your choice until end of turn.
+At the beginning of each end step, if you spent three or more colors of mana to cast spells this turn, surveil 1.</text>
+</card>
+<card>
+ <name>Heaven's Gale Harrier</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Bird Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+1, T: Tap target creature. Activate only if Heaven’s Gale Harrier is in a pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Taifeng Informant</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Monk </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Taifeng Informant and another creature in its pack deal damage to an opponent, draw a card. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Forbidden Wisdom</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Surveil 2, then draw two cards. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+</card>
+<card>
+ <name>Student of the Provinces</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Fox Monk </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Student of the Provinces enters the battlefield, draw a card, then discard a card. If a nonland card is discarded this way, draw a card.</text>
+</card>
+<card>
+ <name>Bogsnatcher Drake</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Drake </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Bogsnatcher Drake enters the battlefield, create a colorless artifact token named Lotus Petal with “T, Sacrifice this artifact: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Figment of the North Wind</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Wolf Spirit </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Figment of the North Wind becomes the target of a spell an opponent controls, sacrifice it.
+Scavenge 5U (5U, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Venerable Loremaster</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Turtle Bard </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Venerable Loremaster can attack as though it didn’t have defender if it’s in a pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Crane-Style Ascetic</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Crane-Style Ascetic enters the battlefield, choose one —
+• Create a 1/1 white Bird creature token with flying.
+• Put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Qi-Long Rainbringer</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Dragon </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Qi-Long Rainbringer enters the battlefield, return up to one other target creature to its owner’s hand.</text>
+</card>
+<card>
+ <name>Unbalance</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Counter target spell unless its controller pays 2.
+• Tap target creature. It doesn’t untap during its controller’s next untap step.</text>
+</card>
+<card>
+ <name>Lost to the Elements</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Lost to the Elements enters the battlefield, if enchanted creature isn’t in a pack, tap it. (Two or more creatures you control with equal power are in a pack.)
+Enchanted creature doesn’t untap during its controller’s untap step.</text>
+</card>
+<card>
+ <name>Wildershrine Pilgrimage</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)
+Create a colorless artifact token named Lotus Petal with “T, Sacrifice this artifact: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Sleight of Eye</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose target creature you control, then choose two —
+• Put a +1/+1 counter on it.
+• It gains hexproof until end of turn.
+• It can’t be blocked this turn.</text>
+</card>
+<card>
+ <name>Consuming Guilt</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing  (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Counter target permanent spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard.
+3 | You gain life equal to its mana value.</text>
+</card>
+<card>
+ <name>Claimed by the Mists</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing  (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Target creature’s owner puts it on the top or bottom of their library.
+3 | Return a creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Deafening Thunder</name>
+ <set rarity="common">PAX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Attacking creatures get -3/-0 until end of turn.
+3 | Deafening Thunder deals 1 damage to each of those creatures.</text>
+</card>
+<card>
+ <name>Wanderer of Many Paths</name>
+ <set rarity="uncommon">PAX</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Raccoon Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When a creature scavenges Wanderer of Many Paths, create a token that’s a copy of that creature. Put a +1/+1 counter on the copy.
+Scavenge 4U (4U, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Gale Conjurant</name>
+ <set rarity="uncommon">PAX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+When Gale Conjurant enters the battlefield, counter target spell with mana value equal to or less than the number of creatures in Gale Conjurant’s pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Lunar Deus Blackguard</name>
+ <set rarity="uncommon">PAX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+At the beginning of combat on your turn, you may exile a creature card from your graveyard. When you do, target creature with the same power as the exiled card can’t be blocked this turn.</text>
+</card>
+<card>
+ <name>Inner-Eye Obscurist</name>
+ <set rarity="uncommon">PAX</set>
+ <color>U</color>
+ <manacost>6UU</manacost>
+ <cmc>8</cmc>
+ <type>Creature - Octopus Monk </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Inner-Eye Obscurist enters the battlefield, return each other creature that isn’t in Inner-Eye Obscurist’s pack to their owners’ hand. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Three Wisdoms</name>
+ <set rarity="uncommon">PAX</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Draw three cards.
+5 | Add WUBRG. You can cast only one more spell this turn.</text>
+</card>
+<card>
+ <name>Divine Expulsion</name>
+ <set rarity="uncommon">PAX</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Return up to three target creatures an opponent controls to their owner’s hand.
+3 | That player puts one card from their hand on top of the library, and another on the bottom.</text>
+</card>
+<card>
+ <name>Sha Wujing, Depth of Desire</name>
+ <set rarity="uncommon">PAX</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Octopus Spirit </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+Ward 2
+2U: Demigod
+Exchange a card in your hand and a noncreature, nonland card in your graveyard.
+6U: God
+Exchange control of two target permanents that share a card type.</text>
+</card>
+<card>
+ <name>Refractrix</name>
+ <set rarity="rare">PAX</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Bird Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Refractrix enters the battlefield, surveil 1.
+Whenever Refractrix deals combat damage to a player, exile any number of creatures in its pack. Return those creatures to the battlefield under their owners’ control at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Echo of Doubt</name>
+ <set rarity="rare">PAX</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Create a token that’s a copy of target permanent.
+5 | Gain control of that permanent.</text>
+</card>
+<card>
+ <name>Nanzan Daio, Hidden Mist</name>
+ <set rarity="rare">PAX</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Bird Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+Flying
+1U: Demigod
+Whenever a creature you control deals combat damage to a player this turn, draw a card.
+4U: God
+Create an X/X blue Spirit creature token with flying, where X is the number of cards in your hand.</text>
+</card>
+<card>
+ <name>Taifeng Wraith</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Bird Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When a creature scavenges Taifeng Wraith, put a flying counter on that creature.
+Scavenge 2B (2B, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Lotus Wastes Apothecary</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Lizard Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Lotus Wastes Apothecary enters the battlefield, target player discards a card. If a nonland card isn’t discarded this way, create a colorless artifact token named Lotus Petal with “T, Sacrifice this artifact: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Bleeding-Edge Garroter</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Crocodile Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Bleeding-Edge Garroter dies, if it was in a pack, you draw a card and you lose 1 life. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Wetlands Marauder</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fungus Warrior </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Wetlands Marauder can’t block.
+Scavenge 5B (5B, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Ming Fleet Privateer</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Rat Rogue </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Ming Fleet Privateer attacks, put a menace counter on target creature in its pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Weeping Yaoguai</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Wolf Spirit </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Weeping Yaoguai enters the battlefield, create a 1/1 black Spirit creature token.
+Scavenge 3B (3B, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Jade Empire Outlaw</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Snake Warrior </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+When Jade Empire Outlaw enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+</card>
+<card>
+ <name>Caller to the Grim Feast</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bird Warlock </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Caller to the Grim Feast or another creature you control dies, each opponent loses 1 life. If that creature was in Caller to the Grim Feast’s pack, surveil 1. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Disciple of the Coil</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When Disciple of the Coil enters the battlefield, choose one —
+• You draw a card and you lose 2 life.
+• Put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Augur of Bleak Horizons</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Dragon </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Augur of Bleak Horizons enters the battlefield, you gain 3 life and you mill three cards.</text>
+</card>
+<card>
+ <name>Eternal Wanderings</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player discards two cards. Create a 2/1 black Spirit creature token with “This creature can’t block.”</text>
+</card>
+<card>
+ <name>Mortal Whims</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -2/-2 until end of turn. You mill two cards.</text>
+</card>
+<card>
+ <name>Apothecary's Boon</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Apothecary’s Boon deals 5 damage to target creature or planeswalker. You gain life equal to the excess damage dealt this way.</text>
+</card>
+<card>
+ <name>Daoshi Veneration</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards. Create a colorless artifact token named Lotus Petal with “T, Sacrifice this artifact: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Eaten Alive</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast Eaten Alive, sacrifice a creature or pay 3B.
+Exile target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Qi Shackle</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Target opponent sacrifices a creature.
+3 | That player also sacrifices an artifact or enchantment.</text>
+</card>
+<card>
+ <name>Free from the Coil</name>
+ <set rarity="common">PAX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Return up to two target creature cards from your graveyard to your hand.
+3 | You may put a creature card with mana value 3 or less from your hand onto the battlefield.</text>
+</card>
+<card>
+ <name>Lieshi Pariah</name>
+ <set rarity="uncommon">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bear Warrior </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever Lieshi Pariah deals combat damage, you lose that much life unless it’s in a pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Kinsang Duskblade</name>
+ <set rarity="uncommon">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Insect Assassin </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+When a creature scavenges Kinsang Duskblade, put a deathtouch counter on that creature.
+Scavenge 2B (2B, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Infested Penghou</name>
+ <set rarity="uncommon">PAX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Infested Penghou dies, create X 1/1 black Spirit creature tokens, where X is its power.
+Scavenge 4B (4B, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Lotus-Scarred Luocha</name>
+ <set rarity="uncommon">PAX</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Cat Demon Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Lotus-Scarred Luocha enters the battlefield, create a 2/1 black Spirit creature token with “This creature can’t block.”
+Whenever a creature in Lotus-Scarred Luocha’s pack dies, each opponent loses 2 life and you gain 2 life. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Divide and Slaughter</name>
+ <set rarity="uncommon">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature that isn’t in a pack. (Two or more creatures with equal power controlled by the same player are in a pack.)</text>
+</card>
+<card>
+ <name>Dawning of the Celestials</name>
+ <set rarity="uncommon">PAX</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Return target creature card from your graveyard to the battlefield.
+5 | It gains vigilance, trample, lifelink, indestructible, and haste until end of turn.</text>
+</card>
+<card>
+ <name>Zhizhu Jing, Duality of Fates</name>
+ <set rarity="uncommon">PAX</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Creature - Spider Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+Menace
+2B: Demigod
+Surveil 2. Each opponent loses 2 life and you gain 2 life.
+4B  God
+Search your library for two cards with different names and reveal them. Put one of those cards of an opponent’s choice into your graveyard, and the rest into your hand.</text>
+</card>
+<card>
+ <name>Devourer of Legacy</name>
+ <set rarity="rare">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Devourer of Legacy deals combat damage to a player, you may sacrifice it and choose a nonland card name. If you do, search that player’s graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.</text>
+</card>
+<card>
+ <name>Inquisition of Yudi</name>
+ <set rarity="rare">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent reveals their hand. You choose a nonland card from it or a creature they control with mana value 3 or less and exile it.</text>
+</card>
+<card>
+ <name>Pilferret</name>
+ <set rarity="rare">PAX</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Ferret Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ward—Discard a card (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+You have ward—Discard a card.</text>
+</card>
+<card>
+ <name>Niu Mo Wang, Defiler of Ash</name>
+ <set rarity="rare">PAX</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Ox Monk </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+When Niu Mo Wang enters the battlefield, each player sacrifices another nonland permanent.
+1B: Demigod
+Each player discards two cards unless they discard a creature card.
+XB: God
+Return any number of target creature cards with different mana values X or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Laiyru Huntsman</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Frog Archer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+When a creature scavenges Laiyru Huntsman, put a first strike counter on it.
+Scavenge 2R (2R, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Brewmaster Brothers</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.</text>
+</card>
+<card>
+ <name>Moon-Scarred Tuzi</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Rabbit Warrior </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Moon-Scarred Tuzi attacks, target creature in its pack gains first strike until end of turn. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Royal Retriever</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Hound Soldier </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Royal Retriever enters the battlefield or when a creature scavenges it, you may discard a card. If you do, draw a card.
+Scavenge R (R, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Guang Vigilantes</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more creatures in Guang Vigilantes’s pack attack, each creature in its pack gets +1/+0 until end of turn. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Yangzhi Cloudpiercer</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Crocodile Archer </type>
+ <pt>4/1</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+T: Yangzhi Cloudpiercer deals 1 damage to target player or planeswalker.</text>
+</card>
+<card>
+ <name>Roseblood Hart</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elk Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Roseblood Hart enters the battlefield, choose one:
+• Create a colorless artifact token named Lotus Petal with “T, Sacrifice this artifact: Add one mana of any color.”
+• Destroy target artifact.</text>
+</card>
+<card>
+ <name>Acolyte of Heavenly Fire</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Cat Monk </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature in Acolyte of Heavenly Fire’s pack attacks, it deals 1 damage to defending player. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Ancient of Reflections</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Dragon </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Ancient of Reflections enters the battlefield, create a token that’s a copy of target creature you control not named Ancient of Reflections, except it has base power and toughness 1/1. The token gains haste. Sacrifice it at end of turn.</text>
+</card>
+<card>
+ <name>Sage of Staves</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>5R</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Panda BearMonk </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+When Sage of Staves enters the battlefield, choose one —
+• Sage of Staves deals 3 damage to target player or planeswalker.
+• Put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Conquer Psyche</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Create a token that’s a copy of target creature you control. It gains haste. Sacrifice it at end of turn.
+• Untap target creature and gain control of it until end of turn. It gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Petal Blade</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Petal Blade deals 2 damage to target creature or planeswalker. When excess damage is dealt this way, create a tapped colorless artifact token named Lotus Petal with “T, Sacrifice this artifact: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Assault on Heaven's Gate</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose a creature you control, then choose two —
+• Put a +1/+1 counter on it.
+• Put a trample counter on it.
+• Until end of turn, it gains “When this creature dies, create two 1/1 black Spirit creature tokens.”</text>
+</card>
+<card>
+ <name>Qi-Long Invocation</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may put a +1/+1 counter on target creature you control. It deals damage equal to its power to another target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Flames of the Life-Bringer</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Flames of the Life-Bringer deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.
+3 | You gain 3 life.</text>
+</card>
+<card>
+ <name>Liar's Dice</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Discard up to two cards, then draw that many cards plus one.
+3 | Add three mana in any combination of colors.</text>
+</card>
+<card>
+ <name>Fiery Portent</name>
+ <set rarity="common">PAX</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Fiery Portent deals 5 damage to target creature or planeswalker.
+3 | Surveil 3.</text>
+</card>
+<card>
+ <name>Castigator Myriarch</name>
+ <set rarity="uncommon">PAX</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Chimera </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Castigator Myriarch attacks, it gains flying until end of turn if it’s in a pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Ram Wrangler</name>
+ <set rarity="uncommon">PAX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Panda Bear Shaman </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Ram Wrangler attacks, until end of turn, gain control of target creature defending player controls with power equal to or less than the number of creatures in Ram Wrangler’s pack. Tap that creature. It’s attacking its owner. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Fires of Renewal</name>
+ <set rarity="uncommon">PAX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Fires of Renewal deals 2 damage to each creature.
+Create a colorless artifact token named Lotus Petal with “T: Sacrifice this artifact: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Undercutter</name>
+ <set rarity="uncommon">PAX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fish Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+When a creature scavenges Undercutter, put a double strike counter on that creature.
+Scavenge 4R (4R, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Cleanse the World in Fire</name>
+ <set rarity="uncommon">PAX</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Destroy target artifact or nonbasic land.
+3 | Search its controller’s graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, and draws a card for each card exiled from their hand this way.</text>
+</card>
+<card>
+ <name>Battle of Principles</name>
+ <set rarity="uncommon">PAX</set>
+ <color>R</color>
+ <manacost>XR</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Battle of Principles deals X damage to any target.
+5 | When a creature or planeswalker dealt damage this way dies this turn, return it to the battlefield under your control.</text>
+</card>
+<card>
+ <name>Xijiang, the Fiend Judge</name>
+ <set rarity="uncommon">PAX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Crab Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+Trample
+2R: Demigod
+Create a 2/1 black Spirit creature token with “This creature can’t block.”
+5R: God
+Until end of turn, creatures you control get +1/+0 and gain haste and “When this creature dies, it deals 1 damage to any target.”</text>
+</card>
+<card>
+ <name>Redeemed Yaoguai</name>
+ <set rarity="rare">PAX</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fox Spirit </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste
+1: Redeemed Yaoguai gets +1/+0 until end of turn.
+At the beginning of your end step, sacrifice Redeemed Yaoguai unless it’s in a pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Equilibrium Wave</name>
+ <set rarity="rare">PAX</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Each creature deals damage to itself equal to its power.
+3 | You gain life equal to the excess damage dealt this way.
+5 | Each opponent loses that much life.</text>
+</card>
+<card>
+ <name>Zihuo of Sundered Earth</name>
+ <set rarity="rare">PAX</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Monkey Monk </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+When Zihuo enters the battlefield, you may exile an instant or sorcery card from your graveyard. When you do, Zihuo deals damage equal to that card’s mana value to up target creature or planeswalker.
+2R Demigod
+Exile your hand, then draw three cards.
+7R God
+Cast any number of cards exiled with Zihuo without paying their mana costs.</text>
+</card>
+<card>
+ <name>Provincial Herbalist</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Lizard Druid </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add one mana of any color.
+2G: Provincial Herbalist gains deathtouch until end of turn.</text>
+</card>
+<card>
+ <name>Warren Wardens</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Rabbit Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature enters the battlefield under your control for the second time each turn, you may put a +1/+1 counter on Warren Wardens.</text>
+</card>
+<card>
+ <name>Keeper of Pearls</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Turtle Monk </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Keeper of Pearls enters the battlefield or a creature scavenges it, you gain 2 life.
+Scavenge 1G (1G, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Paomar Greatheart</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Bear Warrior </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Paomar Greatheart attacks, put a trample counter on target attacking creature in its pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Tender Qudoi</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Plant Octopus </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+When a creature scavenges Tender Qudoi, put a reach counter on that creature.
+Scavenge 3G (3G, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Lotus Lasher</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Plant Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Lotus Lasher enters the battlefield, create a colorless artifact token named Lotus Petal with “T, Sacrifice this artifact: Add one mana of any color.”
+1, Sacrifice an artifact or another creature: Put a +1/+1 counter on Lotus Lasher. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Wildershrine Elder</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Rhino Monk </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Wildershrine Elder can’t be blocked by creatures with power less than or equal to the number of creatures in its pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Jade Empire Cartographer</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Panda Bear Scout </type>
+ <pt>4/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Jade Empire Cartographer enters the battlefield, choose one —
+• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+• Put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Rootbound Snapdragon</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Plant Dragon </type>
+ <pt>3/6</pt>
+ <tablerow>2</tablerow>
+ <text>1G, Discard Rootbound Snapdragon: Create a tapped colorless artifact token named Lotus Petal with “T, Sacrifice this artifact: Add one mana of any color.”
+Scavenge 4G (4G, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Aerie Bell-Warden</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Goat Monk </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Aerie Bell-Warden enters the battlefield, if it’s in a pack, you gain 5 life. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Pilgrim's Vantage</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+When Pilgrim’s Vantage enters the battlefield, you may put a +1/+1 counter on target creature.
+Enchanted land has “T: Add two mana of different colors.”</text>
+</card>
+<card>
+ <name>Will of the Wilds</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Target creature gets +1/+1 until end of turn for each creature you control.
+• Creatures you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>On the Hunt</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Create two 1/1 red Fox Archer creature tokens with reach.
+• On the Hunt deals 5 damage to target creature with flying.</text>
+</card>
+<card>
+ <name>Filial Piety</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Return target permanent card from your graveyard to your hand.
+• Destroy target artifact or enchantment.</text>
+</card>
+<card>
+ <name>Tranquil Repose</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Prevent all combat damage that would be dealt this turn.
+Draw a card.</text>
+</card>
+<card>
+ <name>Syndicate Dealings</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Put a +1/+1 counter on each creature you control.
+3 | Those creatures gain deathtouch until end of turn.</text>
+</card>
+<card>
+ <name>Setting Sun Strike</name>
+ <set rarity="common">PAX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Target creature you control deals damage equal to its power to target creature or planeswalker.
+3 | Draw a card.</text>
+</card>
+<card>
+ <name>Ceremonial Combat</name>
+ <set rarity="uncommon">PAX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control and each other creature in its pack deal damage equal to their power to target creature or planeswalker. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Sage of Circular Motion</name>
+ <set rarity="uncommon">PAX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Ox Monk </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature in Sage of Circular Motion’s pack becomes the target of a spell, draw a card. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Bearer of Civilization</name>
+ <set rarity="uncommon">PAX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Turtle </type>
+ <pt>5/6</pt>
+ <tablerow>2</tablerow>
+ <text>Bearer of Civilization enters the battlefield tapped.
+Bearer of Civilization doesn’t untap during your untap step unless it’s in a pack. (Two or more creatures you control with equal power are in a pack.)
+Creature spells you cast cost 1 less to cast.</text>
+</card>
+<card>
+ <name>Kinsang Spiritualist</name>
+ <set rarity="uncommon">PAX</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Insect Monk </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>If one or more counters would be put on another creature you control, you may instead put those counters on that creature and on Kinsang Spiritualist.
+Scavenge 4G (4G, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Leafguard Larva</name>
+ <set rarity="uncommon">PAX</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Insect </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When a creature scavenges Leafguard Larva, return target card from your graveyard to your hand.
+Scavenge 3G (3G, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Awaken Ancestry</name>
+ <set rarity="uncommon">PAX</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | For each permanent type, return a card of that type from your graveyard to your hand. Exile Awaken Ancestry.
+5 | Return an instant card and a sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Jiu Tou, Coil of Longevity</name>
+ <set rarity="uncommon">PAX</set>
+ <color>G</color>
+ <manacost>XG</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Creature - Insect Spirit </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+Jiu Tou enters the battlefield with X +1/+1 counters on it.
+3G: Demigod
+You gain life equal to the greatest power among creatures you control.
+5G: God
+Put a number of +1/+1 counters on another target creature equal to the difference between its and Jiu Tou’s powers.</text>
+</card>
+<card>
+ <name>Lian Taizi, Bounty of Blossoms</name>
+ <set rarity="mythic">PAX</set>
+ <color>G</color>
+ <manacost>6G</manacost>
+ <cmc>7</cmc>
+ <type>Legendary Creature - Dragon </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>2G, Reveal Lian Taizi from your hand: If you control no lands named Lotus Lake, create a tapped colorless land token named Lotus Lake with “T: Add one mana of any color.”
+WUBRG: You draw three cards and gain 3 life. </text>
+</card>
+<card>
+ <name>Terramorphic Cradle</name>
+ <set rarity="rare">PAX</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Wuxing (Add effects based on the number of colors of mana spent to cast this spell.)
+1 | Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.
+5 | Create an X/X green Elemental creature token, where X is the number of differently named lands you control.</text>
+</card>
+<card>
+ <name>Pilgrim of Zunhao's Climb</name>
+ <set rarity="common">PAX</set>
+ <color>WU</color>
+ <manacost>1W/U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Cat Monk </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Pilgrim of Zunhao’s Climb blocks a creature, that creature doesn’t untap during its controller’s next untap step.</text>
+</card>
+<card>
+ <name>Stalker in the Mist</name>
+ <set rarity="common">PAX</set>
+ <color>UB</color>
+ <manacost>1U/B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Monkey Spirit </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Stalker in the Mist enters the battlefield, up to one target creature gets -2/-0 until end of turn.</text>
+</card>
+<card>
+ <name>Apostle of the Blood Moon</name>
+ <set rarity="common">PAX</set>
+ <color>BR</color>
+ <manacost>3B/R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Apostle of the Blood Moon becomes blocked by a creature, Apostle of the Blood Moon deals 1 damage to that creature.</text>
+</card>
+<card>
+ <name>Alluring Jadehart</name>
+ <set rarity="common">PAX</set>
+ <color>RG</color>
+ <manacost>4R/G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elk Spirit </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Alluring Jadehart must be blocked if able.</text>
+</card>
+<card>
+ <name>Mid-Autumn Celebrants</name>
+ <set rarity="common">PAX</set>
+ <color>WG</color>
+ <manacost>3G/W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When Mid-Autumn Celebrants enters the battlefield, create a 2/2 white Panda Monk creature token with vigilance.</text>
+</card>
+<card>
+ <name>Vindictive Fugitive</name>
+ <set rarity="common">PAX</set>
+ <color>WB</color>
+ <manacost>2W/B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Ferret Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Vindictive Fugitive enters the battlefield, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.</text>
+</card>
+<card>
+ <name>Lotus Wastes Caretaker</name>
+ <set rarity="common">PAX</set>
+ <color>BG</color>
+ <manacost>B/G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Cat Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Lotus Wastes Caretaker dies, mill four cards, then return a land card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Ancient of Lotus Lake</name>
+ <set rarity="common">PAX</set>
+ <color>UG</color>
+ <manacost>5G/U</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Dragon </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 2
+When Ancient of Lotus Lake enters the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Monastery Scribe</name>
+ <set rarity="common">PAX</set>
+ <color>UR</color>
+ <manacost>3U/R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Fox Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Monastery Scribe enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Crackling Palm Ascetic</name>
+ <set rarity="common">PAX</set>
+ <color>WR</color>
+ <manacost>1R/W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Mouse Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Crackling Palm Ascetic enters the battlefield, target creature gains double strike until end of turn.</text>
+</card>
+<card>
+ <name>Crystalcatcher</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WU</color>
+ <manacost>W/U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Bird Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Sacrifice Crystalcatcher: Counter target permanent spell unless its controller pays 1.</text>
+</card>
+<card>
+ <name>Stolen Stratagem</name>
+ <set rarity="uncommon">PAX</set>
+ <color>UB</color>
+ <manacost>U/B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at target opponent’s hand. You may cast a card from that player’s hand or graveyard, and you may spend mana as though it were of any type to cast that card. If you cast a card from that player’s hand this way, that player draws a card.</text>
+</card>
+<card>
+ <name>Sun King's Gambit</name>
+ <set rarity="uncommon">PAX</set>
+ <color>BR</color>
+ <manacost>B/R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, discard a card.
+Draw two cards unless any opponent discards two cards.</text>
+</card>
+<card>
+ <name>Wildershrine Warden</name>
+ <set rarity="uncommon">PAX</set>
+ <color>RG</color>
+ <manacost>1R/G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bear Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>2R/G: Wildershrine Warden gets +2/+2 until end of turn. You may have it assign its combat damage this turn as though it weren’t blocked. Activate this ability only once each turn.</text>
+</card>
+<card>
+ <name>Karmic Exorcist</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WG</color>
+ <manacost>G/W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Ox Monk </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast your first creature spell each turn, you may pay 1. If you do, create a 1/1 black Spirit creature token.</text>
+</card>
+<card>
+ <name>Through the Divine Gate</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WB</color>
+ <manacost>XW/B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each player sacrifices a creature with mana value X or greater.
+Return up to one target creature card with mana value X or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Skittering Yaoguai</name>
+ <set rarity="uncommon">PAX</set>
+ <color>BG</color>
+ <manacost>1B/G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spider Spirit </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Whenever another creature you control dies, surveil 1.
+T, Sacrifice a non-Spider creature: Create a 1/2 green Spider creature with reach.</text>
+</card>
+<card>
+ <name>Quiet Reflection</name>
+ <set rarity="uncommon">PAX</set>
+ <color>UG</color>
+ <manacost>1G/U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Mill three cards, then draw a card. When you do, choose up to three target cards in graveyards. The owners of those cards shuffle them into their libraries.</text>
+</card>
+<card>
+ <name>Mystic Duality</name>
+ <set rarity="uncommon">PAX</set>
+ <color>UR</color>
+ <manacost>2U/R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create a token that’s a copy of target creature, except its power and toughness are switched. Sacrifice that token at the beginning of your next end step.</text>
+</card>
+<card>
+ <name>Pivot-Fist Meditant</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WR</color>
+ <manacost>2R/W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Pivot-Fist Meditant enters the battlefield, choose a creature you control. Whenever that creature is dealt damage this turn, it deals that much damage to any other target.</text>
+</card>
+<card>
+ <name>Cranes of Bryn Argoll</name>
+ <set rarity="rare">PAX</set>
+ <color>WU</color>
+ <manacost>2W/UW/U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bird </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+If a source would deal damage to Cranes of Bryn Argoll, prevent that damage. The source’s controller creates a 1/1 blue Bird creature token with flying for each 1 damage prevented this way.</text>
+</card>
+<card>
+ <name>Doyen of Balance</name>
+ <set rarity="rare">PAX</set>
+ <color>RG</color>
+ <manacost>1R/GR/G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Doyen of Balance enters the battlefield, discard a card. If you discarded a creature card, draw a card. If you discarded a land card, add three mana in any combination of colors. Otherwise, Doyen of Balance gains haste.</text>
+</card>
+<card>
+ <name>Belltoll Lookout</name>
+ <set rarity="rare">PAX</set>
+ <color>WG</color>
+ <manacost>1G/W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Wolf Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>You may look at the top card of your library any time.
+Whenever you cast a creature spell from your hand, you may cast the top card of your library without paying its mana cost if it’s a creature card with lesser mana value.</text>
+</card>
+<card>
+ <name>Gau Ding Souleater</name>
+ <set rarity="rare">PAX</set>
+ <color>WB</color>
+ <manacost>W/B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Gau Ding Souleater can’t block.
+When Gau Ding Souleater dies, you may search your library for a card named Gau Ding Souleater, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Shu Qin the Charmer</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WUB</color>
+ <manacost>U/BW</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Bird Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Shu Qin enters the battlefield with your choice of a flying or +1/+1 counter on him.
+At the beginning of your upkeep, choose a creature in Shu Qin’s pack. He gains that creature’s abilities until end of turn. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Jinyu Mirror-Blade</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WUR</color>
+ <manacost>1U/RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Lizard Monk </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Jinyu Mirror-Blade enters the battlefield, you may exchange its base power with another target creature’s base power until either leave the battlefield.</text>
+</card>
+<card>
+ <name>Undying Remorse</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WBG</color>
+ <manacost>2B/GW</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Mill four cards, then return any number of creature cards with total mana value 4 or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Shi Hou's Divine Furor</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WRG</color>
+ <manacost>R/GW</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gains lifelink until end of turn. It deals damage equal to its power to target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Tales of Grandeur and Ruin</name>
+ <set rarity="uncommon">PAX</set>
+ <color>UBR</color>
+ <manacost>3B/RU</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target instant or sorcery card from your graveyard to your hand. Tales of Grandeur and Ruin deals damage to up to one target creature or planeswalker equal to that card’s mana value.
+Exile Tales of Grandeur and Ruin.</text>
+</card>
+<card>
+ <name>Spiritual Binding</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WUB</color>
+ <manacost>1W/BU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. If that spell is countered this way, exile it and each card in its controller’s graveyard.</text>
+</card>
+<card>
+ <name>Taifeng Cartographer</name>
+ <set rarity="uncommon">PAX</set>
+ <color>URG</color>
+ <manacost>R/GU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Scout </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Taifeng Cartographer attacks, add one mana of any color. Until end of turn, you don’t lose this mana as steps and phases end.</text>
+</card>
+<card>
+ <name>Cascading Zhenzu</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WUG</color>
+ <manacost>2G/WU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Fish Dragon </type>
+ <pt>5/1</pt>
+ <tablerow>2</tablerow>
+ <text>If a source would deal damage to a creature in Cascading Zhenzu’s pack, prevent 1 of that damage. (Two or more creatures you control with equal power are in a pack.)
+U: You may switch Cascading Zhenzu’s base power and toughness until end of turn.</text>
+</card>
+<card>
+ <name>Inciter of Spirits Scorned</name>
+ <set rarity="uncommon">PAX</set>
+ <color>BRG</color>
+ <manacost>2R/GB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Goat Shaman </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Inciter of Spirits Scorned enters the battlefield, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of the next end step unless it attacked this turn.</text>
+</card>
+<card>
+ <name>Quan Li, the Ghost Fang</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WBR</color>
+ <manacost>1R/WB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Hound Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Quan Li, the Ghost Fang enters the battlefield with your choice of a deathtouch or +1/+1 counter on him.
+Once each turn, whenever a creature in Quan Li’s pack dies, create a 1/1 black Spirit creature token. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Liturgy of the Nameless</name>
+ <set rarity="uncommon">PAX</set>
+ <color>UBR</color>
+ <manacost>U/RB</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature or planeswalker. Its controller may cast a card from their hand with lesser mana value without paying its mana cost.</text>
+</card>
+<card>
+ <name>Fallen Dynasty Jailer</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WUB</color>
+ <manacost>W/UB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Mouse Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Fallen Dynasty Jailer enters the battlefield, target opponent exiles a card from their hand.
+When Fallen Dynasty Jailer leaves the battlefield, the exiled card’s owner puts it on the top or bottom of their library.</text>
+</card>
+<card>
+ <name>Qi-Long Gust</name>
+ <set rarity="uncommon">PAX</set>
+ <color>URG</color>
+ <manacost>G/UR</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Qi-Long Gust deals 3 damage to any target.
+• You and permanents you control gain hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Mianju, Taker of Names</name>
+ <set rarity="uncommon">PAX</set>
+ <color>BRG</color>
+ <manacost>1B/GR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Wolf Spirit </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Mianju enters the battlefield with your choice of a menace or +1/+1 counter on them.
+Whenever two or more creatures in Mianju’s pack attack, mill three cards, then return a creature card from your graveyard to your hand. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Rising Sun Ascetic</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WUR</color>
+ <manacost>W/UR</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Rabbit Monk </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Tap target creature. Rising Sun Ascetic deals 1 damage to that creature’s controller.</text>
+</card>
+<card>
+ <name>Aspect of Divinity</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WBR</color>
+ <manacost>1W/BR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Phoenix </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Aspect of Divinity dies, create a 0/2 red Egg creature token with “When this creature dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.”</text>
+</card>
+<card>
+ <name>Natural Reclamation</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WBG</color>
+ <manacost>W/BG</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a basic land reveal it, put it into your hand, then shuffle. Each opponent sacrifices a permanent that shares a color with  mana that land could produce.</text>
+</card>
+<card>
+ <name>Polarity Sage</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WRG</color>
+ <manacost>2R/WG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Cat Monk </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Excess damage Polarity Sage would deal to an attacking creature is dealt to that creature’s controller instead.</text>
+</card>
+<card>
+ <name>Far-Off Wanderer</name>
+ <set rarity="uncommon">PAX</set>
+ <color>UBG</color>
+ <manacost>1U/BG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Monk </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Far-Off Wanderer enters the battlefield, search target opponent’s library for a land card, put it onto the battlefield tapped under your control, then that player shuffles.</text>
+</card>
+<card>
+ <name>Lazhu, Whisperflame Seer</name>
+ <set rarity="uncommon">PAX</set>
+ <color>URG</color>
+ <manacost>3U/RG</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Lizard Shaman </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Lazhu, Whisperflame Seer enters the battlefield with your choice of a trample or +1/+1 counter on him.
+Whenever a creature in Lazhu’s pack deals damage to a player, draw a card. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Imperial Liberator</name>
+ <set rarity="rare">PAX</set>
+ <color>WBR</color>
+ <manacost>B/RW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Cat Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Each player can’t untap more than one nonbasic land during each of their untap steps unless they sacrifice a land.</text>
+</card>
+<card>
+ <name>Ancient of Bleeding Torrents</name>
+ <set rarity="rare">PAX</set>
+ <color>UBG</color>
+ <manacost>3B/GU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Dragon Fish </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Ancient of Bleeding Torrents enters the battlefield or attacks, you may sacrifice another creature. If you do, search your library for an instant or sorcery card with mana value equal to or less than the sacrificed creature’s and cast it without paying its mana cost, then shuffle.</text>
+</card>
+<card>
+ <name>Celestial Banishment</name>
+ <set rarity="rare">PAX</set>
+ <color>UBG</color>
+ <manacost>G/UB</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target activated or triggered ability. If an ability of a creature or planeswalker was countered this way, destroy that permanent.</text>
+</card>
+<card>
+ <name>Adaptive Stance</name>
+ <set rarity="rare">PAX</set>
+ <color>WRG</color>
+ <manacost>1G/WR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a creature card with mana value 3 or less, put it onto the battlefield, then shuffle. It gains haste until end of turn. Return it to your hand at the beginning of the end step.</text>
+</card>
+<card>
+ <name>Siege of the Heavens</name>
+ <set rarity="rare">PAX</set>
+ <color>UBR</color>
+ <manacost>2U/BR</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target nonland permanent an opponent controls. Its owner reveals cards from the top of their library until they reveal a card that shares a type with that permanent, then puts it onto the battlefield and shuffles.</text>
+</card>
+<card>
+ <name>Forebear of Hibernation</name>
+ <set rarity="rare">PAX</set>
+ <color>WUG</color>
+ <manacost>W/UG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Forebear of Hibernation enters the battlefield, each player may search their library for a creature card, reveal it, put it into their hand, then shuffle. Then you choose a creature card name.
+Your opponents can’t cast spells with the chosen name.</text>
+</card>
+<card>
+ <name>Warden of the Divine Court</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WU</color>
+ <manacost>WU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird Soldier </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Warden of the Divine Court attacks, creatures in its pack get +1/+1 until end of turn. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Heaven's End Chronicler</name>
+ <set rarity="uncommon">PAX</set>
+ <color>UB</color>
+ <manacost>3UB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Dragon </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Heaven’s End Chronicler enters the battlefield, mill three cards, then choose three cards in your graveyard. An opponent separates them into two piles. Return one pile to your hand.</text>
+</card>
+<card>
+ <name>Balefire Harbinger</name>
+ <set rarity="uncommon">PAX</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Wolf </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+As long as Balefire Harbinger is attacking, creatures in its pack can’t be blocked unless defending player pays 1 and 1 life for each creature they control that’s blocking one of those creatures. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Paomar Primus</name>
+ <set rarity="uncommon">PAX</set>
+ <color>RG</color>
+ <manacost>2RG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bear Shaman </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Creatures in Paomar Primus’s pack can’t be blocked by more than one creature. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Tavern Tandem</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Mouse Bard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Tavern Tandem attacks, put a +1/+1 counter on any number of target creatures that entered the battlefield this turn.</text>
+</card>
+<card>
+ <name>Qi Harvester</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>1, Sacrifice another creature: Qi Harvester gains your choice of deathtouch or indestructible until end of turn. If the sacrificed creature was in Qi Harvester’s pack, draw a card. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Wet Markets Connoisseur</name>
+ <set rarity="uncommon">PAX</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Raccoon Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>T, Mill a card: Add B or G.
+Once each turn, when a creature you control dies or a creature card is put in your graveyard from anywhere other than the battlefield, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Fabled Chishou</name>
+ <set rarity="uncommon">PAX</set>
+ <color>UG</color>
+ <manacost>5GU</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Dragon Fish </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Fabled Chishou enters the battlefield, create a token that’s a copy of it, except it doesn’t have this ability.
+At the beginning of each end step, if Fabled Chishou isn’t in a pack, sacrifice it. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Lustrebloom Diviner</name>
+ <set rarity="uncommon">PAX</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Bear Monk </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Lustrebloom Diviner enters the battlefield, create a colorless artifact token named Lotus Petal with “T, Sacrifice this artifact: Add one mana of any color.”
+At the beginning of each end step, if you spent three or more colors of mana on spells this turn, you gain 3 life. If you spent WUBRG, draw a card.</text>
+</card>
+<card>
+ <name>August Sunbird</name>
+ <set rarity="uncommon">PAX</set>
+ <color>WR</color>
+ <manacost>2RW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Phoenix </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever August Sunbird attacks, create a token that’s a copy of another target creature you control, except it has base power and toughness 1/1, and it’s tapped and attacking. Sacrifice it at end of turn.</text>
+</card>
+<card>
+ <name>Diviner of the Mists</name>
+ <set rarity="rare">PAX</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Diviner of the Mists enters the battlefield, target opponent chooses two cards in their hand and reveals one of them. Exile one of those cards. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast it.</text>
+</card>
+<card>
+ <name>Lay Bare Ambitions</name>
+ <set rarity="rare">PAX</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent reveals their hand. Choose a nonland card from it. That player discards that card and can’t draw more than one card this turn.</text>
+</card>
+<card>
+ <name>Herald of Mid-Autumn</name>
+ <set rarity="rare">PAX</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Panda Bear Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Herald of Mid-Autumn enters the battlefield, choose one —
+• Put a double strike counter on Herald of Mid-Autumn.
+• Destroy target artifact or enchantment.
+• Herald of Mid-Autumn deals 2 damage to target tapped creature.</text>
+</card>
+<card>
+ <name>Jade Sentinel</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Elemental </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Put a +1/+1 counter on Jade Sentinel. Activate only if you control a creature with greater power.</text>
+</card>
+<card>
+ <name>Pandabot</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Artifact Creature - Panda Golem </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast for each creature you control that’s in a pack. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Prophetic Prism</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Prophetic Prism enters the battlefield, draw a card.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Jade Counterweight</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Jade Counterweight enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +1/+1.
+Equip 1</text>
+</card>
+<card>
+ <name>Heaven's Gate Guardian</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Dragon </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>1: Heaven’s Gate Guardian gets +1/-1 or -1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Idol of Blossoms</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color.
+X: Idol of Blossoms becomes an Elemental artifact creature with base power and toughness X/X until end of turn. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Pinnacle of Purity</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Target player exiles a card from their graveyard.
+1, Exile Pinnacle of Purity: Exile all cards from all graveyards. Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Opalescent Heirloom</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost>X</manacost>
+ <cmc>0</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Opalescent Heirloom enters the battlefield with a charge counter on it for each color of mana spent to cast it.
+Equipped creature gets +1/+1 for each charge counter on Opalescent Heirloom.
+Equip—3 or remove a charge counter from Opalescent Heirloom.</text>
+</card>
+<card>
+ <name>Rice Field Thresher</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When a creature scavenges Rice Field Thresher, search your library for a colorless card, reveal it, put it into your hand, then shuffle.
+Scavenge 2 (2, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Yi Cang, Thief of Blessings</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Creature - Shapeshifter Monk </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Yi Cang, Thief of Blessings enters the battlefield with a +1/+1 counter on it.
+X: Yi Cang becomes a copy of target creature in its pack, except its name is Yi Cang, Thief of Blessings, it’s legendary in addition to its other types, and it has this ability. X is its power. (Two or more creatures you control with equal power are in a pack.)</text>
+</card>
+<card>
+ <name>Taifeng Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Taifeng Shrine enters the battlefield tapped.
+T: Add W or U.
+W/U, T, Sacrifice Taifeng Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Hozen Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Hozen Shrine enters the battlefield tapped.
+T: Add U or B.
+U/B, T, Sacrifice Hozen Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Shoupan Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Shoupan Shrine enters the battlefield tapped.
+T: Add B or R.
+B/R, T, Sacrifice Shoupan Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Paomar Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Paomar Shrine enters the battlefield tapped.
+T: Add R or G.
+R/G, T, Sacrifice Paomar Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Guang Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Guang Shrine enters the battlefield tapped.
+T: Add G or W.
+G/W, T, Sacrifice Guang Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Lieshi Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Lieshi Shrine enters the battlefield tapped.
+T: Add W or B.
+W/B, T, Sacrifice Lieshi Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Kinsang Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Kinsang Shrine enters the battlefield tapped.
+T: Add B or G.
+B/G, T, Sacrifice Kinsang Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Laiyru Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Laiyru Shrine enters the battlefield tapped.
+T: Add G or U.
+G/U, T, Sacrifice Laiyru Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Qi-Long Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Qi-Long Shrine enters the battlefield tapped.
+T: Add U or R.
+U/R, T, Sacrifice Qi-Long Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Huolin Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Huolin Shrine enters the battlefield tapped.
+T: Add R or W.
+R/W, T, Sacrifice Huolin Shrine: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Wayfarer's Shrine</name>
+ <set rarity="common">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Lotus Barrens</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2, T, Sacrifice Lotus Barrens: Destroy target nonbasic land. Each player creates a tapped land token named Lotus Meadow with “T: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Eminent Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add W or U. You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Premonitory Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add U or B. You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Forbidden Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add B or R. You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Montane Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add R or G. You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Concordant Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add G or W.  You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Eidolic Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add W or B. You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Forsaken Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add B or G. You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Serene Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add G or U. You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Opalescent Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add U or R. You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Radiant Palace</name>
+ <set rarity="uncommon">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add R or W. You lose 1 life unless you control a basic land that could produce that color of mana.</text>
+</card>
+<card>
+ <name>Lonely Aerie</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Lonely Aerie enters the battlefield tapped.
+T: Add W or U
+3WU: Lonely Aerie becomes a Bird creature in addition to its other types and gains flying. When it does, exile up to one target nonland permanent until Lonely Aerie leaves the battlefield</text>
+</card>
+<card>
+ <name>Treacherous Oasis</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Treacherous Oasis enters the battlefield tapped.
+T: Add U or B.</text>
+</card>
+<card>
+ <name>Rapacious Hollow</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Rapacious Hollow enters the battlefield tapped.
+T: Add B or R.</text>
+</card>
+<card>
+ <name>Grizzled Den</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Grizzled Den enters the battlefield tapped.
+T: Add R or G.</text>
+</card>
+<card>
+ <name>Pride Ridge</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Pride Ridge enters the battlefield tapped.
+T: Add G or W.</text>
+</card>
+<card>
+ <name>Scrounging Dunes</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Scrounging Dunes enters the battlefield tapped.
+T: Add W or B.</text>
+</card>
+<card>
+ <name>Reclusive Copse</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Reclusive Copse enters the battlefield tapped.
+T: Add B or G.</text>
+</card>
+<card>
+ <name>Overgrown Enclave</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Overgrown Enclave enters the battlefield tapped.
+T: Add G or U.</text>
+</card>
+<card>
+ <name>Spined Spire</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Spined Spire enters the battlefield tapped.
+T: Add U or R.</text>
+</card>
+<card>
+ <name>Vulpine Bluffs</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Animus </type>
+ <tablerow>0</tablerow>
+ <text>Vulpine Bluffs enters the battlefield tapped.
+T: Add R or W.</text>
+</card>
+<card>
+ <name>Spirit Blossom Shrine</name>
+ <set rarity="rare">PAX</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add one mana of any color among creatures you control.
+X: Spirit Blossom Shrine becomes an X/X Spirit creature until end of turn. It’s still a land. Activate only if you control a creature with power X.</text>
+</card>
+<card>
+ <name>Pi and Jiu, Botanic Elixirists</name>
+ <set rarity="mythic">PAX</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Panda Bear Monk </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>You may cast instant and sorcery cards from your graveyard. Spend no more than one mana of each color to cast spells this way each turn. If a spell cast this way would be put into your graveyard, exile it instead.</text>
+</card>
+<card>
+ <name>Shi Hou, the Sun King</name>
+ <set rarity="mythic" splitterPath="/Shi Hou, the Sun King.full.jpg" >PAX</set>
+ <color>BR</color>
+ <related attach="attach">Sun King's Shadow</related>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Monkey Monk </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>(Transcend once a turn as a sorcery to gain that type and a +1/+1 counter.)
+Ward—Discard a card.
+1BR Demigod
+Draw a card, then discard a card. Each opponent sacrifices a nonland permanent with the same mana value as the discarded card.
+5BR God
+Create two tokens that are transformed copies of Shi Hou.
+---
+(Back): Sun King's Shadow</text>
+</card>
+<card>
+ <name>Sun King's Shadow</name>
+ <set rarity="mythic" splitterPath="/Sun King's Shadow.full.jpg" >PAX</set>
+ <color>BR</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Planeswalker - Hou </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Each opponent loses 1 life for each card you’ve drawn this turn. Then you draw a card.
+[-1]: Choose a nonland card name. Target player reveals their hand and discards a card with that name.
+[-2]: Sun King’s Shadow deals 2 damage to target creature or planeswalker and you gain 2 life. If it was already dealt damage this turn, destroy it.
+---
+(Front): Shi Hou, the Sun King</text>
+</card>
+<card>
+ <name>Ajani Transcendent</name>
+ <set rarity="mythic">PAX</set>
+ <color>WUG</color>
+ <manacost>2G/UW</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Ajani </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>As long as Ajani Transcendent has an odd or even number of loyalty counters on him, he has protection from mana values of that quality. 
+[+1]: You gain 2 life. Untap up to two target lands.
+[0]: Any number of players may draw a card. For each opponent that does, draw a card.
+[-3]: Create a 4/4 white Avatar creature token with “This creature can’t attack unless you control an Ajani planeswalker.”
+</text>
+</card>
+<card>
+ <name>Feng Bao, Storm's Centre</name>
+ <set rarity="mythic">PAX</set>
+ <color>WUR</color>
+ <manacost>2R/WU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Bao </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Until your next turn, whenever up to one target creature or planeswalker deals damage to another permanent or player, it deals that much damage to itself.
+[-X]: When you cast your next spell this turn with mana value X or less, copy that spell. You may choose new targets for the copy.
+[-2]: Create an X/X blue Spirit creature token, where X is the number of colors of mana you’ve spent on spells this turn.
+</text>
+</card>
+<card>
+ <name>Wei Ji, Dawn and Dusk</name>
+ <set rarity="mythic">PAX</set>
+ <color>WBG</color>
+ <manacost>1G/WB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker - Ji </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Put a debt counter on up to one target nontoken creature. It gains “When this creature dies, return it to its owner’s hand.”
+[-1]: Target player discards a card. When they do, return a card with equal mana value from your graveyard to your hand.
+[-2]: You may sacrifice a creature. When you do, exile target nonland permanent.
+</text>
+</card>
+<card>
+ <name>Xiong Mao, the Enduring</name>
+ <set rarity="mythic">PAX</set>
+ <color>BRG</color>
+ <manacost>2B/RG</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Xiong Mao </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Create a 1/1 red Panda creature token with “T: Target player exiles a card from their graveyard.”
+[0]: You may sacrifice a creature. If you do, search your library for a creature and a land card, reveal them, put them into your hand, then shuffle.
+[-2]: Xiong Mao deals damage to target creature or planeswalker equal to the greatest power among creatures you control and cards in your graveyard.
+[-7]: Any number of players’ life totals each become equal to the number of cards in their graveyard.
+</text>
+</card>
+<card>
+ <name>Barx, Aspiring Archvillain</name>
+ <set rarity="mythic">PAX</set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Planeswalker - Barx </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>Protection from multicolored
+[+2]: Create a colorless artifact token named Mind Stone with “T: Add C” and “1, T, Sacrifice Mind Stone: Draw a card.”
+[-3]: Create Barxbot 9000, a 6/3 colorless legendary artifact creature token with “All damage that would be dealt to Barx planeswalkers you control is dealt to this creature instead.”
+[-12]: Exchange control of all permanents you and target player control that are one or more colors.
+</text>
+</card>
+
+<!-->Tokens</-->
+
+
+</cards>
+</cockatrice_carddatabase>
